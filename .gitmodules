@@ -1,0 +1,6 @@
+[submodule "all-us-states-databases"]
+	path = all-us-states-databases
+	url = https://github.com/MehreenZafar99/all-us-states-databases.git
+[submodule "excel-data"]
+	path = excel-data
+	url = https://github.com/MehreenZafar99/us-excel-data.git
