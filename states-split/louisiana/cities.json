@@ -1,0 +1,4199 @@
+[
+  {
+    "city": "Abbeville",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70510"
+    ],
+    "population": 11086
+  },
+  {
+    "city": "Abita Springs",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70420",
+      "70471"
+    ],
+    "population": 2669
+  },
+  {
+    "city": "Addis",
+    "county": "West Baton Rouge",
+    "zip_codes": [
+      "70710",
+      "70719"
+    ],
+    "population": 7052
+  },
+  {
+    "city": "Albany",
+    "county": "Livingston",
+    "zip_codes": [
+      "70403",
+      "70711"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Alexandria",
+    "county": "Rapides",
+    "zip_codes": [
+      "71301",
+      "71302",
+      "71303",
+      "71409"
+    ],
+    "population": 44566
+  },
+  {
+    "city": "Ama",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70031"
+    ],
+    "population": 1473
+  },
+  {
+    "city": "Amelia",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70340",
+      "70380"
+    ],
+    "population": 2161
+  },
+  {
+    "city": "Amite City",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70422"
+    ],
+    "population": 4036
+  },
+  {
+    "city": "Anacoco",
+    "county": "Vernon",
+    "zip_codes": [
+      "71403"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Angie",
+    "county": "Washington",
+    "zip_codes": [
+      "70426"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Arabi",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70032"
+    ],
+    "population": 4436
+  },
+  {
+    "city": "Arcadia",
+    "county": "Bienville",
+    "zip_codes": [
+      "71001"
+    ],
+    "population": 2682
+  },
+  {
+    "city": "Arnaudville",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70512"
+    ],
+    "population": 1518
+  },
+  {
+    "city": "Ashland",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71002",
+      "71070"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Athens",
+    "county": "Claiborne",
+    "zip_codes": [
+      "71003"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Atlanta",
+    "county": "Winn",
+    "zip_codes": [
+      "71404"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Avondale",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70094"
+    ],
+    "population": 5200
+  },
+  {
+    "city": "Baker",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70714",
+      "70807"
+    ],
+    "population": 12322
+  },
+  {
+    "city": "Baldwin",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70514",
+      "70538"
+    ],
+    "population": 1694
+  },
+  {
+    "city": "Ball",
+    "county": "Rapides",
+    "zip_codes": [
+      "71405"
+    ],
+    "population": 3900
+  },
+  {
+    "city": "Banks Springs",
+    "county": "Caldwell",
+    "zip_codes": [
+      "71418"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "Barataria",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70036"
+    ],
+    "population": 688
+  },
+  {
+    "city": "Basile",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70515"
+    ],
+    "population": 2096
+  },
+  {
+    "city": "Baskin",
+    "county": "Franklin",
+    "zip_codes": [
+      "71219",
+      "71295"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Bastrop",
+    "county": "Morehouse",
+    "zip_codes": [
+      "71220"
+    ],
+    "population": 9408
+  },
+  {
+    "city": "Baton Rouge",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70801",
+      "70802",
+      "70803",
+      "70805",
+      "70806",
+      "70807",
+      "70808",
+      "70809",
+      "70810",
+      "70811",
+      "70812",
+      "70813",
+      "70814",
+      "70815",
+      "70816",
+      "70819",
+      "70820",
+      "70825",
+      "70836"
+    ],
+    "population": 223699
+  },
+  {
+    "city": "Bawcomville",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71292"
+    ],
+    "population": 2635
+  },
+  {
+    "city": "Bayou Blue",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301",
+      "70359",
+      "70364"
+    ],
+    "population": 11218
+  },
+  {
+    "city": "Bayou Cane",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70360",
+      "70364"
+    ],
+    "population": 22143
+  },
+  {
+    "city": "Bayou Corne",
+    "county": "Assumption",
+    "zip_codes": [
+      "70341"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Bayou Country Club",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "Bayou Gauche",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70030",
+      "70080"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Bayou Goula",
+    "county": "Iberville",
+    "zip_codes": [
+      "70788"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Bayou L'Ourse",
+    "county": "Assumption",
+    "zip_codes": [
+      "70380"
+    ],
+    "population": 2197
+  },
+  {
+    "city": "Bayou Vista",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70380"
+    ],
+    "population": 3931
+  },
+  {
+    "city": "Belcher",
+    "county": "Caddo",
+    "zip_codes": [
+      "71004"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Belle Chasse",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70037"
+    ],
+    "population": 11046
+  },
+  {
+    "city": "Belle Rose",
+    "county": "Assumption",
+    "zip_codes": [
+      "70341",
+      "70346"
+    ],
+    "population": 1574
+  },
+  {
+    "city": "Belmont",
+    "county": "Sabine",
+    "zip_codes": [
+      "71065",
+      "71406",
+      "71450",
+      "71486"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Benton",
+    "county": "Bossier",
+    "zip_codes": [
+      "71006"
+    ],
+    "population": 2408
+  },
+  {
+    "city": "Bernice",
+    "county": "Union",
+    "zip_codes": [
+      "71222"
+    ],
+    "population": 1170
+  },
+  {
+    "city": "Berwick",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70342",
+      "70380"
+    ],
+    "population": 4680
+  },
+  {
+    "city": "Bienville",
+    "county": "Bienville",
+    "zip_codes": [
+      "71008"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Blanchard",
+    "county": "Caddo",
+    "zip_codes": [
+      "71009",
+      "71107"
+    ],
+    "population": 3452
+  },
+  {
+    "city": "Bogalusa",
+    "county": "Washington",
+    "zip_codes": [
+      "70427"
+    ],
+    "population": 10539
+  },
+  {
+    "city": "Bonita",
+    "county": "Morehouse",
+    "zip_codes": [
+      "71223"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Boothville",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70038",
+      "70041"
+    ],
+    "population": 481
+  },
+  {
+    "city": "Bordelonville",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71355"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Bossier City",
+    "county": "Bossier",
+    "zip_codes": [
+      "71110",
+      "71111",
+      "71112"
+    ],
+    "population": 62832
+  },
+  {
+    "city": "Bourg",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70343"
+    ],
+    "population": 2386
+  },
+  {
+    "city": "Boutte",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70030",
+      "70039",
+      "70070",
+      "70080"
+    ],
+    "population": 2283
+  },
+  {
+    "city": "Boyce",
+    "county": "Rapides",
+    "zip_codes": [
+      "71409"
+    ],
+    "population": 1295
+  },
+  {
+    "city": "Branch",
+    "county": "Acadia",
+    "zip_codes": [
+      "70516"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Breaux Bridge",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70517"
+    ],
+    "population": 7497
+  },
+  {
+    "city": "Bridge City",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70094"
+    ],
+    "population": 7258
+  },
+  {
+    "city": "Broussard",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70508",
+      "70517",
+      "70518",
+      "70592"
+    ],
+    "population": 13791
+  },
+  {
+    "city": "Brownfields",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70811"
+    ],
+    "population": 5263
+  },
+  {
+    "city": "Brownsville",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71292"
+    ],
+    "population": 3996
+  },
+  {
+    "city": "Brusly",
+    "county": "West Baton Rouge",
+    "zip_codes": [
+      "70719",
+      "70767"
+    ],
+    "population": 2592
+  },
+  {
+    "city": "Bryceland",
+    "county": "Bienville",
+    "zip_codes": [
+      "71008",
+      "71028"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Bunkie",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71322"
+    ],
+    "population": 3299
+  },
+  {
+    "city": "Buras",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70041"
+    ],
+    "population": 757
+  },
+  {
+    "city": "Cade",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70518",
+      "70519",
+      "70560",
+      "70582"
+    ],
+    "population": 1775
+  },
+  {
+    "city": "Calhoun",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71225"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Calvin",
+    "county": "Winn",
+    "zip_codes": [
+      "71410",
+      "71483"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Cameron",
+    "county": "Cameron",
+    "zip_codes": [
+      "70631"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Campti",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71411"
+    ],
+    "population": 991
+  },
+  {
+    "city": "Cankton",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70584"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Carencro",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70507",
+      "70520"
+    ],
+    "population": 10882
+  },
+  {
+    "city": "Carlyss",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70665"
+    ],
+    "population": 5184
+  },
+  {
+    "city": "Castor",
+    "county": "Bienville",
+    "zip_codes": [
+      "71016"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Catahoula",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70582"
+    ],
+    "population": 412
+  },
+  {
+    "city": "Cecilia",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70512",
+      "70517"
+    ],
+    "population": 1517
+  },
+  {
+    "city": "Center Point",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71323"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Centerville",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70522",
+      "70538"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Central",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70714",
+      "70739",
+      "70770",
+      "70791",
+      "70818",
+      "70819"
+    ],
+    "population": 29603
+  },
+  {
+    "city": "Chackbay",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301"
+    ],
+    "population": 5287
+  },
+  {
+    "city": "Chalmette",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70032",
+      "70043"
+    ],
+    "population": 22447
+  },
+  {
+    "city": "Charenton",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70514",
+      "70523",
+      "70538",
+      "70544"
+    ],
+    "population": 1295
+  },
+  {
+    "city": "Chataignier",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70524",
+      "70586"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Chatham",
+    "county": "Jackson",
+    "zip_codes": [
+      "71226",
+      "71238"
+    ],
+    "population": 678
+  },
+  {
+    "city": "Chauvin",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70344"
+    ],
+    "population": 2531
+  },
+  {
+    "city": "Cheneyville",
+    "county": "Rapides",
+    "zip_codes": [
+      "71325"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Choctaw",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Choudrant",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71227",
+      "71270"
+    ],
+    "population": 1382
+  },
+  {
+    "city": "Church Point",
+    "county": "Acadia",
+    "zip_codes": [
+      "70525"
+    ],
+    "population": 4133
+  },
+  {
+    "city": "Claiborne",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71291"
+    ],
+    "population": 12647
+  },
+  {
+    "city": "Clarence",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71414",
+      "71457"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Clarks",
+    "county": "Caldwell",
+    "zip_codes": [
+      "71415",
+      "71435"
+    ],
+    "population": 708
+  },
+  {
+    "city": "Clayton",
+    "county": "Concordia",
+    "zip_codes": [
+      "71326",
+      "71334"
+    ],
+    "population": 385
+  },
+  {
+    "city": "Clinton",
+    "county": "East Feliciana",
+    "zip_codes": [
+      "70722"
+    ],
+    "population": 1100
+  },
+  {
+    "city": "Colfax",
+    "county": "Grant",
+    "zip_codes": [
+      "71417"
+    ],
+    "population": 1442
+  },
+  {
+    "city": "Collinston",
+    "county": "Morehouse",
+    "zip_codes": [
+      "71220",
+      "71229"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Columbia",
+    "county": "Caldwell",
+    "zip_codes": [
+      "71418"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Convent",
+    "county": "St. James",
+    "zip_codes": [
+      "70723"
+    ],
+    "population": 615
+  },
+  {
+    "city": "Converse",
+    "county": "Sabine",
+    "zip_codes": [
+      "71419"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Cotton Valley",
+    "county": "Webster",
+    "zip_codes": [
+      "71018"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Cottonport",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71327"
+    ],
+    "population": 1777
+  },
+  {
+    "city": "Coushatta",
+    "county": "Red River",
+    "zip_codes": [
+      "71019"
+    ],
+    "population": 1945
+  },
+  {
+    "city": "Covington",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70433",
+      "70435"
+    ],
+    "population": 11568
+  },
+  {
+    "city": "Creola",
+    "county": "Grant",
+    "zip_codes": [
+      "71423"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Crescent",
+    "county": "Iberville",
+    "zip_codes": [
+      "70764"
+    ],
+    "population": 1121
+  },
+  {
+    "city": "Crowley",
+    "county": "Acadia",
+    "zip_codes": [
+      "70526"
+    ],
+    "population": 11554
+  },
+  {
+    "city": "Cullen",
+    "county": "Webster",
+    "zip_codes": [
+      "71021",
+      "71071",
+      "71075"
+    ],
+    "population": 704
+  },
+  {
+    "city": "Cut Off",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70345"
+    ],
+    "population": 5157
+  },
+  {
+    "city": "Darrow",
+    "county": "Ascension",
+    "zip_codes": [
+      "70725"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Delacroix",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70085"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Delcambre",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70528",
+      "70533"
+    ],
+    "population": 2400
+  },
+  {
+    "city": "Delhi",
+    "county": "Richland",
+    "zip_codes": [
+      "71232"
+    ],
+    "population": 2593
+  },
+  {
+    "city": "Delta",
+    "county": "Madison",
+    "zip_codes": [
+      "71233",
+      "71282"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Denham Springs",
+    "county": "Livingston",
+    "zip_codes": [
+      "70726"
+    ],
+    "population": 9362
+  },
+  {
+    "city": "DeQuincy",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70633"
+    ],
+    "population": 2990
+  },
+  {
+    "city": "DeRidder",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70634"
+    ],
+    "population": 9812
+  },
+  {
+    "city": "Des Allemands",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70030"
+    ],
+    "population": 2565
+  },
+  {
+    "city": "Destrehan",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70047"
+    ],
+    "population": 11786
+  },
+  {
+    "city": "Deville",
+    "county": "Rapides",
+    "zip_codes": [
+      "71328"
+    ],
+    "population": 1261
+  },
+  {
+    "city": "Dixie Inn",
+    "county": "Webster",
+    "zip_codes": [
+      "71055"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Dodson",
+    "county": "Winn",
+    "zip_codes": [
+      "71422"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Donaldsonville",
+    "county": "Ascension",
+    "zip_codes": [
+      "70346"
+    ],
+    "population": 6792
+  },
+  {
+    "city": "Dorseyville",
+    "county": "Iberville",
+    "zip_codes": [
+      "70788"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Downsville",
+    "county": "Union",
+    "zip_codes": [
+      "71234"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Doyline",
+    "county": "Webster",
+    "zip_codes": [
+      "71023"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Dry Prong",
+    "county": "Grant",
+    "zip_codes": [
+      "71423"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Dubach",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71235"
+    ],
+    "population": 917
+  },
+  {
+    "city": "Dubberly",
+    "county": "Webster",
+    "zip_codes": [
+      "71024"
+    ],
+    "population": 360
+  },
+  {
+    "city": "Dulac",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70353",
+      "70363"
+    ],
+    "population": 574
+  },
+  {
+    "city": "Duson",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70529",
+      "70578",
+      "70583"
+    ],
+    "population": 1369
+  },
+  {
+    "city": "East Hodge",
+    "county": "Jackson",
+    "zip_codes": [
+      "71247",
+      "71251"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Eastwood",
+    "county": "Bossier",
+    "zip_codes": [
+      "71037",
+      "71067"
+    ],
+    "population": 4057
+  },
+  {
+    "city": "Echo",
+    "county": "Rapides",
+    "zip_codes": [
+      "71302",
+      "71330",
+      "71351"
+    ],
+    "population": 490
+  },
+  {
+    "city": "Eden Isle",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70458"
+    ],
+    "population": 7753
+  },
+  {
+    "city": "Edgard",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70049"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "Edgefield",
+    "county": "Red River",
+    "zip_codes": [
+      "71019"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Egan",
+    "county": "Acadia",
+    "zip_codes": [
+      "70531"
+    ],
+    "population": 966
+  },
+  {
+    "city": "Elizabeth",
+    "county": "Allen",
+    "zip_codes": [
+      "70638"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Elmwood",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70001",
+      "70121",
+      "70123"
+    ],
+    "population": 6022
+  },
+  {
+    "city": "Elton",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70532"
+    ],
+    "population": 1132
+  },
+  {
+    "city": "Empire",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70041",
+      "70050",
+      "70083"
+    ],
+    "population": 1218
+  },
+  {
+    "city": "Epps",
+    "county": "West Carroll",
+    "zip_codes": [
+      "71237"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Erath",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70533"
+    ],
+    "population": 1865
+  },
+  {
+    "city": "Eros",
+    "county": "Jackson",
+    "zip_codes": [
+      "71238"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Erwinville",
+    "county": "West Baton Rouge",
+    "zip_codes": [
+      "70729",
+      "70767"
+    ],
+    "population": 2575
+  },
+  {
+    "city": "Estelle",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70072"
+    ],
+    "population": 16761
+  },
+  {
+    "city": "Estherwood",
+    "county": "Acadia",
+    "zip_codes": [
+      "70534"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Eunice",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70535"
+    ],
+    "population": 9261
+  },
+  {
+    "city": "Evergreen",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71322",
+      "71333"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Farmerville",
+    "county": "Union",
+    "zip_codes": [
+      "71241"
+    ],
+    "population": 3331
+  },
+  {
+    "city": "Fenton",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70591",
+      "70640",
+      "70648"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Ferriday",
+    "county": "Concordia",
+    "zip_codes": [
+      "71334"
+    ],
+    "population": 3126
+  },
+  {
+    "city": "Fifth Ward",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71351"
+    ],
+    "population": 1104
+  },
+  {
+    "city": "Fisher",
+    "county": "Sabine",
+    "zip_codes": [
+      "71426",
+      "71429",
+      "71449"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Florien",
+    "county": "Sabine",
+    "zip_codes": [
+      "71429"
+    ],
+    "population": 698
+  },
+  {
+    "city": "Folsom",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70437"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Fordoche",
+    "county": "Pointe Coupee",
+    "zip_codes": [
+      "70732"
+    ],
+    "population": 1010
+  },
+  {
+    "city": "Forest",
+    "county": "West Carroll",
+    "zip_codes": [
+      "71242",
+      "71263",
+      "71266"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Forest Hill",
+    "county": "Rapides",
+    "zip_codes": [
+      "71430"
+    ],
+    "population": 797
+  },
+  {
+    "city": "Fort Jesup",
+    "county": "Sabine",
+    "zip_codes": [
+      "71449",
+      "71469"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Fort Polk North",
+    "county": "Vernon",
+    "zip_codes": [
+      "71446",
+      "71459"
+    ],
+    "population": 2034
+  },
+  {
+    "city": "Fort Polk South",
+    "county": "Vernon",
+    "zip_codes": [
+      "70656",
+      "71446",
+      "71459"
+    ],
+    "population": 8056
+  },
+  {
+    "city": "Franklin",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70538"
+    ],
+    "population": 6557
+  },
+  {
+    "city": "Franklinton",
+    "county": "Washington",
+    "zip_codes": [
+      "70438"
+    ],
+    "population": 3615
+  },
+  {
+    "city": "French Settlement",
+    "county": "Livingston",
+    "zip_codes": [
+      "70733"
+    ],
+    "population": 1099
+  },
+  {
+    "city": "Frierson",
+    "county": "De Soto",
+    "zip_codes": [
+      "71027"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Galliano",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70345",
+      "70354"
+    ],
+    "population": 6563
+  },
+  {
+    "city": "Gardere",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70810",
+      "70820"
+    ],
+    "population": 12130
+  },
+  {
+    "city": "Garyville",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70051",
+      "70076",
+      "70084"
+    ],
+    "population": 2216
+  },
+  {
+    "city": "Georgetown",
+    "county": "Grant",
+    "zip_codes": [
+      "71432"
+    ],
+    "population": 280
+  },
+  {
+    "city": "Gibsland",
+    "county": "Bienville",
+    "zip_codes": [
+      "71028"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Gilbert",
+    "county": "Franklin",
+    "zip_codes": [
+      "71336"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Gilliam",
+    "county": "Caddo",
+    "zip_codes": [
+      "71029"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Gillis",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70611"
+    ],
+    "population": 763
+  },
+  {
+    "city": "Glencoe",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70538"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Glenmora",
+    "county": "Rapides",
+    "zip_codes": [
+      "71433"
+    ],
+    "population": 1299
+  },
+  {
+    "city": "Gloster",
+    "county": "De Soto",
+    "zip_codes": [
+      "71030"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Golden Meadow",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70357"
+    ],
+    "population": 1791
+  },
+  {
+    "city": "Goldonna",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71031"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Gonzales",
+    "county": "Ascension",
+    "zip_codes": [
+      "70737"
+    ],
+    "population": 12748
+  },
+  {
+    "city": "Good Pine",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71342"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Grambling",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71245",
+      "71270"
+    ],
+    "population": 5302
+  },
+  {
+    "city": "Gramercy",
+    "county": "St. James",
+    "zip_codes": [
+      "70052"
+    ],
+    "population": 2876
+  },
+  {
+    "city": "Grand Cane",
+    "county": "De Soto",
+    "zip_codes": [
+      "71032"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Grand Coteau",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70512",
+      "70541",
+      "70570",
+      "70584"
+    ],
+    "population": 948
+  },
+  {
+    "city": "Grand Isle",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70358"
+    ],
+    "population": 644
+  },
+  {
+    "city": "Grand Point",
+    "county": "St. James",
+    "zip_codes": [
+      "70763"
+    ],
+    "population": 2600
+  },
+  {
+    "city": "Gray",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70359",
+      "70360",
+      "70364"
+    ],
+    "population": 5524
+  },
+  {
+    "city": "Grayson",
+    "county": "Caldwell",
+    "zip_codes": [
+      "71418",
+      "71435"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Greensburg",
+    "county": "St. Helena",
+    "zip_codes": [
+      "70441"
+    ],
+    "population": 1050
+  },
+  {
+    "city": "Greenwood",
+    "county": "Caddo",
+    "zip_codes": [
+      "71033",
+      "71119",
+      "71129"
+    ],
+    "population": 3123
+  },
+  {
+    "city": "Gretna",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70053",
+      "70056"
+    ],
+    "population": 17468
+  },
+  {
+    "city": "Grosse Tete",
+    "county": "Iberville",
+    "zip_codes": [
+      "70740",
+      "70772"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Gueydan",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70542"
+    ],
+    "population": 1431
+  },
+  {
+    "city": "Hackberry",
+    "county": "Cameron",
+    "zip_codes": [
+      "70645"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Hahnville",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70057"
+    ],
+    "population": 3826
+  },
+  {
+    "city": "Hall Summit",
+    "county": "Red River",
+    "zip_codes": [
+      "71019",
+      "71034"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Hammond",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70401",
+      "70402",
+      "70403"
+    ],
+    "population": 20790
+  },
+  {
+    "city": "Harahan",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70123"
+    ],
+    "population": 8939
+  },
+  {
+    "city": "Harrisonburg",
+    "county": "Catahoula",
+    "zip_codes": [
+      "71340",
+      "71343"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Harvey",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70058"
+    ],
+    "population": 21710
+  },
+  {
+    "city": "Haughton",
+    "county": "Bossier",
+    "zip_codes": [
+      "71037"
+    ],
+    "population": 4473
+  },
+  {
+    "city": "Hayes",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70646"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Haynesville",
+    "county": "Claiborne",
+    "zip_codes": [
+      "71038"
+    ],
+    "population": 2281
+  },
+  {
+    "city": "Heflin",
+    "county": "Webster",
+    "zip_codes": [
+      "71039"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Henderson",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70517"
+    ],
+    "population": 1640
+  },
+  {
+    "city": "Hessmer",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71341",
+      "71350"
+    ],
+    "population": 904
+  },
+  {
+    "city": "Hester",
+    "county": "St. James",
+    "zip_codes": [
+      "70743",
+      "70763"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Hodge",
+    "county": "Jackson",
+    "zip_codes": [
+      "71247",
+      "71251"
+    ],
+    "population": 685
+  },
+  {
+    "city": "Homer",
+    "county": "Claiborne",
+    "zip_codes": [
+      "71040"
+    ],
+    "population": 2694
+  },
+  {
+    "city": "Hornbeck",
+    "county": "Vernon",
+    "zip_codes": [
+      "71439"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Hosston",
+    "county": "Caddo",
+    "zip_codes": [
+      "71043"
+    ],
+    "population": 334
+  },
+  {
+    "city": "Houma",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70360",
+      "70363",
+      "70364"
+    ],
+    "population": 32760
+  },
+  {
+    "city": "Ida",
+    "county": "Caddo",
+    "zip_codes": [
+      "71044"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Independence",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70443"
+    ],
+    "population": 2045
+  },
+  {
+    "city": "Inniswold",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70809",
+      "70816"
+    ],
+    "population": 6061
+  },
+  {
+    "city": "Iota",
+    "county": "Acadia",
+    "zip_codes": [
+      "70543"
+    ],
+    "population": 1459
+  },
+  {
+    "city": "Iowa",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70647"
+    ],
+    "population": 3246
+  },
+  {
+    "city": "Jackson",
+    "county": "East Feliciana",
+    "zip_codes": [
+      "70748"
+    ],
+    "population": 3976
+  },
+  {
+    "city": "Jamestown",
+    "county": "Bienville",
+    "zip_codes": [
+      "71045"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Jean Lafitte",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70067"
+    ],
+    "population": 2223
+  },
+  {
+    "city": "Jeanerette",
+    "county": "Iberia",
+    "zip_codes": [
+      "70544"
+    ],
+    "population": 4732
+  },
+  {
+    "city": "Jefferson",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70121"
+    ],
+    "population": 9984
+  },
+  {
+    "city": "Jena",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71342"
+    ],
+    "population": 4139
+  },
+  {
+    "city": "Jennings",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70546"
+    ],
+    "population": 9679
+  },
+  {
+    "city": "Jonesboro",
+    "county": "Jackson",
+    "zip_codes": [
+      "71251"
+    ],
+    "population": 4092
+  },
+  {
+    "city": "Jonesville",
+    "county": "Catahoula",
+    "zip_codes": [
+      "71343"
+    ],
+    "population": 1425
+  },
+  {
+    "city": "Jordan Hill",
+    "county": "Winn",
+    "zip_codes": [
+      "71483"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Joyce",
+    "county": "Winn",
+    "zip_codes": [
+      "71483"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Junction City",
+    "county": "Union",
+    "zip_codes": [
+      "71256",
+      "71749"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Kaplan",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70548"
+    ],
+    "population": 4271
+  },
+  {
+    "city": "Keachi",
+    "county": "De Soto",
+    "zip_codes": [
+      "71046"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Kenner",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70062",
+      "70065"
+    ],
+    "population": 65113
+  },
+  {
+    "city": "Kentwood",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70444"
+    ],
+    "population": 2057
+  },
+  {
+    "city": "Kilbourne",
+    "county": "West Carroll",
+    "zip_codes": [
+      "71253",
+      "71263"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Killian",
+    "county": "Livingston",
+    "zip_codes": [
+      "70462"
+    ],
+    "population": 1313
+  },
+  {
+    "city": "Killona",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70057"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Kinder",
+    "county": "Allen",
+    "zip_codes": [
+      "70648"
+    ],
+    "population": 2361
+  },
+  {
+    "city": "Kraemer",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Krotz Springs",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70750",
+      "71353"
+    ],
+    "population": 771
+  },
+  {
+    "city": "Labadieville",
+    "county": "Assumption",
+    "zip_codes": [
+      "70301",
+      "70372"
+    ],
+    "population": 1324
+  },
+  {
+    "city": "Lacassine",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70647",
+      "70650"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Lacombe",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70445"
+    ],
+    "population": 6883
+  },
+  {
+    "city": "Lafayette",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70501",
+      "70503",
+      "70506",
+      "70507",
+      "70508",
+      "70583",
+      "70592"
+    ],
+    "population": 121537
+  },
+  {
+    "city": "Lafitte",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70067"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Lafourche Crossing",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301"
+    ],
+    "population": 2439
+  },
+  {
+    "city": "Lake Arthur",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70549"
+    ],
+    "population": 2599
+  },
+  {
+    "city": "Lake Charles",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70601",
+      "70605",
+      "70607",
+      "70609",
+      "70615",
+      "70629"
+    ],
+    "population": 81679
+  },
+  {
+    "city": "Lake Providence",
+    "county": "East Carroll",
+    "zip_codes": [
+      "71254"
+    ],
+    "population": 3424
+  },
+  {
+    "city": "Lakeshore",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71203"
+    ],
+    "population": 3111
+  },
+  {
+    "city": "Lakeview",
+    "county": "Caddo",
+    "zip_codes": [
+      "71107"
+    ],
+    "population": 846
+  },
+  {
+    "city": "Laplace",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70068"
+    ],
+    "population": 28480
+  },
+  {
+    "city": "Larose",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70345",
+      "70373",
+      "70374"
+    ],
+    "population": 5937
+  },
+  {
+    "city": "Lawtell",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70550",
+      "70570"
+    ],
+    "population": 1044
+  },
+  {
+    "city": "Lebeau",
+    "county": "St. Landry",
+    "zip_codes": [
+      "71358"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Lecompte",
+    "county": "Rapides",
+    "zip_codes": [
+      "71346",
+      "71430"
+    ],
+    "population": 620
+  },
+  {
+    "city": "Leesville",
+    "county": "Vernon",
+    "zip_codes": [
+      "71446",
+      "71459"
+    ],
+    "population": 5610
+  },
+  {
+    "city": "Lemannville",
+    "county": "Ascension",
+    "zip_codes": [
+      "70086",
+      "70346"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Leonville",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70512",
+      "70551",
+      "70570"
+    ],
+    "population": 1812
+  },
+  {
+    "city": "Lewisburg",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70448"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Lillie",
+    "county": "Union",
+    "zip_codes": [
+      "71256"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Lisbon",
+    "county": "Claiborne",
+    "zip_codes": [
+      "71040",
+      "71048"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Livingston",
+    "county": "Livingston",
+    "zip_codes": [
+      "70754"
+    ],
+    "population": 1860
+  },
+  {
+    "city": "Livonia",
+    "county": "Pointe Coupee",
+    "zip_codes": [
+      "70755",
+      "70757"
+    ],
+    "population": 1161
+  },
+  {
+    "city": "Lockport",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70374"
+    ],
+    "population": 2874
+  },
+  {
+    "city": "Lockport Heights",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70374",
+      "70394"
+    ],
+    "population": 1441
+  },
+  {
+    "city": "Logansport",
+    "county": "De Soto",
+    "zip_codes": [
+      "71049"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Longstreet",
+    "county": "De Soto",
+    "zip_codes": [
+      "71046",
+      "71049"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Longville",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70652"
+    ],
+    "population": 491
+  },
+  {
+    "city": "Loreauville",
+    "county": "Iberia",
+    "zip_codes": [
+      "70552"
+    ],
+    "population": 902
+  },
+  {
+    "city": "Lucky",
+    "county": "Bienville",
+    "zip_codes": [
+      "71008",
+      "71016"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Luling",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70039",
+      "70057",
+      "70070"
+    ],
+    "population": 13873
+  },
+  {
+    "city": "Lutcher",
+    "county": "St. James",
+    "zip_codes": [
+      "70052",
+      "70071",
+      "70763"
+    ],
+    "population": 3051
+  },
+  {
+    "city": "Lydia",
+    "county": "Iberia",
+    "zip_codes": [
+      "70544",
+      "70560"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Madisonville",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70447"
+    ],
+    "population": 971
+  },
+  {
+    "city": "Mamou",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70554"
+    ],
+    "population": 2884
+  },
+  {
+    "city": "Mandeville",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70448",
+      "70471"
+    ],
+    "population": 12931
+  },
+  {
+    "city": "Mangham",
+    "county": "Richland",
+    "zip_codes": [
+      "71259"
+    ],
+    "population": 642
+  },
+  {
+    "city": "Mansfield",
+    "county": "De Soto",
+    "zip_codes": [
+      "71052"
+    ],
+    "population": 4653
+  },
+  {
+    "city": "Mansura",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71350"
+    ],
+    "population": 1254
+  },
+  {
+    "city": "Many",
+    "county": "Sabine",
+    "zip_codes": [
+      "71449"
+    ],
+    "population": 2202
+  },
+  {
+    "city": "Maringouin",
+    "county": "Iberville",
+    "zip_codes": [
+      "70757"
+    ],
+    "population": 737
+  },
+  {
+    "city": "Marion",
+    "county": "Union",
+    "zip_codes": [
+      "71260"
+    ],
+    "population": 661
+  },
+  {
+    "city": "Marksville",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71350",
+      "71351"
+    ],
+    "population": 4964
+  },
+  {
+    "city": "Marrero",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70058",
+      "70072"
+    ],
+    "population": 31866
+  },
+  {
+    "city": "Marthaville",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71450",
+      "71469"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Martin",
+    "county": "Red River",
+    "zip_codes": [
+      "71019"
+    ],
+    "population": 674
+  },
+  {
+    "city": "Mathews",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70375",
+      "70394"
+    ],
+    "population": 1579
+  },
+  {
+    "city": "Maurice",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70555"
+    ],
+    "population": 2382
+  },
+  {
+    "city": "McNary",
+    "county": "Rapides",
+    "zip_codes": [
+      "71433"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Melville",
+    "county": "St. Landry",
+    "zip_codes": [
+      "71353"
+    ],
+    "population": 684
+  },
+  {
+    "city": "Mer Rouge",
+    "county": "Morehouse",
+    "zip_codes": [
+      "71261"
+    ],
+    "population": 639
+  },
+  {
+    "city": "Meraux",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70075",
+      "70092"
+    ],
+    "population": 7492
+  },
+  {
+    "city": "Mermentau",
+    "county": "Acadia",
+    "zip_codes": [
+      "70556",
+      "70559"
+    ],
+    "population": 570
+  },
+  {
+    "city": "Merrydale",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70812",
+      "70814"
+    ],
+    "population": 9149
+  },
+  {
+    "city": "Merryville",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70634",
+      "70653"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Metairie",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70001",
+      "70002",
+      "70003",
+      "70005",
+      "70006",
+      "70062"
+    ],
+    "population": 138995
+  },
+  {
+    "city": "Midland",
+    "county": "Acadia",
+    "zip_codes": [
+      "70559"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Midway",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71342"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Milton",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70508",
+      "70558",
+      "70592"
+    ],
+    "population": 2123
+  },
+  {
+    "city": "Minden",
+    "county": "Webster",
+    "zip_codes": [
+      "71055"
+    ],
+    "population": 11604
+  },
+  {
+    "city": "Minorca",
+    "county": "Concordia",
+    "zip_codes": [
+      "71373"
+    ],
+    "population": 1615
+  },
+  {
+    "city": "Monroe",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71201",
+      "71202",
+      "71203",
+      "71209",
+      "71212"
+    ],
+    "population": 47241
+  },
+  {
+    "city": "Montegut",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70377"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "Monterey",
+    "county": "Concordia",
+    "zip_codes": [
+      "71354"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Montgomery",
+    "county": "Grant",
+    "zip_codes": [
+      "71454"
+    ],
+    "population": 881
+  },
+  {
+    "city": "Monticello",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70814"
+    ],
+    "population": 4677
+  },
+  {
+    "city": "Montpelier",
+    "county": "St. Helena",
+    "zip_codes": [
+      "70422",
+      "70744"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Montz",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70068"
+    ],
+    "population": 2192
+  },
+  {
+    "city": "Moonshine",
+    "county": "St. James",
+    "zip_codes": [
+      "70086"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Mooringsport",
+    "county": "Caddo",
+    "zip_codes": [
+      "71060"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Moreauville",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71355"
+    ],
+    "population": 765
+  },
+  {
+    "city": "Morgan City",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70380"
+    ],
+    "population": 11208
+  },
+  {
+    "city": "Morganza",
+    "county": "Pointe Coupee",
+    "zip_codes": [
+      "70715",
+      "70759"
+    ],
+    "population": 601
+  },
+  {
+    "city": "Morrow",
+    "county": "St. Landry",
+    "zip_codes": [
+      "71322",
+      "71356"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Morse",
+    "county": "Acadia",
+    "zip_codes": [
+      "70559"
+    ],
+    "population": 1039
+  },
+  {
+    "city": "Moss Bluff",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70611"
+    ],
+    "population": 11451
+  },
+  {
+    "city": "Mound",
+    "county": "Madison",
+    "zip_codes": [
+      "71282"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Mount Lebanon",
+    "county": "Bienville",
+    "zip_codes": [
+      "71028"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Napoleonville",
+    "county": "Assumption",
+    "zip_codes": [
+      "70390"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Natalbany",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70401",
+      "70451",
+      "70466"
+    ],
+    "population": 2837
+  },
+  {
+    "city": "Natchez",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71456",
+      "71457"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Natchitoches",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71457",
+      "71469",
+      "71497"
+    ],
+    "population": 17682
+  },
+  {
+    "city": "New Iberia",
+    "county": "Iberia",
+    "zip_codes": [
+      "70560",
+      "70563"
+    ],
+    "population": 27926
+  },
+  {
+    "city": "New Llano",
+    "county": "Vernon",
+    "zip_codes": [
+      "71446",
+      "71461"
+    ],
+    "population": 2303
+  },
+  {
+    "city": "New Orleans",
+    "county": "Orleans",
+    "zip_codes": [
+      "70112",
+      "70113",
+      "70114",
+      "70115",
+      "70116",
+      "70117",
+      "70118",
+      "70119",
+      "70122",
+      "70124",
+      "70125",
+      "70126",
+      "70127",
+      "70128",
+      "70129",
+      "70130",
+      "70131",
+      "70139",
+      "70148",
+      "70163"
+    ],
+    "population": 376035
+  },
+  {
+    "city": "New Orleans Station",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70037"
+    ],
+    "population": 2414
+  },
+  {
+    "city": "New Roads",
+    "county": "Pointe Coupee",
+    "zip_codes": [
+      "70760"
+    ],
+    "population": 4457
+  },
+  {
+    "city": "New Sarpy",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70047"
+    ],
+    "population": 1200
+  },
+  {
+    "city": "Newellton",
+    "county": "Tensas",
+    "zip_codes": [
+      "71357"
+    ],
+    "population": 909
+  },
+  {
+    "city": "Noble",
+    "county": "Sabine",
+    "zip_codes": [
+      "71462"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Norco",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70047",
+      "70079"
+    ],
+    "population": 2858
+  },
+  {
+    "city": "North Hodge",
+    "county": "Jackson",
+    "zip_codes": [
+      "71247",
+      "71251",
+      "71268"
+    ],
+    "population": 381
+  },
+  {
+    "city": "North Vacherie",
+    "county": "St. James",
+    "zip_codes": [
+      "70090"
+    ],
+    "population": 1933
+  },
+  {
+    "city": "Norwood",
+    "county": "East Feliciana",
+    "zip_codes": [
+      "70761"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Oak Grove",
+    "county": "West Carroll",
+    "zip_codes": [
+      "71263"
+    ],
+    "population": 1328
+  },
+  {
+    "city": "Oak Hills Place",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70810"
+    ],
+    "population": 8380
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Morehouse",
+    "zip_codes": [
+      "71264"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Oakdale",
+    "county": "Allen",
+    "zip_codes": [
+      "71463"
+    ],
+    "population": 6614
+  },
+  {
+    "city": "Oberlin",
+    "county": "Allen",
+    "zip_codes": [
+      "70648",
+      "70655"
+    ],
+    "population": 1683
+  },
+  {
+    "city": "Oil City",
+    "county": "Caddo",
+    "zip_codes": [
+      "71061"
+    ],
+    "population": 941
+  },
+  {
+    "city": "Old Jefferson",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70817"
+    ],
+    "population": 7790
+  },
+  {
+    "city": "Olla",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71465"
+    ],
+    "population": 1315
+  },
+  {
+    "city": "Opelousas",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70570"
+    ],
+    "population": 15662
+  },
+  {
+    "city": "Oretta",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70660"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Ossun",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70507",
+      "70520",
+      "70583"
+    ],
+    "population": 1940
+  },
+  {
+    "city": "Paincourtville",
+    "county": "Assumption",
+    "zip_codes": [
+      "70390",
+      "70391"
+    ],
+    "population": 1455
+  },
+  {
+    "city": "Palmetto",
+    "county": "St. Landry",
+    "zip_codes": [
+      "71358"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Paradis",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70030",
+      "70080"
+    ],
+    "population": 709
+  },
+  {
+    "city": "Parks",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70582"
+    ],
+    "population": 838
+  },
+  {
+    "city": "Patterson",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70392"
+    ],
+    "population": 5801
+  },
+  {
+    "city": "Paulina",
+    "county": "St. James",
+    "zip_codes": [
+      "70763"
+    ],
+    "population": 1939
+  },
+  {
+    "city": "Pearl River",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70452"
+    ],
+    "population": 2614
+  },
+  {
+    "city": "Perry",
+    "county": "Vermilion",
+    "zip_codes": [
+      "70510",
+      "70575"
+    ],
+    "population": 1014
+  },
+  {
+    "city": "Pierre Part",
+    "county": "Assumption",
+    "zip_codes": [
+      "70339"
+    ],
+    "population": 2333
+  },
+  {
+    "city": "Pine Prairie",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70576",
+      "70586"
+    ],
+    "population": 1242
+  },
+  {
+    "city": "Pineville",
+    "county": "Rapides",
+    "zip_codes": [
+      "71359",
+      "71360"
+    ],
+    "population": 14268
+  },
+  {
+    "city": "Pioneer",
+    "county": "West Carroll",
+    "zip_codes": [
+      "71266"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Pitkin",
+    "county": "Vernon",
+    "zip_codes": [
+      "70656"
+    ],
+    "population": 460
+  },
+  {
+    "city": "Plain Dealing",
+    "county": "Bossier",
+    "zip_codes": [
+      "71064"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Plaquemine",
+    "county": "Iberville",
+    "zip_codes": [
+      "70764"
+    ],
+    "population": 6136
+  },
+  {
+    "city": "Plaucheville",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71327",
+      "71362"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Pleasant Hill",
+    "county": "Sabine",
+    "zip_codes": [
+      "71065"
+    ],
+    "population": 628
+  },
+  {
+    "city": "Pleasure Bend",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70090"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Point Place",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71457"
+    ],
+    "population": 589
+  },
+  {
+    "city": "Pointe a la Hache",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70082"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Pollock",
+    "county": "Grant",
+    "zip_codes": [
+      "71407",
+      "71467"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Ponchatoula",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70403",
+      "70454"
+    ],
+    "population": 7839
+  },
+  {
+    "city": "Port Allen",
+    "county": "West Baton Rouge",
+    "zip_codes": [
+      "70767"
+    ],
+    "population": 4928
+  },
+  {
+    "city": "Port Barre",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70577"
+    ],
+    "population": 2292
+  },
+  {
+    "city": "Port Sulphur",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70083"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "Port Vincent",
+    "county": "Livingston",
+    "zip_codes": [
+      "70726"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Powhatan",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71066",
+      "71457"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Poydras",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70040",
+      "70085",
+      "70092"
+    ],
+    "population": 2395
+  },
+  {
+    "city": "Prairieville",
+    "county": "Ascension",
+    "zip_codes": [
+      "70769"
+    ],
+    "population": 35010
+  },
+  {
+    "city": "Presquille",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70343",
+      "70363"
+    ],
+    "population": 1885
+  },
+  {
+    "city": "Prien",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70605"
+    ],
+    "population": 8248
+  },
+  {
+    "city": "Prospect",
+    "county": "Grant",
+    "zip_codes": [
+      "71423"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Provencal",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71468",
+      "71469"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Quitman",
+    "county": "Jackson",
+    "zip_codes": [
+      "71268"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Raceland",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70394"
+    ],
+    "population": 10517
+  },
+  {
+    "city": "Rayne",
+    "county": "Acadia",
+    "zip_codes": [
+      "70578"
+    ],
+    "population": 7147
+  },
+  {
+    "city": "Rayville",
+    "county": "Richland",
+    "zip_codes": [
+      "71269"
+    ],
+    "population": 3297
+  },
+  {
+    "city": "Red Chute",
+    "county": "Bossier",
+    "zip_codes": [
+      "71037"
+    ],
+    "population": 7418
+  },
+  {
+    "city": "Reddell",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70554",
+      "70580",
+      "70586"
+    ],
+    "population": 617
+  },
+  {
+    "city": "Reeves",
+    "county": "Allen",
+    "zip_codes": [
+      "70658"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Reserve",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70068",
+      "70084"
+    ],
+    "population": 7471
+  },
+  {
+    "city": "Richmond",
+    "county": "Madison",
+    "zip_codes": [
+      "71282"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Richwood",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71202"
+    ],
+    "population": 3840
+  },
+  {
+    "city": "Ridgecrest",
+    "county": "Concordia",
+    "zip_codes": [
+      "71334"
+    ],
+    "population": 718
+  },
+  {
+    "city": "Ringgold",
+    "county": "Bienville",
+    "zip_codes": [
+      "71068"
+    ],
+    "population": 1475
+  },
+  {
+    "city": "Rio",
+    "county": "Washington",
+    "zip_codes": [
+      "70427"
+    ],
+    "population": 217
+  },
+  {
+    "city": "River Ridge",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70062",
+      "70123"
+    ],
+    "population": 13170
+  },
+  {
+    "city": "Roanoke",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70581"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Robeline",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71469"
+    ],
+    "population": 124
+  },
+  {
+    "city": "Rock Hill",
+    "county": "Grant",
+    "zip_codes": [
+      "71417"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Rodessa",
+    "county": "Caddo",
+    "zip_codes": [
+      "71069"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Romeville",
+    "county": "St. James",
+    "zip_codes": [
+      "70723"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Rosedale",
+    "county": "Iberville",
+    "zip_codes": [
+      "70757",
+      "70772"
+    ],
+    "population": 1099
+  },
+  {
+    "city": "Roseland",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70456"
+    ],
+    "population": 1125
+  },
+  {
+    "city": "Rosepine",
+    "county": "Vernon",
+    "zip_codes": [
+      "70634",
+      "70659",
+      "71446"
+    ],
+    "population": 1817
+  },
+  {
+    "city": "Ruston",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71270",
+      "71272"
+    ],
+    "population": 22224
+  },
+  {
+    "city": "Saline",
+    "county": "Bienville",
+    "zip_codes": [
+      "71070"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Sarepta",
+    "county": "Webster",
+    "zip_codes": [
+      "71071"
+    ],
+    "population": 721
+  },
+  {
+    "city": "Schriever",
+    "county": "Terrebonne",
+    "zip_codes": [
+      "70301",
+      "70395"
+    ],
+    "population": 6052
+  },
+  {
+    "city": "Scott",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70506",
+      "70507",
+      "70529",
+      "70583"
+    ],
+    "population": 8348
+  },
+  {
+    "city": "Shenandoah",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70817"
+    ],
+    "population": 18259
+  },
+  {
+    "city": "Shongaloo",
+    "county": "Webster",
+    "zip_codes": [
+      "71072"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Shreveport",
+    "county": "Caddo",
+    "zip_codes": [
+      "71101",
+      "71103",
+      "71104",
+      "71105",
+      "71106",
+      "71107",
+      "71108",
+      "71109",
+      "71115",
+      "71118",
+      "71119",
+      "71129"
+    ],
+    "population": 183483
+  },
+  {
+    "city": "Sibley",
+    "county": "Webster",
+    "zip_codes": [
+      "71073"
+    ],
+    "population": 1392
+  },
+  {
+    "city": "Sicily Island",
+    "county": "Catahoula",
+    "zip_codes": [
+      "71368"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Sikes",
+    "county": "Winn",
+    "zip_codes": [
+      "71473"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Simmesport",
+    "county": "Avoyelles",
+    "zip_codes": [
+      "71369"
+    ],
+    "population": 1455
+  },
+  {
+    "city": "Simpson",
+    "county": "Vernon",
+    "zip_codes": [
+      "71446",
+      "71474"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Simsboro",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71270",
+      "71275"
+    ],
+    "population": 831
+  },
+  {
+    "city": "Singer",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70634",
+      "70660"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Siracusaville",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70380"
+    ],
+    "population": 498
+  },
+  {
+    "city": "Slaughter",
+    "county": "East Feliciana",
+    "zip_codes": [
+      "70777"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "Slidell",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70458",
+      "70460",
+      "70461"
+    ],
+    "population": 28664
+  },
+  {
+    "city": "Sorrel",
+    "county": "St. Mary",
+    "zip_codes": [
+      "70544"
+    ],
+    "population": 695
+  },
+  {
+    "city": "Sorrento",
+    "county": "Ascension",
+    "zip_codes": [
+      "70737",
+      "70774",
+      "70778"
+    ],
+    "population": 2136
+  },
+  {
+    "city": "South Mansfield",
+    "county": "De Soto",
+    "zip_codes": [
+      "71052"
+    ],
+    "population": 500
+  },
+  {
+    "city": "South Vacherie",
+    "county": "St. James",
+    "zip_codes": [
+      "70090"
+    ],
+    "population": 3048
+  },
+  {
+    "city": "Spearsville",
+    "county": "Union",
+    "zip_codes": [
+      "71277"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Spokane",
+    "county": "Concordia",
+    "zip_codes": [
+      "71334"
+    ],
+    "population": 449
+  },
+  {
+    "city": "Springfield",
+    "county": "Livingston",
+    "zip_codes": [
+      "70462"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Springhill",
+    "county": "Webster",
+    "zip_codes": [
+      "71075"
+    ],
+    "population": 4659
+  },
+  {
+    "city": "St. Francisville",
+    "county": "West Feliciana",
+    "zip_codes": [
+      "70775"
+    ],
+    "population": 1781
+  },
+  {
+    "city": "St. Gabriel",
+    "county": "Iberville",
+    "zip_codes": [
+      "70721",
+      "70776",
+      "70780"
+    ],
+    "population": 6569
+  },
+  {
+    "city": "St. James",
+    "county": "St. James",
+    "zip_codes": [
+      "70086"
+    ],
+    "population": 395
+  },
+  {
+    "city": "St. Joseph",
+    "county": "Tensas",
+    "zip_codes": [
+      "71366"
+    ],
+    "population": 709
+  },
+  {
+    "city": "St. Martinville",
+    "county": "St. Martin",
+    "zip_codes": [
+      "70582"
+    ],
+    "population": 5367
+  },
+  {
+    "city": "St. Maurice",
+    "county": "Winn",
+    "zip_codes": [
+      "71454",
+      "71457"
+    ],
+    "population": 274
+  },
+  {
+    "city": "St. Rose",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70047",
+      "70087"
+    ],
+    "population": 7271
+  },
+  {
+    "city": "Stanley",
+    "county": "De Soto",
+    "zip_codes": [
+      "71032",
+      "71049",
+      "71052"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Starks",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70661"
+    ],
+    "population": 300
+  },
+  {
+    "city": "Start",
+    "county": "Richland",
+    "zip_codes": [
+      "71264",
+      "71269",
+      "71279"
+    ],
+    "population": 941
+  },
+  {
+    "city": "Sterlington",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71203",
+      "71280"
+    ],
+    "population": 2045
+  },
+  {
+    "city": "Stonewall",
+    "county": "De Soto",
+    "zip_codes": [
+      "71078"
+    ],
+    "population": 2394
+  },
+  {
+    "city": "Sugartown",
+    "county": "Beauregard",
+    "zip_codes": [
+      "70634",
+      "70662"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sulphur",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70663",
+      "70665"
+    ],
+    "population": 21004
+  },
+  {
+    "city": "Sun",
+    "county": "St. Tammany",
+    "zip_codes": [
+      "70427",
+      "70463"
+    ],
+    "population": 491
+  },
+  {
+    "city": "Sunset",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70584"
+    ],
+    "population": 3026
+  },
+  {
+    "city": "Supreme",
+    "county": "Assumption",
+    "zip_codes": [
+      "70390"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Swartz",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71203"
+    ],
+    "population": 4691
+  },
+  {
+    "city": "Taft",
+    "county": "St. Charles",
+    "zip_codes": [
+      "70057"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Tallulah",
+    "county": "Madison",
+    "zip_codes": [
+      "71282"
+    ],
+    "population": 6124
+  },
+  {
+    "city": "Tangipahoa",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70465"
+    ],
+    "population": 495
+  },
+  {
+    "city": "Terrytown",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70056"
+    ],
+    "population": 25844
+  },
+  {
+    "city": "Thibodaux",
+    "county": "Lafourche",
+    "zip_codes": [
+      "70301",
+      "70310"
+    ],
+    "population": 15792
+  },
+  {
+    "city": "Tickfaw",
+    "county": "Tangipahoa",
+    "zip_codes": [
+      "70466"
+    ],
+    "population": 862
+  },
+  {
+    "city": "Timberlane",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70056"
+    ],
+    "population": 11169
+  },
+  {
+    "city": "Triumph",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70041"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Trout",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71371"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Tullos",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71479"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Turkey Creek",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70585",
+      "70586"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Union",
+    "county": "St. James",
+    "zip_codes": [
+      "70723"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Urania",
+    "county": "LaSalle Parish",
+    "zip_codes": [
+      "71465",
+      "71480"
+    ],
+    "population": 1186
+  },
+  {
+    "city": "Varnado",
+    "county": "Washington",
+    "zip_codes": [
+      "70426"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Venice",
+    "county": "Plaquemines",
+    "zip_codes": [
+      "70041",
+      "70091"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Ventress",
+    "county": "Pointe Coupee",
+    "zip_codes": [
+      "70783"
+    ],
+    "population": 1325
+  },
+  {
+    "city": "Vidalia",
+    "county": "Concordia",
+    "zip_codes": [
+      "71373"
+    ],
+    "population": 3938
+  },
+  {
+    "city": "Vienna",
+    "county": "Lincoln",
+    "zip_codes": [
+      "71235",
+      "71270"
+    ],
+    "population": 624
+  },
+  {
+    "city": "Vienna Bend",
+    "county": "Natchitoches",
+    "zip_codes": [
+      "71457"
+    ],
+    "population": 1693
+  },
+  {
+    "city": "Village St. George",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70810"
+    ],
+    "population": 8880
+  },
+  {
+    "city": "Ville Platte",
+    "county": "Evangeline",
+    "zip_codes": [
+      "70586"
+    ],
+    "population": 6299
+  },
+  {
+    "city": "Vinton",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70668"
+    ],
+    "population": 3245
+  },
+  {
+    "city": "Violet",
+    "county": "St. Bernard",
+    "zip_codes": [
+      "70092"
+    ],
+    "population": 4454
+  },
+  {
+    "city": "Vivian",
+    "county": "Caddo",
+    "zip_codes": [
+      "71082"
+    ],
+    "population": 3020
+  },
+  {
+    "city": "Waggaman",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70094"
+    ],
+    "population": 10617
+  },
+  {
+    "city": "Walker",
+    "county": "Livingston",
+    "zip_codes": [
+      "70726",
+      "70785"
+    ],
+    "population": 6385
+  },
+  {
+    "city": "Wallace",
+    "county": "St. John the Baptist",
+    "zip_codes": [
+      "70049",
+      "70090"
+    ],
+    "population": 1383
+  },
+  {
+    "city": "Wallace Ridge",
+    "county": "Catahoula",
+    "zip_codes": [
+      "71343"
+    ],
+    "population": 660
+  },
+  {
+    "city": "Washington",
+    "county": "St. Landry",
+    "zip_codes": [
+      "70589"
+    ],
+    "population": 864
+  },
+  {
+    "city": "Waterproof",
+    "county": "Tensas",
+    "zip_codes": [
+      "71375"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Watson",
+    "county": "Livingston",
+    "zip_codes": [
+      "70706",
+      "70786"
+    ],
+    "population": 1503
+  },
+  {
+    "city": "Welcome",
+    "county": "St. James",
+    "zip_codes": [
+      "70086"
+    ],
+    "population": 751
+  },
+  {
+    "city": "Welsh",
+    "county": "Jefferson Davis",
+    "zip_codes": [
+      "70591"
+    ],
+    "population": 3323
+  },
+  {
+    "city": "West Monroe",
+    "county": "Ouachita",
+    "zip_codes": [
+      "71291",
+      "71292"
+    ],
+    "population": 12837
+  },
+  {
+    "city": "Westlake",
+    "county": "Calcasieu",
+    "zip_codes": [
+      "70669"
+    ],
+    "population": 4794
+  },
+  {
+    "city": "Westminster",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70809"
+    ],
+    "population": 2810
+  },
+  {
+    "city": "Westwego",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70072",
+      "70094"
+    ],
+    "population": 8382
+  },
+  {
+    "city": "White Castle",
+    "county": "Iberville",
+    "zip_codes": [
+      "70788"
+    ],
+    "population": 2278
+  },
+  {
+    "city": "Wilson",
+    "county": "East Feliciana",
+    "zip_codes": [
+      "70789"
+    ],
+    "population": 708
+  },
+  {
+    "city": "Winnfield",
+    "county": "Winn",
+    "zip_codes": [
+      "71483"
+    ],
+    "population": 4042
+  },
+  {
+    "city": "Winnsboro",
+    "county": "Franklin",
+    "zip_codes": [
+      "71295"
+    ],
+    "population": 4777
+  },
+  {
+    "city": "Wisner",
+    "county": "Franklin",
+    "zip_codes": [
+      "71378"
+    ],
+    "population": 1020
+  },
+  {
+    "city": "Woodmere",
+    "county": "Jefferson",
+    "zip_codes": [
+      "70058"
+    ],
+    "population": 11775
+  },
+  {
+    "city": "Woodworth",
+    "county": "Rapides",
+    "zip_codes": [
+      "71346",
+      "71485"
+    ],
+    "population": 2352
+  },
+  {
+    "city": "Youngsville",
+    "county": "Lafayette",
+    "zip_codes": [
+      "70518",
+      "70592"
+    ],
+    "population": 16664
+  },
+  {
+    "city": "Zachary",
+    "county": "East Baton Rouge",
+    "zip_codes": [
+      "70777",
+      "70791"
+    ],
+    "population": 19637
+  },
+  {
+    "city": "Zwolle",
+    "county": "Sabine",
+    "zip_codes": [
+      "71462",
+      "71486"
+    ],
+    "population": 1961
+  }
+]

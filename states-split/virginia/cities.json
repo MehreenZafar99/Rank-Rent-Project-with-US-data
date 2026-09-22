@@ -1,0 +1,5940 @@
+[
+  {
+    "city": "Abbs Valley",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24605"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Abingdon",
+    "county": "Washington",
+    "zip_codes": [
+      "24210",
+      "24211"
+    ],
+    "population": 8332
+  },
+  {
+    "city": "Accomac",
+    "county": "Accomack",
+    "zip_codes": [
+      "23301"
+    ],
+    "population": 999
+  },
+  {
+    "city": "Adwolf",
+    "county": "Smyth",
+    "zip_codes": [
+      "24319",
+      "24354"
+    ],
+    "population": 1001
+  },
+  {
+    "city": "Afton",
+    "county": "Nelson",
+    "zip_codes": [
+      "22920"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Alberta",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23821"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Aldie",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20105"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Alexandria",
+    "county": "Alexandria",
+    "zip_codes": [
+      "22301",
+      "22302",
+      "22304",
+      "22305",
+      "22311",
+      "22312",
+      "22314"
+    ],
+    "population": 156788
+  },
+  {
+    "city": "Allison Gap",
+    "county": "Smyth",
+    "zip_codes": [
+      "24370"
+    ],
+    "population": 544
+  },
+  {
+    "city": "Allisonia",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24347"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Alonzaville",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22664"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Altavista",
+    "county": "Campbell",
+    "zip_codes": [
+      "24517"
+    ],
+    "population": 3356
+  },
+  {
+    "city": "Amelia Court House",
+    "county": "Amelia",
+    "zip_codes": [
+      "23002"
+    ],
+    "population": 1192
+  },
+  {
+    "city": "Amherst",
+    "county": "Amherst",
+    "zip_codes": [
+      "24521"
+    ],
+    "population": 2124
+  },
+  {
+    "city": "Amonate",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24601"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Annandale",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22003",
+      "22042",
+      "22312"
+    ],
+    "population": 41982
+  },
+  {
+    "city": "Appalachia",
+    "county": "Wise",
+    "zip_codes": [
+      "24216"
+    ],
+    "population": 1612
+  },
+  {
+    "city": "Apple Mountain Lake",
+    "county": "Warren",
+    "zip_codes": [
+      "22642"
+    ],
+    "population": 1801
+  },
+  {
+    "city": "Appomattox",
+    "county": "Appomattox",
+    "zip_codes": [
+      "24522"
+    ],
+    "population": 2085
+  },
+  {
+    "city": "Aquia Harbour",
+    "county": "Stafford",
+    "zip_codes": [
+      "22554"
+    ],
+    "population": 6917
+  },
+  {
+    "city": "Arcola",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20105",
+      "20166"
+    ],
+    "population": 2858
+  },
+  {
+    "city": "Arlington",
+    "county": "Arlington",
+    "zip_codes": [
+      "22201",
+      "22202",
+      "22203",
+      "22204",
+      "22205",
+      "22206",
+      "22207",
+      "22209",
+      "22211",
+      "22213",
+      "22214"
+    ],
+    "population": 235463
+  },
+  {
+    "city": "Arrington",
+    "county": "Nelson",
+    "zip_codes": [
+      "22922"
+    ],
+    "population": 1084
+  },
+  {
+    "city": "Ashburn",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147",
+      "20166"
+    ],
+    "population": 45551
+  },
+  {
+    "city": "Ashland",
+    "county": "Hanover",
+    "zip_codes": [
+      "23005"
+    ],
+    "population": 7667
+  },
+  {
+    "city": "Atkins",
+    "county": "Smyth",
+    "zip_codes": [
+      "24311",
+      "24354"
+    ],
+    "population": 1026
+  },
+  {
+    "city": "Atlantic",
+    "county": "Accomack",
+    "zip_codes": [
+      "23303",
+      "23442"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Augusta Springs",
+    "county": "Augusta",
+    "zip_codes": [
+      "24411",
+      "24430"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Austinville",
+    "county": "Wythe",
+    "zip_codes": [
+      "24312"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bailey's Crossroads",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22041",
+      "22302",
+      "22311"
+    ],
+    "population": 25458
+  },
+  {
+    "city": "Barboursville",
+    "county": "Orange",
+    "zip_codes": [
+      "22923",
+      "22942"
+    ],
+    "population": 747
+  },
+  {
+    "city": "Baskerville",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23915",
+      "23970"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Bassett",
+    "county": "Henry",
+    "zip_codes": [
+      "24055"
+    ],
+    "population": 1020
+  },
+  {
+    "city": "Bastian",
+    "county": "Bland",
+    "zip_codes": [
+      "24314"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Basye",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22810",
+      "22824",
+      "22842"
+    ],
+    "population": 1416
+  },
+  {
+    "city": "Bayside",
+    "county": "Accomack",
+    "zip_codes": [
+      "23357",
+      "23417"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Baywood",
+    "county": "Grayson",
+    "zip_codes": [
+      "24333"
+    ],
+    "population": 719
+  },
+  {
+    "city": "Bealeton",
+    "county": "Fauquier",
+    "zip_codes": [
+      "22712"
+    ],
+    "population": 5193
+  },
+  {
+    "city": "Bedford",
+    "county": "Bedford",
+    "zip_codes": [
+      "24523"
+    ],
+    "population": 6703
+  },
+  {
+    "city": "Belle Haven",
+    "county": "Accomack",
+    "zip_codes": [
+      "23306",
+      "23350"
+    ],
+    "population": 813
+  },
+  {
+    "city": "Belle Haven",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22303",
+      "22306",
+      "22307"
+    ],
+    "population": 6590
+  },
+  {
+    "city": "Bellwood",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23237"
+    ],
+    "population": 8489
+  },
+  {
+    "city": "Belmont",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147"
+    ],
+    "population": 9525
+  },
+  {
+    "city": "Belmont Estates",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22801"
+    ],
+    "population": 1037
+  },
+  {
+    "city": "Belspring",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24058"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Belview",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24073",
+      "24141"
+    ],
+    "population": 920
+  },
+  {
+    "city": "Benns Church",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23314",
+      "23430"
+    ],
+    "population": 1443
+  },
+  {
+    "city": "Bensley",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23234",
+      "23237"
+    ],
+    "population": 5819
+  },
+  {
+    "city": "Berryville",
+    "county": "Clarke",
+    "zip_codes": [
+      "22611"
+    ],
+    "population": 4667
+  },
+  {
+    "city": "Bethel Manor",
+    "county": "York",
+    "zip_codes": [
+      "23665"
+    ],
+    "population": 4512
+  },
+  {
+    "city": "Big Island",
+    "county": "Bedford",
+    "zip_codes": [
+      "24526"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Big Rock",
+    "county": "Buchanan",
+    "zip_codes": [
+      "24603",
+      "24614"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Big Stone Gap",
+    "county": "Wise",
+    "zip_codes": [
+      "24219"
+    ],
+    "population": 5193
+  },
+  {
+    "city": "Big Stone Gap East",
+    "county": "Wise",
+    "zip_codes": [
+      "24219"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Blacksburg",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24060",
+      "24061"
+    ],
+    "population": 45288
+  },
+  {
+    "city": "Blackstone",
+    "county": "Nottoway",
+    "zip_codes": [
+      "23824"
+    ],
+    "population": 3341
+  },
+  {
+    "city": "Blairs",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24527",
+      "24540"
+    ],
+    "population": 1001
+  },
+  {
+    "city": "Bland",
+    "county": "Bland",
+    "zip_codes": [
+      "24315"
+    ],
+    "population": 526
+  },
+  {
+    "city": "Bloxom",
+    "county": "Accomack",
+    "zip_codes": [
+      "23308"
+    ],
+    "population": 459
+  },
+  {
+    "city": "Blue Ridge",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24012",
+      "24064"
+    ],
+    "population": 3112
+  },
+  {
+    "city": "Blue Ridge Shores",
+    "county": "Louisa",
+    "zip_codes": [
+      "23093"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Bluefield",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24605"
+    ],
+    "population": 5016
+  },
+  {
+    "city": "Bobtown",
+    "county": "Accomack",
+    "zip_codes": [
+      "23410"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Boissevain",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24605",
+      "24606"
+    ],
+    "population": 757
+  },
+  {
+    "city": "Bon Air",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23225",
+      "23235"
+    ],
+    "population": 17302
+  },
+  {
+    "city": "Boones Mill",
+    "county": "Franklin",
+    "zip_codes": [
+      "24065"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Boston",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Boswell's Corner",
+    "county": "Stafford",
+    "zip_codes": [
+      "22554"
+    ],
+    "population": 1459
+  },
+  {
+    "city": "Bowling Green",
+    "county": "Caroline",
+    "zip_codes": [
+      "22427"
+    ],
+    "population": 1455
+  },
+  {
+    "city": "Bowmans Crossing",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22824"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Boyce",
+    "county": "Clarke",
+    "zip_codes": [
+      "22620"
+    ],
+    "population": 981
+  },
+  {
+    "city": "Boydton",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23917"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Boykins",
+    "county": "Southampton",
+    "zip_codes": [
+      "23827"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Bracey",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23919",
+      "23950"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Braddock",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030"
+    ],
+    "population": 6404
+  },
+  {
+    "city": "Brambleton",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20148"
+    ],
+    "population": 23999
+  },
+  {
+    "city": "Branchville",
+    "county": "Southampton",
+    "zip_codes": [
+      "23828"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Brandermill",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23112"
+    ],
+    "population": 13938
+  },
+  {
+    "city": "Brandy Station",
+    "county": "Culpeper",
+    "zip_codes": [
+      "22714"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Breaks",
+    "county": "Buchanan",
+    "zip_codes": [
+      "24607"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Bridgewater",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22812",
+      "22841"
+    ],
+    "population": 6650
+  },
+  {
+    "city": "Brightwood",
+    "county": "Madison",
+    "zip_codes": [
+      "22715",
+      "22735"
+    ],
+    "population": 1436
+  },
+  {
+    "city": "Bristol",
+    "county": "Bristol",
+    "zip_codes": [
+      "24201",
+      "24202"
+    ],
+    "population": 17024
+  },
+  {
+    "city": "Broadlands",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147",
+      "20148"
+    ],
+    "population": 14673
+  },
+  {
+    "city": "Broadway",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22815"
+    ],
+    "population": 4221
+  },
+  {
+    "city": "Brodnax",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23920"
+    ],
+    "population": 350
+  },
+  {
+    "city": "Brookneal",
+    "county": "Campbell",
+    "zip_codes": [
+      "24528"
+    ],
+    "population": 1275
+  },
+  {
+    "city": "Brucetown",
+    "county": "Frederick",
+    "zip_codes": [
+      "22624"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Buchanan",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24066"
+    ],
+    "population": 1271
+  },
+  {
+    "city": "Buckhall",
+    "county": "Prince William",
+    "zip_codes": [
+      "20110",
+      "20111",
+      "20112"
+    ],
+    "population": 20447
+  },
+  {
+    "city": "Buckingham Courthouse",
+    "county": "Buckingham",
+    "zip_codes": [
+      "23921"
+    ],
+    "population": 253
+  },
+  {
+    "city": "Buena Vista",
+    "county": "Buena Vista",
+    "zip_codes": [
+      "24416"
+    ],
+    "population": 6612
+  },
+  {
+    "city": "Bull Run",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20120",
+      "20121"
+    ],
+    "population": 7513
+  },
+  {
+    "city": "Bull Run",
+    "county": "Prince William",
+    "zip_codes": [
+      "20109"
+    ],
+    "population": 16688
+  },
+  {
+    "city": "Bull Run Mountain Estates",
+    "county": "Prince William",
+    "zip_codes": [
+      "20169"
+    ],
+    "population": 1582
+  },
+  {
+    "city": "Burke",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22015",
+      "22152",
+      "22153"
+    ],
+    "population": 43336
+  },
+  {
+    "city": "Burke Centre",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22015",
+      "22039"
+    ],
+    "population": 17447
+  },
+  {
+    "city": "Burkeville",
+    "county": "Nottoway",
+    "zip_codes": [
+      "23922"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Callaghan",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24426"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Calverton",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20119",
+      "22728"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Camp Barrett",
+    "county": "Stafford",
+    "zip_codes": [
+      "22134"
+    ],
+    "population": 1569
+  },
+  {
+    "city": "Camptown",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23851"
+    ],
+    "population": 758
+  },
+  {
+    "city": "Cana",
+    "county": "Carroll",
+    "zip_codes": [
+      "24317"
+    ],
+    "population": 1164
+  },
+  {
+    "city": "Cape Charles",
+    "county": "Northampton",
+    "zip_codes": [
+      "23310"
+    ],
+    "population": 1278
+  },
+  {
+    "city": "Capron",
+    "county": "Southampton",
+    "zip_codes": [
+      "23829"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Captains Cove",
+    "county": "Accomack",
+    "zip_codes": [
+      "23356"
+    ],
+    "population": 1676
+  },
+  {
+    "city": "Carrollton",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23314"
+    ],
+    "population": 7903
+  },
+  {
+    "city": "Carrsville",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23315",
+      "23851"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Cascades",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20164",
+      "20165"
+    ],
+    "population": 12489
+  },
+  {
+    "city": "Castlewood",
+    "county": "Russell",
+    "zip_codes": [
+      "24224"
+    ],
+    "population": 1120
+  },
+  {
+    "city": "Catlett",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20119"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Cats Bridge",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Cave Spring",
+    "county": "Roanoke",
+    "zip_codes": [
+      "24015",
+      "24018"
+    ],
+    "population": 26014
+  },
+  {
+    "city": "Cedar Bluff",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24609",
+      "24637",
+      "24641"
+    ],
+    "population": 1156
+  },
+  {
+    "city": "Central Garage",
+    "county": "King William",
+    "zip_codes": [
+      "23009",
+      "23086"
+    ],
+    "population": 1364
+  },
+  {
+    "city": "Centreville",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20120",
+      "20121",
+      "20124"
+    ],
+    "population": 71885
+  },
+  {
+    "city": "Chamberlayne",
+    "county": "Henrico",
+    "zip_codes": [
+      "23227"
+    ],
+    "population": 5000
+  },
+  {
+    "city": "Chantilly",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20151",
+      "22033"
+    ],
+    "population": 23744
+  },
+  {
+    "city": "Charles City",
+    "county": "Charles City",
+    "zip_codes": [
+      "23030"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Charlotte Court House",
+    "county": "Charlotte",
+    "zip_codes": [
+      "23923"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Charlottesville",
+    "county": "Charlottesville",
+    "zip_codes": [
+      "22901",
+      "22902",
+      "22903",
+      "22904",
+      "22908"
+    ],
+    "population": 45863
+  },
+  {
+    "city": "Chase City",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23924"
+    ],
+    "population": 2530
+  },
+  {
+    "city": "Chase Crossing",
+    "county": "Accomack",
+    "zip_codes": [
+      "23357"
+    ],
+    "population": 450
+  },
+  {
+    "city": "Chatham",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24531"
+    ],
+    "population": 1535
+  },
+  {
+    "city": "Chatmoss",
+    "county": "Henry",
+    "zip_codes": [
+      "24054",
+      "24112"
+    ],
+    "population": 1503
+  },
+  {
+    "city": "Cheriton",
+    "county": "Northampton",
+    "zip_codes": [
+      "23310",
+      "23316"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Cherry Hill",
+    "county": "Prince William",
+    "zip_codes": [
+      "22026",
+      "22191"
+    ],
+    "population": 23443
+  },
+  {
+    "city": "Chesapeake",
+    "county": "Chesapeake",
+    "zip_codes": [
+      "23320",
+      "23321",
+      "23322",
+      "23323",
+      "23324",
+      "23325"
+    ],
+    "population": 251153
+  },
+  {
+    "city": "Chester",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23237",
+      "23831",
+      "23834"
+    ],
+    "population": 23519
+  },
+  {
+    "city": "Chester Gap",
+    "county": "Rappahannock",
+    "zip_codes": [
+      "22623",
+      "22630",
+      "22640"
+    ],
+    "population": 896
+  },
+  {
+    "city": "Chilhowie",
+    "county": "Smyth",
+    "zip_codes": [
+      "24319"
+    ],
+    "population": 2462
+  },
+  {
+    "city": "Chincoteague",
+    "county": "Accomack",
+    "zip_codes": [
+      "23336"
+    ],
+    "population": 3300
+  },
+  {
+    "city": "Christiansburg",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24073"
+    ],
+    "population": 22820
+  },
+  {
+    "city": "Churchville",
+    "county": "Augusta",
+    "zip_codes": [
+      "24421"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Claremont",
+    "county": "Surry",
+    "zip_codes": [
+      "23899"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Clarksville",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23927"
+    ],
+    "population": 1723
+  },
+  {
+    "city": "Clary",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22657"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Claypool Hill",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24609",
+      "24637"
+    ],
+    "population": 1332
+  },
+  {
+    "city": "Cleveland",
+    "county": "Russell",
+    "zip_codes": [
+      "24225"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Clifton",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20124"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Clifton Forge",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24422"
+    ],
+    "population": 3483
+  },
+  {
+    "city": "Cliftondale Park",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24422"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Clinchco",
+    "county": "Dickenson",
+    "zip_codes": [
+      "24226"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Clinchport",
+    "county": "Scott",
+    "zip_codes": [
+      "24244"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Clintwood",
+    "county": "Dickenson",
+    "zip_codes": [
+      "24228"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Clover",
+    "county": "Halifax",
+    "zip_codes": [
+      "23962",
+      "24534"
+    ],
+    "population": 836
+  },
+  {
+    "city": "Cloverdale",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24019",
+      "24077"
+    ],
+    "population": 3095
+  },
+  {
+    "city": "Cluster Springs",
+    "county": "Halifax",
+    "zip_codes": [
+      "24520",
+      "24592"
+    ],
+    "population": 1038
+  },
+  {
+    "city": "Coeburn",
+    "county": "Wise",
+    "zip_codes": [
+      "24230"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Collinsville",
+    "county": "Henry",
+    "zip_codes": [
+      "24055",
+      "24078",
+      "24112"
+    ],
+    "population": 7645
+  },
+  {
+    "city": "Colonial Beach",
+    "county": "Westmoreland",
+    "zip_codes": [
+      "22443"
+    ],
+    "population": 3930
+  },
+  {
+    "city": "Colonial Heights",
+    "county": "Colonial Heights",
+    "zip_codes": [
+      "23834"
+    ],
+    "population": 18210
+  },
+  {
+    "city": "Columbia",
+    "county": "Fluvanna",
+    "zip_codes": [
+      "23038"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Columbia Furnace",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22824"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Concord",
+    "county": "Campbell",
+    "zip_codes": [
+      "24504",
+      "24538",
+      "24593"
+    ],
+    "population": 1367
+  },
+  {
+    "city": "Conicville",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22842"
+    ],
+    "population": 374
+  },
+  {
+    "city": "Countryside",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20165"
+    ],
+    "population": 9521
+  },
+  {
+    "city": "County Center",
+    "county": "Prince William",
+    "zip_codes": [
+      "22192",
+      "22193"
+    ],
+    "population": 4233
+  },
+  {
+    "city": "Courtland",
+    "county": "Southampton",
+    "zip_codes": [
+      "23837"
+    ],
+    "population": 1784
+  },
+  {
+    "city": "Covington",
+    "county": "Covington",
+    "zip_codes": [
+      "24426"
+    ],
+    "population": 5671
+  },
+  {
+    "city": "Craigsville",
+    "county": "Augusta",
+    "zip_codes": [
+      "24430"
+    ],
+    "population": 1052
+  },
+  {
+    "city": "Crewe",
+    "county": "Nottoway",
+    "zip_codes": [
+      "23930"
+    ],
+    "population": 2795
+  },
+  {
+    "city": "Crimora",
+    "county": "Augusta",
+    "zip_codes": [
+      "22980",
+      "24431"
+    ],
+    "population": 1823
+  },
+  {
+    "city": "Crosspointe",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22039",
+      "22079"
+    ],
+    "population": 5632
+  },
+  {
+    "city": "Crozet",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22901",
+      "22903",
+      "22932"
+    ],
+    "population": 9211
+  },
+  {
+    "city": "Culpeper",
+    "county": "Culpeper",
+    "zip_codes": [
+      "22701"
+    ],
+    "population": 20437
+  },
+  {
+    "city": "Cumberland",
+    "county": "Cumberland",
+    "zip_codes": [
+      "23040"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Dahlgren",
+    "county": "King George",
+    "zip_codes": [
+      "22485"
+    ],
+    "population": 3417
+  },
+  {
+    "city": "Dahlgren Center",
+    "county": "King George",
+    "zip_codes": [
+      "22448"
+    ],
+    "population": 658
+  },
+  {
+    "city": "Dale City",
+    "county": "Prince William",
+    "zip_codes": [
+      "20112",
+      "22192",
+      "22193"
+    ],
+    "population": 72793
+  },
+  {
+    "city": "Daleville",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24083"
+    ],
+    "population": 3166
+  },
+  {
+    "city": "Damascus",
+    "county": "Washington",
+    "zip_codes": [
+      "24236"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Dante",
+    "county": "Russell",
+    "zip_codes": [
+      "24237",
+      "24272",
+      "24283"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Danville",
+    "county": "Danville",
+    "zip_codes": [
+      "24540",
+      "24541"
+    ],
+    "population": 42239
+  },
+  {
+    "city": "Dayton",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22801",
+      "22821"
+    ],
+    "population": 2023
+  },
+  {
+    "city": "Deep Creek",
+    "county": "Accomack",
+    "zip_codes": [
+      "23417"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Deerfield",
+    "county": "Augusta",
+    "zip_codes": [
+      "24432"
+    ],
+    "population": 415
+  },
+  {
+    "city": "Deltaville",
+    "county": "Middlesex",
+    "zip_codes": [
+      "23043"
+    ],
+    "population": 862
+  },
+  {
+    "city": "Dendron",
+    "county": "Surry",
+    "zip_codes": [
+      "23839",
+      "23888"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Difficult Run",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20171",
+      "20191",
+      "22033",
+      "22124",
+      "22181",
+      "22182"
+    ],
+    "population": 10202
+  },
+  {
+    "city": "Dillwyn",
+    "county": "Buckingham",
+    "zip_codes": [
+      "23936"
+    ],
+    "population": 549
+  },
+  {
+    "city": "Dinwiddie",
+    "county": "Dinwiddie",
+    "zip_codes": [
+      "23841"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Disputanta",
+    "county": "Prince George",
+    "zip_codes": [
+      "23842"
+    ],
+    "population": 931
+  },
+  {
+    "city": "Dooms",
+    "county": "Augusta",
+    "zip_codes": [
+      "22980"
+    ],
+    "population": 1360
+  },
+  {
+    "city": "Doran",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24612",
+      "24641"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Drakes Branch",
+    "county": "Charlotte",
+    "zip_codes": [
+      "23937"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Dranesville",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20170"
+    ],
+    "population": 11860
+  },
+  {
+    "city": "Draper",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24324"
+    ],
+    "population": 458
+  },
+  {
+    "city": "Dryden",
+    "county": "Lee",
+    "zip_codes": [
+      "24243",
+      "24277"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Dublin",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24084"
+    ],
+    "population": 2671
+  },
+  {
+    "city": "Duffield",
+    "county": "Scott",
+    "zip_codes": [
+      "24244"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Dulles Town Center",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20166"
+    ],
+    "population": 5541
+  },
+  {
+    "city": "Dumbarton",
+    "county": "Henrico",
+    "zip_codes": [
+      "23228",
+      "23230"
+    ],
+    "population": 8407
+  },
+  {
+    "city": "Dumfries",
+    "county": "Prince William",
+    "zip_codes": [
+      "22026",
+      "22172"
+    ],
+    "population": 5749
+  },
+  {
+    "city": "Dunbar",
+    "county": "Wise",
+    "zip_codes": [
+      "24216"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Dungannon",
+    "county": "Scott",
+    "zip_codes": [
+      "24245"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Dunn Loring",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22027",
+      "22180",
+      "22182"
+    ],
+    "population": 8782
+  },
+  {
+    "city": "Eagle Rock",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24085"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Earlysville",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22936"
+    ],
+    "population": 1217
+  },
+  {
+    "city": "East Highland Park",
+    "county": "Henrico",
+    "zip_codes": [
+      "23222",
+      "23223"
+    ],
+    "population": 16071
+  },
+  {
+    "city": "East Lexington",
+    "county": "Rockbridge",
+    "zip_codes": [
+      "24450"
+    ],
+    "population": 2020
+  },
+  {
+    "city": "East Stone Gap",
+    "county": "Wise",
+    "zip_codes": [
+      "24219",
+      "24246"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Eastville",
+    "county": "Northampton",
+    "zip_codes": [
+      "23310",
+      "23347"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Ebony",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23845"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Edinburg",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22824"
+    ],
+    "population": 1544
+  },
+  {
+    "city": "Eggleston",
+    "county": "Giles",
+    "zip_codes": [
+      "24086",
+      "24136"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Elkton",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22827"
+    ],
+    "population": 2973
+  },
+  {
+    "city": "Elliston",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24087"
+    ],
+    "population": 1041
+  },
+  {
+    "city": "Emory",
+    "county": "Washington",
+    "zip_codes": [
+      "24327",
+      "24340",
+      "24361"
+    ],
+    "population": 1135
+  },
+  {
+    "city": "Emporia",
+    "county": "Emporia",
+    "zip_codes": [
+      "23847"
+    ],
+    "population": 5633
+  },
+  {
+    "city": "Enon",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23836"
+    ],
+    "population": 4035
+  },
+  {
+    "city": "Esmont",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22937"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Ettrick",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23803",
+      "23834"
+    ],
+    "population": 5760
+  },
+  {
+    "city": "Ewing",
+    "county": "Lee",
+    "zip_codes": [
+      "24248"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Exmore",
+    "county": "Northampton",
+    "zip_codes": [
+      "23350"
+    ],
+    "population": 1742
+  },
+  {
+    "city": "Fair Lakes",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22033"
+    ],
+    "population": 8617
+  },
+  {
+    "city": "Fair Oaks",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22033",
+      "22035",
+      "22124"
+    ],
+    "population": 35472
+  },
+  {
+    "city": "Fairfax",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22031",
+      "22032"
+    ],
+    "population": 24478
+  },
+  {
+    "city": "Fairfax Station",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22032",
+      "22039"
+    ],
+    "population": 12298
+  },
+  {
+    "city": "Fairfield",
+    "county": "Rockbridge",
+    "zip_codes": [
+      "24435",
+      "24472"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Fairlawn",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24141"
+    ],
+    "population": 2555
+  },
+  {
+    "city": "Fairview",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23924"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Fairview Beach",
+    "county": "King George",
+    "zip_codes": [
+      "22485"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Falls Church",
+    "county": "Falls Church",
+    "zip_codes": [
+      "22042",
+      "22043",
+      "22044",
+      "22046"
+    ],
+    "population": 14593
+  },
+  {
+    "city": "Falls Mills",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24613"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Falmouth",
+    "county": "Stafford",
+    "zip_codes": [
+      "22405"
+    ],
+    "population": 5036
+  },
+  {
+    "city": "Fancy Gap",
+    "county": "Carroll",
+    "zip_codes": [
+      "24328"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Farmville",
+    "county": "Prince Edward",
+    "zip_codes": [
+      "23901",
+      "23909"
+    ],
+    "population": 7613
+  },
+  {
+    "city": "Ferrum",
+    "county": "Franklin",
+    "zip_codes": [
+      "24088"
+    ],
+    "population": 1622
+  },
+  {
+    "city": "Fieldale",
+    "county": "Henry",
+    "zip_codes": [
+      "24089",
+      "24112"
+    ],
+    "population": 797
+  },
+  {
+    "city": "Fincastle",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24090"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Fishers Hill",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22657"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fishersville",
+    "county": "Augusta",
+    "zip_codes": [
+      "22939",
+      "22980",
+      "24401"
+    ],
+    "population": 9546
+  },
+  {
+    "city": "Flint Hill",
+    "county": "Rappahannock",
+    "zip_codes": [
+      "22627",
+      "22640"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Floris",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20171"
+    ],
+    "population": 7135
+  },
+  {
+    "city": "Floyd",
+    "county": "Floyd",
+    "zip_codes": [
+      "24091"
+    ],
+    "population": 510
+  },
+  {
+    "city": "Forest",
+    "county": "Bedford",
+    "zip_codes": [
+      "24502",
+      "24503",
+      "24551"
+    ],
+    "population": 12476
+  },
+  {
+    "city": "Forestville",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22847"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fort Belvoir",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22060"
+    ],
+    "population": 8107
+  },
+  {
+    "city": "Fort Chiswell",
+    "county": "Wythe",
+    "zip_codes": [
+      "24360",
+      "24382"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Fort Hunt",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22306",
+      "22307",
+      "22308"
+    ],
+    "population": 16519
+  },
+  {
+    "city": "Fort Lee",
+    "county": "Prince George",
+    "zip_codes": [
+      "23801",
+      "23875"
+    ],
+    "population": 8318
+  },
+  {
+    "city": "Franconia",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22079",
+      "22310",
+      "22315"
+    ],
+    "population": 18141
+  },
+  {
+    "city": "Franklin",
+    "county": "Franklin",
+    "zip_codes": [
+      "23851"
+    ],
+    "population": 8212
+  },
+  {
+    "city": "Franklin Farm",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20171",
+      "22033"
+    ],
+    "population": 18509
+  },
+  {
+    "city": "Franktown",
+    "county": "Northampton",
+    "zip_codes": [
+      "23354"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Fredericksburg",
+    "county": "Fredericksburg",
+    "zip_codes": [
+      "22401"
+    ],
+    "population": 28383
+  },
+  {
+    "city": "Free Union",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22901",
+      "22940"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Fries",
+    "county": "Grayson",
+    "zip_codes": [
+      "24330"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Front Royal",
+    "county": "Warren",
+    "zip_codes": [
+      "22630"
+    ],
+    "population": 15152
+  },
+  {
+    "city": "Gainesville",
+    "county": "Prince William",
+    "zip_codes": [
+      "20155",
+      "20169"
+    ],
+    "population": 18036
+  },
+  {
+    "city": "Galax",
+    "county": "Galax",
+    "zip_codes": [
+      "24333"
+    ],
+    "population": 6698
+  },
+  {
+    "city": "Gargatha",
+    "county": "Accomack",
+    "zip_codes": [
+      "23308",
+      "23421"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Gasburg",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23857",
+      "23887"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Gate City",
+    "county": "Scott",
+    "zip_codes": [
+      "24251"
+    ],
+    "population": 1939
+  },
+  {
+    "city": "George Mason",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22032"
+    ],
+    "population": 9954
+  },
+  {
+    "city": "Glade Spring",
+    "county": "Washington",
+    "zip_codes": [
+      "24340"
+    ],
+    "population": 2224
+  },
+  {
+    "city": "Glasgow",
+    "county": "Rockbridge",
+    "zip_codes": [
+      "24555"
+    ],
+    "population": 1253
+  },
+  {
+    "city": "Glen Allen",
+    "county": "Henrico",
+    "zip_codes": [
+      "23059",
+      "23060",
+      "23227"
+    ],
+    "population": 16630
+  },
+  {
+    "city": "Glen Lyn",
+    "county": "Giles",
+    "zip_codes": [
+      "24093"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Glen Wilton",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24085"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Glenvar",
+    "county": "Roanoke",
+    "zip_codes": [
+      "24153"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Gloucester Courthouse",
+    "county": "Gloucester",
+    "zip_codes": [
+      "23061"
+    ],
+    "population": 3509
+  },
+  {
+    "city": "Gloucester Point",
+    "county": "Gloucester",
+    "zip_codes": [
+      "23062",
+      "23072"
+    ],
+    "population": 11159
+  },
+  {
+    "city": "Goochland",
+    "county": "Goochland",
+    "zip_codes": [
+      "23063"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "Goose Creek Village",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147",
+      "20148"
+    ],
+    "population": 2519
+  },
+  {
+    "city": "Gordonsville",
+    "county": "Orange",
+    "zip_codes": [
+      "22942"
+    ],
+    "population": 1527
+  },
+  {
+    "city": "Gore",
+    "county": "Frederick",
+    "zip_codes": [
+      "22637"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Goshen",
+    "county": "Rockbridge",
+    "zip_codes": [
+      "24439"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Gratton",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24651"
+    ],
+    "population": 797
+  },
+  {
+    "city": "Great Falls",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22066",
+      "22102"
+    ],
+    "population": 14854
+  },
+  {
+    "city": "Great Falls Crossing",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20194"
+    ],
+    "population": 1384
+  },
+  {
+    "city": "Greenbackville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23356"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Greenbriar",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22033"
+    ],
+    "population": 7989
+  },
+  {
+    "city": "Greenbush",
+    "county": "Accomack",
+    "zip_codes": [
+      "23301",
+      "23357"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Greenville",
+    "county": "Augusta",
+    "zip_codes": [
+      "24401",
+      "24440"
+    ],
+    "population": 1187
+  },
+  {
+    "city": "Gretna",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24557"
+    ],
+    "population": 1275
+  },
+  {
+    "city": "Grottoes",
+    "county": "Rockingham",
+    "zip_codes": [
+      "24441"
+    ],
+    "population": 2926
+  },
+  {
+    "city": "Groveton",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22306",
+      "22307"
+    ],
+    "population": 13563
+  },
+  {
+    "city": "Grundy",
+    "county": "Buchanan",
+    "zip_codes": [
+      "24614"
+    ],
+    "population": 782
+  },
+  {
+    "city": "Gwynn",
+    "county": "Mathews",
+    "zip_codes": [
+      "23066"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Halifax",
+    "county": "Halifax",
+    "zip_codes": [
+      "24558"
+    ],
+    "population": 1348
+  },
+  {
+    "city": "Hallwood",
+    "county": "Accomack",
+    "zip_codes": [
+      "23359"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Hamilton",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20158"
+    ],
+    "population": 604
+  },
+  {
+    "city": "Hampden-Sydney",
+    "county": "Prince Edward",
+    "zip_codes": [
+      "23901",
+      "23943"
+    ],
+    "population": 1942
+  },
+  {
+    "city": "Hampton",
+    "county": "Hampton",
+    "zip_codes": [
+      "23605",
+      "23651",
+      "23661",
+      "23663",
+      "23664",
+      "23665",
+      "23666",
+      "23667",
+      "23668",
+      "23669",
+      "23681"
+    ],
+    "population": 137334
+  },
+  {
+    "city": "Hanover",
+    "county": "Hanover",
+    "zip_codes": [
+      "23069"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Harborton",
+    "county": "Accomack",
+    "zip_codes": [
+      "23389"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Harrisonburg",
+    "county": "Harrisonburg",
+    "zip_codes": [
+      "22801",
+      "22802",
+      "22807"
+    ],
+    "population": 51492
+  },
+  {
+    "city": "Harriston",
+    "county": "Augusta",
+    "zip_codes": [
+      "24441"
+    ],
+    "population": 1252
+  },
+  {
+    "city": "Hayfield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22315"
+    ],
+    "population": 4252
+  },
+  {
+    "city": "Haymarket",
+    "county": "Prince William",
+    "zip_codes": [
+      "20155",
+      "20169"
+    ],
+    "population": 1591
+  },
+  {
+    "city": "Haysi",
+    "county": "Dickenson",
+    "zip_codes": [
+      "24220",
+      "24256"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Heathsville",
+    "county": "Northumberland",
+    "zip_codes": [
+      "22473"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Henry Fork",
+    "county": "Franklin",
+    "zip_codes": [
+      "24151"
+    ],
+    "population": 843
+  },
+  {
+    "city": "Herndon",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20170"
+    ],
+    "population": 24529
+  },
+  {
+    "city": "Highland Springs",
+    "county": "Henrico",
+    "zip_codes": [
+      "23075",
+      "23150",
+      "23223"
+    ],
+    "population": 15091
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20132"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Hillsville",
+    "county": "Carroll",
+    "zip_codes": [
+      "24343"
+    ],
+    "population": 2869
+  },
+  {
+    "city": "Hilltown",
+    "county": "Grayson",
+    "zip_codes": [
+      "24330"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Hiltons",
+    "county": "Scott",
+    "zip_codes": [
+      "24251",
+      "24258"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Hiwassee",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24347"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Hollins",
+    "county": "Roanoke",
+    "zip_codes": [
+      "24012",
+      "24019",
+      "24020"
+    ],
+    "population": 17005
+  },
+  {
+    "city": "Hollymead",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22911",
+      "22936"
+    ],
+    "population": 8566
+  },
+  {
+    "city": "Honaker",
+    "county": "Russell",
+    "zip_codes": [
+      "24260"
+    ],
+    "population": 1218
+  },
+  {
+    "city": "Hopewell",
+    "county": "Hopewell",
+    "zip_codes": [
+      "23860"
+    ],
+    "population": 22944
+  },
+  {
+    "city": "Horntown",
+    "county": "Accomack",
+    "zip_codes": [
+      "23395"
+    ],
+    "population": 479
+  },
+  {
+    "city": "Horse Pasture",
+    "county": "Henry",
+    "zip_codes": [
+      "24112",
+      "24148",
+      "24165"
+    ],
+    "population": 2193
+  },
+  {
+    "city": "Hot Springs",
+    "county": "Bath",
+    "zip_codes": [
+      "24445"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Hudson Crossroads",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22842"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Huntington",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22303",
+      "22310"
+    ],
+    "population": 13250
+  },
+  {
+    "city": "Hurt",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24563"
+    ],
+    "population": 1382
+  },
+  {
+    "city": "Hutchison",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20170"
+    ],
+    "population": 6936
+  },
+  {
+    "city": "Hybla Valley",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22306",
+      "22307",
+      "22308"
+    ],
+    "population": 17877
+  },
+  {
+    "city": "Idylwood",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22042",
+      "22043",
+      "22046"
+    ],
+    "population": 17469
+  },
+  {
+    "city": "Independence",
+    "county": "Grayson",
+    "zip_codes": [
+      "24348"
+    ],
+    "population": 1144
+  },
+  {
+    "city": "Independent Hill",
+    "county": "Prince William",
+    "zip_codes": [
+      "20112",
+      "22193"
+    ],
+    "population": 10217
+  },
+  {
+    "city": "Innovation",
+    "county": "Prince William",
+    "zip_codes": [
+      "20109",
+      "20110"
+    ],
+    "population": 1139
+  },
+  {
+    "city": "Innsbrook",
+    "county": "Henrico",
+    "zip_codes": [
+      "23060",
+      "23233"
+    ],
+    "population": 8559
+  },
+  {
+    "city": "Iron Gate",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24422",
+      "24448"
+    ],
+    "population": 408
+  },
+  {
+    "city": "Irvington",
+    "county": "Lancaster",
+    "zip_codes": [
+      "22480"
+    ],
+    "population": 503
+  },
+  {
+    "city": "Ivanhoe",
+    "county": "Wythe",
+    "zip_codes": [
+      "24350",
+      "24382"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Ivor",
+    "county": "Southampton",
+    "zip_codes": [
+      "23866"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Ivy",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22901",
+      "22903"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Jarratt",
+    "county": "Greensville",
+    "zip_codes": [
+      "23867"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Jewell Ridge",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24622"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Jolivue",
+    "county": "Augusta",
+    "zip_codes": [
+      "24401"
+    ],
+    "population": 1135
+  },
+  {
+    "city": "Jonesville",
+    "county": "Lee",
+    "zip_codes": [
+      "24263"
+    ],
+    "population": 1290
+  },
+  {
+    "city": "Keezletown",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22832"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Keller",
+    "county": "Accomack",
+    "zip_codes": [
+      "23401",
+      "23410",
+      "23420"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Kenbridge",
+    "county": "Lunenburg",
+    "zip_codes": [
+      "23944"
+    ],
+    "population": 1348
+  },
+  {
+    "city": "Keokee",
+    "county": "Lee",
+    "zip_codes": [
+      "24265"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Keswick",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22947"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Keysville",
+    "county": "Charlotte",
+    "zip_codes": [
+      "23947"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Kilmarnock",
+    "county": "Lancaster",
+    "zip_codes": [
+      "22482"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Kincora",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20166"
+    ],
+    "population": 600
+  },
+  {
+    "city": "King and Queen Court House",
+    "county": "King And Queen",
+    "zip_codes": [
+      "23085"
+    ],
+    "population": 31
+  },
+  {
+    "city": "King George",
+    "county": "King George",
+    "zip_codes": [
+      "22485"
+    ],
+    "population": 4833
+  },
+  {
+    "city": "King William",
+    "county": "King William",
+    "zip_codes": [
+      "23086",
+      "23177"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Kings Park",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22151"
+    ],
+    "population": 4206
+  },
+  {
+    "city": "Kings Park West",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22015",
+      "22032"
+    ],
+    "population": 13281
+  },
+  {
+    "city": "Kingstowne",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22310",
+      "22315"
+    ],
+    "population": 17436
+  },
+  {
+    "city": "La Crosse",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23950"
+    ],
+    "population": 530
+  },
+  {
+    "city": "Lafayette",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24087"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Lake Barcroft",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22041",
+      "22044"
+    ],
+    "population": 10678
+  },
+  {
+    "city": "Lake Caroline",
+    "county": "Caroline",
+    "zip_codes": [
+      "22546"
+    ],
+    "population": 2708
+  },
+  {
+    "city": "Lake Holiday",
+    "county": "Frederick",
+    "zip_codes": [
+      "22625"
+    ],
+    "population": 2059
+  },
+  {
+    "city": "Lake Land'Or",
+    "county": "Caroline",
+    "zip_codes": [
+      "22546"
+    ],
+    "population": 3581
+  },
+  {
+    "city": "Lake Monticello",
+    "county": "Fluvanna",
+    "zip_codes": [
+      "22963"
+    ],
+    "population": 10820
+  },
+  {
+    "city": "Lake of the Woods",
+    "county": "Orange",
+    "zip_codes": [
+      "22508"
+    ],
+    "population": 8165
+  },
+  {
+    "city": "Lake Ridge",
+    "county": "Prince William",
+    "zip_codes": [
+      "22192"
+    ],
+    "population": 45007
+  },
+  {
+    "city": "Lake Wilderness",
+    "county": "Spotsylvania",
+    "zip_codes": [
+      "22551"
+    ],
+    "population": 3255
+  },
+  {
+    "city": "Lakeside",
+    "county": "Henrico",
+    "zip_codes": [
+      "23227",
+      "23228"
+    ],
+    "population": 12845
+  },
+  {
+    "city": "Lancaster",
+    "county": "Lancaster",
+    "zip_codes": [
+      "22503"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Lansdowne",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147",
+      "20176"
+    ],
+    "population": 12603
+  },
+  {
+    "city": "Laurel",
+    "county": "Henrico",
+    "zip_codes": [
+      "23060",
+      "23228",
+      "23294"
+    ],
+    "population": 18180
+  },
+  {
+    "city": "Laurel Hill",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22079"
+    ],
+    "population": 7551
+  },
+  {
+    "city": "Laurel Park",
+    "county": "Henry",
+    "zip_codes": [
+      "24112"
+    ],
+    "population": 843
+  },
+  {
+    "city": "Lawrenceville",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23868"
+    ],
+    "population": 1149
+  },
+  {
+    "city": "Laymantown",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24175"
+    ],
+    "population": 1843
+  },
+  {
+    "city": "Lebanon",
+    "county": "Russell",
+    "zip_codes": [
+      "24266"
+    ],
+    "population": 3133
+  },
+  {
+    "city": "Lebanon Church",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22641"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Lee Mont",
+    "county": "Accomack",
+    "zip_codes": [
+      "23421"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Leesburg",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20175",
+      "20176"
+    ],
+    "population": 48788
+  },
+  {
+    "city": "Leesylvania",
+    "county": "Prince William",
+    "zip_codes": [
+      "22191"
+    ],
+    "population": 22848
+  },
+  {
+    "city": "Lexington",
+    "county": "Lexington",
+    "zip_codes": [
+      "24450"
+    ],
+    "population": 7420
+  },
+  {
+    "city": "Lincolnia",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22003",
+      "22150",
+      "22304",
+      "22312"
+    ],
+    "population": 19913
+  },
+  {
+    "city": "Linton Hall",
+    "county": "Prince William",
+    "zip_codes": [
+      "20109",
+      "20136",
+      "20155",
+      "20181"
+    ],
+    "population": 42077
+  },
+  {
+    "city": "Linville",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22802",
+      "22834"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Loch Lomond",
+    "county": "Prince William",
+    "zip_codes": [
+      "20109",
+      "20110",
+      "20111"
+    ],
+    "population": 4460
+  },
+  {
+    "city": "Locust Grove",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22657"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Locust Mount",
+    "county": "Accomack",
+    "zip_codes": [
+      "23410",
+      "23480"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Long Branch",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22031",
+      "22032"
+    ],
+    "population": 7066
+  },
+  {
+    "city": "Lorton",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22060",
+      "22079"
+    ],
+    "population": 21961
+  },
+  {
+    "city": "Loudoun Valley Estates",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20148",
+      "20166"
+    ],
+    "population": 10323
+  },
+  {
+    "city": "Louisa",
+    "county": "Louisa",
+    "zip_codes": [
+      "23093"
+    ],
+    "population": 2249
+  },
+  {
+    "city": "Lovettsville",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20180"
+    ],
+    "population": 2697
+  },
+  {
+    "city": "Lovingston",
+    "county": "Nelson",
+    "zip_codes": [
+      "22949"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Low Moor",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24426",
+      "24457",
+      "24474"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Lowes Island",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20164",
+      "20165",
+      "22066"
+    ],
+    "population": 11199
+  },
+  {
+    "city": "Lunenburg",
+    "county": "Lunenburg",
+    "zip_codes": [
+      "23947",
+      "23952",
+      "23974"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Luray",
+    "county": "Page",
+    "zip_codes": [
+      "22835"
+    ],
+    "population": 4836
+  },
+  {
+    "city": "Lynchburg",
+    "county": "Lynchburg",
+    "zip_codes": [
+      "24501",
+      "24502",
+      "24503",
+      "24504",
+      "24515"
+    ],
+    "population": 79255
+  },
+  {
+    "city": "Lyndhurst",
+    "county": "Augusta",
+    "zip_codes": [
+      "22952",
+      "22980",
+      "24477"
+    ],
+    "population": 1401
+  },
+  {
+    "city": "Madison",
+    "county": "Madison",
+    "zip_codes": [
+      "22727"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Madison Heights",
+    "county": "Amherst",
+    "zip_codes": [
+      "24572"
+    ],
+    "population": 10398
+  },
+  {
+    "city": "Makemie Park",
+    "county": "Accomack",
+    "zip_codes": [
+      "23442"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Mallow",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24426"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Manassas",
+    "county": "Manassas",
+    "zip_codes": [
+      "20110"
+    ],
+    "population": 42674
+  },
+  {
+    "city": "Manassas Park",
+    "county": "Manassas Park",
+    "zip_codes": [
+      "20111"
+    ],
+    "population": 16923
+  },
+  {
+    "city": "Manchester",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23225",
+      "23235",
+      "23236"
+    ],
+    "population": 12347
+  },
+  {
+    "city": "Mantua",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22031"
+    ],
+    "population": 7447
+  },
+  {
+    "city": "Mappsburg",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420",
+      "23423"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Mappsville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23308",
+      "23359",
+      "23407"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Marion",
+    "county": "Smyth",
+    "zip_codes": [
+      "24354"
+    ],
+    "population": 5694
+  },
+  {
+    "city": "Marshall",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20115",
+      "20198"
+    ],
+    "population": 3213
+  },
+  {
+    "city": "Martinsville",
+    "county": "Martinsville",
+    "zip_codes": [
+      "24112"
+    ],
+    "population": 13584
+  },
+  {
+    "city": "Mason Neck",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22079"
+    ],
+    "population": 2059
+  },
+  {
+    "city": "Massanetta Springs",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22801",
+      "22846"
+    ],
+    "population": 6028
+  },
+  {
+    "city": "Massanutten",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22827",
+      "22840"
+    ],
+    "population": 2215
+  },
+  {
+    "city": "Mathews",
+    "county": "Mathews",
+    "zip_codes": [
+      "23109"
+    ],
+    "population": 1145
+  },
+  {
+    "city": "Matoaca",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23803"
+    ],
+    "population": 2448
+  },
+  {
+    "city": "Maurertown",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22644"
+    ],
+    "population": 1138
+  },
+  {
+    "city": "Max Meadows",
+    "county": "Wythe",
+    "zip_codes": [
+      "24360",
+      "24382"
+    ],
+    "population": 582
+  },
+  {
+    "city": "McDowell",
+    "county": "Highland",
+    "zip_codes": [
+      "24458"
+    ],
+    "population": 37
+  },
+  {
+    "city": "McGaheysville",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22840"
+    ],
+    "population": 1155
+  },
+  {
+    "city": "McKenney",
+    "county": "Dinwiddie",
+    "zip_codes": [
+      "23872"
+    ],
+    "population": 569
+  },
+  {
+    "city": "McLean",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22043",
+      "22046",
+      "22066",
+      "22101",
+      "22102"
+    ],
+    "population": 50232
+  },
+  {
+    "city": "McMullin",
+    "county": "Smyth",
+    "zip_codes": [
+      "24354"
+    ],
+    "population": 241
+  },
+  {
+    "city": "McNair",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20170",
+      "20171"
+    ],
+    "population": 22451
+  },
+  {
+    "city": "Meadowbrook",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23234",
+      "23237"
+    ],
+    "population": 20383
+  },
+  {
+    "city": "Meadows of Dan",
+    "county": "Patrick",
+    "zip_codes": [
+      "24120"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Meadowview",
+    "county": "Washington",
+    "zip_codes": [
+      "24361"
+    ],
+    "population": 922
+  },
+  {
+    "city": "Mechanicsburg",
+    "county": "Bland",
+    "zip_codes": [
+      "24315"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Mechanicsville",
+    "county": "Hanover",
+    "zip_codes": [
+      "23111",
+      "23116"
+    ],
+    "population": 38437
+  },
+  {
+    "city": "Melfa",
+    "county": "Accomack",
+    "zip_codes": [
+      "23410"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Mendota",
+    "county": "Washington",
+    "zip_codes": [
+      "24258",
+      "24270"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Merrifield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22031",
+      "22042",
+      "22043",
+      "22180"
+    ],
+    "population": 20549
+  },
+  {
+    "city": "Merrimac",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24060",
+      "24073"
+    ],
+    "population": 2955
+  },
+  {
+    "city": "Metompkin",
+    "county": "Accomack",
+    "zip_codes": [
+      "23421"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Middlebrook",
+    "county": "Augusta",
+    "zip_codes": [
+      "24401",
+      "24440",
+      "24459"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Middleburg",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20117"
+    ],
+    "population": 793
+  },
+  {
+    "city": "Middletown",
+    "county": "Frederick",
+    "zip_codes": [
+      "22645"
+    ],
+    "population": 1634
+  },
+  {
+    "city": "Midland",
+    "county": "Fauquier",
+    "zip_codes": [
+      "22728"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Midlothian",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23113",
+      "23114"
+    ],
+    "population": 18702
+  },
+  {
+    "city": "Millboro",
+    "county": "Bath",
+    "zip_codes": [
+      "24460"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Mineral",
+    "county": "Louisa",
+    "zip_codes": [
+      "23117"
+    ],
+    "population": 599
+  },
+  {
+    "city": "Modest Town",
+    "county": "Accomack",
+    "zip_codes": [
+      "23308"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Moneta",
+    "county": "Bedford",
+    "zip_codes": [
+      "24121"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Montclair",
+    "county": "Prince William",
+    "zip_codes": [
+      "22025",
+      "22193"
+    ],
+    "population": 22295
+  },
+  {
+    "city": "Monterey",
+    "county": "Highland",
+    "zip_codes": [
+      "24465"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Montrose",
+    "county": "Henrico",
+    "zip_codes": [
+      "23223",
+      "23231"
+    ],
+    "population": 8624
+  },
+  {
+    "city": "Montross",
+    "county": "Westmoreland",
+    "zip_codes": [
+      "22520"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Montvale",
+    "county": "Bedford",
+    "zip_codes": [
+      "24064",
+      "24122"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Moorefield",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20148"
+    ],
+    "population": 5598
+  },
+  {
+    "city": "Motley",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24557",
+      "24563"
+    ],
+    "population": 743
+  },
+  {
+    "city": "Mount Clifton",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22842",
+      "22847"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Mount Crawford",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22841"
+    ],
+    "population": 531
+  },
+  {
+    "city": "Mount Hermon",
+    "county": "Pittsylvania",
+    "zip_codes": [
+      "24540"
+    ],
+    "population": 4326
+  },
+  {
+    "city": "Mount Jackson",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22842",
+      "22847"
+    ],
+    "population": 2048
+  },
+  {
+    "city": "Mount Olive",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22660"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Mount Sidney",
+    "county": "Augusta",
+    "zip_codes": [
+      "24467"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22309"
+    ],
+    "population": 13120
+  },
+  {
+    "city": "Mountain Road",
+    "county": "Halifax",
+    "zip_codes": [
+      "24558",
+      "24592"
+    ],
+    "population": 1517
+  },
+  {
+    "city": "Narrows",
+    "county": "Giles",
+    "zip_codes": [
+      "24124"
+    ],
+    "population": 2064
+  },
+  {
+    "city": "Nassawadox",
+    "county": "Northampton",
+    "zip_codes": [
+      "23350",
+      "23413"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Nathalie",
+    "county": "Halifax",
+    "zip_codes": [
+      "24577"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Navy",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20171",
+      "22033"
+    ],
+    "population": 3787
+  },
+  {
+    "city": "Nellysford",
+    "county": "Nelson",
+    "zip_codes": [
+      "22958"
+    ],
+    "population": 1623
+  },
+  {
+    "city": "Nelsonia",
+    "county": "Accomack",
+    "zip_codes": [
+      "23308",
+      "23407",
+      "23414"
+    ],
+    "population": 293
+  },
+  {
+    "city": "New Baltimore",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20119",
+      "20137",
+      "20187"
+    ],
+    "population": 11595
+  },
+  {
+    "city": "New Castle",
+    "county": "Craig",
+    "zip_codes": [
+      "24127"
+    ],
+    "population": 124
+  },
+  {
+    "city": "New Church",
+    "county": "Accomack",
+    "zip_codes": [
+      "23415"
+    ],
+    "population": 382
+  },
+  {
+    "city": "New Hope",
+    "county": "Augusta",
+    "zip_codes": [
+      "22980",
+      "24401",
+      "24431",
+      "24437",
+      "24441",
+      "24469"
+    ],
+    "population": 917
+  },
+  {
+    "city": "New Kent",
+    "county": "New Kent",
+    "zip_codes": [
+      "23124"
+    ],
+    "population": 887
+  },
+  {
+    "city": "New Market",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22844"
+    ],
+    "population": 2159
+  },
+  {
+    "city": "New River",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24129",
+      "24141"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Newington",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22079",
+      "22150",
+      "22153",
+      "22315"
+    ],
+    "population": 13824
+  },
+  {
+    "city": "Newington Forest",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22079",
+      "22153"
+    ],
+    "population": 12434
+  },
+  {
+    "city": "Newport News",
+    "county": "Newport News",
+    "zip_codes": [
+      "23601",
+      "23602",
+      "23603",
+      "23604",
+      "23605",
+      "23606",
+      "23607",
+      "23608"
+    ],
+    "population": 184774
+  },
+  {
+    "city": "Newsoms",
+    "county": "Southampton",
+    "zip_codes": [
+      "23874"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Nickelsville",
+    "county": "Scott",
+    "zip_codes": [
+      "24271"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Nokesville",
+    "county": "Prince William",
+    "zip_codes": [
+      "20181"
+    ],
+    "population": 1179
+  },
+  {
+    "city": "Norfolk",
+    "county": "Norfolk",
+    "zip_codes": [
+      "23502",
+      "23503",
+      "23504",
+      "23505",
+      "23507",
+      "23508",
+      "23509",
+      "23510",
+      "23511",
+      "23513",
+      "23517",
+      "23518",
+      "23523",
+      "23551"
+    ],
+    "population": 235037
+  },
+  {
+    "city": "North Garden",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22959"
+    ],
+    "population": 405
+  },
+  {
+    "city": "North Shore",
+    "county": "Franklin",
+    "zip_codes": [
+      "24121",
+      "24184"
+    ],
+    "population": 3708
+  },
+  {
+    "city": "North Springfield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22151"
+    ],
+    "population": 7511
+  },
+  {
+    "city": "Norton",
+    "county": "Norton",
+    "zip_codes": [
+      "24273"
+    ],
+    "population": 3620
+  },
+  {
+    "city": "Nottoway Court House",
+    "county": "Nottoway",
+    "zip_codes": [
+      "23930",
+      "23955"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20164",
+      "20166"
+    ],
+    "population": 2452
+  },
+  {
+    "city": "Oak Hall",
+    "county": "Accomack",
+    "zip_codes": [
+      "23416"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Oak Level",
+    "county": "Henry",
+    "zip_codes": [
+      "24055",
+      "24102"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Oakton",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22030",
+      "22031",
+      "22124",
+      "22181"
+    ],
+    "population": 36776
+  },
+  {
+    "city": "Occoquan",
+    "county": "Prince William",
+    "zip_codes": [
+      "22125",
+      "22192"
+    ],
+    "population": 1089
+  },
+  {
+    "city": "Onancock",
+    "county": "Accomack",
+    "zip_codes": [
+      "23417"
+    ],
+    "population": 1323
+  },
+  {
+    "city": "One Loudoun",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147"
+    ],
+    "population": 3126
+  },
+  {
+    "city": "Onley",
+    "county": "Accomack",
+    "zip_codes": [
+      "23410",
+      "23417",
+      "23418"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Opal",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20186",
+      "20187",
+      "22712"
+    ],
+    "population": 784
+  },
+  {
+    "city": "Orange",
+    "county": "Orange",
+    "zip_codes": [
+      "22960"
+    ],
+    "population": 5000
+  },
+  {
+    "city": "Orkney Springs",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22845"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Osaka",
+    "county": "Wise",
+    "zip_codes": [
+      "24216"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Painter",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Palmyra",
+    "county": "Fluvanna",
+    "zip_codes": [
+      "22963"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Pamplin City",
+    "county": "Appomattox",
+    "zip_codes": [
+      "23958"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Pantops",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22911"
+    ],
+    "population": 4328
+  },
+  {
+    "city": "Paris",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20130"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Parksley",
+    "county": "Accomack",
+    "zip_codes": [
+      "23421"
+    ],
+    "population": 782
+  },
+  {
+    "city": "Parrott",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24132"
+    ],
+    "population": 414
+  },
+  {
+    "city": "Passapatanzy",
+    "county": "King George",
+    "zip_codes": [
+      "22485"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "Pastoria",
+    "county": "Accomack",
+    "zip_codes": [
+      "23421"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Patrick Springs",
+    "county": "Patrick",
+    "zip_codes": [
+      "24133",
+      "24171"
+    ],
+    "population": 2094
+  },
+  {
+    "city": "Pearisburg",
+    "county": "Giles",
+    "zip_codes": [
+      "24134"
+    ],
+    "population": 2864
+  },
+  {
+    "city": "Pembroke",
+    "county": "Giles",
+    "zip_codes": [
+      "24136"
+    ],
+    "population": 1130
+  },
+  {
+    "city": "Penhook",
+    "county": "Franklin",
+    "zip_codes": [
+      "24137"
+    ],
+    "population": 1253
+  },
+  {
+    "city": "Pennington Gap",
+    "county": "Lee",
+    "zip_codes": [
+      "24277"
+    ],
+    "population": 2020
+  },
+  {
+    "city": "Petersburg",
+    "county": "Petersburg",
+    "zip_codes": [
+      "23803",
+      "23805"
+    ],
+    "population": 33365
+  },
+  {
+    "city": "Phenix",
+    "county": "Charlotte",
+    "zip_codes": [
+      "23923",
+      "23959"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Pimmit Hills",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22043",
+      "22101"
+    ],
+    "population": 6395
+  },
+  {
+    "city": "Piney Mountain",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22911"
+    ],
+    "population": 2478
+  },
+  {
+    "city": "Plum Creek",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24073"
+    ],
+    "population": 1067
+  },
+  {
+    "city": "Pocahontas",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24635"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Poquoson",
+    "county": "Poquoson",
+    "zip_codes": [
+      "23662"
+    ],
+    "population": 12556
+  },
+  {
+    "city": "Port Republic",
+    "county": "Rockingham",
+    "zip_codes": [
+      "24441",
+      "24471"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Port Royal",
+    "county": "Caroline",
+    "zip_codes": [
+      "22535"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Portsmouth",
+    "county": "Portsmouth",
+    "zip_codes": [
+      "23701",
+      "23702",
+      "23703",
+      "23704",
+      "23707",
+      "23708",
+      "23709"
+    ],
+    "population": 97299
+  },
+  {
+    "city": "Potomac Mills",
+    "county": "Prince William",
+    "zip_codes": [
+      "22192",
+      "22193"
+    ],
+    "population": 6122
+  },
+  {
+    "city": "Pound",
+    "county": "Wise",
+    "zip_codes": [
+      "24279"
+    ],
+    "population": 839
+  },
+  {
+    "city": "Pounding Mill",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24637"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Powhatan",
+    "county": "Powhatan",
+    "zip_codes": [
+      "23139"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Prices Fork",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24060"
+    ],
+    "population": 909
+  },
+  {
+    "city": "Prince George",
+    "county": "Prince George",
+    "zip_codes": [
+      "23875"
+    ],
+    "population": 2066
+  },
+  {
+    "city": "Pulaski",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24301"
+    ],
+    "population": 8937
+  },
+  {
+    "city": "Pungoteague",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420",
+      "23422"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Purcellville",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20132",
+      "20158"
+    ],
+    "population": 8974
+  },
+  {
+    "city": "Quantico",
+    "county": "Prince William",
+    "zip_codes": [
+      "22134"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Quantico Base",
+    "county": "Prince William",
+    "zip_codes": [
+      "22134"
+    ],
+    "population": 5491
+  },
+  {
+    "city": "Quicksburg",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22847"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Quinby",
+    "county": "Accomack",
+    "zip_codes": [
+      "23423"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Radford",
+    "county": "Radford",
+    "zip_codes": [
+      "24141",
+      "24142"
+    ],
+    "population": 16505
+  },
+  {
+    "city": "Raven",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24609",
+      "24612",
+      "24639",
+      "24649"
+    ],
+    "population": 1826
+  },
+  {
+    "city": "Ravensworth",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22151"
+    ],
+    "population": 2566
+  },
+  {
+    "city": "Rectortown",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20115",
+      "20144"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Remington",
+    "county": "Fauquier",
+    "zip_codes": [
+      "22734"
+    ],
+    "population": 811
+  },
+  {
+    "city": "Reston",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20190",
+      "20191",
+      "20194",
+      "22124",
+      "22182"
+    ],
+    "population": 63542
+  },
+  {
+    "city": "Rhoadesville",
+    "county": "Orange",
+    "zip_codes": [
+      "22542"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Rich Creek",
+    "county": "Giles",
+    "zip_codes": [
+      "24147"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Richlands",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24609",
+      "24612",
+      "24641"
+    ],
+    "population": 5188
+  },
+  {
+    "city": "Richmond",
+    "county": "Richmond",
+    "zip_codes": [
+      "23173",
+      "23219",
+      "23220",
+      "23221",
+      "23222",
+      "23223",
+      "23224",
+      "23225",
+      "23226",
+      "23227",
+      "23230",
+      "23231",
+      "23234",
+      "23235",
+      "23284",
+      "23298"
+    ],
+    "population": 227595
+  },
+  {
+    "city": "Ridgeway",
+    "county": "Henry",
+    "zip_codes": [
+      "24148"
+    ],
+    "population": 1082
+  },
+  {
+    "city": "Riner",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24149"
+    ],
+    "population": 1037
+  },
+  {
+    "city": "Rio",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22901"
+    ],
+    "population": 1213
+  },
+  {
+    "city": "Ripplemead",
+    "county": "Giles",
+    "zip_codes": [
+      "24150"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Rivanna",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22947"
+    ],
+    "population": 2258
+  },
+  {
+    "city": "Riverdale",
+    "county": "Halifax",
+    "zip_codes": [
+      "24592"
+    ],
+    "population": 1129
+  },
+  {
+    "city": "Riverview",
+    "county": "Wise",
+    "zip_codes": [
+      "24230"
+    ],
+    "population": 652
+  },
+  {
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "zip_codes": [
+      "24011",
+      "24012",
+      "24013",
+      "24014",
+      "24015",
+      "24016",
+      "24017",
+      "24018",
+      "24019",
+      "24022"
+    ],
+    "population": 98677
+  },
+  {
+    "city": "Rockwood",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23235",
+      "23236"
+    ],
+    "population": 8834
+  },
+  {
+    "city": "Rocky Gap",
+    "county": "Bland",
+    "zip_codes": [
+      "24366"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Rocky Mount",
+    "county": "Franklin",
+    "zip_codes": [
+      "24151"
+    ],
+    "population": 4926
+  },
+  {
+    "city": "Rose Hill",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22303",
+      "22306",
+      "22310",
+      "22315"
+    ],
+    "population": 21484
+  },
+  {
+    "city": "Rose Hill",
+    "county": "Lee",
+    "zip_codes": [
+      "24281"
+    ],
+    "population": 551
+  },
+  {
+    "city": "Round Hill",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20141"
+    ],
+    "population": 628
+  },
+  {
+    "city": "Ruckersville",
+    "county": "Greene",
+    "zip_codes": [
+      "22968"
+    ],
+    "population": 1314
+  },
+  {
+    "city": "Rural Retreat",
+    "county": "Wythe",
+    "zip_codes": [
+      "24368"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Rushmere",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23430"
+    ],
+    "population": 1087
+  },
+  {
+    "city": "Rustburg",
+    "county": "Campbell",
+    "zip_codes": [
+      "24588"
+    ],
+    "population": 1276
+  },
+  {
+    "city": "Salem",
+    "county": "Salem",
+    "zip_codes": [
+      "24153"
+    ],
+    "population": 25477
+  },
+  {
+    "city": "Saltville",
+    "county": "Smyth",
+    "zip_codes": [
+      "24370"
+    ],
+    "population": 2056
+  },
+  {
+    "city": "Saluda",
+    "county": "Middlesex",
+    "zip_codes": [
+      "23149"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Sandston",
+    "county": "Henrico",
+    "zip_codes": [
+      "23150",
+      "23231",
+      "23250"
+    ],
+    "population": 7011
+  },
+  {
+    "city": "Sandy Level",
+    "county": "Henry",
+    "zip_codes": [
+      "24054",
+      "24148"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Sanford",
+    "county": "Accomack",
+    "zip_codes": [
+      "23359",
+      "23426",
+      "23442"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Saumsville",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22644"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Savage Town",
+    "county": "Accomack",
+    "zip_codes": [
+      "23420"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Savageville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23417"
+    ],
+    "population": 552
+  },
+  {
+    "city": "Saxis",
+    "county": "Accomack",
+    "zip_codes": [
+      "23427"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Schooner Bay",
+    "county": "Accomack",
+    "zip_codes": [
+      "23417"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Schuyler",
+    "county": "Nelson",
+    "zip_codes": [
+      "22969"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Scotland",
+    "county": "Surry",
+    "zip_codes": [
+      "23883"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Scottsburg",
+    "county": "Halifax",
+    "zip_codes": [
+      "24589"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Scottsville",
+    "county": "Albemarle",
+    "zip_codes": [
+      "24590"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Sedley",
+    "county": "Southampton",
+    "zip_codes": [
+      "23878"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Selma",
+    "county": "Alleghany",
+    "zip_codes": [
+      "24474"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Seven Corners",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22041",
+      "22044",
+      "22203"
+    ],
+    "population": 9171
+  },
+  {
+    "city": "Seven Mile Ford",
+    "county": "Smyth",
+    "zip_codes": [
+      "24354"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Shawneeland",
+    "county": "Frederick",
+    "zip_codes": [
+      "22602"
+    ],
+    "population": 2653
+  },
+  {
+    "city": "Shawsville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "24087",
+      "24162"
+    ],
+    "population": 1725
+  },
+  {
+    "city": "Shenandoah",
+    "county": "Page",
+    "zip_codes": [
+      "22849"
+    ],
+    "population": 3131
+  },
+  {
+    "city": "Shenandoah Farms",
+    "county": "Warren",
+    "zip_codes": [
+      "22630",
+      "22642"
+    ],
+    "population": 3956
+  },
+  {
+    "city": "Shenandoah Retreat",
+    "county": "Clarke",
+    "zip_codes": [
+      "20135"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Shenandoah Shores",
+    "county": "Warren",
+    "zip_codes": [
+      "22630"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Sherando",
+    "county": "Augusta",
+    "zip_codes": [
+      "22952",
+      "24477"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Shipman",
+    "county": "Nelson",
+    "zip_codes": [
+      "22971"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Short Pump",
+    "county": "Henrico",
+    "zip_codes": [
+      "23059",
+      "23060",
+      "23233"
+    ],
+    "population": 28177
+  },
+  {
+    "city": "Singers Glen",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22834",
+      "22850"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Skyland Estates",
+    "county": "Warren",
+    "zip_codes": [
+      "22642"
+    ],
+    "population": 607
+  },
+  {
+    "city": "Smithfield",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23430"
+    ],
+    "population": 8729
+  },
+  {
+    "city": "Snowville",
+    "county": "Pulaski",
+    "zip_codes": [
+      "24347"
+    ],
+    "population": 124
+  },
+  {
+    "city": "South Boston",
+    "county": "Halifax",
+    "zip_codes": [
+      "24592"
+    ],
+    "population": 7896
+  },
+  {
+    "city": "South Hill",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23950",
+      "23970"
+    ],
+    "population": 4737
+  },
+  {
+    "city": "South Riding",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20152"
+    ],
+    "population": 34200
+  },
+  {
+    "city": "South Run",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22015",
+      "22039",
+      "22153"
+    ],
+    "population": 6714
+  },
+  {
+    "city": "Southampton Meadows",
+    "county": "Southampton",
+    "zip_codes": [
+      "23851"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Southern Gateway",
+    "county": "Stafford",
+    "zip_codes": [
+      "22406"
+    ],
+    "population": 2224
+  },
+  {
+    "city": "Southside Chesconessex",
+    "county": "Accomack",
+    "zip_codes": [
+      "23417"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Sperryville",
+    "county": "Rappahannock",
+    "zip_codes": [
+      "22740"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Spotsylvania Courthouse",
+    "county": "Spotsylvania",
+    "zip_codes": [
+      "22551",
+      "22553"
+    ],
+    "population": 6793
+  },
+  {
+    "city": "Springfield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22150",
+      "22151"
+    ],
+    "population": 30894
+  },
+  {
+    "city": "Springville",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24630"
+    ],
+    "population": 953
+  },
+  {
+    "city": "St. Charles",
+    "county": "Lee",
+    "zip_codes": [
+      "24282"
+    ],
+    "population": 84
+  },
+  {
+    "city": "St. Paul",
+    "county": "Russell",
+    "zip_codes": [
+      "24283"
+    ],
+    "population": 1046
+  },
+  {
+    "city": "Stafford Courthouse",
+    "county": "Stafford",
+    "zip_codes": [
+      "22554"
+    ],
+    "population": 5780
+  },
+  {
+    "city": "Stanardsville",
+    "county": "Greene",
+    "zip_codes": [
+      "22973"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Stanley",
+    "county": "Page",
+    "zip_codes": [
+      "22851"
+    ],
+    "population": 1976
+  },
+  {
+    "city": "Stanleytown",
+    "county": "Henry",
+    "zip_codes": [
+      "24055",
+      "24168"
+    ],
+    "population": 1323
+  },
+  {
+    "city": "Staunton",
+    "county": "Staunton",
+    "zip_codes": [
+      "24401"
+    ],
+    "population": 25765
+  },
+  {
+    "city": "Stephens City",
+    "county": "Frederick",
+    "zip_codes": [
+      "22655"
+    ],
+    "population": 2338
+  },
+  {
+    "city": "Sterling",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20164",
+      "20166"
+    ],
+    "population": 31251
+  },
+  {
+    "city": "Stevens Creek",
+    "county": "Grayson",
+    "zip_codes": [
+      "24330"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Stewartsville",
+    "county": "Bedford",
+    "zip_codes": [
+      "24095",
+      "24179"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Stickleyville",
+    "county": "Lee",
+    "zip_codes": [
+      "24244"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Stone Ridge",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20105",
+      "20152"
+    ],
+    "population": 16340
+  },
+  {
+    "city": "Stonega",
+    "county": "Wise",
+    "zip_codes": [
+      "24216"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Stony Creek",
+    "county": "Sussex",
+    "zip_codes": [
+      "23882"
+    ],
+    "population": 360
+  },
+  {
+    "city": "Strasburg",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22657"
+    ],
+    "population": 7162
+  },
+  {
+    "city": "Stuart",
+    "county": "Patrick",
+    "zip_codes": [
+      "24171"
+    ],
+    "population": 1681
+  },
+  {
+    "city": "Stuarts Draft",
+    "county": "Augusta",
+    "zip_codes": [
+      "22980",
+      "24477"
+    ],
+    "population": 11920
+  },
+  {
+    "city": "Sudley",
+    "county": "Prince William",
+    "zip_codes": [
+      "20109"
+    ],
+    "population": 18420
+  },
+  {
+    "city": "Suffolk",
+    "county": "Suffolk",
+    "zip_codes": [
+      "23432",
+      "23433",
+      "23434",
+      "23435",
+      "23436",
+      "23437",
+      "23438"
+    ],
+    "population": 96638
+  },
+  {
+    "city": "Sugar Grove",
+    "county": "Smyth",
+    "zip_codes": [
+      "24375"
+    ],
+    "population": 598
+  },
+  {
+    "city": "Sugarland Run",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20164"
+    ],
+    "population": 12920
+  },
+  {
+    "city": "Sully Square",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20151",
+      "20171"
+    ],
+    "population": 2668
+  },
+  {
+    "city": "Surry",
+    "county": "Surry",
+    "zip_codes": [
+      "23846",
+      "23883"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Sussex",
+    "county": "Sussex",
+    "zip_codes": [
+      "23882",
+      "23884",
+      "23890"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Tacoma",
+    "county": "Wise",
+    "zip_codes": [
+      "24230"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Tangier",
+    "county": "Accomack",
+    "zip_codes": [
+      "23440"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Tappahannock",
+    "county": "Essex",
+    "zip_codes": [
+      "22560"
+    ],
+    "population": 1865
+  },
+  {
+    "city": "Tasley",
+    "county": "Accomack",
+    "zip_codes": [
+      "23301",
+      "23417",
+      "23441"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Tazewell",
+    "county": "Tazewell",
+    "zip_codes": [
+      "24630",
+      "24651"
+    ],
+    "population": 4419
+  },
+  {
+    "city": "Temperanceville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23442"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Templeton",
+    "county": "Prince George",
+    "zip_codes": [
+      "23805"
+    ],
+    "population": 85
+  },
+  {
+    "city": "The Plains",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20198"
+    ],
+    "population": 114
+  },
+  {
+    "city": "The University of Virginia's College at Wise",
+    "county": "Wise",
+    "zip_codes": [
+      "24293"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Thynedale",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23924"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Timberlake",
+    "county": "Campbell",
+    "zip_codes": [
+      "24501",
+      "24502",
+      "24550",
+      "24551"
+    ],
+    "population": 12833
+  },
+  {
+    "city": "Timberville",
+    "county": "Rockingham",
+    "zip_codes": [
+      "22815",
+      "22853"
+    ],
+    "population": 2998
+  },
+  {
+    "city": "Toms Brook",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22660"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Triangle",
+    "county": "Prince William",
+    "zip_codes": [
+      "22026",
+      "22172"
+    ],
+    "population": 11265
+  },
+  {
+    "city": "Troutdale",
+    "county": "Grayson",
+    "zip_codes": [
+      "24378"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Troutville",
+    "county": "Botetourt",
+    "zip_codes": [
+      "24175"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Tuckahoe",
+    "county": "Henrico",
+    "zip_codes": [
+      "23226",
+      "23229",
+      "23233",
+      "23238"
+    ],
+    "population": 48610
+  },
+  {
+    "city": "Twin Lakes",
+    "county": "Greene",
+    "zip_codes": [
+      "22968"
+    ],
+    "population": 1794
+  },
+  {
+    "city": "Tysons",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22102",
+      "22182"
+    ],
+    "population": 28022
+  },
+  {
+    "city": "Union Hall",
+    "county": "Franklin",
+    "zip_codes": [
+      "24176"
+    ],
+    "population": 1468
+  },
+  {
+    "city": "Union Level",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "23970"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Union Mill",
+    "county": "Fairfax",
+    "zip_codes": [
+      "20124",
+      "22030",
+      "22039"
+    ],
+    "population": 4351
+  },
+  {
+    "city": "Unionville",
+    "county": "Orange",
+    "zip_codes": [
+      "22567"
+    ],
+    "population": 534
+  },
+  {
+    "city": "University Center",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20147"
+    ],
+    "population": 4107
+  },
+  {
+    "city": "University of Virginia",
+    "county": "Albemarle",
+    "zip_codes": [
+      "22903",
+      "22904"
+    ],
+    "population": 9159
+  },
+  {
+    "city": "Upperville",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20184"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Urbanna",
+    "county": "Middlesex",
+    "zip_codes": [
+      "23175"
+    ],
+    "population": 460
+  },
+  {
+    "city": "Vansant",
+    "county": "Buchanan",
+    "zip_codes": [
+      "24614",
+      "24631",
+      "24656"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Verona",
+    "county": "Augusta",
+    "zip_codes": [
+      "24482"
+    ],
+    "population": 4274
+  },
+  {
+    "city": "Victoria",
+    "county": "Lunenburg",
+    "zip_codes": [
+      "23974"
+    ],
+    "population": 1844
+  },
+  {
+    "city": "Vienna",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22180"
+    ],
+    "population": 16369
+  },
+  {
+    "city": "Villa Heights",
+    "county": "Henry",
+    "zip_codes": [
+      "24112"
+    ],
+    "population": 647
+  },
+  {
+    "city": "Vinton",
+    "county": "Roanoke",
+    "zip_codes": [
+      "24179"
+    ],
+    "population": 8038
+  },
+  {
+    "city": "Virgilina",
+    "county": "Halifax",
+    "zip_codes": [
+      "24598"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Virginia Beach",
+    "county": "Virginia Beach",
+    "zip_codes": [
+      "23451",
+      "23452",
+      "23453",
+      "23454",
+      "23455",
+      "23456",
+      "23457",
+      "23459",
+      "23460",
+      "23461",
+      "23462",
+      "23464"
+    ],
+    "population": 457066
+  },
+  {
+    "city": "Wachapreague",
+    "county": "Accomack",
+    "zip_codes": [
+      "23480"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Wakefield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22003"
+    ],
+    "population": 12024
+  },
+  {
+    "city": "Wakefield",
+    "county": "Sussex",
+    "zip_codes": [
+      "23888"
+    ],
+    "population": 1082
+  },
+  {
+    "city": "Warfield",
+    "county": "Brunswick",
+    "zip_codes": [
+      "23889"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Warm Springs",
+    "county": "Bath",
+    "zip_codes": [
+      "24484"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Warrenton",
+    "county": "Fauquier",
+    "zip_codes": [
+      "20186",
+      "20187"
+    ],
+    "population": 10151
+  },
+  {
+    "city": "Warsaw",
+    "county": "Richmond",
+    "zip_codes": [
+      "22572"
+    ],
+    "population": 2324
+  },
+  {
+    "city": "Washington",
+    "county": "Rappahannock",
+    "zip_codes": [
+      "22747"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Waterford",
+    "county": "Loudoun",
+    "zip_codes": [
+      "20197"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Wattsville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23337",
+      "23415"
+    ],
+    "population": 1425
+  },
+  {
+    "city": "Waverly",
+    "county": "Sussex",
+    "zip_codes": [
+      "23890"
+    ],
+    "population": 2629
+  },
+  {
+    "city": "Waynesboro",
+    "county": "Waynesboro",
+    "zip_codes": [
+      "22980"
+    ],
+    "population": 22574
+  },
+  {
+    "city": "Weber City",
+    "county": "Scott",
+    "zip_codes": [
+      "24290"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Weems",
+    "county": "Lancaster",
+    "zip_codes": [
+      "22576"
+    ],
+    "population": 259
+  },
+  {
+    "city": "West Falls Church",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22042",
+      "22044"
+    ],
+    "population": 30660
+  },
+  {
+    "city": "West Point",
+    "county": "King William",
+    "zip_codes": [
+      "23181"
+    ],
+    "population": 3439
+  },
+  {
+    "city": "West Springfield",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22152",
+      "22153"
+    ],
+    "population": 22905
+  },
+  {
+    "city": "Westlake Corner",
+    "county": "Franklin",
+    "zip_codes": [
+      "24101",
+      "24121",
+      "24184"
+    ],
+    "population": 1824
+  },
+  {
+    "city": "Weyers Cave",
+    "county": "Augusta",
+    "zip_codes": [
+      "24486"
+    ],
+    "population": 2243
+  },
+  {
+    "city": "White Stone",
+    "county": "Lancaster",
+    "zip_codes": [
+      "22578"
+    ],
+    "population": 355
+  },
+  {
+    "city": "Whitesville",
+    "county": "Accomack",
+    "zip_codes": [
+      "23421"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Williamsburg",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "23185",
+      "23188"
+    ],
+    "population": 15564
+  },
+  {
+    "city": "Willis Wharf",
+    "county": "Northampton",
+    "zip_codes": [
+      "23350",
+      "23486"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Winchester",
+    "county": "Winchester",
+    "zip_codes": [
+      "22601"
+    ],
+    "population": 27981
+  },
+  {
+    "city": "Windsor",
+    "county": "Isle Of Wight",
+    "zip_codes": [
+      "23487"
+    ],
+    "population": 2808
+  },
+  {
+    "city": "Wintergreen",
+    "county": "Nelson",
+    "zip_codes": [
+      "22958",
+      "22967"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Wise",
+    "county": "Wise",
+    "zip_codes": [
+      "24293"
+    ],
+    "population": 2940
+  },
+  {
+    "city": "Wolf Trap",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22181",
+      "22182"
+    ],
+    "population": 16020
+  },
+  {
+    "city": "Woodbridge",
+    "county": "Prince William",
+    "zip_codes": [
+      "22191"
+    ],
+    "population": 43443
+  },
+  {
+    "city": "Woodburn",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22003",
+      "22031",
+      "22042"
+    ],
+    "population": 10046
+  },
+  {
+    "city": "Woodlake",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "23112"
+    ],
+    "population": 7373
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Carroll",
+    "zip_codes": [
+      "24343",
+      "24381"
+    ],
+    "population": 2461
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Fairfax",
+    "zip_codes": [
+      "22309"
+    ],
+    "population": 21828
+  },
+  {
+    "city": "Woodstock",
+    "county": "Shenandoah",
+    "zip_codes": [
+      "22664"
+    ],
+    "population": 5851
+  },
+  {
+    "city": "Wyndham",
+    "county": "Henrico",
+    "zip_codes": [
+      "23059"
+    ],
+    "population": 12084
+  },
+  {
+    "city": "Wytheville",
+    "county": "Wythe",
+    "zip_codes": [
+      "24382"
+    ],
+    "population": 8224
+  },
+  {
+    "city": "Yogaville",
+    "county": "Buckingham",
+    "zip_codes": [
+      "23921"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Yorkshire",
+    "county": "Prince William",
+    "zip_codes": [
+      "20111"
+    ],
+    "population": 10678
+  },
+  {
+    "city": "Yorktown",
+    "county": "York",
+    "zip_codes": [
+      "23690"
+    ],
+    "population": 182
+  }
+]

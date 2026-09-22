@@ -1,0 +1,2886 @@
+[
+  {
+    "city": "Adak",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99546"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Akhiok",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Akiachak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99551"
+    ],
+    "population": 629
+  },
+  {
+    "city": "Akiak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99552"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Akutan",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99553"
+    ],
+    "population": 737
+  },
+  {
+    "city": "Alakanuk",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99554"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Alatna",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99720"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Alcan Border",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99764"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Aleknagik",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99555"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Aleneva",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Allakaket",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99720"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Ambler",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99786"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Anaktuvuk Pass",
+    "county": "North Slope",
+    "zip_codes": [
+      "99721"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Anchor Point",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99556",
+      "99603"
+    ],
+    "population": 2291
+  },
+  {
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "zip_codes": [
+      "99501",
+      "99502",
+      "99503",
+      "99504",
+      "99505",
+      "99506",
+      "99507",
+      "99508",
+      "99513",
+      "99515",
+      "99516",
+      "99517",
+      "99518",
+      "99530",
+      "99540",
+      "99567",
+      "99577",
+      "99587"
+    ],
+    "population": 289069
+  },
+  {
+    "city": "Anderson",
+    "county": "Denali",
+    "zip_codes": [
+      "99704",
+      "99743",
+      "99744"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Angoon",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99820"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Aniak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99557"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Anvik",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99558"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Arctic Village",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99722"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Atka",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99547"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Atmautluak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Atqasuk",
+    "county": "North Slope",
+    "zip_codes": [
+      "99791"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Attu Station",
+    "county": "Aleutians West",
+    "population": 15
+  },
+  {
+    "city": "Badger",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99705",
+      "99712"
+    ],
+    "population": 19033
+  },
+  {
+    "city": "Bear Creek",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99664"
+    ],
+    "population": 1360
+  },
+  {
+    "city": "Beaver",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99724"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Beluga",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99682"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Bethel",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 6313
+  },
+  {
+    "city": "Bettles",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99726"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Big Delta",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Big Lake",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99623",
+      "99652"
+    ],
+    "population": 3291
+  },
+  {
+    "city": "Birch Creek",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99730"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Brevig Mission",
+    "county": "Nome",
+    "zip_codes": [
+      "99785"
+    ],
+    "population": 691
+  },
+  {
+    "city": "Buckland",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99727"
+    ],
+    "population": 629
+  },
+  {
+    "city": "Buffalo Soapstone",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 799
+  },
+  {
+    "city": "Butte",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 3905
+  },
+  {
+    "city": "Cantwell",
+    "county": "Denali",
+    "zip_codes": [
+      "99729"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Central",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99730"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Chalkyitsik",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99788"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Chase",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99676"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Chefornak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99561"
+    ],
+    "population": 530
+  },
+  {
+    "city": "Chena Ridge",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99709"
+    ],
+    "population": 5927
+  },
+  {
+    "city": "Chenega",
+    "county": "Chugach Census Area",
+    "zip_codes": [
+      "99574"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Chevak",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99563"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Chickaloon",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99674"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Chicken",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99732"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Chignik",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99564"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Chignik Lagoon",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99565"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Chignik Lake",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99548"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Chiniak",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Chisana",
+    "county": "Copper River Census Area",
+    "population": 0
+  },
+  {
+    "city": "Chistochina",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Chitina",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99566"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Chuathbaluk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99557"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Circle",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99733"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Clam Gulch",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99568"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Clark's Point",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99569"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Coffman Cove",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99918"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Cohoe",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99568",
+      "99610"
+    ],
+    "population": 1619
+  },
+  {
+    "city": "Cold Bay",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99571"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Coldfoot",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99701"
+    ],
+    "population": 300
+  },
+  {
+    "city": "College",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99709",
+      "99775"
+    ],
+    "population": 11730
+  },
+  {
+    "city": "Cooper Landing",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99572",
+      "99664"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Copper Center",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Cordova",
+    "county": "Chugach Census Area",
+    "zip_codes": [
+      "99574"
+    ],
+    "population": 2405
+  },
+  {
+    "city": "Covenant Life",
+    "county": "Haines",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Craig",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99921"
+    ],
+    "population": 1063
+  },
+  {
+    "city": "Crooked Creek",
+    "county": "Bethel",
+    "zip_codes": [
+      "99575"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Crown Point",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99664"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Deering",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99736"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Delta Junction",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 1154
+  },
+  {
+    "city": "Deltana",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 2064
+  },
+  {
+    "city": "Denali Park",
+    "county": "Denali",
+    "zip_codes": [
+      "99729",
+      "99755"
+    ],
+    "population": 787
+  },
+  {
+    "city": "Diamond Ridge",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99556",
+      "99603"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Dillingham",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99576"
+    ],
+    "population": 2084
+  },
+  {
+    "city": "Diomede",
+    "county": "Nome",
+    "zip_codes": [
+      "99762"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Dot Lake",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Dot Lake Village",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Dry Creek",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Eagle",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99738"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Eagle Village",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99738"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Eareckson Station",
+    "county": "Aleutians West",
+    "population": 144
+  },
+  {
+    "city": "Edna Bay",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99921"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Eek",
+    "county": "Bethel",
+    "zip_codes": [
+      "99578"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Egegik",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99579"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Eielson AFB",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99702",
+      "99705"
+    ],
+    "population": 3133
+  },
+  {
+    "city": "Ekwok",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99580"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Elfin Cove",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99825"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Elim",
+    "county": "Nome",
+    "zip_codes": [
+      "99739"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Emmonak",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99581"
+    ],
+    "population": 945
+  },
+  {
+    "city": "Ester",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99709",
+      "99725"
+    ],
+    "population": 2784
+  },
+  {
+    "city": "Eureka Roadhouse",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99588",
+      "99674"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Evansville",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99726"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Excursion Inlet",
+    "county": "Haines",
+    "zip_codes": [
+      "99827",
+      "99850"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Fairbanks",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99701",
+      "99703",
+      "99709",
+      "99712"
+    ],
+    "population": 32242
+  },
+  {
+    "city": "False Pass",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99583"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Farm Loop",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 2940
+  },
+  {
+    "city": "Farmers Loop",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99709",
+      "99712"
+    ],
+    "population": 4887
+  },
+  {
+    "city": "Ferry",
+    "county": "Denali",
+    "zip_codes": [
+      "99743"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Fishhook",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645",
+      "99654"
+    ],
+    "population": 5461
+  },
+  {
+    "city": "Flat",
+    "county": "Yukon-Koyukuk",
+    "population": 0
+  },
+  {
+    "city": "Fort Greely",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Fort Yukon",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99740"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Four Mile Road",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99760"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fox",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99712"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Fox River",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 605
+  },
+  {
+    "city": "Fritz Creek",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 2432
+  },
+  {
+    "city": "Funny River",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99669"
+    ],
+    "population": 1127
+  },
+  {
+    "city": "Gakona",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Galena",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99741"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Gambell",
+    "county": "Nome",
+    "zip_codes": [
+      "99742"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Game Creek",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99829"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Gateway",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645",
+      "99654"
+    ],
+    "population": 6716
+  },
+  {
+    "city": "Glacier View",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99674"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Glennallen",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99588"
+    ],
+    "population": 601
+  },
+  {
+    "city": "Goldstream",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99709"
+    ],
+    "population": 3238
+  },
+  {
+    "city": "Golovin",
+    "county": "Nome",
+    "zip_codes": [
+      "99762"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Goodnews Bay",
+    "county": "Bethel",
+    "zip_codes": [
+      "99589"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Grayling",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99590"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Gulkana",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586",
+      "99588"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Gustavus",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99826"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Haines",
+    "county": "Haines",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 1781
+  },
+  {
+    "city": "Halibut Cove",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Happy Valley",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99556",
+      "99639"
+    ],
+    "population": 773
+  },
+  {
+    "city": "Harding-Birch Lakes",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99714"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Healy",
+    "county": "Denali",
+    "zip_codes": [
+      "99743",
+      "99760"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Healy Lake",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99706"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Hobart Bay",
+    "county": "Petersburg Borough",
+    "population": 0
+  },
+  {
+    "city": "Hollis",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99921"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Holy Cross",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99602"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Homer",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 5750
+  },
+  {
+    "city": "Hoonah",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99829"
+    ],
+    "population": 894
+  },
+  {
+    "city": "Hooper Bay",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99604"
+    ],
+    "population": 1008
+  },
+  {
+    "city": "Hope",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99605"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Houston",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99652",
+      "99694"
+    ],
+    "population": 1693
+  },
+  {
+    "city": "Hughes",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99745"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Huslia",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99746"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Hydaburg",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99922"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Hyder",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99923"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Igiugig",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99613"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Iliamna",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99606"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Ivanof Bay",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99695"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Juneau city and",
+    "county": "Juneau",
+    "zip_codes": [
+      "99801",
+      "99824"
+    ],
+    "population": 31969
+  },
+  {
+    "city": "Kachemak",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 835
+  },
+  {
+    "city": "Kake",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99830"
+    ],
+    "population": 598
+  },
+  {
+    "city": "Kaktovik",
+    "county": "North Slope",
+    "zip_codes": [
+      "99747"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Kalifornsky",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99610",
+      "99611",
+      "99669"
+    ],
+    "population": 8136
+  },
+  {
+    "city": "Kaltag",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99748"
+    ],
+    "population": 146
+  },
+  {
+    "city": "Karluk",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99608"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Kasaan",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99919"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Kasigluk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99609"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Kasilof",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99610"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Kenai",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99611"
+    ],
+    "population": 7562
+  },
+  {
+    "city": "Kenny Lake",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Ketchikan",
+    "county": "Ketchikan Gateway",
+    "zip_codes": [
+      "99901"
+    ],
+    "population": 8151
+  },
+  {
+    "city": "Kiana",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99749"
+    ],
+    "population": 471
+  },
+  {
+    "city": "King Cove",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99612"
+    ],
+    "population": 1204
+  },
+  {
+    "city": "King Salmon",
+    "county": "Bristol Bay",
+    "zip_codes": [
+      "99613"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Kipnuk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99614"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Kivalina",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99750"
+    ],
+    "population": 813
+  },
+  {
+    "city": "Klawock",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99925"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Klukwan",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Knik River",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 858
+  },
+  {
+    "city": "Knik-Fairview",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99623",
+      "99652",
+      "99654"
+    ],
+    "population": 18921
+  },
+  {
+    "city": "Kobuk",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99751"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Kodiak",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 5497
+  },
+  {
+    "city": "Kodiak Station",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 1941
+  },
+  {
+    "city": "Kokhanok",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99606"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Koliganek",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99576"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Kongiganak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Kotlik",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99620"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Kotzebue",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99752"
+    ],
+    "population": 3046
+  },
+  {
+    "city": "Koyuk",
+    "county": "Nome",
+    "zip_codes": [
+      "99753"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Koyukuk",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99754"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Kupreanof",
+    "county": "Petersburg Borough",
+    "zip_codes": [
+      "99833"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Kwethluk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99621"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Kwigillingok",
+    "county": "Bethel",
+    "zip_codes": [
+      "99622"
+    ],
+    "population": 461
+  },
+  {
+    "city": "Lake Louise",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99588"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lake Minchumina",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99757"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Larsen Bay",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99624"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Lazy Mountain",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Levelock",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99625"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Lime Village",
+    "county": "Bethel",
+    "zip_codes": [
+      "99557"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Livengood",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99790"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Loring",
+    "county": "Ketchikan Gateway",
+    "zip_codes": [
+      "99901"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lowell Point",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99664"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lower Kalskag",
+    "county": "Bethel",
+    "zip_codes": [
+      "99626"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Lutak",
+    "county": "Haines",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Manley Hot Springs",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99756"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Manokotak",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99628"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Marshall",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99585"
+    ],
+    "population": 426
+  },
+  {
+    "city": "McCarthy",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99566"
+    ],
+    "population": 2
+  },
+  {
+    "city": "McGrath",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99627"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Meadow Lakes",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99623",
+      "99652",
+      "99654",
+      "99688"
+    ],
+    "population": 8994
+  },
+  {
+    "city": "Mekoryuk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99630"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Mendeltna",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99588"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Mentasta Lake",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586",
+      "99780"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Mertarvik",
+    "county": "Bethel",
+    "population": 0
+  },
+  {
+    "city": "Metlakatla",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99926"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Mill Bay",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 3541
+  },
+  {
+    "city": "Minto",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99758"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Moose Creek",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99705"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Moose Pass",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99631"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Mosquito Lake",
+    "county": "Haines",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Mountain Village",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99632"
+    ],
+    "population": 872
+  },
+  {
+    "city": "Mud Bay",
+    "county": "Haines",
+    "zip_codes": [
+      "99827"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Nabesna",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Naknek",
+    "county": "Bristol Bay",
+    "zip_codes": [
+      "99633"
+    ],
+    "population": 458
+  },
+  {
+    "city": "Nanwalek",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Napakiak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99634"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Napaskiak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 563
+  },
+  {
+    "city": "Naukati Bay",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99921"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Nelchina",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99588"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Nelson Lagoon",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99571"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Nenana",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99760"
+    ],
+    "population": 527
+  },
+  {
+    "city": "New Stuyahok",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99636"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Newhalen",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99606"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Newtok",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Nightmute",
+    "county": "Bethel",
+    "zip_codes": [
+      "99690"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Nikiski",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99611"
+    ],
+    "population": 4656
+  },
+  {
+    "city": "Nikolaevsk",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99556"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Nikolai",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99691"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Nikolski",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99638"
+    ],
+    "population": 1
+  },
+  {
+    "city": "Ninilchik",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99568",
+      "99639"
+    ],
+    "population": 1009
+  },
+  {
+    "city": "Noatak",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99761"
+    ],
+    "population": 700
+  },
+  {
+    "city": "Nome",
+    "county": "Nome",
+    "zip_codes": [
+      "99762"
+    ],
+    "population": 3668
+  },
+  {
+    "city": "Nondalton",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99640"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Noorvik",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99763"
+    ],
+    "population": 722
+  },
+  {
+    "city": "North Lakes",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645",
+      "99654"
+    ],
+    "population": 10583
+  },
+  {
+    "city": "North Pole",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99705"
+    ],
+    "population": 2663
+  },
+  {
+    "city": "Northway",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99764"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Nuiqsut",
+    "county": "North Slope",
+    "zip_codes": [
+      "99789"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Nulato",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99765"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Nunam Iqua",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99666"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Nunapitchuk",
+    "county": "Bethel",
+    "zip_codes": [
+      "99641"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Old Harbor",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615",
+      "99643"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Oscarville",
+    "county": "Bethel",
+    "zip_codes": [
+      "99559"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Ouzinkie",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99644"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Palmer",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645"
+    ],
+    "population": 6141
+  },
+  {
+    "city": "Paxson",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Pedro Bay",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99647"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Pelican",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99832"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Perryville",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99648"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Petersburg",
+    "county": "Petersburg Borough",
+    "zip_codes": [
+      "99833"
+    ],
+    "population": 3346
+  },
+  {
+    "city": "Petersville",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99683"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Pilot Point",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99649"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Pilot Station",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99650"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Pitkas Point",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99658"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Platinum",
+    "county": "Bethel",
+    "zip_codes": [
+      "99651"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99712"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Point Baker",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99927"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Point Hope",
+    "county": "North Slope",
+    "zip_codes": [
+      "99766"
+    ],
+    "population": 721
+  },
+  {
+    "city": "Point Lay",
+    "county": "North Slope",
+    "zip_codes": [
+      "99759"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Point MacKenzie",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99623"
+    ],
+    "population": 1728
+  },
+  {
+    "city": "Point Possession",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99611"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pope-Vannoy Landing",
+    "county": "Lake and Peninsula",
+    "population": 0
+  },
+  {
+    "city": "Port Alexander",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99836"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Port Alsworth",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99653"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Port Clarence",
+    "county": "Nome",
+    "population": 17
+  },
+  {
+    "city": "Port Graham",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99603"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Port Heiden",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99549"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Port Lions",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99550"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Port Protection",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99927"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Portage Creek",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99576"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Primrose",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99664"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Prudhoe Bay",
+    "county": "North Slope",
+    "zip_codes": [
+      "99519",
+      "99734"
+    ],
+    "population": 1971
+  },
+  {
+    "city": "Quinhagak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99655"
+    ],
+    "population": 1302
+  },
+  {
+    "city": "Rampart",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99767"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Red Devil",
+    "county": "Bethel",
+    "zip_codes": [
+      "99656"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Red Dog Mine",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99752"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ridgeway",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99611",
+      "99669"
+    ],
+    "population": 2174
+  },
+  {
+    "city": "Ruby",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99768"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Russian Mission",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99657"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Salamatof",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99611"
+    ],
+    "population": 1201
+  },
+  {
+    "city": "Salcha",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99714"
+    ],
+    "population": 1076
+  },
+  {
+    "city": "Sand Point",
+    "county": "Aleutians East",
+    "zip_codes": [
+      "99661"
+    ],
+    "population": 1146
+  },
+  {
+    "city": "Savoonga",
+    "county": "Nome",
+    "zip_codes": [
+      "99769"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Saxman",
+    "county": "Ketchikan Gateway",
+    "zip_codes": [
+      "99901"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Scammon Bay",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99662"
+    ],
+    "population": 491
+  },
+  {
+    "city": "Selawik",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99770"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Seldovia",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99663"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Seldovia Village",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99663"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Seward",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99664"
+    ],
+    "population": 2735
+  },
+  {
+    "city": "Shageluk",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99665"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Shaktoolik",
+    "county": "Nome",
+    "zip_codes": [
+      "99771"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Shishmaref",
+    "county": "Nome",
+    "zip_codes": [
+      "99772"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Shungnak",
+    "county": "Northwest Arctic Borough",
+    "zip_codes": [
+      "99773"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Silver Springs",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Sitka city and",
+    "county": "Sitka",
+    "zip_codes": [
+      "99835"
+    ],
+    "population": 8393
+  },
+  {
+    "city": "Skagway",
+    "county": "Skagway Municipality",
+    "zip_codes": [
+      "99840"
+    ],
+    "population": 1212
+  },
+  {
+    "city": "Skwentna",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99667",
+      "99688"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Slana",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99586"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Sleetmute",
+    "county": "Bethel",
+    "zip_codes": [
+      "99668"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Soldotna",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99669"
+    ],
+    "population": 4448
+  },
+  {
+    "city": "South Lakes",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645",
+      "99654"
+    ],
+    "population": 6132
+  },
+  {
+    "city": "South Naknek",
+    "county": "Bristol Bay",
+    "zip_codes": [
+      "99670"
+    ],
+    "population": 66
+  },
+  {
+    "city": "South Van Horn",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99701",
+      "99709"
+    ],
+    "population": 354
+  },
+  {
+    "city": "St. George",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99591"
+    ],
+    "population": 59
+  },
+  {
+    "city": "St. Mary's",
+    "county": "Kusilvak Census Area",
+    "zip_codes": [
+      "99658"
+    ],
+    "population": 788
+  },
+  {
+    "city": "St. Michael",
+    "county": "Nome",
+    "zip_codes": [
+      "99659"
+    ],
+    "population": 220
+  },
+  {
+    "city": "St. Paul",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99660"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Stebbins",
+    "county": "Nome",
+    "zip_codes": [
+      "99671"
+    ],
+    "population": 666
+  },
+  {
+    "city": "Steele Creek",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99712"
+    ],
+    "population": 5861
+  },
+  {
+    "city": "Sterling",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99669",
+      "99672"
+    ],
+    "population": 6776
+  },
+  {
+    "city": "Stevens Village",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99774"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Stony River",
+    "county": "Bethel",
+    "zip_codes": [
+      "99557"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Sunrise",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99605"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Susitna",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99667",
+      "99688"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Susitna North",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99676",
+      "99688"
+    ],
+    "population": 1506
+  },
+  {
+    "city": "Sutton-Alpine",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99645",
+      "99674"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Takotna",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99675"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Talkeetna",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99676"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Tanacross",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99776"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Tanaina",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99654"
+    ],
+    "population": 9738
+  },
+  {
+    "city": "Tanana",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99777"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Tatitlek",
+    "county": "Chugach Census Area",
+    "zip_codes": [
+      "99677"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Tazlina",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573",
+      "99588"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Teller",
+    "county": "Nome",
+    "zip_codes": [
+      "99778"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Tenakee Springs",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99841"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Tetlin",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99780"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Thorne Bay",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99919"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Togiak",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99678"
+    ],
+    "population": 993
+  },
+  {
+    "city": "Tok",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99780"
+    ],
+    "population": 1490
+  },
+  {
+    "city": "Toksook Bay",
+    "county": "Bethel",
+    "zip_codes": [
+      "99637"
+    ],
+    "population": 999
+  },
+  {
+    "city": "Tolsona",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99588"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Tonsina",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Trapper Creek",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99683"
+    ],
+    "population": 514
+  },
+  {
+    "city": "Tuluksak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99679"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Tuntutuliak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99680"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Tununak",
+    "county": "Bethel",
+    "zip_codes": [
+      "99681"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Twin Hills",
+    "county": "Dillingham",
+    "zip_codes": [
+      "99576"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Two Rivers",
+    "county": "Fairbanks North Star Borough",
+    "zip_codes": [
+      "99712"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Tyonek",
+    "county": "Kenai Peninsula",
+    "zip_codes": [
+      "99635",
+      "99682"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Ugashik",
+    "county": "Lake and Peninsula",
+    "zip_codes": [
+      "99649"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Unalakleet",
+    "county": "Nome",
+    "zip_codes": [
+      "99684"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Unalaska",
+    "county": "Aleutians West",
+    "zip_codes": [
+      "99685",
+      "99692"
+    ],
+    "population": 4430
+  },
+  {
+    "city": "Upper Kalskag",
+    "county": "Bethel",
+    "zip_codes": [
+      "99607"
+    ],
+    "population": 232
+  },
+  {
+    "city": "UtqiagÃŒÂ‡vik",
+    "county": "North Slope",
+    "zip_codes": [
+      "99723"
+    ],
+    "population": 4850
+  },
+  {
+    "city": "Valdez",
+    "county": "Chugach Census Area",
+    "zip_codes": [
+      "99686"
+    ],
+    "population": 3911
+  },
+  {
+    "city": "Venetie",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99781"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Wainwright",
+    "county": "North Slope",
+    "zip_codes": [
+      "99782"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Wales",
+    "county": "Nome",
+    "zip_codes": [
+      "99783"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Wasilla",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99623",
+      "99654"
+    ],
+    "population": 9435
+  },
+  {
+    "city": "Whale Pass",
+    "county": "Prince of Wales-Hyder Census Area",
+    "zip_codes": [
+      "99921"
+    ],
+    "population": 64
+  },
+  {
+    "city": "White Mountain",
+    "county": "Nome",
+    "zip_codes": [
+      "99784"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Whitestone",
+    "county": "Southeast Fairbanks",
+    "zip_codes": [
+      "99737"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Whitestone Logging Camp",
+    "county": "Hoonah-Angoon Census Area",
+    "zip_codes": [
+      "99829"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Whittier",
+    "county": "Chugach Census Area",
+    "zip_codes": [
+      "99693"
+    ],
+    "population": 471
+  },
+  {
+    "city": "Willow",
+    "county": "Matanuska-Susitna",
+    "zip_codes": [
+      "99688",
+      "99694"
+    ],
+    "population": 1769
+  },
+  {
+    "city": "Willow Creek",
+    "county": "Copper River Census Area",
+    "zip_codes": [
+      "99573"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Wiseman",
+    "county": "Yukon-Koyukuk",
+    "zip_codes": [
+      "99701"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Womens Bay",
+    "county": "Kodiak Island",
+    "zip_codes": [
+      "99615"
+    ],
+    "population": 994
+  },
+  {
+    "city": "Wrangell city and",
+    "county": "Wrangell City and Borough",
+    "zip_codes": [
+      "99903",
+      "99929"
+    ],
+    "population": 2106
+  },
+  {
+    "city": "Yakutat",
+    "county": "Yakutat City and Borough",
+    "zip_codes": [
+      "99689"
+    ],
+    "population": 506
+  }
+]

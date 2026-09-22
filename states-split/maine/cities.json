@@ -1,0 +1,1260 @@
+[
+  {
+    "city": "Alfred",
+    "county": "York",
+    "zip_codes": [
+      "04002"
+    ],
+    "population": 696
+  },
+  {
+    "city": "Anson",
+    "county": "Somerset",
+    "zip_codes": [
+      "04911"
+    ],
+    "population": 687
+  },
+  {
+    "city": "Ashland",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04732"
+    ],
+    "population": 676
+  },
+  {
+    "city": "Auburn",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04210"
+    ],
+    "population": 24294
+  },
+  {
+    "city": "Augusta",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04330"
+    ],
+    "population": 18999
+  },
+  {
+    "city": "Bangor",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04401"
+    ],
+    "population": 31663
+  },
+  {
+    "city": "Bar Harbor",
+    "county": "Hancock",
+    "zip_codes": [
+      "04609"
+    ],
+    "population": 2311
+  },
+  {
+    "city": "Bath",
+    "county": "Sagadahoc",
+    "zip_codes": [
+      "04530"
+    ],
+    "population": 8801
+  },
+  {
+    "city": "Belfast",
+    "county": "Waldo",
+    "zip_codes": [
+      "04915"
+    ],
+    "population": 6985
+  },
+  {
+    "city": "Berwick",
+    "county": "York",
+    "zip_codes": [
+      "03901"
+    ],
+    "population": 2085
+  },
+  {
+    "city": "Bethel",
+    "county": "Oxford",
+    "zip_codes": [
+      "04217"
+    ],
+    "population": 546
+  },
+  {
+    "city": "Biddeford",
+    "county": "York",
+    "zip_codes": [
+      "04005",
+      "04006"
+    ],
+    "population": 22463
+  },
+  {
+    "city": "Bingham",
+    "county": "Somerset",
+    "zip_codes": [
+      "04920"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Blaine",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04734"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Blue Hill",
+    "county": "Hancock",
+    "zip_codes": [
+      "04614"
+    ],
+    "population": 1066
+  },
+  {
+    "city": "Boothbay Harbor",
+    "county": "Lincoln",
+    "zip_codes": [
+      "04538"
+    ],
+    "population": 948
+  },
+  {
+    "city": "Bowdoinham",
+    "county": "Sagadahoc",
+    "zip_codes": [
+      "04008"
+    ],
+    "population": 768
+  },
+  {
+    "city": "Bradley",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04411"
+    ],
+    "population": 872
+  },
+  {
+    "city": "Brewer",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04412"
+    ],
+    "population": 9654
+  },
+  {
+    "city": "Bridgton",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04009",
+      "04057"
+    ],
+    "population": 1666
+  },
+  {
+    "city": "Brownville Junction",
+    "county": "Piscataquis",
+    "zip_codes": [
+      "04414",
+      "04415"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Brunswick",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04011"
+    ],
+    "population": 16928
+  },
+  {
+    "city": "Bucksport",
+    "county": "Hancock",
+    "zip_codes": [
+      "04416"
+    ],
+    "population": 3140
+  },
+  {
+    "city": "Calais",
+    "county": "Washington",
+    "zip_codes": [
+      "04619"
+    ],
+    "population": 3087
+  },
+  {
+    "city": "Camden",
+    "county": "Knox",
+    "zip_codes": [
+      "04843"
+    ],
+    "population": 3665
+  },
+  {
+    "city": "Cape Neddick",
+    "county": "York",
+    "zip_codes": [
+      "03909",
+      "03910"
+    ],
+    "population": 2578
+  },
+  {
+    "city": "Caribou",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04736"
+    ],
+    "population": 7427
+  },
+  {
+    "city": "Casco",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04015"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Castine",
+    "county": "Hancock",
+    "zip_codes": [
+      "04421"
+    ],
+    "population": 926
+  },
+  {
+    "city": "Chisholm",
+    "county": "Franklin",
+    "zip_codes": [
+      "04239"
+    ],
+    "population": 1115
+  },
+  {
+    "city": "Clinton",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04927"
+    ],
+    "population": 1043
+  },
+  {
+    "city": "Corinna",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04928"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Cornish",
+    "county": "York",
+    "zip_codes": [
+      "04020"
+    ],
+    "population": 1080
+  },
+  {
+    "city": "Cousins Island",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04096"
+    ],
+    "population": 509
+  },
+  {
+    "city": "Cumberland Center",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04021"
+    ],
+    "population": 2811
+  },
+  {
+    "city": "Damariscotta",
+    "county": "Lincoln",
+    "zip_codes": [
+      "04543"
+    ],
+    "population": 1172
+  },
+  {
+    "city": "Danforth",
+    "county": "Washington",
+    "zip_codes": [
+      "04424"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Dexter",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04930"
+    ],
+    "population": 1840
+  },
+  {
+    "city": "Dixfield",
+    "county": "Oxford",
+    "zip_codes": [
+      "04224"
+    ],
+    "population": 1770
+  },
+  {
+    "city": "Dover-Foxcroft",
+    "county": "Piscataquis",
+    "zip_codes": [
+      "04426"
+    ],
+    "population": 2758
+  },
+  {
+    "city": "Dunstan",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04074"
+    ],
+    "population": 1916
+  },
+  {
+    "city": "Eagle Lake",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04739"
+    ],
+    "population": 378
+  },
+  {
+    "city": "East Millinocket",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04430"
+    ],
+    "population": 1545
+  },
+  {
+    "city": "Eastport",
+    "county": "Washington",
+    "zip_codes": [
+      "04631"
+    ],
+    "population": 1230
+  },
+  {
+    "city": "Ellsworth",
+    "county": "Hancock",
+    "zip_codes": [
+      "04605"
+    ],
+    "population": 8550
+  },
+  {
+    "city": "Fairfield",
+    "county": "Somerset",
+    "zip_codes": [
+      "04937"
+    ],
+    "population": 2432
+  },
+  {
+    "city": "Falmouth",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04105"
+    ],
+    "population": 1447
+  },
+  {
+    "city": "Falmouth Foreside",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04105"
+    ],
+    "population": 2148
+  },
+  {
+    "city": "Farmingdale",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04344"
+    ],
+    "population": 2163
+  },
+  {
+    "city": "Farmington",
+    "county": "Franklin",
+    "zip_codes": [
+      "04938",
+      "04992"
+    ],
+    "population": 4879
+  },
+  {
+    "city": "Fort Fairfield",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04742"
+    ],
+    "population": 1632
+  },
+  {
+    "city": "Fort Kent",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04743"
+    ],
+    "population": 2453
+  },
+  {
+    "city": "Freeport",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04032"
+    ],
+    "population": 1544
+  },
+  {
+    "city": "Fryeburg",
+    "county": "Oxford",
+    "zip_codes": [
+      "04037"
+    ],
+    "population": 1665
+  },
+  {
+    "city": "Gardiner",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04345",
+      "04359"
+    ],
+    "population": 6047
+  },
+  {
+    "city": "Gorham",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04038"
+    ],
+    "population": 7365
+  },
+  {
+    "city": "Grand Isle",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04746"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Gray",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04039"
+    ],
+    "population": 810
+  },
+  {
+    "city": "Greene",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04236"
+    ],
+    "population": 882
+  },
+  {
+    "city": "Greenville",
+    "county": "Piscataquis",
+    "zip_codes": [
+      "04441"
+    ],
+    "population": 883
+  },
+  {
+    "city": "Guilford",
+    "county": "Piscataquis",
+    "zip_codes": [
+      "04443"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Hallowell",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04347"
+    ],
+    "population": 2570
+  },
+  {
+    "city": "Hampden",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04444"
+    ],
+    "population": 4937
+  },
+  {
+    "city": "Hartland",
+    "county": "Somerset",
+    "zip_codes": [
+      "04943"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Houlton",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04730"
+    ],
+    "population": 4958
+  },
+  {
+    "city": "Howland",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04448"
+    ],
+    "population": 1208
+  },
+  {
+    "city": "Island Falls",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04747"
+    ],
+    "population": 343
+  },
+  {
+    "city": "Jonesport",
+    "county": "Washington",
+    "zip_codes": [
+      "04649"
+    ],
+    "population": 634
+  },
+  {
+    "city": "Kennebunk",
+    "county": "York",
+    "zip_codes": [
+      "04043"
+    ],
+    "population": 6008
+  },
+  {
+    "city": "Kennebunkport",
+    "county": "York",
+    "zip_codes": [
+      "04046"
+    ],
+    "population": 1450
+  },
+  {
+    "city": "Kezar Falls",
+    "county": "York",
+    "zip_codes": [
+      "04047",
+      "04068"
+    ],
+    "population": 834
+  },
+  {
+    "city": "Kingfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "04947"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Kittery",
+    "county": "York",
+    "zip_codes": [
+      "03904"
+    ],
+    "population": 5284
+  },
+  {
+    "city": "Kittery Point",
+    "county": "York",
+    "zip_codes": [
+      "03905"
+    ],
+    "population": 1008
+  },
+  {
+    "city": "Lake Arrowhead",
+    "county": "York",
+    "zip_codes": [
+      "04048",
+      "04061"
+    ],
+    "population": 3273
+  },
+  {
+    "city": "Lewiston",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04240"
+    ],
+    "population": 37886
+  },
+  {
+    "city": "Limestone",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04750"
+    ],
+    "population": 1120
+  },
+  {
+    "city": "Lincoln",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04457"
+    ],
+    "population": 2576
+  },
+  {
+    "city": "Lisbon",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04250"
+    ],
+    "population": 3453
+  },
+  {
+    "city": "Lisbon Falls",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04252"
+    ],
+    "population": 4185
+  },
+  {
+    "city": "Little Falls",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04038"
+    ],
+    "population": 735
+  },
+  {
+    "city": "Littlejohn Island",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04096"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Livermore Falls",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04254"
+    ],
+    "population": 1250
+  },
+  {
+    "city": "Lubec",
+    "county": "Washington",
+    "zip_codes": [
+      "04652"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Machias",
+    "county": "Washington",
+    "zip_codes": [
+      "04654"
+    ],
+    "population": 1395
+  },
+  {
+    "city": "Madawaska",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04756"
+    ],
+    "population": 2960
+  },
+  {
+    "city": "Madison",
+    "county": "Somerset",
+    "zip_codes": [
+      "04950"
+    ],
+    "population": 2552
+  },
+  {
+    "city": "Mapleton",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04757"
+    ],
+    "population": 582
+  },
+  {
+    "city": "Mars Hill",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04758"
+    ],
+    "population": 934
+  },
+  {
+    "city": "Mattawamkeag",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04459"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Mechanic Falls",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04256"
+    ],
+    "population": 2300
+  },
+  {
+    "city": "Mexico",
+    "county": "Oxford",
+    "zip_codes": [
+      "04257"
+    ],
+    "population": 2026
+  },
+  {
+    "city": "Milbridge",
+    "county": "Washington",
+    "zip_codes": [
+      "04658"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Milford",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04461"
+    ],
+    "population": 2312
+  },
+  {
+    "city": "Millinocket",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04462"
+    ],
+    "population": 4111
+  },
+  {
+    "city": "Milo",
+    "county": "Piscataquis",
+    "zip_codes": [
+      "04463"
+    ],
+    "population": 1445
+  },
+  {
+    "city": "Naples",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04055"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Newcastle",
+    "county": "Lincoln",
+    "zip_codes": [
+      "04553"
+    ],
+    "population": 621
+  },
+  {
+    "city": "Newport",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04953"
+    ],
+    "population": 1469
+  },
+  {
+    "city": "Norridgewock",
+    "county": "Somerset",
+    "zip_codes": [
+      "04957"
+    ],
+    "population": 1155
+  },
+  {
+    "city": "North Anson",
+    "county": "Somerset",
+    "zip_codes": [
+      "04958"
+    ],
+    "population": 420
+  },
+  {
+    "city": "North Berwick",
+    "county": "York",
+    "zip_codes": [
+      "03906"
+    ],
+    "population": 1811
+  },
+  {
+    "city": "North Windham",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04062"
+    ],
+    "population": 5633
+  },
+  {
+    "city": "Northeast Harbor",
+    "county": "Hancock",
+    "zip_codes": [
+      "04662"
+    ],
+    "population": 410
+  },
+  {
+    "city": "Norway",
+    "county": "Oxford",
+    "zip_codes": [
+      "04268"
+    ],
+    "population": 3145
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04074"
+    ],
+    "population": 5365
+  },
+  {
+    "city": "Oakfield",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04763"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Oakland",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04963"
+    ],
+    "population": 2714
+  },
+  {
+    "city": "Old Orchard Beach",
+    "county": "York",
+    "zip_codes": [
+      "04063",
+      "04064"
+    ],
+    "population": 9150
+  },
+  {
+    "city": "Old Town",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04468",
+      "04489"
+    ],
+    "population": 7439
+  },
+  {
+    "city": "Orono",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04469",
+      "04473"
+    ],
+    "population": 10699
+  },
+  {
+    "city": "Oxford",
+    "county": "Oxford",
+    "zip_codes": [
+      "04270"
+    ],
+    "population": 1135
+  },
+  {
+    "city": "Patten",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04765"
+    ],
+    "population": 502
+  },
+  {
+    "city": "Pittsfield",
+    "county": "Somerset",
+    "zip_codes": [
+      "04967"
+    ],
+    "population": 3078
+  },
+  {
+    "city": "Portland",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04019",
+      "04101",
+      "04102",
+      "04103",
+      "04108",
+      "04109"
+    ],
+    "population": 68505
+  },
+  {
+    "city": "Presque Isle",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04769"
+    ],
+    "population": 8736
+  },
+  {
+    "city": "Randolph",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04346"
+    ],
+    "population": 1479
+  },
+  {
+    "city": "Rangeley",
+    "county": "Franklin",
+    "zip_codes": [
+      "04970"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Richmond",
+    "county": "Sagadahoc",
+    "zip_codes": [
+      "04357"
+    ],
+    "population": 1946
+  },
+  {
+    "city": "Rockland",
+    "county": "Knox",
+    "zip_codes": [
+      "04841"
+    ],
+    "population": 6991
+  },
+  {
+    "city": "Rumford",
+    "county": "Oxford",
+    "zip_codes": [
+      "04276"
+    ],
+    "population": 4017
+  },
+  {
+    "city": "Sabattus",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04280"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Saco",
+    "county": "York",
+    "zip_codes": [
+      "04072"
+    ],
+    "population": 20636
+  },
+  {
+    "city": "Sanford",
+    "county": "York",
+    "zip_codes": [
+      "04073",
+      "04083"
+    ],
+    "population": 22095
+  },
+  {
+    "city": "Searsport",
+    "county": "Waldo",
+    "zip_codes": [
+      "04974"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "Skowhegan",
+    "county": "Somerset",
+    "zip_codes": [
+      "04976"
+    ],
+    "population": 6638
+  },
+  {
+    "city": "South Berwick",
+    "county": "York",
+    "zip_codes": [
+      "03908"
+    ],
+    "population": 3441
+  },
+  {
+    "city": "South Eliot",
+    "county": "York",
+    "zip_codes": [
+      "03903"
+    ],
+    "population": 4021
+  },
+  {
+    "city": "South Paris",
+    "county": "Oxford",
+    "zip_codes": [
+      "04281"
+    ],
+    "population": 2570
+  },
+  {
+    "city": "South Portland",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04106"
+    ],
+    "population": 26780
+  },
+  {
+    "city": "South Windham",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04062"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Southwest Harbor",
+    "county": "Hancock",
+    "zip_codes": [
+      "04679"
+    ],
+    "population": 563
+  },
+  {
+    "city": "Standish",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04084"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Steep Falls",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04085"
+    ],
+    "population": 1720
+  },
+  {
+    "city": "Thomaston",
+    "county": "Knox",
+    "zip_codes": [
+      "04861"
+    ],
+    "population": 2021
+  },
+  {
+    "city": "Topsham",
+    "county": "Sagadahoc",
+    "zip_codes": [
+      "04086"
+    ],
+    "population": 6962
+  },
+  {
+    "city": "Turner",
+    "county": "Androscoggin",
+    "zip_codes": [
+      "04282"
+    ],
+    "population": 543
+  },
+  {
+    "city": "Unity",
+    "county": "Waldo",
+    "zip_codes": [
+      "04988"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Van Buren",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04785"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Vanceboro",
+    "county": "Washington",
+    "zip_codes": [
+      "04491"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Veazie",
+    "county": "Penobscot",
+    "zip_codes": [
+      "04401"
+    ],
+    "population": 1866
+  },
+  {
+    "city": "Waldoboro",
+    "county": "Lincoln",
+    "zip_codes": [
+      "04572"
+    ],
+    "population": 1487
+  },
+  {
+    "city": "Washburn",
+    "county": "Aroostook",
+    "zip_codes": [
+      "04786"
+    ],
+    "population": 958
+  },
+  {
+    "city": "Waterville",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04901"
+    ],
+    "population": 16704
+  },
+  {
+    "city": "West Kennebunk",
+    "county": "York",
+    "zip_codes": [
+      "04043"
+    ],
+    "population": 1367
+  },
+  {
+    "city": "Westbrook",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04092"
+    ],
+    "population": 20484
+  },
+  {
+    "city": "Wilton",
+    "county": "Franklin",
+    "zip_codes": [
+      "04294"
+    ],
+    "population": 1822
+  },
+  {
+    "city": "Winslow",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04901"
+    ],
+    "population": 5701
+  },
+  {
+    "city": "Winter Harbor",
+    "county": "Hancock",
+    "zip_codes": [
+      "04693"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Winterport",
+    "county": "Waldo",
+    "zip_codes": [
+      "04496"
+    ],
+    "population": 1043
+  },
+  {
+    "city": "Winthrop",
+    "county": "Kennebec",
+    "zip_codes": [
+      "04364"
+    ],
+    "population": 2666
+  },
+  {
+    "city": "Wiscasset",
+    "county": "Lincoln",
+    "zip_codes": [
+      "04578"
+    ],
+    "population": 1273
+  },
+  {
+    "city": "Woodland",
+    "county": "Washington",
+    "zip_codes": [
+      "04694"
+    ],
+    "population": 1059
+  },
+  {
+    "city": "Yarmouth",
+    "county": "Cumberland",
+    "zip_codes": [
+      "04096"
+    ],
+    "population": 6293
+  },
+  {
+    "city": "York Harbor",
+    "county": "York",
+    "zip_codes": [
+      "03909",
+      "03911"
+    ],
+    "population": 3853
+  }
+]

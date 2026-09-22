@@ -1,0 +1,8664 @@
+[
+  {
+    "city": "Acacia Villas",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406",
+      "33415"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Alachua",
+    "county": "Alachua",
+    "zip_codes": [
+      "32615",
+      "32616",
+      "32653"
+    ],
+    "population": 10638
+  },
+  {
+    "city": "Alafaya",
+    "county": "Orange",
+    "zip_codes": [
+      "32825",
+      "32828",
+      "32829"
+    ],
+    "population": 90874
+  },
+  {
+    "city": "Alford",
+    "county": "Jackson",
+    "zip_codes": [
+      "32420"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Allentown",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565",
+      "32570"
+    ],
+    "population": 1200
+  },
+  {
+    "city": "Altamonte Springs",
+    "county": "Seminole",
+    "zip_codes": [
+      "32701",
+      "32714"
+    ],
+    "population": 45657
+  },
+  {
+    "city": "Altha",
+    "county": "Calhoun",
+    "zip_codes": [
+      "32421"
+    ],
+    "population": 567
+  },
+  {
+    "city": "Altoona",
+    "county": "Lake",
+    "zip_codes": [
+      "32702"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Alturas",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33841",
+      "33859"
+    ],
+    "population": 3866
+  },
+  {
+    "city": "Alva",
+    "county": "Lee",
+    "zip_codes": [
+      "33920"
+    ],
+    "population": 3279
+  },
+  {
+    "city": "Andrews",
+    "county": "Levy",
+    "zip_codes": [
+      "32626",
+      "32693"
+    ],
+    "population": 737
+  },
+  {
+    "city": "Anna Maria",
+    "county": "Manatee",
+    "zip_codes": [
+      "34216"
+    ],
+    "population": 850
+  },
+  {
+    "city": "Apalachicola",
+    "county": "Franklin",
+    "zip_codes": [
+      "32320"
+    ],
+    "population": 2304
+  },
+  {
+    "city": "Apollo Beach",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33570",
+      "33572",
+      "33573",
+      "33598"
+    ],
+    "population": 28347
+  },
+  {
+    "city": "Apopka",
+    "county": "Orange",
+    "zip_codes": [
+      "32703",
+      "32712",
+      "32768"
+    ],
+    "population": 56202
+  },
+  {
+    "city": "Arcadia",
+    "county": "DeSoto",
+    "zip_codes": [
+      "34266"
+    ],
+    "population": 7571
+  },
+  {
+    "city": "Archer",
+    "county": "Alachua",
+    "zip_codes": [
+      "32618"
+    ],
+    "population": 885
+  },
+  {
+    "city": "Aripeka",
+    "county": "Pasco",
+    "zip_codes": [
+      "34607",
+      "34679"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Asbury Lake",
+    "county": "Clay",
+    "zip_codes": [
+      "32043",
+      "32068"
+    ],
+    "population": 13465
+  },
+  {
+    "city": "Astatula",
+    "county": "Lake",
+    "zip_codes": [
+      "34705"
+    ],
+    "population": 2542
+  },
+  {
+    "city": "Astor",
+    "county": "Lake",
+    "zip_codes": [
+      "32102"
+    ],
+    "population": 1507
+  },
+  {
+    "city": "Atlantic Beach",
+    "county": "Duval",
+    "zip_codes": [
+      "32233"
+    ],
+    "population": 13353
+  },
+  {
+    "city": "Atlantis",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33462"
+    ],
+    "population": 1940
+  },
+  {
+    "city": "Auburndale",
+    "county": "Polk",
+    "zip_codes": [
+      "33823",
+      "33868"
+    ],
+    "population": 17438
+  },
+  {
+    "city": "Aucilla",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32344"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Avalon",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32583"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Ave Maria",
+    "county": "Collier",
+    "zip_codes": [
+      "34142"
+    ],
+    "population": 6826
+  },
+  {
+    "city": "Aventura",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160",
+      "33180"
+    ],
+    "population": 39372
+  },
+  {
+    "city": "Avon Park",
+    "county": "Highlands",
+    "zip_codes": [
+      "33825",
+      "33870"
+    ],
+    "population": 9879
+  },
+  {
+    "city": "Azalea Park",
+    "county": "Orange",
+    "zip_codes": [
+      "32807",
+      "32822"
+    ],
+    "population": 16110
+  },
+  {
+    "city": "Babson Park",
+    "county": "Polk",
+    "zip_codes": [
+      "33827"
+    ],
+    "population": 1156
+  },
+  {
+    "city": "Bagdad",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32530",
+      "32583"
+    ],
+    "population": 4285
+  },
+  {
+    "city": "Bal Harbour",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33154"
+    ],
+    "population": 3021
+  },
+  {
+    "city": "Baldwin",
+    "county": "Duval",
+    "zip_codes": [
+      "32220",
+      "32234"
+    ],
+    "population": 1297
+  },
+  {
+    "city": "Balm",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33503",
+      "33598"
+    ],
+    "population": 5362
+  },
+  {
+    "city": "Bardmoor",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33777"
+    ],
+    "population": 10095
+  },
+  {
+    "city": "Bartow",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33880"
+    ],
+    "population": 19801
+  },
+  {
+    "city": "Bascom",
+    "county": "Jackson",
+    "zip_codes": [
+      "32423"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Bay Harbor Islands",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33154"
+    ],
+    "population": 5793
+  },
+  {
+    "city": "Bay Hill",
+    "county": "Orange",
+    "zip_codes": [
+      "32819",
+      "32836"
+    ],
+    "population": 4214
+  },
+  {
+    "city": "Bay Lake",
+    "county": "Orange",
+    "zip_codes": [
+      "32830",
+      "34747",
+      "34787"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Bay Pines",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708",
+      "33744",
+      "33772"
+    ],
+    "population": 2700
+  },
+  {
+    "city": "Bayonet Point",
+    "county": "Pasco",
+    "zip_codes": [
+      "34667",
+      "34668"
+    ],
+    "population": 23787
+  },
+  {
+    "city": "Bayport",
+    "county": "Hernando",
+    "zip_codes": [
+      "34607"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Bayshore Gardens",
+    "county": "Manatee",
+    "zip_codes": [
+      "34203",
+      "34207",
+      "34210"
+    ],
+    "population": 18324
+  },
+  {
+    "city": "Beacon Square",
+    "county": "Pasco",
+    "zip_codes": [
+      "34652",
+      "34691"
+    ],
+    "population": 7643
+  },
+  {
+    "city": "Bear Creek",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33707"
+    ],
+    "population": 2091
+  },
+  {
+    "city": "Bee Ridge",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34233"
+    ],
+    "population": 9921
+  },
+  {
+    "city": "Bell",
+    "county": "Gilchrist",
+    "zip_codes": [
+      "32619"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Bellair-Meadowbrook Terrace",
+    "county": "Clay",
+    "zip_codes": [
+      "32073"
+    ],
+    "population": 13887
+  },
+  {
+    "city": "Belle Glade",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33430"
+    ],
+    "population": 16818
+  },
+  {
+    "city": "Belle Isle",
+    "county": "Orange",
+    "zip_codes": [
+      "32809",
+      "32812"
+    ],
+    "population": 7053
+  },
+  {
+    "city": "Belleair",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33756"
+    ],
+    "population": 4350
+  },
+  {
+    "city": "Belleair Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33786"
+    ],
+    "population": 1506
+  },
+  {
+    "city": "Belleair Bluffs",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33770"
+    ],
+    "population": 2394
+  },
+  {
+    "city": "Belleair Shore",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33786"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Belleview",
+    "county": "Marion",
+    "zip_codes": [
+      "34420",
+      "34491"
+    ],
+    "population": 5569
+  },
+  {
+    "city": "Bellview",
+    "county": "Escambia",
+    "zip_codes": [
+      "32505",
+      "32526"
+    ],
+    "population": 25051
+  },
+  {
+    "city": "Berkshire Lakes",
+    "county": "Collier",
+    "zip_codes": [
+      "34104"
+    ],
+    "population": 2493
+  },
+  {
+    "city": "Berrydale",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565",
+      "32570"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Beverly Beach",
+    "county": "Flagler",
+    "zip_codes": [
+      "32136"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Beverly Hills",
+    "county": "Citrus",
+    "zip_codes": [
+      "34465"
+    ],
+    "population": 9716
+  },
+  {
+    "city": "Big Coppitt Key",
+    "county": "Monroe",
+    "zip_codes": [
+      "33040"
+    ],
+    "population": 3333
+  },
+  {
+    "city": "Big Pine Key",
+    "county": "Monroe",
+    "zip_codes": [
+      "33043"
+    ],
+    "population": 4584
+  },
+  {
+    "city": "Biscayne Park",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33161"
+    ],
+    "population": 3056
+  },
+  {
+    "city": "Bithlo",
+    "county": "Orange",
+    "zip_codes": [
+      "32820",
+      "32833"
+    ],
+    "population": 10790
+  },
+  {
+    "city": "Black Diamond",
+    "county": "Citrus",
+    "zip_codes": [
+      "34461",
+      "34465"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Black Hammock",
+    "county": "Seminole",
+    "zip_codes": [
+      "32765"
+    ],
+    "population": 1194
+  },
+  {
+    "city": "Bloomingdale",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33511",
+      "33596"
+    ],
+    "population": 23979
+  },
+  {
+    "city": "Blountstown",
+    "county": "Calhoun",
+    "zip_codes": [
+      "32424"
+    ],
+    "population": 3077
+  },
+  {
+    "city": "Boca Raton",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33431",
+      "33432",
+      "33433",
+      "33434",
+      "33486",
+      "33487",
+      "33496"
+    ],
+    "population": 98833
+  },
+  {
+    "city": "Bokeelia",
+    "county": "Lee",
+    "zip_codes": [
+      "33922"
+    ],
+    "population": 2136
+  },
+  {
+    "city": "Bonifay",
+    "county": "Holmes",
+    "zip_codes": [
+      "32425"
+    ],
+    "population": 2782
+  },
+  {
+    "city": "Bonita Springs",
+    "county": "Lee",
+    "zip_codes": [
+      "33931",
+      "34110",
+      "34119",
+      "34134",
+      "34135"
+    ],
+    "population": 54830
+  },
+  {
+    "city": "Boulevard Gardens",
+    "county": "Broward",
+    "zip_codes": [
+      "33311",
+      "33312"
+    ],
+    "population": 1426
+  },
+  {
+    "city": "Bowling Green",
+    "county": "Hardee",
+    "zip_codes": [
+      "33834"
+    ],
+    "population": 2283
+  },
+  {
+    "city": "Boynton Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33426",
+      "33435",
+      "33436"
+    ],
+    "population": 80601
+  },
+  {
+    "city": "Bradenton",
+    "county": "Manatee",
+    "zip_codes": [
+      "34205",
+      "34208",
+      "34209",
+      "34210"
+    ],
+    "population": 56289
+  },
+  {
+    "city": "Bradenton Beach",
+    "county": "Manatee",
+    "zip_codes": [
+      "34217"
+    ],
+    "population": 777
+  },
+  {
+    "city": "Bradfordville",
+    "county": "Leon",
+    "zip_codes": [
+      "32309",
+      "32312"
+    ],
+    "population": 19548
+  },
+  {
+    "city": "Bradley Junction",
+    "county": "Polk",
+    "zip_codes": [
+      "33835",
+      "33860"
+    ],
+    "population": 772
+  },
+  {
+    "city": "Brandon",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33510",
+      "33511",
+      "33578",
+      "33584",
+      "33594",
+      "33596",
+      "33619"
+    ],
+    "population": 116365
+  },
+  {
+    "city": "Branford",
+    "county": "Suwannee",
+    "zip_codes": [
+      "32008"
+    ],
+    "population": 929
+  },
+  {
+    "city": "Brent",
+    "county": "Escambia",
+    "zip_codes": [
+      "32503",
+      "32504",
+      "32505"
+    ],
+    "population": 23441
+  },
+  {
+    "city": "Briny Breezes",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33435"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Bristol",
+    "county": "Liberty",
+    "zip_codes": [
+      "32321"
+    ],
+    "population": 1249
+  },
+  {
+    "city": "Broadview Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33317"
+    ],
+    "population": 7802
+  },
+  {
+    "city": "Bronson",
+    "county": "Levy",
+    "zip_codes": [
+      "32621"
+    ],
+    "population": 1455
+  },
+  {
+    "city": "Brooker",
+    "county": "Bradford",
+    "zip_codes": [
+      "32622"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Brookridge",
+    "county": "Hernando",
+    "zip_codes": [
+      "34613"
+    ],
+    "population": 4788
+  },
+  {
+    "city": "Brooksville",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601",
+      "34604"
+    ],
+    "population": 9235
+  },
+  {
+    "city": "Brownsdale",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Brownsville",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33142"
+    ],
+    "population": 16391
+  },
+  {
+    "city": "Buckhead Ridge",
+    "county": "Glades",
+    "zip_codes": [
+      "34974"
+    ],
+    "population": 886
+  },
+  {
+    "city": "Buckingham",
+    "county": "Lee",
+    "zip_codes": [
+      "33905",
+      "33971"
+    ],
+    "population": 4637
+  },
+  {
+    "city": "Buenaventura Lakes",
+    "county": "Osceola",
+    "zip_codes": [
+      "34743"
+    ],
+    "population": 32310
+  },
+  {
+    "city": "Bunnell",
+    "county": "Flagler",
+    "zip_codes": [
+      "32110",
+      "32174"
+    ],
+    "population": 3511
+  },
+  {
+    "city": "Burnt Store Marina",
+    "county": "Lee",
+    "zip_codes": [
+      "33955"
+    ],
+    "population": 2201
+  },
+  {
+    "city": "Bushnell",
+    "county": "Sumter",
+    "zip_codes": [
+      "33513",
+      "33538"
+    ],
+    "population": 3148
+  },
+  {
+    "city": "Butler Beach",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32080"
+    ],
+    "population": 4723
+  },
+  {
+    "city": "Cabana Colony",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33410"
+    ],
+    "population": 1930
+  },
+  {
+    "city": "Callahan",
+    "county": "Nassau",
+    "zip_codes": [
+      "32011"
+    ],
+    "population": 1502
+  },
+  {
+    "city": "Callaway",
+    "county": "Bay",
+    "zip_codes": [
+      "32404"
+    ],
+    "population": 13297
+  },
+  {
+    "city": "Campbell",
+    "county": "Osceola",
+    "zip_codes": [
+      "34746",
+      "34758"
+    ],
+    "population": 2247
+  },
+  {
+    "city": "Campbellton",
+    "county": "Jackson",
+    "zip_codes": [
+      "32426",
+      "32440"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Canal Point",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33438"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Cape Canaveral",
+    "county": "Brevard",
+    "zip_codes": [
+      "32920"
+    ],
+    "population": 9976
+  },
+  {
+    "city": "Cape Coral",
+    "county": "Lee",
+    "zip_codes": [
+      "33904",
+      "33909",
+      "33914",
+      "33990",
+      "33991",
+      "33993"
+    ],
+    "population": 206387
+  },
+  {
+    "city": "Capitola",
+    "county": "Leon",
+    "zip_codes": [
+      "32317"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Captiva",
+    "county": "Lee",
+    "zip_codes": [
+      "33924"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Carrabelle",
+    "county": "Franklin",
+    "zip_codes": [
+      "32322"
+    ],
+    "population": 3145
+  },
+  {
+    "city": "Carrollwood",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33612",
+      "33618",
+      "33624"
+    ],
+    "population": 35645
+  },
+  {
+    "city": "Caryville",
+    "county": "Washington",
+    "zip_codes": [
+      "32427"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Casselberry",
+    "county": "Seminole",
+    "zip_codes": [
+      "32707",
+      "32708",
+      "32730",
+      "32751",
+      "32792"
+    ],
+    "population": 29473
+  },
+  {
+    "city": "Cedar Grove",
+    "county": "Bay",
+    "zip_codes": [
+      "32401",
+      "32405"
+    ],
+    "population": 2911
+  },
+  {
+    "city": "Cedar Key",
+    "county": "Levy",
+    "zip_codes": [
+      "32625"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Celebration",
+    "county": "Osceola",
+    "zip_codes": [
+      "34747"
+    ],
+    "population": 13150
+  },
+  {
+    "city": "Center Hill",
+    "county": "Sumter",
+    "zip_codes": [
+      "33514",
+      "33597"
+    ],
+    "population": 1201
+  },
+  {
+    "city": "Century",
+    "county": "Escambia",
+    "zip_codes": [
+      "32535"
+    ],
+    "population": 1972
+  },
+  {
+    "city": "Chaires",
+    "county": "Leon",
+    "zip_codes": [
+      "32317"
+    ],
+    "population": 676
+  },
+  {
+    "city": "Charleston Park",
+    "county": "Lee",
+    "zip_codes": [
+      "33920"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Charlotte Harbor",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33952",
+      "33980"
+    ],
+    "population": 4456
+  },
+  {
+    "city": "Charlotte Park",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33950"
+    ],
+    "population": 1803
+  },
+  {
+    "city": "Chattahoochee",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32324"
+    ],
+    "population": 2965
+  },
+  {
+    "city": "Cheval",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33548",
+      "33558"
+    ],
+    "population": 13694
+  },
+  {
+    "city": "Chiefland",
+    "county": "Levy",
+    "zip_codes": [
+      "32626"
+    ],
+    "population": 2078
+  },
+  {
+    "city": "Chipley",
+    "county": "Washington",
+    "zip_codes": [
+      "32428"
+    ],
+    "population": 3678
+  },
+  {
+    "city": "Chokoloskee",
+    "county": "Collier",
+    "zip_codes": [
+      "34138"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Christmas",
+    "county": "Orange",
+    "zip_codes": [
+      "32709"
+    ],
+    "population": 1665
+  },
+  {
+    "city": "Chuluota",
+    "county": "Seminole",
+    "zip_codes": [
+      "32766"
+    ],
+    "population": 2179
+  },
+  {
+    "city": "Chumuckla",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565",
+      "32571"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Cinco Bayou",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32548"
+    ],
+    "population": 666
+  },
+  {
+    "city": "Citrus Hills",
+    "county": "Citrus",
+    "zip_codes": [
+      "34442",
+      "34453",
+      "34461"
+    ],
+    "population": 9044
+  },
+  {
+    "city": "Citrus Park",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33556",
+      "33625"
+    ],
+    "population": 28163
+  },
+  {
+    "city": "Citrus Springs",
+    "county": "Citrus",
+    "zip_codes": [
+      "34433",
+      "34434",
+      "34445"
+    ],
+    "population": 11469
+  },
+  {
+    "city": "Clarcona",
+    "county": "Orange",
+    "zip_codes": [
+      "32703",
+      "32810",
+      "32818",
+      "34761"
+    ],
+    "population": 4636
+  },
+  {
+    "city": "Clearwater",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33755",
+      "33756",
+      "33759",
+      "33761",
+      "33763",
+      "33764",
+      "33765",
+      "33767",
+      "34695"
+    ],
+    "population": 117075
+  },
+  {
+    "city": "Clermont",
+    "county": "Lake",
+    "zip_codes": [
+      "34711",
+      "34714",
+      "34715",
+      "34787"
+    ],
+    "population": 44984
+  },
+  {
+    "city": "Cleveland",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33950",
+      "33982"
+    ],
+    "population": 2690
+  },
+  {
+    "city": "Clewiston",
+    "county": "Hendry",
+    "zip_codes": [
+      "33440"
+    ],
+    "population": 7257
+  },
+  {
+    "city": "Cloud Lake",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Cobbtown",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Cocoa",
+    "county": "Brevard",
+    "zip_codes": [
+      "32922",
+      "32926"
+    ],
+    "population": 19330
+  },
+  {
+    "city": "Cocoa Beach",
+    "county": "Brevard",
+    "zip_codes": [
+      "32931"
+    ],
+    "population": 11341
+  },
+  {
+    "city": "Cocoa West",
+    "county": "Brevard",
+    "zip_codes": [
+      "32922",
+      "32926"
+    ],
+    "population": 5416
+  },
+  {
+    "city": "Coconut Creek",
+    "county": "Broward",
+    "zip_codes": [
+      "33063",
+      "33066",
+      "33068",
+      "33073"
+    ],
+    "population": 57587
+  },
+  {
+    "city": "Coleman",
+    "county": "Sumter",
+    "zip_codes": [
+      "33521",
+      "34785"
+    ],
+    "population": 796
+  },
+  {
+    "city": "Combee Settlement",
+    "county": "Polk",
+    "zip_codes": [
+      "33801"
+    ],
+    "population": 4756
+  },
+  {
+    "city": "Connerton",
+    "county": "Pasco",
+    "zip_codes": [
+      "34637",
+      "34639"
+    ],
+    "population": 7159
+  },
+  {
+    "city": "Conway",
+    "county": "Orange",
+    "zip_codes": [
+      "32806",
+      "32812"
+    ],
+    "population": 13346
+  },
+  {
+    "city": "Cooper City",
+    "county": "Broward",
+    "zip_codes": [
+      "33024",
+      "33026",
+      "33328",
+      "33330"
+    ],
+    "population": 34166
+  },
+  {
+    "city": "Coral Gables",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33133",
+      "33134",
+      "33143",
+      "33146",
+      "33156",
+      "33158"
+    ],
+    "population": 49243
+  },
+  {
+    "city": "Coral Springs",
+    "county": "Broward",
+    "zip_codes": [
+      "33065",
+      "33067",
+      "33071",
+      "33076"
+    ],
+    "population": 133962
+  },
+  {
+    "city": "Coral Terrace",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33144",
+      "33155"
+    ],
+    "population": 24051
+  },
+  {
+    "city": "Cortez",
+    "county": "Manatee",
+    "zip_codes": [
+      "34209",
+      "34210",
+      "34215"
+    ],
+    "population": 5323
+  },
+  {
+    "city": "Cottondale",
+    "county": "Jackson",
+    "zip_codes": [
+      "32431",
+      "32446"
+    ],
+    "population": 892
+  },
+  {
+    "city": "Country Club",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33015"
+    ],
+    "population": 51000
+  },
+  {
+    "city": "Country Walk",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33186",
+      "33196"
+    ],
+    "population": 18693
+  },
+  {
+    "city": "Crawfordville",
+    "county": "Wakulla",
+    "zip_codes": [
+      "32327"
+    ],
+    "population": 5892
+  },
+  {
+    "city": "Crescent Beach",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32080"
+    ],
+    "population": 903
+  },
+  {
+    "city": "Crescent City",
+    "county": "Putnam",
+    "zip_codes": [
+      "32112"
+    ],
+    "population": 1856
+  },
+  {
+    "city": "Crestview",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32536",
+      "32539"
+    ],
+    "population": 28046
+  },
+  {
+    "city": "Crooked Lake Park",
+    "county": "Polk",
+    "zip_codes": [
+      "33859"
+    ],
+    "population": 2151
+  },
+  {
+    "city": "Cross City",
+    "county": "Dixie",
+    "zip_codes": [
+      "32628"
+    ],
+    "population": 2260
+  },
+  {
+    "city": "Crystal Lake",
+    "county": "Polk",
+    "zip_codes": [
+      "33801"
+    ],
+    "population": 5203
+  },
+  {
+    "city": "Crystal River",
+    "county": "Citrus",
+    "zip_codes": [
+      "34428",
+      "34429",
+      "34448"
+    ],
+    "population": 3443
+  },
+  {
+    "city": "Crystal Springs",
+    "county": "Pasco",
+    "zip_codes": [
+      "33540"
+    ],
+    "population": 1362
+  },
+  {
+    "city": "Cudjoe Key",
+    "county": "Monroe",
+    "zip_codes": [
+      "33042"
+    ],
+    "population": 2478
+  },
+  {
+    "city": "Cutler Bay",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157",
+      "33189",
+      "33190"
+    ],
+    "population": 44483
+  },
+  {
+    "city": "Cypress Gardens",
+    "county": "Polk",
+    "zip_codes": [
+      "33880",
+      "33884"
+    ],
+    "population": 10013
+  },
+  {
+    "city": "Cypress Lake",
+    "county": "Lee",
+    "zip_codes": [
+      "33919"
+    ],
+    "population": 13145
+  },
+  {
+    "city": "Cypress Quarters",
+    "county": "Okeechobee",
+    "zip_codes": [
+      "34972",
+      "34974"
+    ],
+    "population": 1382
+  },
+  {
+    "city": "Dade City",
+    "county": "Pasco",
+    "zip_codes": [
+      "33523",
+      "33525"
+    ],
+    "population": 7570
+  },
+  {
+    "city": "Dade City North",
+    "county": "Pasco",
+    "zip_codes": [
+      "33523",
+      "33525"
+    ],
+    "population": 3049
+  },
+  {
+    "city": "Dania Beach",
+    "county": "Broward",
+    "zip_codes": [
+      "33004",
+      "33312",
+      "33314",
+      "33316"
+    ],
+    "population": 31739
+  },
+  {
+    "city": "Davenport",
+    "county": "Polk",
+    "zip_codes": [
+      "33837",
+      "33844"
+    ],
+    "population": 11660
+  },
+  {
+    "city": "Davie",
+    "county": "Broward",
+    "zip_codes": [
+      "33024",
+      "33312",
+      "33314",
+      "33317",
+      "33324",
+      "33325",
+      "33326",
+      "33328",
+      "33330",
+      "33331"
+    ],
+    "population": 106412
+  },
+  {
+    "city": "Day",
+    "county": "Lafayette",
+    "zip_codes": [
+      "32013",
+      "32066"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Daytona Beach",
+    "county": "Volusia",
+    "zip_codes": [
+      "32114",
+      "32117",
+      "32118",
+      "32119",
+      "32124",
+      "32174"
+    ],
+    "population": 75924
+  },
+  {
+    "city": "Daytona Beach Shores",
+    "county": "Volusia",
+    "zip_codes": [
+      "32118"
+    ],
+    "population": 5139
+  },
+  {
+    "city": "De Leon Springs",
+    "county": "Volusia",
+    "zip_codes": [
+      "32130",
+      "32720"
+    ],
+    "population": 2784
+  },
+  {
+    "city": "DeBary",
+    "county": "Volusia",
+    "zip_codes": [
+      "32713"
+    ],
+    "population": 22602
+  },
+  {
+    "city": "Deerfield Beach",
+    "county": "Broward",
+    "zip_codes": [
+      "33064",
+      "33441",
+      "33442"
+    ],
+    "population": 86742
+  },
+  {
+    "city": "DeFuniak Springs",
+    "county": "Walton",
+    "zip_codes": [
+      "32433",
+      "32435"
+    ],
+    "population": 6284
+  },
+  {
+    "city": "DeLand",
+    "county": "Volusia",
+    "zip_codes": [
+      "32720",
+      "32723",
+      "32724"
+    ],
+    "population": 39832
+  },
+  {
+    "city": "DeLand Southwest",
+    "county": "Volusia",
+    "zip_codes": [
+      "32720"
+    ],
+    "population": 1042
+  },
+  {
+    "city": "Delray Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33444",
+      "33445",
+      "33483",
+      "33484"
+    ],
+    "population": 66940
+  },
+  {
+    "city": "Deltona",
+    "county": "Volusia",
+    "zip_codes": [
+      "32725",
+      "32738",
+      "32764"
+    ],
+    "population": 95682
+  },
+  {
+    "city": "Desoto Acres",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34234",
+      "34243"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Desoto Lakes",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34234",
+      "34235"
+    ],
+    "population": 2193
+  },
+  {
+    "city": "Destin",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32541"
+    ],
+    "population": 14018
+  },
+  {
+    "city": "Dickerson City",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32583"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Dixonville",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Doctor Phillips",
+    "county": "Orange",
+    "zip_codes": [
+      "32819",
+      "32836"
+    ],
+    "population": 12458
+  },
+  {
+    "city": "Doral",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33122",
+      "33126",
+      "33166",
+      "33172",
+      "33178"
+    ],
+    "population": 76490
+  },
+  {
+    "city": "Dover",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33527"
+    ],
+    "population": 3157
+  },
+  {
+    "city": "Duck Key",
+    "county": "Monroe",
+    "zip_codes": [
+      "33050"
+    ],
+    "population": 755
+  },
+  {
+    "city": "Dundee",
+    "county": "Polk",
+    "zip_codes": [
+      "33838",
+      "33844",
+      "33881",
+      "33898"
+    ],
+    "population": 5604
+  },
+  {
+    "city": "Dunedin",
+    "county": "Pinellas",
+    "zip_codes": [
+      "34683",
+      "34698"
+    ],
+    "population": 36060
+  },
+  {
+    "city": "Dunnellon",
+    "county": "Marion",
+    "zip_codes": [
+      "34431",
+      "34432"
+    ],
+    "population": 2434
+  },
+  {
+    "city": "Eagle Lake",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33839",
+      "33880"
+    ],
+    "population": 3382
+  },
+  {
+    "city": "East Bronson",
+    "county": "Levy",
+    "zip_codes": [
+      "32618",
+      "32621"
+    ],
+    "population": 2303
+  },
+  {
+    "city": "East Lake",
+    "county": "Pinellas",
+    "zip_codes": [
+      "34677",
+      "34685",
+      "34688"
+    ],
+    "population": 33019
+  },
+  {
+    "city": "East Lake-Orient Park",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33610",
+      "33617",
+      "33619",
+      "33637"
+    ],
+    "population": 29064
+  },
+  {
+    "city": "East Milton",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32583"
+    ],
+    "population": 14280
+  },
+  {
+    "city": "East Palatka",
+    "county": "Putnam",
+    "zip_codes": [
+      "32131"
+    ],
+    "population": 1536
+  },
+  {
+    "city": "East Williston",
+    "county": "Levy",
+    "zip_codes": [
+      "32696"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Eastpoint",
+    "county": "Franklin",
+    "zip_codes": [
+      "32328"
+    ],
+    "population": 2602
+  },
+  {
+    "city": "Eatonville",
+    "county": "Orange",
+    "zip_codes": [
+      "32751",
+      "32789",
+      "32810"
+    ],
+    "population": 2582
+  },
+  {
+    "city": "Ebro",
+    "county": "Washington",
+    "zip_codes": [
+      "32437"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Edgewater",
+    "county": "Volusia",
+    "zip_codes": [
+      "32132",
+      "32141",
+      "32168"
+    ],
+    "population": 23314
+  },
+  {
+    "city": "Edgewood",
+    "county": "Orange",
+    "zip_codes": [
+      "32806",
+      "32809",
+      "32839"
+    ],
+    "population": 2710
+  },
+  {
+    "city": "Eglin AFB",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32542"
+    ],
+    "population": 2975
+  },
+  {
+    "city": "Egypt Lake-Leto",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33614"
+    ],
+    "population": 35709
+  },
+  {
+    "city": "El Portal",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33138",
+      "33150"
+    ],
+    "population": 1979
+  },
+  {
+    "city": "Elfers",
+    "county": "Pasco",
+    "zip_codes": [
+      "34652",
+      "34653",
+      "34690"
+    ],
+    "population": 13877
+  },
+  {
+    "city": "Ellenton",
+    "county": "Manatee",
+    "zip_codes": [
+      "34221",
+      "34222"
+    ],
+    "population": 5454
+  },
+  {
+    "city": "Englewood",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34223",
+      "34224"
+    ],
+    "population": 19385
+  },
+  {
+    "city": "Ensley",
+    "county": "Escambia",
+    "zip_codes": [
+      "32514",
+      "32533",
+      "32534"
+    ],
+    "population": 23036
+  },
+  {
+    "city": "Estero",
+    "county": "Lee",
+    "zip_codes": [
+      "33908",
+      "33928",
+      "33967",
+      "34134",
+      "34135"
+    ],
+    "population": 37258
+  },
+  {
+    "city": "Esto",
+    "county": "Holmes",
+    "zip_codes": [
+      "32425"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Eustis",
+    "county": "Lake",
+    "zip_codes": [
+      "32726",
+      "32735",
+      "32736",
+      "32784"
+    ],
+    "population": 23567
+  },
+  {
+    "city": "Everglades",
+    "county": "Collier",
+    "zip_codes": [
+      "34139",
+      "34141"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Fairview Shores",
+    "county": "Orange",
+    "zip_codes": [
+      "32789",
+      "32804",
+      "32810"
+    ],
+    "population": 11064
+  },
+  {
+    "city": "Fanning Springs",
+    "county": "Levy",
+    "zip_codes": [
+      "32693"
+    ],
+    "population": 1154
+  },
+  {
+    "city": "Feather Sound",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33762"
+    ],
+    "population": 3309
+  },
+  {
+    "city": "Fellsmere",
+    "county": "Indian River",
+    "zip_codes": [
+      "32948",
+      "32958",
+      "32966",
+      "32967"
+    ],
+    "population": 4902
+  },
+  {
+    "city": "Fern Park",
+    "county": "Seminole",
+    "zip_codes": [
+      "32707",
+      "32730",
+      "32751"
+    ],
+    "population": 8593
+  },
+  {
+    "city": "Fernandina Beach",
+    "county": "Nassau",
+    "zip_codes": [
+      "32034"
+    ],
+    "population": 13239
+  },
+  {
+    "city": "Ferndale",
+    "county": "Lake",
+    "zip_codes": [
+      "34715",
+      "34729"
+    ],
+    "population": 457
+  },
+  {
+    "city": "Ferry Pass",
+    "county": "Escambia",
+    "zip_codes": [
+      "32504",
+      "32514"
+    ],
+    "population": 30467
+  },
+  {
+    "city": "Fidelis",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Fish Hawk",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33547",
+      "33569"
+    ],
+    "population": 25945
+  },
+  {
+    "city": "Fisher Island",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33109"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Five Points",
+    "county": "Columbia",
+    "zip_codes": [
+      "32055"
+    ],
+    "population": 1160
+  },
+  {
+    "city": "Flagler Beach",
+    "county": "Flagler",
+    "zip_codes": [
+      "32136"
+    ],
+    "population": 5250
+  },
+  {
+    "city": "Flagler Estates",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32145"
+    ],
+    "population": 3934
+  },
+  {
+    "city": "Fleming Island",
+    "county": "Clay",
+    "zip_codes": [
+      "32003"
+    ],
+    "population": 29351
+  },
+  {
+    "city": "Floral City",
+    "county": "Citrus",
+    "zip_codes": [
+      "34436"
+    ],
+    "population": 5467
+  },
+  {
+    "city": "Florida City",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33034",
+      "33035"
+    ],
+    "population": 12791
+  },
+  {
+    "city": "Florida Gulf Coast University",
+    "county": "Lee",
+    "zip_codes": [
+      "33965"
+    ],
+    "population": 4416
+  },
+  {
+    "city": "Florida Ridge",
+    "county": "Indian River",
+    "zip_codes": [
+      "32962",
+      "32968"
+    ],
+    "population": 21517
+  },
+  {
+    "city": "Floridatown",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32571"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Forest City",
+    "county": "Seminole",
+    "zip_codes": [
+      "32703",
+      "32714",
+      "32779"
+    ],
+    "population": 14871
+  },
+  {
+    "city": "Fort Braden",
+    "county": "Leon",
+    "zip_codes": [
+      "32310"
+    ],
+    "population": 886
+  },
+  {
+    "city": "Fort Denaud",
+    "county": "Hendry",
+    "zip_codes": [
+      "33935"
+    ],
+    "population": 1396
+  },
+  {
+    "city": "Fort Green",
+    "county": "Hardee",
+    "zip_codes": [
+      "33834"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Fort Green Springs",
+    "county": "Hardee",
+    "zip_codes": [
+      "33834"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Fort Lauderdale",
+    "county": "Broward",
+    "zip_codes": [
+      "33301",
+      "33304",
+      "33305",
+      "33306",
+      "33308",
+      "33309",
+      "33311",
+      "33312",
+      "33315",
+      "33316",
+      "33334"
+    ],
+    "population": 183032
+  },
+  {
+    "city": "Fort Meade",
+    "county": "Polk",
+    "zip_codes": [
+      "33841"
+    ],
+    "population": 5172
+  },
+  {
+    "city": "Fort Myers",
+    "county": "Lee",
+    "zip_codes": [
+      "33901",
+      "33905",
+      "33907",
+      "33912",
+      "33913",
+      "33916",
+      "33966",
+      "33971"
+    ],
+    "population": 91730
+  },
+  {
+    "city": "Fort Myers Beach",
+    "county": "Lee",
+    "zip_codes": [
+      "33908",
+      "33931"
+    ],
+    "population": 5548
+  },
+  {
+    "city": "Fort Myers Shores",
+    "county": "Lee",
+    "zip_codes": [
+      "33905"
+    ],
+    "population": 5966
+  },
+  {
+    "city": "Fort Pierce",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34945",
+      "34946",
+      "34947",
+      "34949",
+      "34950",
+      "34981",
+      "34982"
+    ],
+    "population": 48094
+  },
+  {
+    "city": "Fort Pierce North",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34946",
+      "34947",
+      "34950"
+    ],
+    "population": 7023
+  },
+  {
+    "city": "Fort Pierce South",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34947",
+      "34981",
+      "34982"
+    ],
+    "population": 4686
+  },
+  {
+    "city": "Fort Walton Beach",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32547",
+      "32548"
+    ],
+    "population": 20956
+  },
+  {
+    "city": "Fort White",
+    "county": "Columbia",
+    "zip_codes": [
+      "32038"
+    ],
+    "population": 638
+  },
+  {
+    "city": "Fountainebleau",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33126",
+      "33144",
+      "33172",
+      "33174"
+    ],
+    "population": 56453
+  },
+  {
+    "city": "Four Corners",
+    "county": "Osceola",
+    "zip_codes": [
+      "33896",
+      "33897",
+      "34714",
+      "34747",
+      "34787"
+    ],
+    "population": 60443
+  },
+  {
+    "city": "Franklin Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33311"
+    ],
+    "population": 2018
+  },
+  {
+    "city": "Freeport",
+    "county": "Walton",
+    "zip_codes": [
+      "32435",
+      "32439"
+    ],
+    "population": 6203
+  },
+  {
+    "city": "Frostproof",
+    "county": "Polk",
+    "zip_codes": [
+      "33827",
+      "33843"
+    ],
+    "population": 3289
+  },
+  {
+    "city": "Fruit Cove",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32259"
+    ],
+    "population": 35609
+  },
+  {
+    "city": "Fruitland Park",
+    "county": "Lake",
+    "zip_codes": [
+      "32163",
+      "34731"
+    ],
+    "population": 8482
+  },
+  {
+    "city": "Fruitville",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34232",
+      "34235",
+      "34240"
+    ],
+    "population": 15828
+  },
+  {
+    "city": "Fuller Heights",
+    "county": "Polk",
+    "zip_codes": [
+      "33860"
+    ],
+    "population": 10697
+  },
+  {
+    "city": "Fussels Corner",
+    "county": "Polk",
+    "zip_codes": [
+      "33801",
+      "33823"
+    ],
+    "population": 5113
+  },
+  {
+    "city": "Gainesville",
+    "county": "Alachua",
+    "zip_codes": [
+      "32601",
+      "32603",
+      "32605",
+      "32606",
+      "32607",
+      "32608",
+      "32609",
+      "32610",
+      "32612",
+      "32641",
+      "32653"
+    ],
+    "population": 143611
+  },
+  {
+    "city": "Garcon Point",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32583"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Garden Grove",
+    "county": "Hernando",
+    "zip_codes": [
+      "34604"
+    ],
+    "population": 858
+  },
+  {
+    "city": "Gardner",
+    "county": "Hardee",
+    "zip_codes": [
+      "33890"
+    ],
+    "population": 502
+  },
+  {
+    "city": "Gateway",
+    "county": "Lee",
+    "zip_codes": [
+      "33913"
+    ],
+    "population": 9603
+  },
+  {
+    "city": "Geneva",
+    "county": "Seminole",
+    "zip_codes": [
+      "32732"
+    ],
+    "population": 3520
+  },
+  {
+    "city": "Gibsonton",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33534",
+      "33578"
+    ],
+    "population": 18831
+  },
+  {
+    "city": "Gifford",
+    "county": "Indian River",
+    "zip_codes": [
+      "32960",
+      "32967"
+    ],
+    "population": 4658
+  },
+  {
+    "city": "Gladeview",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33147",
+      "33150"
+    ],
+    "population": 14657
+  },
+  {
+    "city": "Glen Ridge",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406"
+    ],
+    "population": 319
+  },
+  {
+    "city": "Glen St. Mary",
+    "county": "Baker",
+    "zip_codes": [
+      "32040"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Glencoe",
+    "county": "Volusia",
+    "zip_codes": [
+      "32168"
+    ],
+    "population": 1479
+  },
+  {
+    "city": "Glenvar Heights",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33143",
+      "33155"
+    ],
+    "population": 18488
+  },
+  {
+    "city": "Golden Beach",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160"
+    ],
+    "population": 614
+  },
+  {
+    "city": "Golden Gate",
+    "county": "Collier",
+    "zip_codes": [
+      "34116"
+    ],
+    "population": 28767
+  },
+  {
+    "city": "Golden Glades",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33161",
+      "33162",
+      "33167",
+      "33168",
+      "33169",
+      "33181"
+    ],
+    "population": 35042
+  },
+  {
+    "city": "Goldenrod",
+    "county": "Seminole",
+    "zip_codes": [
+      "32792",
+      "32817"
+    ],
+    "population": 12603
+  },
+  {
+    "city": "Golf",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33436"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Gonzalez",
+    "county": "Escambia",
+    "zip_codes": [
+      "32533",
+      "32534"
+    ],
+    "population": 13861
+  },
+  {
+    "city": "Goodland",
+    "county": "Collier",
+    "zip_codes": [
+      "34140"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Gotha",
+    "county": "Orange",
+    "zip_codes": [
+      "34734",
+      "34786"
+    ],
+    "population": 1179
+  },
+  {
+    "city": "Goulding",
+    "county": "Escambia",
+    "zip_codes": [
+      "32501",
+      "32503",
+      "32505"
+    ],
+    "population": 3448
+  },
+  {
+    "city": "Goulds",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33170",
+      "33177",
+      "33189"
+    ],
+    "population": 12019
+  },
+  {
+    "city": "Graceville",
+    "county": "Jackson",
+    "zip_codes": [
+      "32440"
+    ],
+    "population": 2609
+  },
+  {
+    "city": "Grand Ridge",
+    "county": "Jackson",
+    "zip_codes": [
+      "32442"
+    ],
+    "population": 845
+  },
+  {
+    "city": "Grant-Valkaria",
+    "county": "Brevard",
+    "zip_codes": [
+      "32909",
+      "32949",
+      "32950"
+    ],
+    "population": 4655
+  },
+  {
+    "city": "Green Cove Springs",
+    "county": "Clay",
+    "zip_codes": [
+      "32043"
+    ],
+    "population": 9937
+  },
+  {
+    "city": "Greenacres",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33413",
+      "33415",
+      "33463",
+      "33467"
+    ],
+    "population": 43871
+  },
+  {
+    "city": "Greenbriar",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33763",
+      "34698"
+    ],
+    "population": 2344
+  },
+  {
+    "city": "Greensboro",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32330",
+      "32351"
+    ],
+    "population": 684
+  },
+  {
+    "city": "Greenville",
+    "county": "Madison",
+    "zip_codes": [
+      "32331"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Greenwood",
+    "county": "Jackson",
+    "zip_codes": [
+      "32443"
+    ],
+    "population": 958
+  },
+  {
+    "city": "Grenelefe",
+    "county": "Polk",
+    "zip_codes": [
+      "33844"
+    ],
+    "population": 2341
+  },
+  {
+    "city": "Gretna",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32324",
+      "32332",
+      "32351"
+    ],
+    "population": 1405
+  },
+  {
+    "city": "Grove City",
+    "county": "Charlotte",
+    "zip_codes": [
+      "34224"
+    ],
+    "population": 2049
+  },
+  {
+    "city": "Groveland",
+    "county": "Lake",
+    "zip_codes": [
+      "34711",
+      "34715",
+      "34736",
+      "34737"
+    ],
+    "population": 20621
+  },
+  {
+    "city": "Gulf Breeze",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32561"
+    ],
+    "population": 6519
+  },
+  {
+    "city": "Gulf Gate",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34231",
+      "34238"
+    ],
+    "population": 8317
+  },
+  {
+    "city": "Gulf Stream",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33483"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Gulfport",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33707",
+      "33711"
+    ],
+    "population": 11735
+  },
+  {
+    "city": "Gun Club Estates",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Haines City",
+    "county": "Polk",
+    "zip_codes": [
+      "33837",
+      "33844"
+    ],
+    "population": 31156
+  },
+  {
+    "city": "Hallandale Beach",
+    "county": "Broward",
+    "zip_codes": [
+      "33009"
+    ],
+    "population": 41224
+  },
+  {
+    "city": "Hampton",
+    "county": "Bradford",
+    "zip_codes": [
+      "32044"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Harbor Bluffs",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33770"
+    ],
+    "population": 3020
+  },
+  {
+    "city": "Harbour Heights",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33983"
+    ],
+    "population": 4184
+  },
+  {
+    "city": "Harlem",
+    "county": "Hendry",
+    "zip_codes": [
+      "33440"
+    ],
+    "population": 3050
+  },
+  {
+    "city": "Harlem Heights",
+    "county": "Lee",
+    "zip_codes": [
+      "33908"
+    ],
+    "population": 1105
+  },
+  {
+    "city": "Harold",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32564",
+      "32583"
+    ],
+    "population": 408
+  },
+  {
+    "city": "Hastings",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32145"
+    ],
+    "population": 608
+  },
+  {
+    "city": "Havana",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32333"
+    ],
+    "population": 2340
+  },
+  {
+    "city": "Haverhill",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33415",
+      "33417"
+    ],
+    "population": 2687
+  },
+  {
+    "city": "Hawthorne",
+    "county": "Alachua",
+    "zip_codes": [
+      "32640"
+    ],
+    "population": 1603
+  },
+  {
+    "city": "Heathrow",
+    "county": "Seminole",
+    "zip_codes": [
+      "32746"
+    ],
+    "population": 7033
+  },
+  {
+    "city": "Heritage Bay",
+    "county": "Collier",
+    "zip_codes": [
+      "34120"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Heritage Pines",
+    "county": "Pasco",
+    "zip_codes": [
+      "34667"
+    ],
+    "population": 1520
+  },
+  {
+    "city": "Hernando",
+    "county": "Citrus",
+    "zip_codes": [
+      "34434",
+      "34442",
+      "34453"
+    ],
+    "population": 8795
+  },
+  {
+    "city": "Hernando Beach",
+    "county": "Hernando",
+    "zip_codes": [
+      "34607"
+    ],
+    "population": 2518
+  },
+  {
+    "city": "Hialeah",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33010",
+      "33012",
+      "33013",
+      "33014",
+      "33016",
+      "33018",
+      "33142"
+    ],
+    "population": 221901
+  },
+  {
+    "city": "Hialeah Gardens",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33016",
+      "33018"
+    ],
+    "population": 22634
+  },
+  {
+    "city": "High Point",
+    "county": "Hernando",
+    "zip_codes": [
+      "34613"
+    ],
+    "population": 3618
+  },
+  {
+    "city": "High Springs",
+    "county": "Alachua",
+    "zip_codes": [
+      "32615",
+      "32643"
+    ],
+    "population": 6396
+  },
+  {
+    "city": "Highland Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33487"
+    ],
+    "population": 4264
+  },
+  {
+    "city": "Highland City",
+    "county": "Polk",
+    "zip_codes": [
+      "33812",
+      "33813",
+      "33830"
+    ],
+    "population": 12732
+  },
+  {
+    "city": "Highland Park",
+    "county": "Polk",
+    "zip_codes": [
+      "33898"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Hill 'n Dale",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601",
+      "34602"
+    ],
+    "population": 3722
+  },
+  {
+    "city": "Hillcrest Heights",
+    "county": "Polk",
+    "zip_codes": [
+      "33827"
+    ],
+    "population": 374
+  },
+  {
+    "city": "Hilliard",
+    "county": "Nassau",
+    "zip_codes": [
+      "32011",
+      "32046"
+    ],
+    "population": 2993
+  },
+  {
+    "city": "Hillsboro Beach",
+    "county": "Broward",
+    "zip_codes": [
+      "33062"
+    ],
+    "population": 2020
+  },
+  {
+    "city": "Hillsboro Pines",
+    "county": "Broward",
+    "zip_codes": [
+      "33073"
+    ],
+    "population": 567
+  },
+  {
+    "city": "Hobe Sound",
+    "county": "Martin",
+    "zip_codes": [
+      "33455"
+    ],
+    "population": 14313
+  },
+  {
+    "city": "Holden Heights",
+    "county": "Orange",
+    "zip_codes": [
+      "32805",
+      "32806",
+      "32839"
+    ],
+    "population": 3108
+  },
+  {
+    "city": "Holden Lakes",
+    "county": "Orange",
+    "zip_codes": [
+      "32839"
+    ],
+    "population": 3506
+  },
+  {
+    "city": "Holiday",
+    "county": "Pasco",
+    "zip_codes": [
+      "34690",
+      "34691"
+    ],
+    "population": 21768
+  },
+  {
+    "city": "Holley",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32566"
+    ],
+    "population": 2595
+  },
+  {
+    "city": "Holly Hill",
+    "county": "Volusia",
+    "zip_codes": [
+      "32117",
+      "32174"
+    ],
+    "population": 13002
+  },
+  {
+    "city": "Hollywood",
+    "county": "Broward",
+    "zip_codes": [
+      "33004",
+      "33019",
+      "33020",
+      "33021",
+      "33022",
+      "33023",
+      "33024",
+      "33312",
+      "33316"
+    ],
+    "population": 152935
+  },
+  {
+    "city": "Holmes Beach",
+    "county": "Manatee",
+    "zip_codes": [
+      "34216",
+      "34217"
+    ],
+    "population": 3042
+  },
+  {
+    "city": "Homeland",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33847"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Homestead",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33030",
+      "33033",
+      "33034",
+      "33035"
+    ],
+    "population": 80725
+  },
+  {
+    "city": "Homestead Base",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33033",
+      "33039"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Homosassa",
+    "county": "Citrus",
+    "zip_codes": [
+      "34446",
+      "34448",
+      "34487"
+    ],
+    "population": 2072
+  },
+  {
+    "city": "Homosassa Springs",
+    "county": "Citrus",
+    "zip_codes": [
+      "34446",
+      "34448",
+      "34461"
+    ],
+    "population": 15465
+  },
+  {
+    "city": "Horizon West",
+    "county": "Orange",
+    "zip_codes": [
+      "32836",
+      "34786",
+      "34787"
+    ],
+    "population": 62152
+  },
+  {
+    "city": "Horseshoe Beach",
+    "county": "Dixie",
+    "zip_codes": [
+      "32648"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Hosford",
+    "county": "Liberty",
+    "zip_codes": [
+      "32334"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Howey-in-the-Hills",
+    "county": "Lake",
+    "zip_codes": [
+      "34737"
+    ],
+    "population": 2279
+  },
+  {
+    "city": "Hudson",
+    "county": "Pasco",
+    "zip_codes": [
+      "34667"
+    ],
+    "population": 10873
+  },
+  {
+    "city": "Hunters Creek",
+    "county": "Orange",
+    "zip_codes": [
+      "32837"
+    ],
+    "population": 21255
+  },
+  {
+    "city": "Hurlburt Field",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32544",
+      "32547"
+    ],
+    "population": 2867
+  },
+  {
+    "city": "Hutchinson Island South",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34957"
+    ],
+    "population": 4350
+  },
+  {
+    "city": "Hypoluxo",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33462"
+    ],
+    "population": 2744
+  },
+  {
+    "city": "Immokalee",
+    "county": "Collier",
+    "zip_codes": [
+      "34142"
+    ],
+    "population": 25624
+  },
+  {
+    "city": "Indialantic",
+    "county": "Brevard",
+    "zip_codes": [
+      "32903"
+    ],
+    "population": 3033
+  },
+  {
+    "city": "Indian Creek",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33154"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Indian Harbour Beach",
+    "county": "Brevard",
+    "zip_codes": [
+      "32937"
+    ],
+    "population": 8991
+  },
+  {
+    "city": "Indian Lake Estates",
+    "county": "Polk",
+    "zip_codes": [
+      "33855",
+      "33898"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Indian River Estates",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34952",
+      "34982"
+    ],
+    "population": 7331
+  },
+  {
+    "city": "Indian River Shores",
+    "county": "Indian River",
+    "zip_codes": [
+      "32963"
+    ],
+    "population": 4324
+  },
+  {
+    "city": "Indian Rocks Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33785"
+    ],
+    "population": 3667
+  },
+  {
+    "city": "Indian Shores",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33785"
+    ],
+    "population": 1204
+  },
+  {
+    "city": "Indiantown",
+    "county": "Martin",
+    "zip_codes": [
+      "34956"
+    ],
+    "population": 6646
+  },
+  {
+    "city": "Inglis",
+    "county": "Levy",
+    "zip_codes": [
+      "34449"
+    ],
+    "population": 1693
+  },
+  {
+    "city": "Interlachen",
+    "county": "Putnam",
+    "zip_codes": [
+      "32148"
+    ],
+    "population": 1659
+  },
+  {
+    "city": "Inverness",
+    "county": "Citrus",
+    "zip_codes": [
+      "34450",
+      "34452",
+      "34453"
+    ],
+    "population": 7672
+  },
+  {
+    "city": "Inverness Highlands North",
+    "county": "Citrus",
+    "zip_codes": [
+      "34453"
+    ],
+    "population": 2785
+  },
+  {
+    "city": "Inverness Highlands South",
+    "county": "Citrus",
+    "zip_codes": [
+      "34452"
+    ],
+    "population": 7478
+  },
+  {
+    "city": "Inwood",
+    "county": "Polk",
+    "zip_codes": [
+      "33823",
+      "33880",
+      "33881"
+    ],
+    "population": 7098
+  },
+  {
+    "city": "Iona",
+    "county": "Lee",
+    "zip_codes": [
+      "33908"
+    ],
+    "population": 14290
+  },
+  {
+    "city": "Islamorada, Village of Islands",
+    "county": "Monroe",
+    "zip_codes": [
+      "33036",
+      "33070"
+    ],
+    "population": 7042
+  },
+  {
+    "city": "Island Walk",
+    "county": "Collier",
+    "zip_codes": [
+      "34119"
+    ],
+    "population": 2724
+  },
+  {
+    "city": "Istachatta",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Ives Estates",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33179"
+    ],
+    "population": 26154
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Duval",
+    "zip_codes": [
+      "32081",
+      "32202",
+      "32203",
+      "32204",
+      "32205",
+      "32206",
+      "32207",
+      "32208",
+      "32209",
+      "32210",
+      "32211",
+      "32212",
+      "32214",
+      "32216",
+      "32217",
+      "32218",
+      "32219",
+      "32220",
+      "32221",
+      "32222",
+      "32223",
+      "32224",
+      "32225",
+      "32226",
+      "32227",
+      "32228",
+      "32233",
+      "32234",
+      "32244",
+      "32246",
+      "32250",
+      "32254",
+      "32256",
+      "32257",
+      "32258",
+      "32277"
+    ],
+    "population": 961739
+  },
+  {
+    "city": "Jacksonville Beach",
+    "county": "Duval",
+    "zip_codes": [
+      "32250"
+    ],
+    "population": 23601
+  },
+  {
+    "city": "Jacob City",
+    "county": "Jackson",
+    "zip_codes": [
+      "32431"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Jan Phyl Village",
+    "county": "Polk",
+    "zip_codes": [
+      "33880"
+    ],
+    "population": 5798
+  },
+  {
+    "city": "Jasmine Estates",
+    "county": "Pasco",
+    "zip_codes": [
+      "34654",
+      "34668"
+    ],
+    "population": 23151
+  },
+  {
+    "city": "Jasper",
+    "county": "Hamilton",
+    "zip_codes": [
+      "32052"
+    ],
+    "population": 4485
+  },
+  {
+    "city": "Jay",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 706
+  },
+  {
+    "city": "Jennings",
+    "county": "Hamilton",
+    "zip_codes": [
+      "32053"
+    ],
+    "population": 848
+  },
+  {
+    "city": "Jensen Beach",
+    "county": "Martin",
+    "zip_codes": [
+      "34957"
+    ],
+    "population": 12456
+  },
+  {
+    "city": "June Park",
+    "county": "Brevard",
+    "zip_codes": [
+      "32904"
+    ],
+    "population": 4852
+  },
+  {
+    "city": "Juno Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33408"
+    ],
+    "population": 3835
+  },
+  {
+    "city": "Juno Ridge",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33408"
+    ],
+    "population": 1260
+  },
+  {
+    "city": "Jupiter",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33458",
+      "33469",
+      "33477",
+      "33478"
+    ],
+    "population": 61097
+  },
+  {
+    "city": "Jupiter Farms",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33478"
+    ],
+    "population": 13394
+  },
+  {
+    "city": "Jupiter Inlet Colony",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33469"
+    ],
+    "population": 486
+  },
+  {
+    "city": "Jupiter Island",
+    "county": "Martin",
+    "zip_codes": [
+      "33455"
+    ],
+    "population": 871
+  },
+  {
+    "city": "Kathleen",
+    "county": "Polk",
+    "zip_codes": [
+      "33810"
+    ],
+    "population": 6527
+  },
+  {
+    "city": "Kendale Lakes",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33175",
+      "33183",
+      "33186"
+    ],
+    "population": 52141
+  },
+  {
+    "city": "Kendall",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33143",
+      "33156",
+      "33173",
+      "33176",
+      "33183",
+      "33186"
+    ],
+    "population": 78527
+  },
+  {
+    "city": "Kendall West",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33185",
+      "33193"
+    ],
+    "population": 35492
+  },
+  {
+    "city": "Kenneth City",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33709"
+    ],
+    "population": 5025
+  },
+  {
+    "city": "Kensington Park",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34235"
+    ],
+    "population": 3561
+  },
+  {
+    "city": "Kenwood Estates",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33461",
+      "33463"
+    ],
+    "population": 1403
+  },
+  {
+    "city": "Key Biscayne",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33149"
+    ],
+    "population": 14560
+  },
+  {
+    "city": "Key Colony Beach",
+    "county": "Monroe",
+    "zip_codes": [
+      "33051"
+    ],
+    "population": 525
+  },
+  {
+    "city": "Key Largo",
+    "county": "Monroe",
+    "zip_codes": [
+      "33037"
+    ],
+    "population": 12069
+  },
+  {
+    "city": "Key Vista",
+    "county": "Pasco",
+    "zip_codes": [
+      "34691"
+    ],
+    "population": 1503
+  },
+  {
+    "city": "Key West",
+    "county": "Monroe",
+    "zip_codes": [
+      "33040"
+    ],
+    "population": 25824
+  },
+  {
+    "city": "Keystone",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33556",
+      "33558",
+      "33626"
+    ],
+    "population": 26723
+  },
+  {
+    "city": "Keystone Heights",
+    "county": "Clay",
+    "zip_codes": [
+      "32656"
+    ],
+    "population": 1539
+  },
+  {
+    "city": "Kissimmee",
+    "county": "Osceola",
+    "zip_codes": [
+      "34741",
+      "34743",
+      "34744",
+      "34746"
+    ],
+    "population": 79504
+  },
+  {
+    "city": "La Crosse",
+    "county": "Alachua",
+    "zip_codes": [
+      "32609",
+      "32615",
+      "32622",
+      "32653",
+      "32658"
+    ],
+    "population": 227
+  },
+  {
+    "city": "LaBelle",
+    "county": "Hendry",
+    "zip_codes": [
+      "33935"
+    ],
+    "population": 5042
+  },
+  {
+    "city": "Lacoochee",
+    "county": "Pasco",
+    "zip_codes": [
+      "33523",
+      "33597"
+    ],
+    "population": 1445
+  },
+  {
+    "city": "Lady Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "32159",
+      "32195"
+    ],
+    "population": 16337
+  },
+  {
+    "city": "Laguna Beach",
+    "county": "Bay",
+    "zip_codes": [
+      "32413"
+    ],
+    "population": 4367
+  },
+  {
+    "city": "Lake Alfred",
+    "county": "Polk",
+    "zip_codes": [
+      "33844",
+      "33850"
+    ],
+    "population": 6803
+  },
+  {
+    "city": "Lake Belvedere Estates",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33413"
+    ],
+    "population": 2532
+  },
+  {
+    "city": "Lake Buena Vista",
+    "county": "Orange",
+    "zip_codes": [
+      "32830"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Lake Butler",
+    "county": "Orange",
+    "zip_codes": [
+      "34786",
+      "34787"
+    ],
+    "population": 17242
+  },
+  {
+    "city": "Lake Butler",
+    "county": "Union",
+    "zip_codes": [
+      "32054"
+    ],
+    "population": 1842
+  },
+  {
+    "city": "Lake City",
+    "county": "Columbia",
+    "zip_codes": [
+      "32024",
+      "32025",
+      "32055"
+    ],
+    "population": 12404
+  },
+  {
+    "city": "Lake Clarke Shores",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406"
+    ],
+    "population": 3550
+  },
+  {
+    "city": "Lake Hamilton",
+    "county": "Polk",
+    "zip_codes": [
+      "33838",
+      "33844",
+      "33851",
+      "33881"
+    ],
+    "population": 1767
+  },
+  {
+    "city": "Lake Harbor",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33440"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lake Hart",
+    "county": "Orange",
+    "zip_codes": [
+      "32832"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Lake Helen",
+    "county": "Volusia",
+    "zip_codes": [
+      "32724",
+      "32744"
+    ],
+    "population": 2877
+  },
+  {
+    "city": "Lake Kathryn",
+    "county": "Lake",
+    "zip_codes": [
+      "32767"
+    ],
+    "population": 797
+  },
+  {
+    "city": "Lake Kerr",
+    "county": "Marion",
+    "zip_codes": [
+      "32134"
+    ],
+    "population": 1767
+  },
+  {
+    "city": "Lake Lindsey",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Lake Lorraine",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32579"
+    ],
+    "population": 7210
+  },
+  {
+    "city": "Lake Mack-Forest Hills",
+    "county": "Lake",
+    "zip_codes": [
+      "32720"
+    ],
+    "population": 2267
+  },
+  {
+    "city": "Lake Magdalene",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33548",
+      "33612",
+      "33613",
+      "33618"
+    ],
+    "population": 31733
+  },
+  {
+    "city": "Lake Mary",
+    "county": "Seminole",
+    "zip_codes": [
+      "32746"
+    ],
+    "population": 16724
+  },
+  {
+    "city": "Lake Mary Jane",
+    "county": "Orange",
+    "zip_codes": [
+      "32832"
+    ],
+    "population": 2323
+  },
+  {
+    "city": "Lake Mystic",
+    "county": "Liberty",
+    "zip_codes": [
+      "32321"
+    ],
+    "population": 556
+  },
+  {
+    "city": "Lake Panasoffkee",
+    "county": "Sumter",
+    "zip_codes": [
+      "33538"
+    ],
+    "population": 4525
+  },
+  {
+    "city": "Lake Park",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33403",
+      "33408"
+    ],
+    "population": 9005
+  },
+  {
+    "city": "Lake Placid",
+    "county": "Highlands",
+    "zip_codes": [
+      "33852"
+    ],
+    "population": 2438
+  },
+  {
+    "city": "Lake Sarasota",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34241"
+    ],
+    "population": 3802
+  },
+  {
+    "city": "Lake Wales",
+    "county": "Polk",
+    "zip_codes": [
+      "33853",
+      "33859",
+      "33898"
+    ],
+    "population": 16365
+  },
+  {
+    "city": "Lake Worth Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33460",
+      "33461"
+    ],
+    "population": 42650
+  },
+  {
+    "city": "Lakeland",
+    "county": "Polk",
+    "zip_codes": [
+      "33801",
+      "33803",
+      "33805",
+      "33809",
+      "33810",
+      "33811",
+      "33813",
+      "33815",
+      "33868"
+    ],
+    "population": 117030
+  },
+  {
+    "city": "Lakeland Highlands",
+    "county": "Polk",
+    "zip_codes": [
+      "33813"
+    ],
+    "population": 11669
+  },
+  {
+    "city": "Lakeside",
+    "county": "Clay",
+    "zip_codes": [
+      "32065",
+      "32068",
+      "32073"
+    ],
+    "population": 31548
+  },
+  {
+    "city": "Lakewood Park",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34946",
+      "34951"
+    ],
+    "population": 14077
+  },
+  {
+    "city": "Lakewood Ranch",
+    "county": "Manatee",
+    "zip_codes": [
+      "34202",
+      "34211",
+      "34212",
+      "34240"
+    ],
+    "population": 39434
+  },
+  {
+    "city": "Lamont",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32336"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Land O' Lakes",
+    "county": "Pasco",
+    "zip_codes": [
+      "33548",
+      "33549",
+      "33558",
+      "33559",
+      "34638",
+      "34639"
+    ],
+    "population": 41845
+  },
+  {
+    "city": "Lantana",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33461",
+      "33462"
+    ],
+    "population": 11845
+  },
+  {
+    "city": "Largo",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33756",
+      "33760",
+      "33764",
+      "33770",
+      "33771",
+      "33773",
+      "33774",
+      "33778"
+    ],
+    "population": 82506
+  },
+  {
+    "city": "Lauderdale Lakes",
+    "county": "Broward",
+    "zip_codes": [
+      "33309",
+      "33311",
+      "33313",
+      "33319"
+    ],
+    "population": 35924
+  },
+  {
+    "city": "Lauderdale-by-the-Sea",
+    "county": "Broward",
+    "zip_codes": [
+      "33062",
+      "33308"
+    ],
+    "population": 6159
+  },
+  {
+    "city": "Lauderhill",
+    "county": "Broward",
+    "zip_codes": [
+      "33311",
+      "33313",
+      "33319",
+      "33351"
+    ],
+    "population": 73961
+  },
+  {
+    "city": "Laurel",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34229",
+      "34275"
+    ],
+    "population": 11868
+  },
+  {
+    "city": "Laurel Hill",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32567"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Lawtey",
+    "county": "Bradford",
+    "zip_codes": [
+      "32058"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Layton",
+    "county": "Monroe",
+    "zip_codes": [
+      "33001"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Lazy Lake",
+    "county": "Broward",
+    "zip_codes": [
+      "33305"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Lealman",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33702",
+      "33709",
+      "33714",
+      "33781"
+    ],
+    "population": 21026
+  },
+  {
+    "city": "Lecanto",
+    "county": "Citrus",
+    "zip_codes": [
+      "34429",
+      "34442",
+      "34446",
+      "34448",
+      "34461"
+    ],
+    "population": 6929
+  },
+  {
+    "city": "Lee",
+    "county": "Madison",
+    "zip_codes": [
+      "32059"
+    ],
+    "population": 774
+  },
+  {
+    "city": "Leesburg",
+    "county": "Lake",
+    "zip_codes": [
+      "34736",
+      "34737",
+      "34748",
+      "34762",
+      "34788"
+    ],
+    "population": 28461
+  },
+  {
+    "city": "Lehigh Acres",
+    "county": "Lee",
+    "zip_codes": [
+      "33905",
+      "33913",
+      "33920",
+      "33936",
+      "33971",
+      "33972",
+      "33973",
+      "33974",
+      "33976"
+    ],
+    "population": 127391
+  },
+  {
+    "city": "Leisure City",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33032",
+      "33033"
+    ],
+    "population": 26917
+  },
+  {
+    "city": "Lely",
+    "county": "Collier",
+    "zip_codes": [
+      "34113"
+    ],
+    "population": 3770
+  },
+  {
+    "city": "Lely Resort",
+    "county": "Collier",
+    "zip_codes": [
+      "34113"
+    ],
+    "population": 8296
+  },
+  {
+    "city": "Lemon Grove",
+    "county": "Hardee",
+    "zip_codes": [
+      "33873",
+      "33890"
+    ],
+    "population": 418
+  },
+  {
+    "city": "Liberty Triangle",
+    "county": "Marion",
+    "zip_codes": [
+      "34476",
+      "34481"
+    ],
+    "population": 24178
+  },
+  {
+    "city": "Lighthouse Point",
+    "county": "Broward",
+    "zip_codes": [
+      "33064"
+    ],
+    "population": 10463
+  },
+  {
+    "city": "Limestone",
+    "county": "Hardee",
+    "zip_codes": [
+      "33865"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Limestone Creek",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33458"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Lisbon",
+    "county": "Lake",
+    "zip_codes": [
+      "34788"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Live Oak",
+    "county": "Suwannee",
+    "zip_codes": [
+      "32064"
+    ],
+    "population": 6901
+  },
+  {
+    "city": "Lloyd",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32337",
+      "32344"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Lochmoor Waterway Estates",
+    "county": "Lee",
+    "zip_codes": [
+      "33903",
+      "33990"
+    ],
+    "population": 5791
+  },
+  {
+    "city": "Lockhart",
+    "county": "Orange",
+    "zip_codes": [
+      "32703",
+      "32810"
+    ],
+    "population": 14753
+  },
+  {
+    "city": "Longboat Key",
+    "county": "Manatee",
+    "zip_codes": [
+      "34228"
+    ],
+    "population": 7512
+  },
+  {
+    "city": "Longwood",
+    "county": "Seminole",
+    "zip_codes": [
+      "32750"
+    ],
+    "population": 15952
+  },
+  {
+    "city": "Loughman",
+    "county": "Polk",
+    "zip_codes": [
+      "33837",
+      "33858",
+      "33896"
+    ],
+    "population": 7535
+  },
+  {
+    "city": "Lower Grand Lagoon",
+    "county": "Bay",
+    "zip_codes": [
+      "32408"
+    ],
+    "population": 4305
+  },
+  {
+    "city": "Loxahatchee Groves",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33470"
+    ],
+    "population": 3405
+  },
+  {
+    "city": "Lutz",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33548",
+      "33549",
+      "33558",
+      "33559",
+      "33647"
+    ],
+    "population": 26731
+  },
+  {
+    "city": "Lynn Haven",
+    "county": "Bay",
+    "zip_codes": [
+      "32404",
+      "32405",
+      "32444"
+    ],
+    "population": 19451
+  },
+  {
+    "city": "Macclenny",
+    "county": "Baker",
+    "zip_codes": [
+      "32063"
+    ],
+    "population": 7558
+  },
+  {
+    "city": "Madeira Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708"
+    ],
+    "population": 3937
+  },
+  {
+    "city": "Madison",
+    "county": "Madison",
+    "zip_codes": [
+      "32340"
+    ],
+    "population": 2960
+  },
+  {
+    "city": "Maitland",
+    "county": "Orange",
+    "zip_codes": [
+      "32751",
+      "32810"
+    ],
+    "population": 19268
+  },
+  {
+    "city": "Malabar",
+    "county": "Brevard",
+    "zip_codes": [
+      "32950"
+    ],
+    "population": 3017
+  },
+  {
+    "city": "Malone",
+    "county": "Jackson",
+    "zip_codes": [
+      "32445"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Manalapan",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33462"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Manasota Key",
+    "county": "Charlotte",
+    "zip_codes": [
+      "34223"
+    ],
+    "population": 1741
+  },
+  {
+    "city": "Manatee Road",
+    "county": "Levy",
+    "zip_codes": [
+      "32626",
+      "32693"
+    ],
+    "population": 2252
+  },
+  {
+    "city": "Mango",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33550",
+      "33584",
+      "33610"
+    ],
+    "population": 13037
+  },
+  {
+    "city": "Mangonia Park",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33407"
+    ],
+    "population": 2270
+  },
+  {
+    "city": "Marathon",
+    "county": "Monroe",
+    "zip_codes": [
+      "33050"
+    ],
+    "population": 9831
+  },
+  {
+    "city": "Marco Island",
+    "county": "Collier",
+    "zip_codes": [
+      "34140",
+      "34145"
+    ],
+    "population": 15998
+  },
+  {
+    "city": "Marco Shores-Hammock Bay",
+    "county": "Collier",
+    "zip_codes": [
+      "34114"
+    ],
+    "population": 746
+  },
+  {
+    "city": "Margate",
+    "county": "Broward",
+    "zip_codes": [
+      "33063",
+      "33068"
+    ],
+    "population": 58418
+  },
+  {
+    "city": "Marianna",
+    "county": "Jackson",
+    "zip_codes": [
+      "32446",
+      "32448"
+    ],
+    "population": 6815
+  },
+  {
+    "city": "Marineland",
+    "county": "Flagler",
+    "zip_codes": [
+      "32080",
+      "32137"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Marion Oaks",
+    "county": "Marion",
+    "zip_codes": [
+      "34473"
+    ],
+    "population": 22296
+  },
+  {
+    "city": "Mary Esther",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32569"
+    ],
+    "population": 4034
+  },
+  {
+    "city": "Masaryktown",
+    "county": "Hernando",
+    "zip_codes": [
+      "34604"
+    ],
+    "population": 1023
+  },
+  {
+    "city": "Mascotte",
+    "county": "Lake",
+    "zip_codes": [
+      "34736",
+      "34753"
+    ],
+    "population": 7407
+  },
+  {
+    "city": "Matlacha",
+    "county": "Lee",
+    "zip_codes": [
+      "33993"
+    ],
+    "population": 845
+  },
+  {
+    "city": "Matlacha Isles-Matlacha Shores",
+    "county": "Lee",
+    "zip_codes": [
+      "33991",
+      "33993"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Mayo",
+    "county": "Lafayette",
+    "zip_codes": [
+      "32066"
+    ],
+    "population": 1172
+  },
+  {
+    "city": "McGregor",
+    "county": "Lee",
+    "zip_codes": [
+      "33919"
+    ],
+    "population": 8198
+  },
+  {
+    "city": "McIntosh",
+    "county": "Marion",
+    "zip_codes": [
+      "32664"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Meadow Oaks",
+    "county": "Pasco",
+    "zip_codes": [
+      "34669"
+    ],
+    "population": 3261
+  },
+  {
+    "city": "Meadow Woods",
+    "county": "Orange",
+    "zip_codes": [
+      "32824"
+    ],
+    "population": 40741
+  },
+  {
+    "city": "Medley",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33018",
+      "33166",
+      "33178"
+    ],
+    "population": 1089
+  },
+  {
+    "city": "Medulla",
+    "county": "Polk",
+    "zip_codes": [
+      "33811",
+      "33813"
+    ],
+    "population": 11712
+  },
+  {
+    "city": "Melbourne",
+    "county": "Brevard",
+    "zip_codes": [
+      "32901",
+      "32903",
+      "32904",
+      "32934",
+      "32935",
+      "32940"
+    ],
+    "population": 85718
+  },
+  {
+    "city": "Melbourne Beach",
+    "county": "Brevard",
+    "zip_codes": [
+      "32951"
+    ],
+    "population": 3237
+  },
+  {
+    "city": "Melbourne Village",
+    "county": "Brevard",
+    "zip_codes": [
+      "32904"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Memphis",
+    "county": "Manatee",
+    "zip_codes": [
+      "34221"
+    ],
+    "population": 10626
+  },
+  {
+    "city": "Merritt Island",
+    "county": "Brevard",
+    "zip_codes": [
+      "32952",
+      "32953"
+    ],
+    "population": 34718
+  },
+  {
+    "city": "Mexico Beach",
+    "county": "Bay",
+    "zip_codes": [
+      "32410",
+      "32456"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Miami",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33101",
+      "33125",
+      "33126",
+      "33127",
+      "33128",
+      "33129",
+      "33130",
+      "33131",
+      "33132",
+      "33133",
+      "33134",
+      "33135",
+      "33136",
+      "33137",
+      "33138",
+      "33139",
+      "33142",
+      "33144",
+      "33145",
+      "33149",
+      "33150"
+    ],
+    "population": 446663
+  },
+  {
+    "city": "Miami Beach",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33109",
+      "33139",
+      "33140",
+      "33141"
+    ],
+    "population": 81319
+  },
+  {
+    "city": "Miami Gardens",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33014",
+      "33054",
+      "33055",
+      "33056",
+      "33169",
+      "33179"
+    ],
+    "population": 111264
+  },
+  {
+    "city": "Miami Lakes",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33014",
+      "33016",
+      "33018"
+    ],
+    "population": 30731
+  },
+  {
+    "city": "Miami Shores",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33138",
+      "33150",
+      "33161",
+      "33168"
+    ],
+    "population": 11627
+  },
+  {
+    "city": "Miami Springs",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33142",
+      "33166"
+    ],
+    "population": 13606
+  },
+  {
+    "city": "Micanopy",
+    "county": "Alachua",
+    "zip_codes": [
+      "32667"
+    ],
+    "population": 604
+  },
+  {
+    "city": "Micco",
+    "county": "Brevard",
+    "zip_codes": [
+      "32949",
+      "32976"
+    ],
+    "population": 9053
+  },
+  {
+    "city": "Miccosukee",
+    "county": "Leon",
+    "zip_codes": [
+      "32309"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Middleburg",
+    "county": "Clay",
+    "zip_codes": [
+      "32068"
+    ],
+    "population": 11911
+  },
+  {
+    "city": "Midway",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32333",
+      "32343"
+    ],
+    "population": 3504
+  },
+  {
+    "city": "Midway",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32563"
+    ],
+    "population": 20745
+  },
+  {
+    "city": "Midway",
+    "county": "Seminole",
+    "zip_codes": [
+      "32771"
+    ],
+    "population": 1558
+  },
+  {
+    "city": "Milton",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32570",
+      "32583"
+    ],
+    "population": 10485
+  },
+  {
+    "city": "Mims",
+    "county": "Brevard",
+    "zip_codes": [
+      "32754",
+      "32796"
+    ],
+    "population": 7282
+  },
+  {
+    "city": "Minneola",
+    "county": "Lake",
+    "zip_codes": [
+      "34715",
+      "34756"
+    ],
+    "population": 15371
+  },
+  {
+    "city": "Miramar",
+    "county": "Broward",
+    "zip_codes": [
+      "33023",
+      "33025",
+      "33027",
+      "33029"
+    ],
+    "population": 135986
+  },
+  {
+    "city": "Miramar Beach",
+    "county": "Walton",
+    "zip_codes": [
+      "32550"
+    ],
+    "population": 8587
+  },
+  {
+    "city": "Molino",
+    "county": "Escambia",
+    "zip_codes": [
+      "32577"
+    ],
+    "population": 1607
+  },
+  {
+    "city": "Monticello",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32344"
+    ],
+    "population": 2627
+  },
+  {
+    "city": "Montura",
+    "county": "Hendry",
+    "zip_codes": [
+      "33440"
+    ],
+    "population": 3678
+  },
+  {
+    "city": "Montverde",
+    "county": "Lake",
+    "zip_codes": [
+      "34715",
+      "34756"
+    ],
+    "population": 1780
+  },
+  {
+    "city": "Moon Lake",
+    "county": "Pasco",
+    "zip_codes": [
+      "34654"
+    ],
+    "population": 4572
+  },
+  {
+    "city": "Moore Haven",
+    "county": "Glades",
+    "zip_codes": [
+      "33471"
+    ],
+    "population": 2170
+  },
+  {
+    "city": "Morriston",
+    "county": "Levy",
+    "zip_codes": [
+      "32668"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Mount Carmel",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Mount Dora",
+    "county": "Lake",
+    "zip_codes": [
+      "32757"
+    ],
+    "population": 16812
+  },
+  {
+    "city": "Mount Plymouth",
+    "county": "Lake",
+    "zip_codes": [
+      "32776"
+    ],
+    "population": 4688
+  },
+  {
+    "city": "Mulat",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32583"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Mulberry",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33860"
+    ],
+    "population": 4070
+  },
+  {
+    "city": "Munson",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32531",
+      "32570"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Myrtle Grove",
+    "county": "Escambia",
+    "zip_codes": [
+      "32506",
+      "32507",
+      "32511",
+      "32512"
+    ],
+    "population": 16637
+  },
+  {
+    "city": "Naples",
+    "county": "Collier",
+    "zip_codes": [
+      "34101",
+      "34102",
+      "34103",
+      "34104",
+      "34105",
+      "34112"
+    ],
+    "population": 19421
+  },
+  {
+    "city": "Naples Manor",
+    "county": "Collier",
+    "zip_codes": [
+      "34113"
+    ],
+    "population": 5262
+  },
+  {
+    "city": "Naples Park",
+    "county": "Collier",
+    "zip_codes": [
+      "34108"
+    ],
+    "population": 4995
+  },
+  {
+    "city": "Naranja",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33032"
+    ],
+    "population": 14610
+  },
+  {
+    "city": "Nassau Village-Ratliff",
+    "county": "Nassau",
+    "zip_codes": [
+      "32011"
+    ],
+    "population": 4749
+  },
+  {
+    "city": "Navarre",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32566"
+    ],
+    "population": 38988
+  },
+  {
+    "city": "Navarre Beach",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32566"
+    ],
+    "population": 1583
+  },
+  {
+    "city": "Neptune Beach",
+    "county": "Duval",
+    "zip_codes": [
+      "32266"
+    ],
+    "population": 7199
+  },
+  {
+    "city": "New Port Richey",
+    "county": "Pasco",
+    "zip_codes": [
+      "34652",
+      "34653",
+      "34668"
+    ],
+    "population": 17057
+  },
+  {
+    "city": "New Port Richey East",
+    "county": "Pasco",
+    "zip_codes": [
+      "34653",
+      "34668"
+    ],
+    "population": 11485
+  },
+  {
+    "city": "New Smyrna Beach",
+    "county": "Volusia",
+    "zip_codes": [
+      "32168",
+      "32169"
+    ],
+    "population": 31212
+  },
+  {
+    "city": "Newberry",
+    "county": "Alachua",
+    "zip_codes": [
+      "32618",
+      "32643",
+      "32669"
+    ],
+    "population": 7608
+  },
+  {
+    "city": "Niceville",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32578"
+    ],
+    "population": 16043
+  },
+  {
+    "city": "Nobleton",
+    "county": "Hernando",
+    "zip_codes": [
+      "34661"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Nocatee",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32081",
+      "32095"
+    ],
+    "population": 25581
+  },
+  {
+    "city": "Nokomis",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34275"
+    ],
+    "population": 3391
+  },
+  {
+    "city": "Noma",
+    "county": "Holmes",
+    "zip_codes": [
+      "32425"
+    ],
+    "population": 254
+  },
+  {
+    "city": "North Bay Village",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33141"
+    ],
+    "population": 8004
+  },
+  {
+    "city": "North Brooksville",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601"
+    ],
+    "population": 4082
+  },
+  {
+    "city": "North DeLand",
+    "county": "Volusia",
+    "zip_codes": [
+      "32724"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "North Fort Myers",
+    "county": "Lee",
+    "zip_codes": [
+      "33903",
+      "33909",
+      "33917"
+    ],
+    "population": 44189
+  },
+  {
+    "city": "North Key Largo",
+    "county": "Monroe",
+    "zip_codes": [
+      "33037"
+    ],
+    "population": 1630
+  },
+  {
+    "city": "North Lauderdale",
+    "county": "Broward",
+    "zip_codes": [
+      "33068",
+      "33309",
+      "33319"
+    ],
+    "population": 44650
+  },
+  {
+    "city": "North Merritt Island",
+    "county": "Brevard",
+    "zip_codes": [
+      "32953"
+    ],
+    "population": 8903
+  },
+  {
+    "city": "North Miami",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160",
+      "33161",
+      "33167",
+      "33168",
+      "33181"
+    ],
+    "population": 59429
+  },
+  {
+    "city": "North Miami Beach",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160",
+      "33162",
+      "33169",
+      "33179",
+      "33181"
+    ],
+    "population": 43104
+  },
+  {
+    "city": "North Palm Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33403",
+      "33408",
+      "33410"
+    ],
+    "population": 13089
+  },
+  {
+    "city": "North Port",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34223",
+      "34286",
+      "34287",
+      "34288",
+      "34289",
+      "34291",
+      "34293"
+    ],
+    "population": 80512
+  },
+  {
+    "city": "North Redington Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "North River Shores",
+    "county": "Martin",
+    "zip_codes": [
+      "34994"
+    ],
+    "population": 3655
+  },
+  {
+    "city": "North Sarasota",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34234"
+    ],
+    "population": 3041
+  },
+  {
+    "city": "North Weeki Wachee",
+    "county": "Hernando",
+    "zip_codes": [
+      "34613"
+    ],
+    "population": 7967
+  },
+  {
+    "city": "Northdale",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33548",
+      "33558",
+      "33624",
+      "33625"
+    ],
+    "population": 25420
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Volusia",
+    "zip_codes": [
+      "32169",
+      "32759"
+    ],
+    "population": 2147
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Orange",
+    "zip_codes": [
+      "32809",
+      "32839"
+    ],
+    "population": 24395
+  },
+  {
+    "city": "Oakland",
+    "county": "Orange",
+    "zip_codes": [
+      "34760",
+      "34787"
+    ],
+    "population": 3566
+  },
+  {
+    "city": "Oakland Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33306",
+      "33308",
+      "33309",
+      "33311",
+      "33334"
+    ],
+    "population": 44015
+  },
+  {
+    "city": "Oakleaf Plantation",
+    "county": "Clay",
+    "zip_codes": [
+      "32065",
+      "32068",
+      "32073"
+    ],
+    "population": 30737
+  },
+  {
+    "city": "Ocala",
+    "county": "Marion",
+    "zip_codes": [
+      "34470",
+      "34471",
+      "34474",
+      "34475",
+      "34476",
+      "34479",
+      "34480",
+      "34482"
+    ],
+    "population": 64903
+  },
+  {
+    "city": "Ocala Estates",
+    "county": "Marion",
+    "zip_codes": [
+      "34482"
+    ],
+    "population": 2347
+  },
+  {
+    "city": "Ocean Breeze",
+    "county": "Martin",
+    "zip_codes": [
+      "34957"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Ocean City",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32547"
+    ],
+    "population": 6480
+  },
+  {
+    "city": "Ocean Ridge",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33435"
+    ],
+    "population": 1461
+  },
+  {
+    "city": "Ocklawaha",
+    "county": "Marion",
+    "zip_codes": [
+      "32179"
+    ],
+    "population": 1966
+  },
+  {
+    "city": "Ocoee",
+    "county": "Orange",
+    "zip_codes": [
+      "32703",
+      "34761"
+    ],
+    "population": 47885
+  },
+  {
+    "city": "Odessa",
+    "county": "Pasco",
+    "zip_codes": [
+      "33556",
+      "33558"
+    ],
+    "population": 8170
+  },
+  {
+    "city": "Ojus",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160",
+      "33179",
+      "33180"
+    ],
+    "population": 17101
+  },
+  {
+    "city": "Okahumpka",
+    "county": "Lake",
+    "zip_codes": [
+      "34762"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Okeechobee",
+    "county": "Okeechobee",
+    "zip_codes": [
+      "34972",
+      "34974"
+    ],
+    "population": 5376
+  },
+  {
+    "city": "Old Miakka",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34240",
+      "34251"
+    ],
+    "population": 1398
+  },
+  {
+    "city": "Oldsmar",
+    "county": "Pinellas",
+    "zip_codes": [
+      "34677",
+      "34685"
+    ],
+    "population": 14872
+  },
+  {
+    "city": "Olga",
+    "county": "Lee",
+    "zip_codes": [
+      "33905",
+      "33920"
+    ],
+    "population": 2876
+  },
+  {
+    "city": "Olympia Heights",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33143",
+      "33155",
+      "33165"
+    ],
+    "population": 13179
+  },
+  {
+    "city": "On Top of the World",
+    "county": "Marion",
+    "zip_codes": [
+      "34432",
+      "34476",
+      "34481"
+    ],
+    "population": 13772
+  },
+  {
+    "city": "Ona",
+    "county": "Hardee",
+    "zip_codes": [
+      "33865",
+      "33873"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Opa-locka",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33014",
+      "33054",
+      "33167"
+    ],
+    "population": 16097
+  },
+  {
+    "city": "Orange City",
+    "county": "Volusia",
+    "zip_codes": [
+      "32713",
+      "32763"
+    ],
+    "population": 13768
+  },
+  {
+    "city": "Orange Park",
+    "county": "Clay",
+    "zip_codes": [
+      "32073"
+    ],
+    "population": 9062
+  },
+  {
+    "city": "Orangetree",
+    "county": "Collier",
+    "zip_codes": [
+      "34120"
+    ],
+    "population": 5377
+  },
+  {
+    "city": "Orchid",
+    "county": "Indian River",
+    "zip_codes": [
+      "32963"
+    ],
+    "population": 553
+  },
+  {
+    "city": "Oriole Beach",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32563"
+    ],
+    "population": 2146
+  },
+  {
+    "city": "Orlando",
+    "county": "Orange",
+    "zip_codes": [
+      "32801",
+      "32803",
+      "32804",
+      "32805",
+      "32806",
+      "32807",
+      "32808",
+      "32811",
+      "32812",
+      "32814",
+      "32819",
+      "32822",
+      "32824",
+      "32827",
+      "32829",
+      "32832",
+      "32835",
+      "32839"
+    ],
+    "population": 311732
+  },
+  {
+    "city": "Orlovista",
+    "county": "Orange",
+    "zip_codes": [
+      "32808",
+      "32811",
+      "32818",
+      "32835"
+    ],
+    "population": 6928
+  },
+  {
+    "city": "Ormond Beach",
+    "county": "Volusia",
+    "zip_codes": [
+      "32174",
+      "32176"
+    ],
+    "population": 43514
+  },
+  {
+    "city": "Ormond-by-the-Sea",
+    "county": "Volusia",
+    "zip_codes": [
+      "32176"
+    ],
+    "population": 6962
+  },
+  {
+    "city": "Osprey",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34229"
+    ],
+    "population": 5790
+  },
+  {
+    "city": "Otter Creek",
+    "county": "Levy",
+    "zip_codes": [
+      "32626",
+      "32683"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Oviedo",
+    "county": "Seminole",
+    "zip_codes": [
+      "32765",
+      "32766"
+    ],
+    "population": 39990
+  },
+  {
+    "city": "Pace",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32571"
+    ],
+    "population": 25630
+  },
+  {
+    "city": "Page Park",
+    "county": "Lee",
+    "zip_codes": [
+      "33907"
+    ],
+    "population": 973
+  },
+  {
+    "city": "Pahokee",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33438",
+      "33476"
+    ],
+    "population": 5539
+  },
+  {
+    "city": "Paisley",
+    "county": "Lake",
+    "zip_codes": [
+      "32767"
+    ],
+    "population": 762
+  },
+  {
+    "city": "Palatka",
+    "county": "Putnam",
+    "zip_codes": [
+      "32177"
+    ],
+    "population": 10558
+  },
+  {
+    "city": "Palm Bay",
+    "county": "Brevard",
+    "zip_codes": [
+      "32904",
+      "32905",
+      "32907",
+      "32908",
+      "32909",
+      "32949",
+      "32976"
+    ],
+    "population": 125273
+  },
+  {
+    "city": "Palm Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33480"
+    ],
+    "population": 9234
+  },
+  {
+    "city": "Palm Beach Gardens",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33403",
+      "33410",
+      "33412",
+      "33418"
+    ],
+    "population": 59751
+  },
+  {
+    "city": "Palm Beach Shores",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33404"
+    ],
+    "population": 1290
+  },
+  {
+    "city": "Palm City",
+    "county": "Martin",
+    "zip_codes": [
+      "34990"
+    ],
+    "population": 25699
+  },
+  {
+    "city": "Palm Coast",
+    "county": "Flagler",
+    "zip_codes": [
+      "32110",
+      "32136",
+      "32137",
+      "32164"
+    ],
+    "population": 94362
+  },
+  {
+    "city": "Palm Harbor",
+    "county": "Pinellas",
+    "zip_codes": [
+      "34681",
+      "34683",
+      "34684"
+    ],
+    "population": 61454
+  },
+  {
+    "city": "Palm River-Clair Mel",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33578",
+      "33619"
+    ],
+    "population": 26719
+  },
+  {
+    "city": "Palm Shores",
+    "county": "Brevard",
+    "zip_codes": [
+      "32935",
+      "32940"
+    ],
+    "population": 1479
+  },
+  {
+    "city": "Palm Springs",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406",
+      "33415",
+      "33461"
+    ],
+    "population": 26871
+  },
+  {
+    "city": "Palm Springs North",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33015"
+    ],
+    "population": 5291
+  },
+  {
+    "city": "Palm Valley",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32082"
+    ],
+    "population": 19775
+  },
+  {
+    "city": "Palmer Ranch",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34238"
+    ],
+    "population": 15873
+  },
+  {
+    "city": "Palmetto",
+    "county": "Manatee",
+    "zip_codes": [
+      "34221"
+    ],
+    "population": 13449
+  },
+  {
+    "city": "Palmetto Bay",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157",
+      "33158",
+      "33176"
+    ],
+    "population": 24247
+  },
+  {
+    "city": "Palmetto Estates",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157"
+    ],
+    "population": 16587
+  },
+  {
+    "city": "Palmona Park",
+    "county": "Lee",
+    "zip_codes": [
+      "33903"
+    ],
+    "population": 1028
+  },
+  {
+    "city": "Panacea",
+    "county": "Wakulla",
+    "zip_codes": [
+      "32346"
+    ],
+    "population": 1039
+  },
+  {
+    "city": "Panama City",
+    "county": "Bay",
+    "zip_codes": [
+      "32401",
+      "32404",
+      "32405"
+    ],
+    "population": 34211
+  },
+  {
+    "city": "Panama City Beach",
+    "county": "Bay",
+    "zip_codes": [
+      "32407",
+      "32408",
+      "32413"
+    ],
+    "population": 18493
+  },
+  {
+    "city": "Paradise Heights",
+    "county": "Orange",
+    "zip_codes": [
+      "32703"
+    ],
+    "population": 950
+  },
+  {
+    "city": "Parker",
+    "county": "Bay",
+    "zip_codes": [
+      "32404"
+    ],
+    "population": 4358
+  },
+  {
+    "city": "Parkland",
+    "county": "Broward",
+    "zip_codes": [
+      "33067",
+      "33076"
+    ],
+    "population": 35799
+  },
+  {
+    "city": "Pasadena Hills",
+    "county": "Pasco",
+    "zip_codes": [
+      "33525",
+      "33541",
+      "33545",
+      "33576"
+    ],
+    "population": 12848
+  },
+  {
+    "city": "Patrick AFB",
+    "county": "Brevard",
+    "zip_codes": [
+      "32925"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Paxton",
+    "county": "Walton",
+    "zip_codes": [
+      "32567"
+    ],
+    "population": 621
+  },
+  {
+    "city": "Pea Ridge",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32571",
+      "32583"
+    ],
+    "population": 3934
+  },
+  {
+    "city": "Pebble Creek",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33647"
+    ],
+    "population": 10719
+  },
+  {
+    "city": "Pelican Bay",
+    "county": "Collier",
+    "zip_codes": [
+      "34108"
+    ],
+    "population": 6575
+  },
+  {
+    "city": "Pelican Marsh",
+    "county": "Collier",
+    "zip_codes": [
+      "34108",
+      "34109"
+    ],
+    "population": 2513
+  },
+  {
+    "city": "Pembroke Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33009",
+      "33021",
+      "33023"
+    ],
+    "population": 6254
+  },
+  {
+    "city": "Pembroke Pines",
+    "county": "Broward",
+    "zip_codes": [
+      "33023",
+      "33024",
+      "33025",
+      "33026",
+      "33027",
+      "33028",
+      "33029",
+      "33331",
+      "33332"
+    ],
+    "population": 170557
+  },
+  {
+    "city": "Penney Farms",
+    "county": "Clay",
+    "zip_codes": [
+      "32043",
+      "32079"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Pensacola",
+    "county": "Escambia",
+    "zip_codes": [
+      "32501",
+      "32502",
+      "32503",
+      "32504",
+      "32505",
+      "32514"
+    ],
+    "population": 54011
+  },
+  {
+    "city": "Pensacola Station",
+    "county": "Escambia",
+    "zip_codes": [
+      "32507",
+      "32508"
+    ],
+    "population": 4993
+  },
+  {
+    "city": "Perry",
+    "county": "Taylor",
+    "zip_codes": [
+      "32347",
+      "32348"
+    ],
+    "population": 6965
+  },
+  {
+    "city": "Pierson",
+    "county": "Volusia",
+    "zip_codes": [
+      "32180"
+    ],
+    "population": 1456
+  },
+  {
+    "city": "Pine Air",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33406",
+      "33415"
+    ],
+    "population": 2036
+  },
+  {
+    "city": "Pine Castle",
+    "county": "Orange",
+    "zip_codes": [
+      "32809",
+      "32839"
+    ],
+    "population": 10429
+  },
+  {
+    "city": "Pine Hills",
+    "county": "Orange",
+    "zip_codes": [
+      "32808",
+      "32818"
+    ],
+    "population": 82264
+  },
+  {
+    "city": "Pine Island",
+    "county": "Hernando",
+    "zip_codes": [
+      "34607"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Pine Island Center",
+    "county": "Lee",
+    "zip_codes": [
+      "33922"
+    ],
+    "population": 1668
+  },
+  {
+    "city": "Pine Lakes",
+    "county": "Lake",
+    "zip_codes": [
+      "32736"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Pine Level",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32565"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Pine Manor",
+    "county": "Lee",
+    "zip_codes": [
+      "33907"
+    ],
+    "population": 3929
+  },
+  {
+    "city": "Pine Ridge",
+    "county": "Citrus",
+    "zip_codes": [
+      "34433",
+      "34434",
+      "34442",
+      "34445",
+      "34461",
+      "34465"
+    ],
+    "population": 10676
+  },
+  {
+    "city": "Pine Ridge",
+    "county": "Collier",
+    "zip_codes": [
+      "34108"
+    ],
+    "population": 1800
+  },
+  {
+    "city": "Pinecraft",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34232",
+      "34237",
+      "34239"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Pinecrest",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33156"
+    ],
+    "population": 18138
+  },
+  {
+    "city": "Pineland",
+    "county": "Lee",
+    "zip_codes": [
+      "33922"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Pinellas Park",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33702",
+      "33716",
+      "33760",
+      "33762",
+      "33773",
+      "33777",
+      "33781",
+      "33782"
+    ],
+    "population": 53423
+  },
+  {
+    "city": "Pinewood",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33147",
+      "33150",
+      "33167",
+      "33168"
+    ],
+    "population": 17427
+  },
+  {
+    "city": "Pioneer",
+    "county": "Hendry",
+    "zip_codes": [
+      "33440",
+      "33935"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Pittman",
+    "county": "Lake",
+    "zip_codes": [
+      "32702"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Plant City",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33563",
+      "33565",
+      "33566",
+      "33567"
+    ],
+    "population": 40009
+  },
+  {
+    "city": "Plantation",
+    "county": "Broward",
+    "zip_codes": [
+      "33313",
+      "33317",
+      "33322",
+      "33323",
+      "33324",
+      "33325",
+      "33388"
+    ],
+    "population": 94002
+  },
+  {
+    "city": "Plantation",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34293"
+    ],
+    "population": 4483
+  },
+  {
+    "city": "Plantation Island",
+    "county": "Collier",
+    "zip_codes": [
+      "34139"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Plantation Mobile Home Park",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33417"
+    ],
+    "population": 1115
+  },
+  {
+    "city": "Poinciana",
+    "county": "Polk",
+    "zip_codes": [
+      "33844",
+      "33896",
+      "34758",
+      "34759"
+    ],
+    "population": 71665
+  },
+  {
+    "city": "Point Baker",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32570"
+    ],
+    "population": 3757
+  },
+  {
+    "city": "Polk City",
+    "county": "Polk",
+    "zip_codes": [
+      "33868"
+    ],
+    "population": 2884
+  },
+  {
+    "city": "Pomona Park",
+    "county": "Putnam",
+    "zip_codes": [
+      "32112",
+      "32181"
+    ],
+    "population": 903
+  },
+  {
+    "city": "Pompano Beach",
+    "county": "Broward",
+    "zip_codes": [
+      "33060",
+      "33062",
+      "33064",
+      "33069"
+    ],
+    "population": 112212
+  },
+  {
+    "city": "Ponce de Leon",
+    "county": "Holmes",
+    "zip_codes": [
+      "32455"
+    ],
+    "population": 738
+  },
+  {
+    "city": "Ponce Inlet",
+    "county": "Volusia",
+    "zip_codes": [
+      "32127",
+      "32168",
+      "32169"
+    ],
+    "population": 3392
+  },
+  {
+    "city": "Port Charlotte",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33948",
+      "33952",
+      "33954",
+      "33980"
+    ],
+    "population": 64971
+  },
+  {
+    "city": "Port LaBelle",
+    "county": "Hendry",
+    "zip_codes": [
+      "33935"
+    ],
+    "population": 6856
+  },
+  {
+    "city": "Port Orange",
+    "county": "Volusia",
+    "zip_codes": [
+      "32127",
+      "32128",
+      "32129",
+      "32168"
+    ],
+    "population": 63818
+  },
+  {
+    "city": "Port Richey",
+    "county": "Pasco",
+    "zip_codes": [
+      "34652",
+      "34668"
+    ],
+    "population": 3229
+  },
+  {
+    "city": "Port Salerno",
+    "county": "Martin",
+    "zip_codes": [
+      "34997"
+    ],
+    "population": 10957
+  },
+  {
+    "city": "Port St. Joe",
+    "county": "Gulf",
+    "zip_codes": [
+      "32456"
+    ],
+    "population": 3499
+  },
+  {
+    "city": "Port St. John",
+    "county": "Brevard",
+    "zip_codes": [
+      "32927"
+    ],
+    "population": 24617
+  },
+  {
+    "city": "Port St. Lucie",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34945",
+      "34952",
+      "34953",
+      "34957",
+      "34983",
+      "34984",
+      "34986",
+      "34987"
+    ],
+    "population": 220453
+  },
+  {
+    "city": "Pretty Bayou",
+    "county": "Bay",
+    "zip_codes": [
+      "32405"
+    ],
+    "population": 2405
+  },
+  {
+    "city": "Princeton",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33032",
+      "33170"
+    ],
+    "population": 41476
+  },
+  {
+    "city": "Progress Village",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33578",
+      "33619"
+    ],
+    "population": 10378
+  },
+  {
+    "city": "Punta Gorda",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33950",
+      "33955"
+    ],
+    "population": 19886
+  },
+  {
+    "city": "Punta Rassa",
+    "county": "Lee",
+    "zip_codes": [
+      "33908"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Quail Ridge",
+    "county": "Pasco",
+    "zip_codes": [
+      "34610",
+      "34669"
+    ],
+    "population": 2983
+  },
+  {
+    "city": "Quincy",
+    "county": "Gadsden",
+    "zip_codes": [
+      "32351",
+      "32352"
+    ],
+    "population": 7818
+  },
+  {
+    "city": "Raiford",
+    "county": "Union",
+    "zip_codes": [
+      "32083"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Rainbow Lakes Estates",
+    "county": "Marion",
+    "zip_codes": [
+      "34431"
+    ],
+    "population": 3376
+  },
+  {
+    "city": "Rainbow Park",
+    "county": "Marion",
+    "zip_codes": [
+      "34481"
+    ],
+    "population": 2070
+  },
+  {
+    "city": "Rainbow Springs",
+    "county": "Marion",
+    "zip_codes": [
+      "34431",
+      "34432"
+    ],
+    "population": 5226
+  },
+  {
+    "city": "Raleigh",
+    "county": "Levy",
+    "zip_codes": [
+      "32696"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Reddick",
+    "county": "Marion",
+    "zip_codes": [
+      "32686"
+    ],
+    "population": 617
+  },
+  {
+    "city": "Redington Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708"
+    ],
+    "population": 1309
+  },
+  {
+    "city": "Redington Shores",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708"
+    ],
+    "population": 2057
+  },
+  {
+    "city": "Richmond Heights",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157",
+      "33176",
+      "33186"
+    ],
+    "population": 9489
+  },
+  {
+    "city": "Richmond West",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33177",
+      "33187"
+    ],
+    "population": 35988
+  },
+  {
+    "city": "Ridge Manor",
+    "county": "Hernando",
+    "zip_codes": [
+      "33523",
+      "33597"
+    ],
+    "population": 4478
+  },
+  {
+    "city": "Ridge Wood Heights",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34231",
+      "34239"
+    ],
+    "population": 5085
+  },
+  {
+    "city": "Ridgecrest",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33774",
+      "33778"
+    ],
+    "population": 3288
+  },
+  {
+    "city": "Rio",
+    "county": "Martin",
+    "zip_codes": [
+      "34957"
+    ],
+    "population": 1265
+  },
+  {
+    "city": "Rio Pinar",
+    "county": "Orange",
+    "zip_codes": [
+      "32825"
+    ],
+    "population": 5396
+  },
+  {
+    "city": "River Park",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34952",
+      "34983"
+    ],
+    "population": 6415
+  },
+  {
+    "city": "River Ridge",
+    "county": "Pasco",
+    "zip_codes": [
+      "34654",
+      "34655"
+    ],
+    "population": 5191
+  },
+  {
+    "city": "Riverview",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33534",
+      "33569",
+      "33578",
+      "33579"
+    ],
+    "population": 107776
+  },
+  {
+    "city": "Riviera Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33404",
+      "33407",
+      "33410",
+      "33418"
+    ],
+    "population": 38032
+  },
+  {
+    "city": "Rockledge",
+    "county": "Brevard",
+    "zip_codes": [
+      "32926",
+      "32955"
+    ],
+    "population": 28279
+  },
+  {
+    "city": "Roeville",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32570"
+    ],
+    "population": 460
+  },
+  {
+    "city": "Roosevelt Gardens",
+    "county": "Broward",
+    "zip_codes": [
+      "33311"
+    ],
+    "population": 2566
+  },
+  {
+    "city": "Roseland",
+    "county": "Indian River",
+    "zip_codes": [
+      "32958"
+    ],
+    "population": 2080
+  },
+  {
+    "city": "Rotonda",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33946",
+      "33947",
+      "34224"
+    ],
+    "population": 10312
+  },
+  {
+    "city": "Royal Palm Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33411",
+      "33414"
+    ],
+    "population": 39089
+  },
+  {
+    "city": "Royal Palm Estates",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33413"
+    ],
+    "population": 1722
+  },
+  {
+    "city": "Ruskin",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33570"
+    ],
+    "population": 30074
+  },
+  {
+    "city": "Safety Harbor",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33759",
+      "33761",
+      "34695"
+    ],
+    "population": 17040
+  },
+  {
+    "city": "Samoset",
+    "county": "Manatee",
+    "zip_codes": [
+      "34208"
+    ],
+    "population": 4433
+  },
+  {
+    "city": "Samsula-Spruce Creek",
+    "county": "Volusia",
+    "zip_codes": [
+      "32128",
+      "32168"
+    ],
+    "population": 5174
+  },
+  {
+    "city": "San Antonio",
+    "county": "Pasco",
+    "zip_codes": [
+      "33525",
+      "33576"
+    ],
+    "population": 1352
+  },
+  {
+    "city": "San Carlos Park",
+    "county": "Lee",
+    "zip_codes": [
+      "33908",
+      "33967"
+    ],
+    "population": 18252
+  },
+  {
+    "city": "San Castle",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33462"
+    ],
+    "population": 3159
+  },
+  {
+    "city": "Sanford",
+    "county": "Seminole",
+    "zip_codes": [
+      "32746",
+      "32771",
+      "32773"
+    ],
+    "population": 62292
+  },
+  {
+    "city": "Sanibel",
+    "county": "Lee",
+    "zip_codes": [
+      "33957"
+    ],
+    "population": 6402
+  },
+  {
+    "city": "Sarasota",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34232",
+      "34234",
+      "34236",
+      "34237",
+      "34239",
+      "34242",
+      "34243"
+    ],
+    "population": 56218
+  },
+  {
+    "city": "Sarasota Springs",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34232",
+      "34233"
+    ],
+    "population": 12669
+  },
+  {
+    "city": "Satellite Beach",
+    "county": "Brevard",
+    "zip_codes": [
+      "32937"
+    ],
+    "population": 11250
+  },
+  {
+    "city": "Sawgrass",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32082"
+    ],
+    "population": 4734
+  },
+  {
+    "city": "Schall Circle",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33409",
+      "33417"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Scottsmoor",
+    "county": "Brevard",
+    "zip_codes": [
+      "32754",
+      "32775"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Sea Ranch Lakes",
+    "county": "Broward",
+    "zip_codes": [
+      "33308"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Sebastian",
+    "county": "Indian River",
+    "zip_codes": [
+      "32958",
+      "32967"
+    ],
+    "population": 25759
+  },
+  {
+    "city": "Sebring",
+    "county": "Highlands",
+    "zip_codes": [
+      "33870",
+      "33875"
+    ],
+    "population": 11185
+  },
+  {
+    "city": "Seffner",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33584"
+    ],
+    "population": 8498
+  },
+  {
+    "city": "Seminole",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33708",
+      "33709",
+      "33772",
+      "33776",
+      "33777",
+      "33778"
+    ],
+    "population": 19336
+  },
+  {
+    "city": "Seminole Manor",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33462"
+    ],
+    "population": 2161
+  },
+  {
+    "city": "Seville",
+    "county": "Volusia",
+    "zip_codes": [
+      "32190"
+    ],
+    "population": 1165
+  },
+  {
+    "city": "Sewall's Point",
+    "county": "Martin",
+    "zip_codes": [
+      "34996"
+    ],
+    "population": 1961
+  },
+  {
+    "city": "Shady Hills",
+    "county": "Pasco",
+    "zip_codes": [
+      "34610",
+      "34667",
+      "34669"
+    ],
+    "population": 12012
+  },
+  {
+    "city": "Shalimar",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32579"
+    ],
+    "population": 839
+  },
+  {
+    "city": "Sharpes",
+    "county": "Brevard",
+    "zip_codes": [
+      "32926",
+      "32927",
+      "32959"
+    ],
+    "population": 2948
+  },
+  {
+    "city": "Siesta Key",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34242"
+    ],
+    "population": 5690
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "34788"
+    ],
+    "population": 2610
+  },
+  {
+    "city": "Silver Springs",
+    "county": "Marion",
+    "zip_codes": [
+      "34470",
+      "34479",
+      "34488"
+    ],
+    "population": 2640
+  },
+  {
+    "city": "Silver Springs Shores",
+    "county": "Marion",
+    "zip_codes": [
+      "34472"
+    ],
+    "population": 27556
+  },
+  {
+    "city": "Silver Springs Shores East",
+    "county": "Marion",
+    "zip_codes": [
+      "32179"
+    ],
+    "population": 1224
+  },
+  {
+    "city": "Sky Lake",
+    "county": "Orange",
+    "zip_codes": [
+      "32809"
+    ],
+    "population": 7728
+  },
+  {
+    "city": "Sneads",
+    "county": "Jackson",
+    "zip_codes": [
+      "32460"
+    ],
+    "population": 1854
+  },
+  {
+    "city": "Solana",
+    "county": "Charlotte",
+    "zip_codes": [
+      "33950"
+    ],
+    "population": 953
+  },
+  {
+    "city": "Sopchoppy",
+    "county": "Wakulla",
+    "zip_codes": [
+      "32358"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Sorrento",
+    "county": "Lake",
+    "zip_codes": [
+      "32776"
+    ],
+    "population": 211
+  },
+  {
+    "city": "South Apopka",
+    "county": "Orange",
+    "zip_codes": [
+      "32703"
+    ],
+    "population": 7425
+  },
+  {
+    "city": "South Bay",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33430",
+      "33440",
+      "33493"
+    ],
+    "population": 4828
+  },
+  {
+    "city": "South Beach",
+    "county": "Indian River",
+    "zip_codes": [
+      "32963"
+    ],
+    "population": 3081
+  },
+  {
+    "city": "South Bradenton",
+    "county": "Manatee",
+    "zip_codes": [
+      "34205",
+      "34207",
+      "34210"
+    ],
+    "population": 25585
+  },
+  {
+    "city": "South Brooksville",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601",
+      "34604"
+    ],
+    "population": 4835
+  },
+  {
+    "city": "South Daytona",
+    "county": "Volusia",
+    "zip_codes": [
+      "32119"
+    ],
+    "population": 13322
+  },
+  {
+    "city": "South Gate Ridge",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34231",
+      "34233"
+    ],
+    "population": 5456
+  },
+  {
+    "city": "South Highpoint",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33760"
+    ],
+    "population": 4129
+  },
+  {
+    "city": "South Miami",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33143",
+      "33155"
+    ],
+    "population": 11926
+  },
+  {
+    "city": "South Miami Heights",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157",
+      "33177",
+      "33189"
+    ],
+    "population": 37525
+  },
+  {
+    "city": "South Palm Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33480"
+    ],
+    "population": 1667
+  },
+  {
+    "city": "South Pasadena",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33707"
+    ],
+    "population": 5324
+  },
+  {
+    "city": "South Patrick Shores",
+    "county": "Brevard",
+    "zip_codes": [
+      "32937"
+    ],
+    "population": 6726
+  },
+  {
+    "city": "South Sarasota",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34231",
+      "34239"
+    ],
+    "population": 4905
+  },
+  {
+    "city": "South Venice",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34223",
+      "34293"
+    ],
+    "population": 17399
+  },
+  {
+    "city": "Southchase",
+    "county": "Orange",
+    "zip_codes": [
+      "32824",
+      "32837"
+    ],
+    "population": 14149
+  },
+  {
+    "city": "Southeast Arcadia",
+    "county": "DeSoto",
+    "zip_codes": [
+      "34266"
+    ],
+    "population": 7247
+  },
+  {
+    "city": "Southgate",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34239"
+    ],
+    "population": 6054
+  },
+  {
+    "city": "Southwest Ranches",
+    "county": "Broward",
+    "zip_codes": [
+      "33330",
+      "33331",
+      "33332"
+    ],
+    "population": 7569
+  },
+  {
+    "city": "Spring Hill",
+    "county": "Hernando",
+    "zip_codes": [
+      "34604",
+      "34606",
+      "34607",
+      "34608",
+      "34609"
+    ],
+    "population": 118814
+  },
+  {
+    "city": "Spring Lake",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601",
+      "34602"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Spring Ridge",
+    "county": "Gilchrist",
+    "zip_codes": [
+      "32643"
+    ],
+    "population": 339
+  },
+  {
+    "city": "Springfield",
+    "county": "Bay",
+    "zip_codes": [
+      "32401",
+      "32404",
+      "32405"
+    ],
+    "population": 8157
+  },
+  {
+    "city": "Springhill",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32570"
+    ],
+    "population": 110
+  },
+  {
+    "city": "St. Augustine",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32080",
+      "32084",
+      "32086",
+      "32095"
+    ],
+    "population": 14979
+  },
+  {
+    "city": "St. Augustine Beach",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32080"
+    ],
+    "population": 6819
+  },
+  {
+    "city": "St. Augustine Shores",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32086"
+    ],
+    "population": 9921
+  },
+  {
+    "city": "St. Augustine South",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32086"
+    ],
+    "population": 4864
+  },
+  {
+    "city": "St. Cloud",
+    "county": "Osceola",
+    "zip_codes": [
+      "34744",
+      "34769",
+      "34771",
+      "34772"
+    ],
+    "population": 61963
+  },
+  {
+    "city": "St. George Island",
+    "county": "Franklin",
+    "zip_codes": [
+      "32328"
+    ],
+    "population": 1218
+  },
+  {
+    "city": "St. James City",
+    "county": "Lee",
+    "zip_codes": [
+      "33956"
+    ],
+    "population": 3846
+  },
+  {
+    "city": "St. Leo",
+    "county": "Pasco",
+    "zip_codes": [
+      "33525",
+      "33574",
+      "33576"
+    ],
+    "population": 2523
+  },
+  {
+    "city": "St. Lucie Village",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34946"
+    ],
+    "population": 818
+  },
+  {
+    "city": "St. Marks",
+    "county": "Wakulla",
+    "zip_codes": [
+      "32355"
+    ],
+    "population": 273
+  },
+  {
+    "city": "St. Pete Beach",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33706"
+    ],
+    "population": 8832
+  },
+  {
+    "city": "St. Petersburg",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33701",
+      "33702",
+      "33703",
+      "33704",
+      "33705",
+      "33707",
+      "33709",
+      "33710",
+      "33711",
+      "33712",
+      "33713",
+      "33714",
+      "33715",
+      "33716",
+      "33762"
+    ],
+    "population": 260646
+  },
+  {
+    "city": "Stacey Street",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33417"
+    ],
+    "population": 822
+  },
+  {
+    "city": "Starke",
+    "county": "Bradford",
+    "zip_codes": [
+      "32091"
+    ],
+    "population": 5821
+  },
+  {
+    "city": "Steinhatchee",
+    "county": "Taylor",
+    "zip_codes": [
+      "32359"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Stock Island",
+    "county": "Monroe",
+    "zip_codes": [
+      "33040"
+    ],
+    "population": 4724
+  },
+  {
+    "city": "Stuart",
+    "county": "Martin",
+    "zip_codes": [
+      "34957",
+      "34994",
+      "34996",
+      "34997"
+    ],
+    "population": 18058
+  },
+  {
+    "city": "Sugarmill Woods",
+    "county": "Citrus",
+    "zip_codes": [
+      "34446",
+      "34461"
+    ],
+    "population": 10871
+  },
+  {
+    "city": "Sumatra",
+    "county": "Liberty",
+    "zip_codes": [
+      "32321"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Sun City Center",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33573",
+      "33598"
+    ],
+    "population": 31801
+  },
+  {
+    "city": "Suncoast Estates",
+    "county": "Lee",
+    "zip_codes": [
+      "33917"
+    ],
+    "population": 4255
+  },
+  {
+    "city": "Sunny Isles Beach",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33160"
+    ],
+    "population": 22125
+  },
+  {
+    "city": "Sunrise",
+    "county": "Broward",
+    "zip_codes": [
+      "33313",
+      "33322",
+      "33323",
+      "33325",
+      "33326",
+      "33351"
+    ],
+    "population": 96633
+  },
+  {
+    "city": "Sunset",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33165",
+      "33173"
+    ],
+    "population": 13652
+  },
+  {
+    "city": "Surfside",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33154"
+    ],
+    "population": 5566
+  },
+  {
+    "city": "Sweetwater",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33172",
+      "33174"
+    ],
+    "population": 19544
+  },
+  {
+    "city": "Taft",
+    "county": "Orange",
+    "zip_codes": [
+      "32824"
+    ],
+    "population": 1867
+  },
+  {
+    "city": "Tallahassee",
+    "county": "Leon",
+    "zip_codes": [
+      "32301",
+      "32303",
+      "32304",
+      "32305",
+      "32306",
+      "32307",
+      "32308",
+      "32309",
+      "32310",
+      "32311",
+      "32312",
+      "32313",
+      "32317",
+      "32399"
+    ],
+    "population": 199696
+  },
+  {
+    "city": "Tamarac",
+    "county": "Broward",
+    "zip_codes": [
+      "33309",
+      "33319",
+      "33321",
+      "33351"
+    ],
+    "population": 71887
+  },
+  {
+    "city": "Tamiami",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33175",
+      "33182",
+      "33184"
+    ],
+    "population": 51201
+  },
+  {
+    "city": "Tampa",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33602",
+      "33603",
+      "33604",
+      "33605",
+      "33606",
+      "33607",
+      "33609",
+      "33610",
+      "33611",
+      "33612",
+      "33613",
+      "33614",
+      "33616",
+      "33617",
+      "33619",
+      "33620",
+      "33621",
+      "33629",
+      "33634",
+      "33637",
+      "33647"
+    ],
+    "population": 393389
+  },
+  {
+    "city": "Tangelo Park",
+    "county": "Orange",
+    "zip_codes": [
+      "32819"
+    ],
+    "population": 2103
+  },
+  {
+    "city": "Tangerine",
+    "county": "Orange",
+    "zip_codes": [
+      "32757"
+    ],
+    "population": 3967
+  },
+  {
+    "city": "Tarpon Springs",
+    "county": "Pinellas",
+    "zip_codes": [
+      "34684",
+      "34688",
+      "34689"
+    ],
+    "population": 25522
+  },
+  {
+    "city": "Tavares",
+    "county": "Lake",
+    "zip_codes": [
+      "32726",
+      "32778"
+    ],
+    "population": 19738
+  },
+  {
+    "city": "Tavernier",
+    "county": "Monroe",
+    "zip_codes": [
+      "33070"
+    ],
+    "population": 2179
+  },
+  {
+    "city": "Taylor Creek",
+    "county": "Okeechobee",
+    "zip_codes": [
+      "34974"
+    ],
+    "population": 4493
+  },
+  {
+    "city": "Temple Terrace",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33617",
+      "33637"
+    ],
+    "population": 26922
+  },
+  {
+    "city": "Tequesta",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33469"
+    ],
+    "population": 6118
+  },
+  {
+    "city": "The Acreage",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33411",
+      "33412",
+      "33470"
+    ],
+    "population": 40188
+  },
+  {
+    "city": "The Crossings",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33186"
+    ],
+    "population": 22359
+  },
+  {
+    "city": "The Hammocks",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33186",
+      "33196"
+    ],
+    "population": 58548
+  },
+  {
+    "city": "The Meadows",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34235"
+    ],
+    "population": 5463
+  },
+  {
+    "city": "The Villages",
+    "county": "Sumter",
+    "zip_codes": [
+      "32159",
+      "32162",
+      "32163",
+      "34491"
+    ],
+    "population": 82108
+  },
+  {
+    "city": "Thonotosassa",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33527",
+      "33584",
+      "33592"
+    ],
+    "population": 14660
+  },
+  {
+    "city": "Three Lakes",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33177",
+      "33186"
+    ],
+    "population": 16426
+  },
+  {
+    "city": "Three Oaks",
+    "county": "Lee",
+    "zip_codes": [
+      "33967"
+    ],
+    "population": 6037
+  },
+  {
+    "city": "Tice",
+    "county": "Lee",
+    "zip_codes": [
+      "33905"
+    ],
+    "population": 5377
+  },
+  {
+    "city": "Tierra Verde",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33715"
+    ],
+    "population": 4051
+  },
+  {
+    "city": "Tiger Point",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32563"
+    ],
+    "population": 3453
+  },
+  {
+    "city": "Tildenville",
+    "county": "Orange",
+    "zip_codes": [
+      "34787"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Timber Pines",
+    "county": "Hernando",
+    "zip_codes": [
+      "34606"
+    ],
+    "population": 4790
+  },
+  {
+    "city": "Titusville",
+    "county": "Brevard",
+    "zip_codes": [
+      "32780",
+      "32796",
+      "32927"
+    ],
+    "population": 49004
+  },
+  {
+    "city": "Town 'n' Country",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33615",
+      "33634",
+      "33635"
+    ],
+    "population": 86544
+  },
+  {
+    "city": "Treasure Island",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33706"
+    ],
+    "population": 6568
+  },
+  {
+    "city": "Trenton",
+    "county": "Gilchrist",
+    "zip_codes": [
+      "32693"
+    ],
+    "population": 2085
+  },
+  {
+    "city": "Trilby",
+    "county": "Pasco",
+    "zip_codes": [
+      "33523"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Trinity",
+    "county": "Pasco",
+    "zip_codes": [
+      "34655"
+    ],
+    "population": 19296
+  },
+  {
+    "city": "Tropical Park",
+    "county": "Brevard",
+    "zip_codes": [
+      "32953"
+    ],
+    "population": 2567
+  },
+  {
+    "city": "Tyndall AFB",
+    "county": "Bay",
+    "zip_codes": [
+      "32403"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Umatilla",
+    "county": "Lake",
+    "zip_codes": [
+      "32702",
+      "32784"
+    ],
+    "population": 3793
+  },
+  {
+    "city": "Union Park",
+    "county": "Orange",
+    "zip_codes": [
+      "32817",
+      "32825"
+    ],
+    "population": 11111
+  },
+  {
+    "city": "University",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33549",
+      "33559",
+      "33612",
+      "33613"
+    ],
+    "population": 48868
+  },
+  {
+    "city": "University",
+    "county": "Orange",
+    "zip_codes": [
+      "32816",
+      "32817",
+      "32826"
+    ],
+    "population": 42481
+  },
+  {
+    "city": "Upper Grand Lagoon",
+    "county": "Bay",
+    "zip_codes": [
+      "32407",
+      "32408"
+    ],
+    "population": 17162
+  },
+  {
+    "city": "Valparaiso",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32542",
+      "32580"
+    ],
+    "population": 4910
+  },
+  {
+    "city": "Valrico",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33527",
+      "33594",
+      "33596"
+    ],
+    "population": 38820
+  },
+  {
+    "city": "Vamo",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34229",
+      "34231",
+      "34238"
+    ],
+    "population": 2845
+  },
+  {
+    "city": "Venice",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34241",
+      "34275",
+      "34285",
+      "34292"
+    ],
+    "population": 26467
+  },
+  {
+    "city": "Venice Gardens",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34285",
+      "34293"
+    ],
+    "population": 3246
+  },
+  {
+    "city": "Verandah",
+    "county": "Lee",
+    "zip_codes": [
+      "33905"
+    ],
+    "population": 1766
+  },
+  {
+    "city": "Vernon",
+    "county": "Washington",
+    "zip_codes": [
+      "32462"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Vero Beach",
+    "county": "Indian River",
+    "zip_codes": [
+      "32960",
+      "32963",
+      "32966",
+      "32967"
+    ],
+    "population": 16785
+  },
+  {
+    "city": "Vero Beach South",
+    "county": "Indian River",
+    "zip_codes": [
+      "32960",
+      "32962",
+      "32966",
+      "32968"
+    ],
+    "population": 29365
+  },
+  {
+    "city": "Vero Lake Estates",
+    "county": "Indian River",
+    "zip_codes": [
+      "32967"
+    ],
+    "population": 6262
+  },
+  {
+    "city": "Verona Walk",
+    "county": "Collier",
+    "zip_codes": [
+      "34114"
+    ],
+    "population": 2931
+  },
+  {
+    "city": "Viera East",
+    "county": "Brevard",
+    "zip_codes": [
+      "32940",
+      "32955"
+    ],
+    "population": 13082
+  },
+  {
+    "city": "Viera West",
+    "county": "Brevard",
+    "zip_codes": [
+      "32940",
+      "32955"
+    ],
+    "population": 17169
+  },
+  {
+    "city": "Vilano Beach",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32084"
+    ],
+    "population": 2229
+  },
+  {
+    "city": "Villas",
+    "county": "Lee",
+    "zip_codes": [
+      "33907",
+      "33912",
+      "33966"
+    ],
+    "population": 13578
+  },
+  {
+    "city": "Vineyards",
+    "county": "Collier",
+    "zip_codes": [
+      "34119"
+    ],
+    "population": 3484
+  },
+  {
+    "city": "Virginia Gardens",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33122",
+      "33166"
+    ],
+    "population": 2306
+  },
+  {
+    "city": "Wabasso",
+    "county": "Indian River",
+    "zip_codes": [
+      "32958",
+      "32967",
+      "32970"
+    ],
+    "population": 1648
+  },
+  {
+    "city": "Wabasso Beach",
+    "county": "Indian River",
+    "zip_codes": [
+      "32963"
+    ],
+    "population": 1966
+  },
+  {
+    "city": "Wacissa",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32344",
+      "32361"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Wahneta",
+    "county": "Polk",
+    "zip_codes": [
+      "33880"
+    ],
+    "population": 4464
+  },
+  {
+    "city": "Waldo",
+    "county": "Alachua",
+    "zip_codes": [
+      "32694"
+    ],
+    "population": 877
+  },
+  {
+    "city": "Wallace",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32571"
+    ],
+    "population": 3965
+  },
+  {
+    "city": "Warm Mineral Springs",
+    "county": "Sarasota",
+    "zip_codes": [
+      "34287"
+    ],
+    "population": 4756
+  },
+  {
+    "city": "Warrington",
+    "county": "Escambia",
+    "zip_codes": [
+      "32506",
+      "32507"
+    ],
+    "population": 15935
+  },
+  {
+    "city": "Washington Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33311"
+    ],
+    "population": 1896
+  },
+  {
+    "city": "Watergate",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33428"
+    ],
+    "population": 3709
+  },
+  {
+    "city": "Watertown",
+    "county": "Columbia",
+    "zip_codes": [
+      "32025",
+      "32055"
+    ],
+    "population": 2797
+  },
+  {
+    "city": "Wauchula",
+    "county": "Hardee",
+    "zip_codes": [
+      "33873"
+    ],
+    "population": 4910
+  },
+  {
+    "city": "Waukeenah",
+    "county": "Jefferson",
+    "zip_codes": [
+      "32344"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Wausau",
+    "county": "Washington",
+    "zip_codes": [
+      "32428",
+      "32463"
+    ],
+    "population": 414
+  },
+  {
+    "city": "Waverly",
+    "county": "Polk",
+    "zip_codes": [
+      "33859",
+      "33877"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Webster",
+    "county": "Sumter",
+    "zip_codes": [
+      "33513",
+      "33597"
+    ],
+    "population": 1631
+  },
+  {
+    "city": "Wedgefield",
+    "county": "Orange",
+    "zip_codes": [
+      "32833"
+    ],
+    "population": 8556
+  },
+  {
+    "city": "Weeki Wachee Gardens",
+    "county": "Hernando",
+    "zip_codes": [
+      "34607"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Wekiwa Springs",
+    "county": "Seminole",
+    "zip_codes": [
+      "32779"
+    ],
+    "population": 24109
+  },
+  {
+    "city": "Welaka",
+    "county": "Putnam",
+    "zip_codes": [
+      "32189",
+      "32193"
+    ],
+    "population": 1059
+  },
+  {
+    "city": "Wellington",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33411",
+      "33414",
+      "33449",
+      "33470"
+    ],
+    "population": 61497
+  },
+  {
+    "city": "Wesley Chapel",
+    "county": "Pasco",
+    "zip_codes": [
+      "33543",
+      "33544",
+      "33545",
+      "33559"
+    ],
+    "population": 71965
+  },
+  {
+    "city": "West Bradenton",
+    "county": "Manatee",
+    "zip_codes": [
+      "34205",
+      "34209"
+    ],
+    "population": 4017
+  },
+  {
+    "city": "West Canaveral Groves",
+    "county": "Brevard",
+    "zip_codes": [
+      "32926"
+    ],
+    "population": 198
+  },
+  {
+    "city": "West DeLand",
+    "county": "Volusia",
+    "zip_codes": [
+      "32720"
+    ],
+    "population": 3278
+  },
+  {
+    "city": "West Lealman",
+    "county": "Pinellas",
+    "zip_codes": [
+      "33709",
+      "33781"
+    ],
+    "population": 15560
+  },
+  {
+    "city": "West Little River",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33147",
+      "33150"
+    ],
+    "population": 33147
+  },
+  {
+    "city": "West Melbourne",
+    "county": "Brevard",
+    "zip_codes": [
+      "32904"
+    ],
+    "population": 27643
+  },
+  {
+    "city": "West Miami",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33144",
+      "33155"
+    ],
+    "population": 7077
+  },
+  {
+    "city": "West Palm Beach",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33401",
+      "33405",
+      "33407",
+      "33409",
+      "33411",
+      "33412",
+      "33417"
+    ],
+    "population": 119508
+  },
+  {
+    "city": "West Park",
+    "county": "Broward",
+    "zip_codes": [
+      "33021",
+      "33023"
+    ],
+    "population": 15076
+  },
+  {
+    "city": "West Pensacola",
+    "county": "Escambia",
+    "zip_codes": [
+      "32505",
+      "32506",
+      "32507"
+    ],
+    "population": 20679
+  },
+  {
+    "city": "West Perrine",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33157"
+    ],
+    "population": 9944
+  },
+  {
+    "city": "West Samoset",
+    "county": "Manatee",
+    "zip_codes": [
+      "34203",
+      "34208"
+    ],
+    "population": 7273
+  },
+  {
+    "city": "West Vero Corridor",
+    "county": "Indian River",
+    "zip_codes": [
+      "32966"
+    ],
+    "population": 10802
+  },
+  {
+    "city": "Westchase",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33626"
+    ],
+    "population": 24818
+  },
+  {
+    "city": "Westchester",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33144",
+      "33155",
+      "33165",
+      "33174",
+      "33175"
+    ],
+    "population": 53082
+  },
+  {
+    "city": "Westgate",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33409"
+    ],
+    "population": 8369
+  },
+  {
+    "city": "Westlake",
+    "county": "Palm Beach",
+    "zip_codes": [
+      "33470"
+    ],
+    "population": 2876
+  },
+  {
+    "city": "Weston",
+    "county": "Broward",
+    "zip_codes": [
+      "33326",
+      "33327",
+      "33331",
+      "33332"
+    ],
+    "population": 67952
+  },
+  {
+    "city": "Westview",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33167"
+    ],
+    "population": 11823
+  },
+  {
+    "city": "Westville",
+    "county": "Holmes",
+    "zip_codes": [
+      "32455",
+      "32464"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Westwood Lakes",
+    "county": "Miami-Dade",
+    "zip_codes": [
+      "33165",
+      "33175"
+    ],
+    "population": 10768
+  },
+  {
+    "city": "Wewahitchka",
+    "county": "Gulf",
+    "zip_codes": [
+      "32465"
+    ],
+    "population": 1904
+  },
+  {
+    "city": "Whiskey Creek",
+    "county": "Lee",
+    "zip_codes": [
+      "33919"
+    ],
+    "population": 5298
+  },
+  {
+    "city": "White City",
+    "county": "St. Lucie",
+    "zip_codes": [
+      "34952",
+      "34981",
+      "34982"
+    ],
+    "population": 5373
+  },
+  {
+    "city": "White Springs",
+    "county": "Hamilton",
+    "zip_codes": [
+      "32096"
+    ],
+    "population": 717
+  },
+  {
+    "city": "Whitfield",
+    "county": "Manatee",
+    "zip_codes": [
+      "34243"
+    ],
+    "population": 4745
+  },
+  {
+    "city": "Whitfield",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32570"
+    ],
+    "population": 626
+  },
+  {
+    "city": "Wildwood",
+    "county": "Sumter",
+    "zip_codes": [
+      "32163",
+      "33514",
+      "33585",
+      "34484",
+      "34785"
+    ],
+    "population": 16739
+  },
+  {
+    "city": "Williamsburg",
+    "county": "Orange",
+    "zip_codes": [
+      "32821"
+    ],
+    "population": 7400
+  },
+  {
+    "city": "Williston",
+    "county": "Levy",
+    "zip_codes": [
+      "32696"
+    ],
+    "population": 3055
+  },
+  {
+    "city": "Williston Highlands",
+    "county": "Levy",
+    "zip_codes": [
+      "32668",
+      "32696"
+    ],
+    "population": 3213
+  },
+  {
+    "city": "Willow Oak",
+    "county": "Polk",
+    "zip_codes": [
+      "33811",
+      "33860"
+    ],
+    "population": 7299
+  },
+  {
+    "city": "Wilton Manors",
+    "county": "Broward",
+    "zip_codes": [
+      "33305",
+      "33306",
+      "33311",
+      "33334"
+    ],
+    "population": 11403
+  },
+  {
+    "city": "Wimauma",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "33598"
+    ],
+    "population": 13003
+  },
+  {
+    "city": "Windermere",
+    "county": "Orange",
+    "zip_codes": [
+      "34786"
+    ],
+    "population": 3034
+  },
+  {
+    "city": "Winding Cypress",
+    "county": "Collier",
+    "zip_codes": [
+      "34114"
+    ],
+    "population": 1053
+  },
+  {
+    "city": "Windsor",
+    "county": "Indian River",
+    "zip_codes": [
+      "32963"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Winter Beach",
+    "county": "Indian River",
+    "zip_codes": [
+      "32967"
+    ],
+    "population": 4995
+  },
+  {
+    "city": "Winter Garden",
+    "county": "Orange",
+    "zip_codes": [
+      "34787"
+    ],
+    "population": 47182
+  },
+  {
+    "city": "Winter Haven",
+    "county": "Polk",
+    "zip_codes": [
+      "33830",
+      "33839",
+      "33859",
+      "33880",
+      "33881",
+      "33884"
+    ],
+    "population": 52846
+  },
+  {
+    "city": "Winter Park",
+    "county": "Orange",
+    "zip_codes": [
+      "32789",
+      "32792"
+    ],
+    "population": 29929
+  },
+  {
+    "city": "Winter Springs",
+    "county": "Seminole",
+    "zip_codes": [
+      "32708",
+      "32765"
+    ],
+    "population": 38448
+  },
+  {
+    "city": "Wiscon",
+    "county": "Hernando",
+    "zip_codes": [
+      "34601",
+      "34613"
+    ],
+    "population": 535
+  },
+  {
+    "city": "Woodlawn Beach",
+    "county": "Santa Rosa",
+    "zip_codes": [
+      "32563"
+    ],
+    "population": 3328
+  },
+  {
+    "city": "Woodville",
+    "county": "Leon",
+    "zip_codes": [
+      "32305"
+    ],
+    "population": 4109
+  },
+  {
+    "city": "World Golf Village",
+    "county": "St. Johns",
+    "zip_codes": [
+      "32092",
+      "32095"
+    ],
+    "population": 24485
+  },
+  {
+    "city": "Worthington Springs",
+    "county": "Union",
+    "zip_codes": [
+      "32054",
+      "32697"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Wright",
+    "county": "Okaloosa",
+    "zip_codes": [
+      "32547",
+      "32548"
+    ],
+    "population": 27233
+  },
+  {
+    "city": "Yalaha",
+    "county": "Lake",
+    "zip_codes": [
+      "34737",
+      "34762",
+      "34797"
+    ],
+    "population": 1343
+  },
+  {
+    "city": "Yankeetown",
+    "county": "Levy",
+    "zip_codes": [
+      "34449",
+      "34498"
+    ],
+    "population": 666
+  },
+  {
+    "city": "Yeehaw Junction",
+    "county": "Osceola",
+    "zip_codes": [
+      "34972"
+    ],
+    "population": 314
+  },
+  {
+    "city": "Yulee",
+    "county": "Nassau",
+    "zip_codes": [
+      "32034",
+      "32097"
+    ],
+    "population": 15521
+  },
+  {
+    "city": "Zellwood",
+    "county": "Orange",
+    "zip_codes": [
+      "32712",
+      "32757",
+      "32798"
+    ],
+    "population": 2484
+  },
+  {
+    "city": "Zephyrhills",
+    "county": "Pasco",
+    "zip_codes": [
+      "33540",
+      "33541",
+      "33542"
+    ],
+    "population": 18471
+  },
+  {
+    "city": "Zephyrhills North",
+    "county": "Pasco",
+    "zip_codes": [
+      "33540",
+      "33542"
+    ],
+    "population": 3243
+  },
+  {
+    "city": "Zephyrhills South",
+    "county": "Pasco",
+    "zip_codes": [
+      "33541",
+      "33542"
+    ],
+    "population": 5422
+  },
+  {
+    "city": "Zephyrhills West",
+    "county": "Pasco",
+    "zip_codes": [
+      "33541",
+      "33542"
+    ],
+    "population": 5770
+  },
+  {
+    "city": "Zolfo Springs",
+    "county": "Hardee",
+    "zip_codes": [
+      "33890"
+    ],
+    "population": 1825
+  }
+]

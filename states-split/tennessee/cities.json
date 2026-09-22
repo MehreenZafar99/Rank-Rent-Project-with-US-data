@@ -1,0 +1,4414 @@
+[
+  {
+    "city": "Adams",
+    "county": "Robertson",
+    "zip_codes": [
+      "37010",
+      "37032"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Adamsville",
+    "county": "McNairy",
+    "zip_codes": [
+      "38310",
+      "38361"
+    ],
+    "population": 2621
+  },
+  {
+    "city": "Alamo",
+    "county": "Crockett",
+    "zip_codes": [
+      "38001"
+    ],
+    "population": 2565
+  },
+  {
+    "city": "Alcoa",
+    "county": "Blount",
+    "zip_codes": [
+      "37701",
+      "37777",
+      "37801",
+      "37804",
+      "37853"
+    ],
+    "population": 11635
+  },
+  {
+    "city": "Alexandria",
+    "county": "DeKalb",
+    "zip_codes": [
+      "37012"
+    ],
+    "population": 1145
+  },
+  {
+    "city": "Algood",
+    "county": "Putnam",
+    "zip_codes": [
+      "38506"
+    ],
+    "population": 4002
+  },
+  {
+    "city": "Allardt",
+    "county": "Fentress",
+    "zip_codes": [
+      "38556"
+    ],
+    "population": 1078
+  },
+  {
+    "city": "Altamont",
+    "county": "Grundy",
+    "zip_codes": [
+      "37301",
+      "37305"
+    ],
+    "population": 1100
+  },
+  {
+    "city": "Andersonville",
+    "county": "Anderson",
+    "zip_codes": [
+      "37705"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Apison",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37302",
+      "37311",
+      "37363"
+    ],
+    "population": 4397
+  },
+  {
+    "city": "Ardmore",
+    "county": "Giles",
+    "zip_codes": [
+      "38449",
+      "38477"
+    ],
+    "population": 1280
+  },
+  {
+    "city": "Arlington",
+    "county": "Shelby",
+    "zip_codes": [
+      "38002",
+      "38028"
+    ],
+    "population": 14989
+  },
+  {
+    "city": "Ashland City",
+    "county": "Cheatham",
+    "zip_codes": [
+      "37015"
+    ],
+    "population": 5318
+  },
+  {
+    "city": "Athens",
+    "county": "McMinn",
+    "zip_codes": [
+      "37303"
+    ],
+    "population": 14250
+  },
+  {
+    "city": "Atoka",
+    "county": "Tipton",
+    "zip_codes": [
+      "38004",
+      "38053"
+    ],
+    "population": 10237
+  },
+  {
+    "city": "Atwood",
+    "county": "Carroll",
+    "zip_codes": [
+      "38220"
+    ],
+    "population": 1230
+  },
+  {
+    "city": "Auburntown",
+    "county": "Cannon",
+    "zip_codes": [
+      "37016"
+    ],
+    "population": 326
+  },
+  {
+    "city": "Baileyton",
+    "county": "Greene",
+    "zip_codes": [
+      "37745"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Baneberry",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37890"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Banner Hill",
+    "county": "Unicoi",
+    "zip_codes": [
+      "37650"
+    ],
+    "population": 1519
+  },
+  {
+    "city": "Bartlett",
+    "county": "Shelby",
+    "zip_codes": [
+      "38002",
+      "38029",
+      "38133",
+      "38134",
+      "38135"
+    ],
+    "population": 56998
+  },
+  {
+    "city": "Baxter",
+    "county": "Putnam",
+    "zip_codes": [
+      "38544"
+    ],
+    "population": 1278
+  },
+  {
+    "city": "Bean Station",
+    "county": "Grainger",
+    "zip_codes": [
+      "37708",
+      "37811"
+    ],
+    "population": 2990
+  },
+  {
+    "city": "Beech Bluff",
+    "county": "Madison",
+    "zip_codes": [
+      "38313"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Beersheba Springs",
+    "county": "Grundy",
+    "zip_codes": [
+      "37305"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Bell Buckle",
+    "county": "Bedford",
+    "zip_codes": [
+      "37020"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Belle Meade",
+    "county": "Davidson",
+    "zip_codes": [
+      "37205",
+      "37215"
+    ],
+    "population": 2824
+  },
+  {
+    "city": "Bells",
+    "county": "Crockett",
+    "zip_codes": [
+      "38006"
+    ],
+    "population": 2531
+  },
+  {
+    "city": "Belvidere",
+    "county": "Franklin",
+    "zip_codes": [
+      "37306"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Benton",
+    "county": "Polk",
+    "zip_codes": [
+      "37307"
+    ],
+    "population": 1349
+  },
+  {
+    "city": "Berry Hill",
+    "county": "Davidson",
+    "zip_codes": [
+      "37204",
+      "37211"
+    ],
+    "population": 1944
+  },
+  {
+    "city": "Bethel Springs",
+    "county": "McNairy",
+    "zip_codes": [
+      "38315"
+    ],
+    "population": 746
+  },
+  {
+    "city": "Bethpage",
+    "county": "Sumner",
+    "zip_codes": [
+      "37022"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Big Rock",
+    "county": "Stewart",
+    "zip_codes": [
+      "37023"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Big Sandy",
+    "county": "Benton",
+    "zip_codes": [
+      "38221"
+    ],
+    "population": 589
+  },
+  {
+    "city": "Biltmore",
+    "county": "Carter",
+    "zip_codes": [
+      "37643"
+    ],
+    "population": 1998
+  },
+  {
+    "city": "Blaine",
+    "county": "Grainger",
+    "zip_codes": [
+      "37709"
+    ],
+    "population": 2797
+  },
+  {
+    "city": "Blanche",
+    "county": "Lincoln",
+    "zip_codes": [
+      "38488"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Bloomingdale",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37660"
+    ],
+    "population": 8840
+  },
+  {
+    "city": "Blountville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37617"
+    ],
+    "population": 3301
+  },
+  {
+    "city": "Bluff City",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37618",
+      "37686"
+    ],
+    "population": 2268
+  },
+  {
+    "city": "Bogota",
+    "county": "Dyer",
+    "zip_codes": [
+      "38007",
+      "38080"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Bolivar",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38008"
+    ],
+    "population": 5171
+  },
+  {
+    "city": "Bon Air",
+    "county": "White",
+    "zip_codes": [
+      "38583"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Bon Aqua Junction",
+    "county": "Hickman",
+    "zip_codes": [
+      "37098"
+    ],
+    "population": 1877
+  },
+  {
+    "city": "Bowman",
+    "county": "Cumberland",
+    "zip_codes": [
+      "38571"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Braden",
+    "county": "Fayette",
+    "zip_codes": [
+      "38049"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Bradford",
+    "county": "Gibson",
+    "zip_codes": [
+      "38316"
+    ],
+    "population": 1240
+  },
+  {
+    "city": "Bransford",
+    "county": "Sumner",
+    "zip_codes": [
+      "37022"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Brentwood",
+    "county": "Williamson",
+    "zip_codes": [
+      "37027"
+    ],
+    "population": 45272
+  },
+  {
+    "city": "Briceville",
+    "county": "Anderson",
+    "zip_codes": [
+      "37710",
+      "37769"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Brighton",
+    "county": "Tipton",
+    "zip_codes": [
+      "38011"
+    ],
+    "population": 2865
+  },
+  {
+    "city": "Bristol",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37617",
+      "37618",
+      "37620"
+    ],
+    "population": 27490
+  },
+  {
+    "city": "Brownsville",
+    "county": "Haywood",
+    "zip_codes": [
+      "38012"
+    ],
+    "population": 9634
+  },
+  {
+    "city": "Bruceton",
+    "county": "Carroll",
+    "zip_codes": [
+      "38317"
+    ],
+    "population": 1363
+  },
+  {
+    "city": "Buchanan",
+    "county": "Henry",
+    "zip_codes": [
+      "38222"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Bulls Gap",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37711"
+    ],
+    "population": 910
+  },
+  {
+    "city": "Burlison",
+    "county": "Tipton",
+    "zip_codes": [
+      "38015"
+    ],
+    "population": 360
+  },
+  {
+    "city": "Burns",
+    "county": "Dickson",
+    "zip_codes": [
+      "37029",
+      "37055"
+    ],
+    "population": 1746
+  },
+  {
+    "city": "Butler",
+    "county": "Johnson",
+    "zip_codes": [
+      "37640"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Byrdstown",
+    "county": "Pickett",
+    "zip_codes": [
+      "38549"
+    ],
+    "population": 1344
+  },
+  {
+    "city": "Calhoun",
+    "county": "McMinn",
+    "zip_codes": [
+      "37309"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Camden",
+    "county": "Benton",
+    "zip_codes": [
+      "38320"
+    ],
+    "population": 3664
+  },
+  {
+    "city": "Carthage",
+    "county": "Smith",
+    "zip_codes": [
+      "37030"
+    ],
+    "population": 2369
+  },
+  {
+    "city": "Caryville",
+    "county": "Campbell",
+    "zip_codes": [
+      "37714",
+      "37757",
+      "37847"
+    ],
+    "population": 2079
+  },
+  {
+    "city": "Castalian Springs",
+    "county": "Sumner",
+    "zip_codes": [
+      "37031"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Cedar Hill",
+    "county": "Robertson",
+    "zip_codes": [
+      "37032"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Celina",
+    "county": "Clay",
+    "zip_codes": [
+      "38551"
+    ],
+    "population": 1782
+  },
+  {
+    "city": "Centertown",
+    "county": "Warren",
+    "zip_codes": [
+      "37110"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Centerville",
+    "county": "Hickman",
+    "zip_codes": [
+      "37033",
+      "37137"
+    ],
+    "population": 3543
+  },
+  {
+    "city": "Central",
+    "county": "Carter",
+    "zip_codes": [
+      "37601"
+    ],
+    "population": 1944
+  },
+  {
+    "city": "Chapel Hill",
+    "county": "Marshall",
+    "zip_codes": [
+      "37034"
+    ],
+    "population": 1531
+  },
+  {
+    "city": "Charleston",
+    "county": "Bradley",
+    "zip_codes": [
+      "37310"
+    ],
+    "population": 816
+  },
+  {
+    "city": "Charlotte",
+    "county": "Dickson",
+    "zip_codes": [
+      "37036"
+    ],
+    "population": 1864
+  },
+  {
+    "city": "Chattanooga",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343",
+      "37351",
+      "37363",
+      "37402",
+      "37403",
+      "37404",
+      "37405",
+      "37406",
+      "37407",
+      "37408",
+      "37409",
+      "37410",
+      "37411",
+      "37412",
+      "37415",
+      "37416",
+      "37419",
+      "37421",
+      "37450"
+    ],
+    "population": 182832
+  },
+  {
+    "city": "Chesterfield",
+    "county": "Henderson",
+    "zip_codes": [
+      "38351"
+    ],
+    "population": 650
+  },
+  {
+    "city": "Chewalla",
+    "county": "McNairy",
+    "zip_codes": [
+      "38367"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Childers Hill",
+    "county": "Hardin",
+    "zip_codes": [
+      "38326",
+      "38357"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Christiana",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37037",
+      "37127",
+      "37128"
+    ],
+    "population": 4753
+  },
+  {
+    "city": "Church Hill",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37642",
+      "37857"
+    ],
+    "population": 7057
+  },
+  {
+    "city": "Clarkrange",
+    "county": "Fentress",
+    "zip_codes": [
+      "38553"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Clarksburg",
+    "county": "Carroll",
+    "zip_codes": [
+      "38344",
+      "38390"
+    ],
+    "population": 1011
+  },
+  {
+    "city": "Clarksville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "37040",
+      "37042",
+      "37043",
+      "42223"
+    ],
+    "population": 171897
+  },
+  {
+    "city": "Cleveland",
+    "county": "Bradley",
+    "zip_codes": [
+      "37311",
+      "37312",
+      "37323",
+      "37353"
+    ],
+    "population": 48185
+  },
+  {
+    "city": "Clifton",
+    "county": "Wayne",
+    "zip_codes": [
+      "38425"
+    ],
+    "population": 2632
+  },
+  {
+    "city": "Clinton",
+    "county": "Anderson",
+    "zip_codes": [
+      "37716"
+    ],
+    "population": 10141
+  },
+  {
+    "city": "Coalfield",
+    "county": "Morgan",
+    "zip_codes": [
+      "37719",
+      "37748",
+      "37840"
+    ],
+    "population": 2782
+  },
+  {
+    "city": "Coalmont",
+    "county": "Grundy",
+    "zip_codes": [
+      "37313",
+      "37387"
+    ],
+    "population": 1103
+  },
+  {
+    "city": "Coker Creek",
+    "county": "Monroe",
+    "zip_codes": [
+      "37385"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Collegedale",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37302",
+      "37315",
+      "37353",
+      "37363"
+    ],
+    "population": 11185
+  },
+  {
+    "city": "Collierville",
+    "county": "Shelby",
+    "zip_codes": [
+      "38017",
+      "38125",
+      "38139"
+    ],
+    "population": 51212
+  },
+  {
+    "city": "Collinwood",
+    "county": "Wayne",
+    "zip_codes": [
+      "38450"
+    ],
+    "population": 1044
+  },
+  {
+    "city": "Colonial Heights",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37663",
+      "37664"
+    ],
+    "population": 2783
+  },
+  {
+    "city": "Columbia",
+    "county": "Maury",
+    "zip_codes": [
+      "38401"
+    ],
+    "population": 43971
+  },
+  {
+    "city": "Conasauga",
+    "county": "Polk",
+    "zip_codes": [
+      "37316",
+      "37362"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Cookeville",
+    "county": "Putnam",
+    "zip_codes": [
+      "38501",
+      "38503",
+      "38505",
+      "38506"
+    ],
+    "population": 35544
+  },
+  {
+    "city": "Coopertown",
+    "county": "Robertson",
+    "zip_codes": [
+      "37073",
+      "37146",
+      "37172"
+    ],
+    "population": 4576
+  },
+  {
+    "city": "Copperhill",
+    "county": "Polk",
+    "zip_codes": [
+      "37317"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Cornersville",
+    "county": "Marshall",
+    "zip_codes": [
+      "37047"
+    ],
+    "population": 1832
+  },
+  {
+    "city": "Cosby",
+    "county": "Cocke",
+    "zip_codes": [
+      "37722"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Cottage Grove",
+    "county": "Henry",
+    "zip_codes": [
+      "38224"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Cottontown",
+    "county": "Sumner",
+    "zip_codes": [
+      "37048",
+      "37066"
+    ],
+    "population": 339
+  },
+  {
+    "city": "Counce",
+    "county": "Hardin",
+    "zip_codes": [
+      "38326"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Covington",
+    "county": "Tipton",
+    "zip_codes": [
+      "38019"
+    ],
+    "population": 8612
+  },
+  {
+    "city": "Cowan",
+    "county": "Franklin",
+    "zip_codes": [
+      "37318",
+      "37398"
+    ],
+    "population": 1777
+  },
+  {
+    "city": "Crab Orchard",
+    "county": "Cumberland",
+    "zip_codes": [
+      "37723",
+      "38555"
+    ],
+    "population": 834
+  },
+  {
+    "city": "Cross Plains",
+    "county": "Robertson",
+    "zip_codes": [
+      "37048",
+      "37049",
+      "37188"
+    ],
+    "population": 1809
+  },
+  {
+    "city": "Crossville",
+    "county": "Cumberland",
+    "zip_codes": [
+      "38555",
+      "38571",
+      "38572"
+    ],
+    "population": 12265
+  },
+  {
+    "city": "Crump",
+    "county": "Hardin",
+    "zip_codes": [
+      "38310",
+      "38327"
+    ],
+    "population": 1240
+  },
+  {
+    "city": "Cumberland City",
+    "county": "Stewart",
+    "zip_codes": [
+      "37050"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Cumberland Gap",
+    "county": "Claiborne",
+    "zip_codes": [
+      "37724",
+      "37752"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Dancyville",
+    "county": "Haywood",
+    "zip_codes": [
+      "38069"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Dandridge",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37725",
+      "37760"
+    ],
+    "population": 3426
+  },
+  {
+    "city": "Darden",
+    "county": "Henderson",
+    "zip_codes": [
+      "38328",
+      "38351"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Dayton",
+    "county": "Rhea",
+    "zip_codes": [
+      "37321"
+    ],
+    "population": 7191
+  },
+  {
+    "city": "Decatur",
+    "county": "Meigs",
+    "zip_codes": [
+      "37322"
+    ],
+    "population": 1860
+  },
+  {
+    "city": "Decaturville",
+    "county": "Decatur",
+    "zip_codes": [
+      "38329"
+    ],
+    "population": 895
+  },
+  {
+    "city": "Decherd",
+    "county": "Franklin",
+    "zip_codes": [
+      "37324",
+      "37398"
+    ],
+    "population": 2816
+  },
+  {
+    "city": "Delano",
+    "county": "Polk",
+    "zip_codes": [
+      "37325",
+      "37331"
+    ],
+    "population": 767
+  },
+  {
+    "city": "Dellrose",
+    "county": "Lincoln",
+    "zip_codes": [
+      "38453"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Dickson",
+    "county": "Dickson",
+    "zip_codes": [
+      "37029",
+      "37055"
+    ],
+    "population": 16246
+  },
+  {
+    "city": "Dodson Branch",
+    "county": "Jackson",
+    "zip_codes": [
+      "38501",
+      "38562"
+    ],
+    "population": 1163
+  },
+  {
+    "city": "Dover",
+    "county": "Stewart",
+    "zip_codes": [
+      "37058"
+    ],
+    "population": 2080
+  },
+  {
+    "city": "Dowelltown",
+    "county": "DeKalb",
+    "zip_codes": [
+      "37059",
+      "37095"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Doyle",
+    "county": "White",
+    "zip_codes": [
+      "38559",
+      "38583"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Dresden",
+    "county": "Weakley",
+    "zip_codes": [
+      "38225"
+    ],
+    "population": 2974
+  },
+  {
+    "city": "Ducktown",
+    "county": "Polk",
+    "zip_codes": [
+      "37317",
+      "37326"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Dukedom",
+    "county": "Weakley",
+    "zip_codes": [
+      "38226",
+      "38237"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Dunlap",
+    "county": "Sequatchie",
+    "zip_codes": [
+      "37327"
+    ],
+    "population": 5546
+  },
+  {
+    "city": "Dyer",
+    "county": "Gibson",
+    "zip_codes": [
+      "38330"
+    ],
+    "population": 2334
+  },
+  {
+    "city": "Dyersburg",
+    "county": "Dyer",
+    "zip_codes": [
+      "38024"
+    ],
+    "population": 16075
+  },
+  {
+    "city": "Eagleton Village",
+    "county": "Blount",
+    "zip_codes": [
+      "37804"
+    ],
+    "population": 5849
+  },
+  {
+    "city": "Eagleville",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37046",
+      "37060"
+    ],
+    "population": 934
+  },
+  {
+    "city": "East Cleveland",
+    "county": "Bradley",
+    "zip_codes": [
+      "37311"
+    ],
+    "population": 2207
+  },
+  {
+    "city": "East Ridge",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37411",
+      "37412"
+    ],
+    "population": 22034
+  },
+  {
+    "city": "Eastview",
+    "county": "McNairy",
+    "zip_codes": [
+      "38367",
+      "38375"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Elgin",
+    "county": "Scott",
+    "zip_codes": [
+      "37732",
+      "37852",
+      "37872"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Elizabethton",
+    "county": "Carter",
+    "zip_codes": [
+      "37601",
+      "37643",
+      "37682"
+    ],
+    "population": 14364
+  },
+  {
+    "city": "Elkton",
+    "county": "Giles",
+    "zip_codes": [
+      "38449",
+      "38455",
+      "38477"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Embreeville",
+    "county": "Washington",
+    "zip_codes": [
+      "37650",
+      "37659"
+    ],
+    "population": 1007
+  },
+  {
+    "city": "Englewood",
+    "county": "McMinn",
+    "zip_codes": [
+      "37329"
+    ],
+    "population": 1643
+  },
+  {
+    "city": "Enville",
+    "county": "Chester",
+    "zip_codes": [
+      "38332"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Erin",
+    "county": "Houston",
+    "zip_codes": [
+      "37061"
+    ],
+    "population": 1212
+  },
+  {
+    "city": "Erwin",
+    "county": "Unicoi",
+    "zip_codes": [
+      "37650"
+    ],
+    "population": 6001
+  },
+  {
+    "city": "Essary Springs",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38061"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Estill Springs",
+    "county": "Franklin",
+    "zip_codes": [
+      "37330",
+      "37398"
+    ],
+    "population": 2008
+  },
+  {
+    "city": "Ethridge",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38456"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Etowah",
+    "county": "McMinn",
+    "zip_codes": [
+      "37329",
+      "37331"
+    ],
+    "population": 3621
+  },
+  {
+    "city": "Eva",
+    "county": "Benton",
+    "zip_codes": [
+      "38333"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Fairfield",
+    "county": "Sumner",
+    "zip_codes": [
+      "37186"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Fairfield Glade",
+    "county": "Cumberland",
+    "zip_codes": [
+      "37723",
+      "38558",
+      "38571"
+    ],
+    "population": 9149
+  },
+  {
+    "city": "Fairgarden",
+    "county": "Sevier",
+    "zip_codes": [
+      "37876"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Fairmount",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37377"
+    ],
+    "population": 1932
+  },
+  {
+    "city": "Fairview",
+    "county": "Williamson",
+    "zip_codes": [
+      "37062"
+    ],
+    "population": 9751
+  },
+  {
+    "city": "Fall Branch",
+    "county": "Washington",
+    "zip_codes": [
+      "37656"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "Falling Water",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343",
+      "37415"
+    ],
+    "population": 2090
+  },
+  {
+    "city": "Farner",
+    "county": "Polk",
+    "zip_codes": [
+      "37333"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Farragut",
+    "county": "Knox",
+    "zip_codes": [
+      "37922",
+      "37932",
+      "37934"
+    ],
+    "population": 24309
+  },
+  {
+    "city": "Fayetteville",
+    "county": "Lincoln",
+    "zip_codes": [
+      "37334"
+    ],
+    "population": 7037
+  },
+  {
+    "city": "Fincastle",
+    "county": "Campbell",
+    "zip_codes": [
+      "37766"
+    ],
+    "population": 1328
+  },
+  {
+    "city": "Finger",
+    "county": "McNairy",
+    "zip_codes": [
+      "38334"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Finley",
+    "county": "Dyer",
+    "zip_codes": [
+      "38024",
+      "38030"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Flat Top Mountain",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37379"
+    ],
+    "population": 1052
+  },
+  {
+    "city": "Flintville",
+    "county": "Lincoln",
+    "zip_codes": [
+      "37328",
+      "37335"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Forest Hills",
+    "county": "Davidson",
+    "zip_codes": [
+      "37027",
+      "37215",
+      "37220"
+    ],
+    "population": 4802
+  },
+  {
+    "city": "Fowlkes",
+    "county": "Dyer",
+    "zip_codes": [
+      "38024"
+    ],
+    "population": 898
+  },
+  {
+    "city": "Frankewing",
+    "county": "Giles",
+    "zip_codes": [
+      "38459",
+      "38478"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Franklin",
+    "county": "Williamson",
+    "zip_codes": [
+      "37064",
+      "37067",
+      "37069"
+    ],
+    "population": 85575
+  },
+  {
+    "city": "Friendship",
+    "county": "Crockett",
+    "zip_codes": [
+      "38034"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Friendsville",
+    "county": "Blount",
+    "zip_codes": [
+      "37737"
+    ],
+    "population": 1056
+  },
+  {
+    "city": "Gadsden",
+    "county": "Crockett",
+    "zip_codes": [
+      "38337",
+      "38343"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Gainesboro",
+    "county": "Jackson",
+    "zip_codes": [
+      "38562"
+    ],
+    "population": 1086
+  },
+  {
+    "city": "Gallatin",
+    "county": "Sumner",
+    "zip_codes": [
+      "37066"
+    ],
+    "population": 46667
+  },
+  {
+    "city": "Gallaway",
+    "county": "Fayette",
+    "zip_codes": [
+      "38002",
+      "38036",
+      "38049"
+    ],
+    "population": 541
+  },
+  {
+    "city": "Garland",
+    "county": "Tipton",
+    "zip_codes": [
+      "38019"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Gates",
+    "county": "Lauderdale",
+    "zip_codes": [
+      "38037"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Gatlinburg",
+    "county": "Sevier",
+    "zip_codes": [
+      "37738"
+    ],
+    "population": 3643
+  },
+  {
+    "city": "Germantown",
+    "county": "Shelby",
+    "zip_codes": [
+      "38125",
+      "38138",
+      "38139"
+    ],
+    "population": 40812
+  },
+  {
+    "city": "Gibson",
+    "county": "Gibson",
+    "zip_codes": [
+      "38338",
+      "38343"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Gilt Edge",
+    "county": "Tipton",
+    "zip_codes": [
+      "38011",
+      "38015"
+    ],
+    "population": 503
+  },
+  {
+    "city": "Gladeville",
+    "county": "Wilson",
+    "zip_codes": [
+      "37090",
+      "37122"
+    ],
+    "population": 2263
+  },
+  {
+    "city": "Gleason",
+    "county": "Weakley",
+    "zip_codes": [
+      "38229"
+    ],
+    "population": 1179
+  },
+  {
+    "city": "Goodlettsville",
+    "county": "Sumner",
+    "zip_codes": [
+      "37072"
+    ],
+    "population": 17598
+  },
+  {
+    "city": "Gordonsville",
+    "county": "Smith",
+    "zip_codes": [
+      "38547",
+      "38563",
+      "38567"
+    ],
+    "population": 1385
+  },
+  {
+    "city": "Graball",
+    "county": "Sumner",
+    "zip_codes": [
+      "37066",
+      "37148"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Grand Junction",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38039"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Gray",
+    "county": "Washington",
+    "zip_codes": [
+      "37615"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Graysville",
+    "county": "Rhea",
+    "zip_codes": [
+      "37321",
+      "37338"
+    ],
+    "population": 1371
+  },
+  {
+    "city": "Green Hill",
+    "county": "Wilson",
+    "zip_codes": [
+      "37122",
+      "37138"
+    ],
+    "population": 6617
+  },
+  {
+    "city": "Greenback",
+    "county": "Loudon",
+    "zip_codes": [
+      "37742"
+    ],
+    "population": 1631
+  },
+  {
+    "city": "Greenbrier",
+    "county": "Robertson",
+    "zip_codes": [
+      "37073"
+    ],
+    "population": 6960
+  },
+  {
+    "city": "Greeneville",
+    "county": "Greene",
+    "zip_codes": [
+      "37616",
+      "37743",
+      "37745"
+    ],
+    "population": 15531
+  },
+  {
+    "city": "Greenfield",
+    "county": "Weakley",
+    "zip_codes": [
+      "38230"
+    ],
+    "population": 2085
+  },
+  {
+    "city": "Greenvale",
+    "county": "Wilson",
+    "zip_codes": [
+      "37118",
+      "37184"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Griffith Creek",
+    "county": "Marion",
+    "zip_codes": [
+      "37397"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Grimsley",
+    "county": "Fentress",
+    "zip_codes": [
+      "38556",
+      "38565"
+    ],
+    "population": 940
+  },
+  {
+    "city": "Gruetli-Laager",
+    "county": "Grundy",
+    "zip_codes": [
+      "37313",
+      "37339",
+      "37365"
+    ],
+    "population": 1619
+  },
+  {
+    "city": "Guys",
+    "county": "McNairy",
+    "zip_codes": [
+      "38339",
+      "38367"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Halls",
+    "county": "Knox",
+    "zip_codes": [
+      "37918",
+      "37938"
+    ],
+    "population": 9455
+  },
+  {
+    "city": "Halls",
+    "county": "Lauderdale",
+    "zip_codes": [
+      "38040"
+    ],
+    "population": 1984
+  },
+  {
+    "city": "Hampton",
+    "county": "Carter",
+    "zip_codes": [
+      "37658"
+    ],
+    "population": 1695
+  },
+  {
+    "city": "Harriman",
+    "county": "Roane",
+    "zip_codes": [
+      "37748"
+    ],
+    "population": 6021
+  },
+  {
+    "city": "Harrison",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37341",
+      "37416"
+    ],
+    "population": 8446
+  },
+  {
+    "city": "Harrogate",
+    "county": "Claiborne",
+    "zip_codes": [
+      "37752"
+    ],
+    "population": 4355
+  },
+  {
+    "city": "Hartsville/Trousdale County",
+    "county": "Trousdale",
+    "zip_codes": [
+      "37022",
+      "37031",
+      "37057",
+      "37074",
+      "37087"
+    ],
+    "population": 11805
+  },
+  {
+    "city": "Helenwood",
+    "county": "Scott",
+    "zip_codes": [
+      "37755"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Henderson",
+    "county": "Chester",
+    "zip_codes": [
+      "38340"
+    ],
+    "population": 6349
+  },
+  {
+    "city": "Hendersonville",
+    "county": "Sumner",
+    "zip_codes": [
+      "37066",
+      "37075"
+    ],
+    "population": 62390
+  },
+  {
+    "city": "Henning",
+    "county": "Lauderdale",
+    "zip_codes": [
+      "38041",
+      "38063"
+    ],
+    "population": 1259
+  },
+  {
+    "city": "Henry",
+    "county": "Henry",
+    "zip_codes": [
+      "38231"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Hickman",
+    "county": "Smith",
+    "zip_codes": [
+      "38567"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Hickory Valley",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38042"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Hilham",
+    "county": "Overton",
+    "zip_codes": [
+      "38568",
+      "38570"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Coffee",
+    "zip_codes": [
+      "37342"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Hohenwald",
+    "county": "Lewis",
+    "zip_codes": [
+      "38462"
+    ],
+    "population": 3790
+  },
+  {
+    "city": "Holladay",
+    "county": "Benton",
+    "zip_codes": [
+      "38341"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Hollow Rock",
+    "county": "Carroll",
+    "zip_codes": [
+      "38342"
+    ],
+    "population": 701
+  },
+  {
+    "city": "Hopewell",
+    "county": "Bradley",
+    "zip_codes": [
+      "37312"
+    ],
+    "population": 2624
+  },
+  {
+    "city": "Hornbeak",
+    "county": "Obion",
+    "zip_codes": [
+      "38232"
+    ],
+    "population": 498
+  },
+  {
+    "city": "Hornsby",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38008",
+      "38044"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Humboldt",
+    "county": "Gibson",
+    "zip_codes": [
+      "38343"
+    ],
+    "population": 7799
+  },
+  {
+    "city": "Hunter",
+    "county": "Carter",
+    "zip_codes": [
+      "37643"
+    ],
+    "population": 1997
+  },
+  {
+    "city": "Huntingdon",
+    "county": "Carroll",
+    "zip_codes": [
+      "38344"
+    ],
+    "population": 4413
+  },
+  {
+    "city": "Huntland",
+    "county": "Franklin",
+    "zip_codes": [
+      "37345"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "Huntsville",
+    "county": "Scott",
+    "zip_codes": [
+      "37755",
+      "37756"
+    ],
+    "population": 1632
+  },
+  {
+    "city": "Huron",
+    "county": "Henderson",
+    "zip_codes": [
+      "38345"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Iron City",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38463"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Jacks Creek",
+    "county": "Chester",
+    "zip_codes": [
+      "38340",
+      "38347"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Jacksboro",
+    "county": "Campbell",
+    "zip_codes": [
+      "37757"
+    ],
+    "population": 2780
+  },
+  {
+    "city": "Jackson",
+    "county": "Madison",
+    "zip_codes": [
+      "38301",
+      "38305"
+    ],
+    "population": 68098
+  },
+  {
+    "city": "Jamestown",
+    "county": "Fentress",
+    "zip_codes": [
+      "38556"
+    ],
+    "population": 2156
+  },
+  {
+    "city": "Jasper",
+    "county": "Marion",
+    "zip_codes": [
+      "37347"
+    ],
+    "population": 3610
+  },
+  {
+    "city": "Jefferson City",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37760",
+      "37877"
+    ],
+    "population": 8472
+  },
+  {
+    "city": "Jellico",
+    "county": "Campbell",
+    "zip_codes": [
+      "37762",
+      "37847"
+    ],
+    "population": 1821
+  },
+  {
+    "city": "John Sevier",
+    "county": "Knox",
+    "zip_codes": [
+      "37924"
+    ],
+    "population": 987
+  },
+  {
+    "city": "Johnson City",
+    "county": "Washington",
+    "zip_codes": [
+      "37601",
+      "37604",
+      "37614",
+      "37615",
+      "37659",
+      "37686",
+      "37694"
+    ],
+    "population": 71455
+  },
+  {
+    "city": "Jonesborough",
+    "county": "Washington",
+    "zip_codes": [
+      "37659"
+    ],
+    "population": 6056
+  },
+  {
+    "city": "Kahite",
+    "county": "Monroe",
+    "zip_codes": [
+      "37885"
+    ],
+    "population": 697
+  },
+  {
+    "city": "Karns",
+    "county": "Knox",
+    "zip_codes": [
+      "37931"
+    ],
+    "population": 3835
+  },
+  {
+    "city": "Kenton",
+    "county": "Gibson",
+    "zip_codes": [
+      "38233"
+    ],
+    "population": 1487
+  },
+  {
+    "city": "Kimball",
+    "county": "Marion",
+    "zip_codes": [
+      "37347",
+      "37380"
+    ],
+    "population": 1701
+  },
+  {
+    "city": "Kingsport",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37617",
+      "37660",
+      "37663",
+      "37664",
+      "37665",
+      "37857"
+    ],
+    "population": 55807
+  },
+  {
+    "city": "Kingston",
+    "county": "Roane",
+    "zip_codes": [
+      "37763"
+    ],
+    "population": 6042
+  },
+  {
+    "city": "Kingston Springs",
+    "county": "Cheatham",
+    "zip_codes": [
+      "37082"
+    ],
+    "population": 2799
+  },
+  {
+    "city": "Knoxville",
+    "county": "Knox",
+    "zip_codes": [
+      "37902",
+      "37909",
+      "37912",
+      "37914",
+      "37915",
+      "37916",
+      "37917",
+      "37918",
+      "37919",
+      "37920",
+      "37921",
+      "37922",
+      "37923",
+      "37924",
+      "37929"
+    ],
+    "population": 193721
+  },
+  {
+    "city": "La Follette",
+    "county": "Campbell",
+    "zip_codes": [
+      "37757",
+      "37766"
+    ],
+    "population": 7308
+  },
+  {
+    "city": "La Grange",
+    "county": "Fayette",
+    "zip_codes": [
+      "38039",
+      "38046",
+      "38057"
+    ],
+    "population": 52
+  },
+  {
+    "city": "La Vergne",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37086",
+      "37135",
+      "37167"
+    ],
+    "population": 38944
+  },
+  {
+    "city": "Lafayette",
+    "county": "Macon",
+    "zip_codes": [
+      "37083"
+    ],
+    "population": 5643
+  },
+  {
+    "city": "Lake Tansi",
+    "county": "Cumberland",
+    "zip_codes": [
+      "38572"
+    ],
+    "population": 4562
+  },
+  {
+    "city": "Lakeland",
+    "county": "Shelby",
+    "zip_codes": [
+      "38002"
+    ],
+    "population": 14068
+  },
+  {
+    "city": "Lakesite",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343",
+      "37379"
+    ],
+    "population": 2026
+  },
+  {
+    "city": "Lakewood Park",
+    "county": "Coffee",
+    "zip_codes": [
+      "37018",
+      "37026",
+      "37355"
+    ],
+    "population": 1016
+  },
+  {
+    "city": "Lavinia",
+    "county": "Carroll",
+    "zip_codes": [
+      "38348"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Lawrenceburg",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38456",
+      "38464",
+      "38468"
+    ],
+    "population": 11732
+  },
+  {
+    "city": "Lebanon",
+    "county": "Wilson",
+    "zip_codes": [
+      "37087",
+      "37090",
+      "37122"
+    ],
+    "population": 41951
+  },
+  {
+    "city": "Lenoir City",
+    "county": "Loudon",
+    "zip_codes": [
+      "37771",
+      "37772"
+    ],
+    "population": 10681
+  },
+  {
+    "city": "Lenox",
+    "county": "Dyer",
+    "zip_codes": [
+      "38024",
+      "38047"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Leoma",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38468"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Lewisburg",
+    "county": "Marshall",
+    "zip_codes": [
+      "37091"
+    ],
+    "population": 12607
+  },
+  {
+    "city": "Lexington",
+    "county": "Henderson",
+    "zip_codes": [
+      "38351"
+    ],
+    "population": 7943
+  },
+  {
+    "city": "Liberty",
+    "county": "DeKalb",
+    "zip_codes": [
+      "37095"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Linden",
+    "county": "Perry",
+    "zip_codes": [
+      "37096"
+    ],
+    "population": 1385
+  },
+  {
+    "city": "Livingston",
+    "county": "Overton",
+    "zip_codes": [
+      "38570"
+    ],
+    "population": 3957
+  },
+  {
+    "city": "Lobelville",
+    "county": "Perry",
+    "zip_codes": [
+      "37097"
+    ],
+    "population": 974
+  },
+  {
+    "city": "Lone Oak",
+    "county": "Sequatchie",
+    "zip_codes": [
+      "37377"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Lookout Mountain",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37350"
+    ],
+    "population": 2112
+  },
+  {
+    "city": "Loretto",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38469"
+    ],
+    "population": 1757
+  },
+  {
+    "city": "Loudon",
+    "county": "Loudon",
+    "zip_codes": [
+      "37774"
+    ],
+    "population": 6235
+  },
+  {
+    "city": "Louisville",
+    "county": "Blount",
+    "zip_codes": [
+      "37777",
+      "37801"
+    ],
+    "population": 4369
+  },
+  {
+    "city": "Luray",
+    "county": "Henderson",
+    "zip_codes": [
+      "38313"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Luttrell",
+    "county": "Union",
+    "zip_codes": [
+      "37779"
+    ],
+    "population": 1006
+  },
+  {
+    "city": "Lyles",
+    "county": "Hickman",
+    "zip_codes": [
+      "37098"
+    ],
+    "population": 1079
+  },
+  {
+    "city": "Lynchburg, Moore County",
+    "county": "Moore",
+    "zip_codes": [
+      "37144",
+      "37160",
+      "37183",
+      "37306",
+      "37334",
+      "37352",
+      "37359",
+      "37388",
+      "37398"
+    ],
+    "population": 6611
+  },
+  {
+    "city": "Lynnville",
+    "county": "Giles",
+    "zip_codes": [
+      "38472"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Madisonville",
+    "county": "Monroe",
+    "zip_codes": [
+      "37354"
+    ],
+    "population": 5184
+  },
+  {
+    "city": "Manchester",
+    "county": "Coffee",
+    "zip_codes": [
+      "37355"
+    ],
+    "population": 12651
+  },
+  {
+    "city": "Martin",
+    "county": "Weakley",
+    "zip_codes": [
+      "38237"
+    ],
+    "population": 10864
+  },
+  {
+    "city": "Maryville",
+    "county": "Blount",
+    "zip_codes": [
+      "37801",
+      "37803",
+      "37804"
+    ],
+    "population": 32196
+  },
+  {
+    "city": "Mascot",
+    "county": "Knox",
+    "zip_codes": [
+      "37806",
+      "37924"
+    ],
+    "population": 2904
+  },
+  {
+    "city": "Mason",
+    "county": "Tipton",
+    "zip_codes": [
+      "38049"
+    ],
+    "population": 1126
+  },
+  {
+    "city": "Maury City",
+    "county": "Crockett",
+    "zip_codes": [
+      "38001",
+      "38034",
+      "38050"
+    ],
+    "population": 685
+  },
+  {
+    "city": "Mayland",
+    "county": "Cumberland",
+    "zip_codes": [
+      "38571",
+      "38574"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Maynardville",
+    "county": "Union",
+    "zip_codes": [
+      "37807"
+    ],
+    "population": 2501
+  },
+  {
+    "city": "McDonald",
+    "county": "Bradley",
+    "zip_codes": [
+      "37353"
+    ],
+    "population": 541
+  },
+  {
+    "city": "McEwen",
+    "county": "Humphreys",
+    "zip_codes": [
+      "37101"
+    ],
+    "population": 1814
+  },
+  {
+    "city": "McKenzie",
+    "county": "Carroll",
+    "zip_codes": [
+      "38201"
+    ],
+    "population": 5706
+  },
+  {
+    "city": "McLemoresville",
+    "county": "Carroll",
+    "zip_codes": [
+      "38235",
+      "38258",
+      "38344"
+    ],
+    "population": 417
+  },
+  {
+    "city": "McMinnville",
+    "county": "Warren",
+    "zip_codes": [
+      "37110"
+    ],
+    "population": 13765
+  },
+  {
+    "city": "Medina",
+    "county": "Gibson",
+    "zip_codes": [
+      "38355",
+      "38358"
+    ],
+    "population": 5268
+  },
+  {
+    "city": "Medon",
+    "county": "Madison",
+    "zip_codes": [
+      "38356"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Memphis",
+    "county": "Shelby",
+    "zip_codes": [
+      "38016",
+      "38018",
+      "38103",
+      "38104",
+      "38105",
+      "38106",
+      "38107",
+      "38108",
+      "38109",
+      "38111",
+      "38112",
+      "38113",
+      "38114",
+      "38115",
+      "38116",
+      "38117",
+      "38118",
+      "38119",
+      "38120",
+      "38122",
+      "38125",
+      "38126",
+      "38127",
+      "38128",
+      "38131",
+      "38132",
+      "38133",
+      "38134",
+      "38141",
+      "38152"
+    ],
+    "population": 629063
+  },
+  {
+    "city": "Mercer",
+    "county": "Madison",
+    "zip_codes": [
+      "38392"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Michie",
+    "county": "McNairy",
+    "zip_codes": [
+      "38357"
+    ],
+    "population": 526
+  },
+  {
+    "city": "Middle Valley",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343"
+    ],
+    "population": 11808
+  },
+  {
+    "city": "Middleton",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38052"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Midtown",
+    "county": "Roane",
+    "zip_codes": [
+      "37748",
+      "37763"
+    ],
+    "population": 1281
+  },
+  {
+    "city": "Milan",
+    "county": "Gibson",
+    "zip_codes": [
+      "38358"
+    ],
+    "population": 8194
+  },
+  {
+    "city": "Milledgeville",
+    "county": "McNairy",
+    "zip_codes": [
+      "38332",
+      "38359"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Millersville",
+    "county": "Sumner",
+    "zip_codes": [
+      "37072",
+      "37073",
+      "37188"
+    ],
+    "population": 5885
+  },
+  {
+    "city": "Millington",
+    "county": "Shelby",
+    "zip_codes": [
+      "38053",
+      "38054"
+    ],
+    "population": 11117
+  },
+  {
+    "city": "Minor Hill",
+    "county": "Giles",
+    "zip_codes": [
+      "38460",
+      "38473"
+    ],
+    "population": 598
+  },
+  {
+    "city": "Miston",
+    "county": "Dyer",
+    "zip_codes": [
+      "38080"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Mitchellville",
+    "county": "Sumner",
+    "zip_codes": [
+      "37148"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Monteagle",
+    "county": "Marion",
+    "zip_codes": [
+      "37324",
+      "37356",
+      "37366",
+      "37375"
+    ],
+    "population": 1818
+  },
+  {
+    "city": "Monterey",
+    "county": "Putnam",
+    "zip_codes": [
+      "38574"
+    ],
+    "population": 2751
+  },
+  {
+    "city": "Mooresburg",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37811"
+    ],
+    "population": 829
+  },
+  {
+    "city": "Morris Chapel",
+    "county": "Hardin",
+    "zip_codes": [
+      "38361"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Morrison",
+    "county": "Warren",
+    "zip_codes": [
+      "37357"
+    ],
+    "population": 810
+  },
+  {
+    "city": "Morristown",
+    "county": "Hamblen",
+    "zip_codes": [
+      "37813",
+      "37814",
+      "37877"
+    ],
+    "population": 30983
+  },
+  {
+    "city": "Moscow",
+    "county": "Fayette",
+    "zip_codes": [
+      "38057"
+    ],
+    "population": 850
+  },
+  {
+    "city": "Mosheim",
+    "county": "Greene",
+    "zip_codes": [
+      "37711",
+      "37743",
+      "37809",
+      "37818"
+    ],
+    "population": 2500
+  },
+  {
+    "city": "Mount Carmel",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37645",
+      "37660"
+    ],
+    "population": 5504
+  },
+  {
+    "city": "Mount Juliet",
+    "county": "Wilson",
+    "zip_codes": [
+      "37122",
+      "37138"
+    ],
+    "population": 40828
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Maury",
+    "zip_codes": [
+      "38401",
+      "38474"
+    ],
+    "population": 4803
+  },
+  {
+    "city": "Mountain City",
+    "county": "Johnson",
+    "zip_codes": [
+      "37683"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Mowbray Mountain",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37379"
+    ],
+    "population": 1797
+  },
+  {
+    "city": "Munford",
+    "county": "Tipton",
+    "zip_codes": [
+      "38004",
+      "38053",
+      "38058"
+    ],
+    "population": 6459
+  },
+  {
+    "city": "Murfreesboro",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37127",
+      "37128",
+      "37129",
+      "37130",
+      "37132",
+      "37153"
+    ],
+    "population": 157547
+  },
+  {
+    "city": "Nashville-Davidson",
+    "county": "Davidson",
+    "zip_codes": [
+      "37013",
+      "37015",
+      "37027",
+      "37072",
+      "37076",
+      "37080",
+      "37086",
+      "37115",
+      "37135",
+      "37138",
+      "37143",
+      "37189",
+      "37201",
+      "37203",
+      "37204",
+      "37205",
+      "37206",
+      "37207",
+      "37208",
+      "37209",
+      "37210",
+      "37211",
+      "37212",
+      "37213",
+      "37214",
+      "37215",
+      "37216",
+      "37217",
+      "37218",
+      "37219",
+      "37220",
+      "37221",
+      "37228",
+      "37232",
+      "37238"
+    ],
+    "population": 684298
+  },
+  {
+    "city": "New Deal",
+    "county": "Sumner",
+    "zip_codes": [
+      "37048",
+      "37148"
+    ],
+    "population": 214
+  },
+  {
+    "city": "New Hope",
+    "county": "Marion",
+    "zip_codes": [
+      "37380"
+    ],
+    "population": 928
+  },
+  {
+    "city": "New Johnsonville",
+    "county": "Humphreys",
+    "zip_codes": [
+      "37134"
+    ],
+    "population": 1930
+  },
+  {
+    "city": "New Market",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37820"
+    ],
+    "population": 1789
+  },
+  {
+    "city": "New Tazewell",
+    "county": "Claiborne",
+    "zip_codes": [
+      "37825",
+      "37879"
+    ],
+    "population": 2779
+  },
+  {
+    "city": "New Union",
+    "county": "Coffee",
+    "zip_codes": [
+      "37355"
+    ],
+    "population": 2208
+  },
+  {
+    "city": "Newbern",
+    "county": "Dyer",
+    "zip_codes": [
+      "38059"
+    ],
+    "population": 3313
+  },
+  {
+    "city": "Newport",
+    "county": "Cocke",
+    "zip_codes": [
+      "37821"
+    ],
+    "population": 6881
+  },
+  {
+    "city": "Niota",
+    "county": "McMinn",
+    "zip_codes": [
+      "37826"
+    ],
+    "population": 735
+  },
+  {
+    "city": "Nixon",
+    "county": "Hardin",
+    "zip_codes": [
+      "38372"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Nolensville",
+    "county": "Williamson",
+    "zip_codes": [
+      "37027",
+      "37135"
+    ],
+    "population": 14545
+  },
+  {
+    "city": "Norene",
+    "county": "Wilson",
+    "zip_codes": [
+      "37090",
+      "37184"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Normandy",
+    "county": "Bedford",
+    "zip_codes": [
+      "37360"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Norris",
+    "county": "Anderson",
+    "zip_codes": [
+      "37705",
+      "37716",
+      "37828"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Sumner",
+    "zip_codes": [
+      "37022",
+      "37148"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Washington",
+    "zip_codes": [
+      "37615"
+    ],
+    "population": 4483
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Davidson",
+    "zip_codes": [
+      "37027",
+      "37204",
+      "37220"
+    ],
+    "population": 4690
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Anderson",
+    "zip_codes": [
+      "37830"
+    ],
+    "population": 32088
+  },
+  {
+    "city": "Oakdale",
+    "county": "Morgan",
+    "zip_codes": [
+      "37748",
+      "37829"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Oakland",
+    "county": "Fayette",
+    "zip_codes": [
+      "38028",
+      "38060",
+      "38068"
+    ],
+    "population": 9544
+  },
+  {
+    "city": "Obion",
+    "county": "Obion",
+    "zip_codes": [
+      "38240",
+      "38260"
+    ],
+    "population": 1088
+  },
+  {
+    "city": "Ocoee",
+    "county": "Polk",
+    "zip_codes": [
+      "37361"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Oliver Springs",
+    "county": "Anderson",
+    "zip_codes": [
+      "37840"
+    ],
+    "population": 3384
+  },
+  {
+    "city": "Olivet",
+    "county": "Hardin",
+    "zip_codes": [
+      "38372"
+    ],
+    "population": 1609
+  },
+  {
+    "city": "Oneida",
+    "county": "Scott",
+    "zip_codes": [
+      "37841",
+      "37892"
+    ],
+    "population": 3793
+  },
+  {
+    "city": "Ooltewah",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37363"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Orebank",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37664"
+    ],
+    "population": 777
+  },
+  {
+    "city": "Orlinda",
+    "county": "Robertson",
+    "zip_codes": [
+      "37049",
+      "37141",
+      "37148"
+    ],
+    "population": 1088
+  },
+  {
+    "city": "Orme",
+    "county": "Marion",
+    "zip_codes": [
+      "37380"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Palmer",
+    "county": "Grundy",
+    "zip_codes": [
+      "37365"
+    ],
+    "population": 734
+  },
+  {
+    "city": "Palmersville",
+    "county": "Weakley",
+    "zip_codes": [
+      "38241"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Paris",
+    "county": "Henry",
+    "zip_codes": [
+      "38242"
+    ],
+    "population": 10313
+  },
+  {
+    "city": "Park City",
+    "county": "Lincoln",
+    "zip_codes": [
+      "37334"
+    ],
+    "population": 3268
+  },
+  {
+    "city": "Parker's Crossroads",
+    "county": "Henderson",
+    "zip_codes": [
+      "38388",
+      "38390"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Parrottsville",
+    "county": "Cocke",
+    "zip_codes": [
+      "37843"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Parsons",
+    "county": "Decatur",
+    "zip_codes": [
+      "38363"
+    ],
+    "population": 2578
+  },
+  {
+    "city": "Pegram",
+    "county": "Cheatham",
+    "zip_codes": [
+      "37143"
+    ],
+    "population": 2216
+  },
+  {
+    "city": "Pelham",
+    "county": "Grundy",
+    "zip_codes": [
+      "37366"
+    ],
+    "population": 429
+  },
+  {
+    "city": "Petersburg",
+    "county": "Lincoln",
+    "zip_codes": [
+      "37144"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Petros",
+    "county": "Morgan",
+    "zip_codes": [
+      "37840",
+      "37845"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Philadelphia",
+    "county": "Loudon",
+    "zip_codes": [
+      "37846"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Pigeon Forge",
+    "county": "Sevier",
+    "zip_codes": [
+      "37862",
+      "37863",
+      "37876"
+    ],
+    "population": 6345
+  },
+  {
+    "city": "Pikeville",
+    "county": "Bledsoe",
+    "zip_codes": [
+      "37367"
+    ],
+    "population": 2653
+  },
+  {
+    "city": "Pine Crest",
+    "county": "Carter",
+    "zip_codes": [
+      "37601"
+    ],
+    "population": 2173
+  },
+  {
+    "city": "Pinson",
+    "county": "Madison",
+    "zip_codes": [
+      "38366"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Piperton",
+    "county": "Fayette",
+    "zip_codes": [
+      "38017",
+      "38066"
+    ],
+    "population": 2457
+  },
+  {
+    "city": "Pittman Center",
+    "county": "Sevier",
+    "zip_codes": [
+      "37738",
+      "37876"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Plainview",
+    "county": "Union",
+    "zip_codes": [
+      "37721",
+      "37779"
+    ],
+    "population": 2276
+  },
+  {
+    "city": "Pleasant Hill",
+    "county": "Cumberland",
+    "zip_codes": [
+      "38571",
+      "38572",
+      "38578",
+      "38583"
+    ],
+    "population": 546
+  },
+  {
+    "city": "Pleasant View",
+    "county": "Cheatham",
+    "zip_codes": [
+      "37015",
+      "37035",
+      "37146"
+    ],
+    "population": 5111
+  },
+  {
+    "city": "Pocahontas",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38061"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Portland",
+    "county": "Sumner",
+    "zip_codes": [
+      "37148"
+    ],
+    "population": 13325
+  },
+  {
+    "city": "Powell",
+    "county": "Knox",
+    "zip_codes": [
+      "37849"
+    ],
+    "population": 13544
+  },
+  {
+    "city": "Powells Crossroads",
+    "county": "Marion",
+    "zip_codes": [
+      "37397"
+    ],
+    "population": 1454
+  },
+  {
+    "city": "Prospect",
+    "county": "Giles",
+    "zip_codes": [
+      "38477"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Pulaski",
+    "county": "Giles",
+    "zip_codes": [
+      "38478"
+    ],
+    "population": 8305
+  },
+  {
+    "city": "Puryear",
+    "county": "Henry",
+    "zip_codes": [
+      "38251"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Ramer",
+    "county": "McNairy",
+    "zip_codes": [
+      "38367"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Randolph",
+    "county": "Tipton",
+    "zip_codes": [
+      "38015",
+      "38023"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Rarity Bay",
+    "county": "Monroe",
+    "zip_codes": [
+      "37885"
+    ],
+    "population": 728
+  },
+  {
+    "city": "Red Bank",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343",
+      "37405",
+      "37415"
+    ],
+    "population": 11960
+  },
+  {
+    "city": "Red Boiling Springs",
+    "county": "Macon",
+    "zip_codes": [
+      "37150"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Riceville",
+    "county": "McMinn",
+    "zip_codes": [
+      "37370"
+    ],
+    "population": 776
+  },
+  {
+    "city": "Ridgely",
+    "county": "Lake",
+    "zip_codes": [
+      "38080"
+    ],
+    "population": 1723
+  },
+  {
+    "city": "Ridgeside",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37411"
+    ],
+    "population": 907
+  },
+  {
+    "city": "Ridgetop",
+    "county": "Robertson",
+    "zip_codes": [
+      "37072",
+      "37073"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Ripley",
+    "county": "Lauderdale",
+    "zip_codes": [
+      "38063"
+    ],
+    "population": 7718
+  },
+  {
+    "city": "Rives",
+    "county": "Obion",
+    "zip_codes": [
+      "38253",
+      "38261"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Roan Mountain",
+    "county": "Carter",
+    "zip_codes": [
+      "37687"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Robbins",
+    "county": "Scott",
+    "zip_codes": [
+      "37852"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Rockford",
+    "county": "Blount",
+    "zip_codes": [
+      "37804",
+      "37853"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Rockvale",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37153"
+    ],
+    "population": 1229
+  },
+  {
+    "city": "Rockwood",
+    "county": "Roane",
+    "zip_codes": [
+      "37748",
+      "37854"
+    ],
+    "population": 5510
+  },
+  {
+    "city": "Rocky Top",
+    "county": "Anderson",
+    "zip_codes": [
+      "37714",
+      "37769"
+    ],
+    "population": 1830
+  },
+  {
+    "city": "Rogersville",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37857"
+    ],
+    "population": 4638
+  },
+  {
+    "city": "Rossville",
+    "county": "Fayette",
+    "zip_codes": [
+      "38066"
+    ],
+    "population": 1173
+  },
+  {
+    "city": "Rural Hill",
+    "county": "Wilson",
+    "zip_codes": [
+      "37076",
+      "37122"
+    ],
+    "population": 2453
+  },
+  {
+    "city": "Russellville",
+    "county": "Hamblen",
+    "zip_codes": [
+      "37860",
+      "37891"
+    ],
+    "population": 719
+  },
+  {
+    "city": "Rutherford",
+    "county": "Gibson",
+    "zip_codes": [
+      "38233",
+      "38369"
+    ],
+    "population": 1203
+  },
+  {
+    "city": "Rutledge",
+    "county": "Grainger",
+    "zip_codes": [
+      "37861"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "Sale Creek",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37373",
+      "37379"
+    ],
+    "population": 2775
+  },
+  {
+    "city": "Saltillo",
+    "county": "Hardin",
+    "zip_codes": [
+      "38370",
+      "38371"
+    ],
+    "population": 743
+  },
+  {
+    "city": "Samburg",
+    "county": "Obion",
+    "zip_codes": [
+      "38232"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Sardis",
+    "county": "Henderson",
+    "zip_codes": [
+      "38370",
+      "38371"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Saulsbury",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38067"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Savannah",
+    "county": "Hardin",
+    "zip_codes": [
+      "38372"
+    ],
+    "population": 7219
+  },
+  {
+    "city": "Scotts Hill",
+    "county": "Henderson",
+    "zip_codes": [
+      "38329",
+      "38368",
+      "38374"
+    ],
+    "population": 1158
+  },
+  {
+    "city": "Selmer",
+    "county": "McNairy",
+    "zip_codes": [
+      "38375"
+    ],
+    "population": 4456
+  },
+  {
+    "city": "Sequatchie",
+    "county": "Marion",
+    "zip_codes": [
+      "37374"
+    ],
+    "population": 496
+  },
+  {
+    "city": "Sevierville",
+    "county": "Sevier",
+    "zip_codes": [
+      "37764",
+      "37862",
+      "37876"
+    ],
+    "population": 18105
+  },
+  {
+    "city": "Sewanee",
+    "county": "Franklin",
+    "zip_codes": [
+      "37375",
+      "37383"
+    ],
+    "population": 3000
+  },
+  {
+    "city": "Seymour",
+    "county": "Sevier",
+    "zip_codes": [
+      "37865"
+    ],
+    "population": 15914
+  },
+  {
+    "city": "Shackle Island",
+    "county": "Sumner",
+    "zip_codes": [
+      "37072",
+      "37075"
+    ],
+    "population": 4164
+  },
+  {
+    "city": "Sharon",
+    "county": "Weakley",
+    "zip_codes": [
+      "38255"
+    ],
+    "population": 1105
+  },
+  {
+    "city": "Shelbyville",
+    "county": "Bedford",
+    "zip_codes": [
+      "37160"
+    ],
+    "population": 24125
+  },
+  {
+    "city": "Sherwood",
+    "county": "Franklin",
+    "zip_codes": [
+      "37376"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Shiloh",
+    "county": "Hardin",
+    "zip_codes": [
+      "38376"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Signal Mountain",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37377"
+    ],
+    "population": 8861
+  },
+  {
+    "city": "Silerton",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38340"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Slayden",
+    "county": "Dickson",
+    "zip_codes": [
+      "37051",
+      "37165"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Smithville",
+    "county": "DeKalb",
+    "zip_codes": [
+      "37166"
+    ],
+    "population": 5158
+  },
+  {
+    "city": "Smyrna",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37129",
+      "37167"
+    ],
+    "population": 55066
+  },
+  {
+    "city": "Sneedville",
+    "county": "Hancock",
+    "zip_codes": [
+      "37869"
+    ],
+    "population": 1649
+  },
+  {
+    "city": "Soddy-Daisy",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37343",
+      "37379"
+    ],
+    "population": 13117
+  },
+  {
+    "city": "Somerville",
+    "county": "Fayette",
+    "zip_codes": [
+      "38068"
+    ],
+    "population": 3439
+  },
+  {
+    "city": "South Carthage",
+    "county": "Smith",
+    "zip_codes": [
+      "37030",
+      "38547"
+    ],
+    "population": 2049
+  },
+  {
+    "city": "South Cleveland",
+    "county": "Bradley",
+    "zip_codes": [
+      "37311",
+      "37323",
+      "37353"
+    ],
+    "population": 7748
+  },
+  {
+    "city": "South Fulton",
+    "county": "Obion",
+    "zip_codes": [
+      "38257"
+    ],
+    "population": 2106
+  },
+  {
+    "city": "South Pittsburg",
+    "county": "Marion",
+    "zip_codes": [
+      "37380"
+    ],
+    "population": 3040
+  },
+  {
+    "city": "Sparta",
+    "county": "White",
+    "zip_codes": [
+      "38583"
+    ],
+    "population": 4915
+  },
+  {
+    "city": "Spencer",
+    "county": "Van Buren",
+    "zip_codes": [
+      "38585"
+    ],
+    "population": 1494
+  },
+  {
+    "city": "Spring City",
+    "county": "Rhea",
+    "zip_codes": [
+      "37381"
+    ],
+    "population": 2299
+  },
+  {
+    "city": "Spring Hill",
+    "county": "Maury",
+    "zip_codes": [
+      "37174",
+      "37179",
+      "38401"
+    ],
+    "population": 53585
+  },
+  {
+    "city": "Springfield",
+    "county": "Robertson",
+    "zip_codes": [
+      "37172"
+    ],
+    "population": 18985
+  },
+  {
+    "city": "Spurgeon",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37615",
+      "37663"
+    ],
+    "population": 3749
+  },
+  {
+    "city": "St. Joseph",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38463",
+      "38469",
+      "38481"
+    ],
+    "population": 788
+  },
+  {
+    "city": "Stanton",
+    "county": "Haywood",
+    "zip_codes": [
+      "38069"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Stantonville",
+    "county": "McNairy",
+    "zip_codes": [
+      "38379"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Statesville",
+    "county": "Wilson",
+    "zip_codes": [
+      "37184"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Strawberry Plains",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37871"
+    ],
+    "population": 2531
+  },
+  {
+    "city": "Sullivan Gardens",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37660",
+      "37664"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Summertown",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38483"
+    ],
+    "population": 793
+  },
+  {
+    "city": "Sunbright",
+    "county": "Morgan",
+    "zip_codes": [
+      "37872"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Surgoinsville",
+    "county": "Hawkins",
+    "zip_codes": [
+      "37857",
+      "37873"
+    ],
+    "population": 2246
+  },
+  {
+    "city": "Sweetwater",
+    "county": "Monroe",
+    "zip_codes": [
+      "37874"
+    ],
+    "population": 6462
+  },
+  {
+    "city": "Taft",
+    "county": "Lincoln",
+    "zip_codes": [
+      "38488"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Tazewell",
+    "county": "Claiborne",
+    "zip_codes": [
+      "37879"
+    ],
+    "population": 2864
+  },
+  {
+    "city": "Telford",
+    "county": "Washington",
+    "zip_codes": [
+      "37690"
+    ],
+    "population": 875
+  },
+  {
+    "city": "Tellico Plains",
+    "county": "Monroe",
+    "zip_codes": [
+      "37385"
+    ],
+    "population": 1124
+  },
+  {
+    "city": "Tellico Village",
+    "county": "Loudon",
+    "zip_codes": [
+      "37774"
+    ],
+    "population": 6901
+  },
+  {
+    "city": "Tennessee Ridge",
+    "county": "Houston",
+    "zip_codes": [
+      "37061",
+      "37175",
+      "37178"
+    ],
+    "population": 1546
+  },
+  {
+    "city": "Thompson's Station",
+    "county": "Williamson",
+    "zip_codes": [
+      "37064",
+      "37179"
+    ],
+    "population": 7855
+  },
+  {
+    "city": "Three Way",
+    "county": "Madison",
+    "zip_codes": [
+      "38343"
+    ],
+    "population": 1965
+  },
+  {
+    "city": "Tiptonville",
+    "county": "Lake",
+    "zip_codes": [
+      "38079"
+    ],
+    "population": 3687
+  },
+  {
+    "city": "Toone",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38381"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Townsend",
+    "county": "Blount",
+    "zip_codes": [
+      "37882"
+    ],
+    "population": 570
+  },
+  {
+    "city": "Tracy City",
+    "county": "Grundy",
+    "zip_codes": [
+      "37387"
+    ],
+    "population": 1924
+  },
+  {
+    "city": "Trenton",
+    "county": "Gibson",
+    "zip_codes": [
+      "38382"
+    ],
+    "population": 4175
+  },
+  {
+    "city": "Trezevant",
+    "county": "Carroll",
+    "zip_codes": [
+      "38258"
+    ],
+    "population": 1018
+  },
+  {
+    "city": "Trimble",
+    "county": "Dyer",
+    "zip_codes": [
+      "38259"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Troy",
+    "county": "Obion",
+    "zip_codes": [
+      "38260",
+      "38261"
+    ],
+    "population": 1915
+  },
+  {
+    "city": "Tuckers Crossroads",
+    "county": "Wilson",
+    "zip_codes": [
+      "37087",
+      "37090"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Tullahoma",
+    "county": "Coffee",
+    "zip_codes": [
+      "37360",
+      "37388"
+    ],
+    "population": 20672
+  },
+  {
+    "city": "Tusculum",
+    "county": "Greene",
+    "zip_codes": [
+      "37616",
+      "37745"
+    ],
+    "population": 3304
+  },
+  {
+    "city": "Unicoi",
+    "county": "Unicoi",
+    "zip_codes": [
+      "37601",
+      "37692"
+    ],
+    "population": 3815
+  },
+  {
+    "city": "Union City",
+    "county": "Obion",
+    "zip_codes": [
+      "38261"
+    ],
+    "population": 11040
+  },
+  {
+    "city": "Unionville",
+    "county": "Bedford",
+    "zip_codes": [
+      "37034",
+      "37160",
+      "37180"
+    ],
+    "population": 1751
+  },
+  {
+    "city": "Valley Forge",
+    "county": "Carter",
+    "zip_codes": [
+      "37643"
+    ],
+    "population": 1900
+  },
+  {
+    "city": "Vanleer",
+    "county": "Dickson",
+    "zip_codes": [
+      "37181"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Viola",
+    "county": "Warren",
+    "zip_codes": [
+      "37357",
+      "37394"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Vonore",
+    "county": "Monroe",
+    "zip_codes": [
+      "37801",
+      "37885"
+    ],
+    "population": 1829
+  },
+  {
+    "city": "Walden",
+    "county": "Hamilton",
+    "zip_codes": [
+      "37377"
+    ],
+    "population": 1762
+  },
+  {
+    "city": "Walland",
+    "county": "Blount",
+    "zip_codes": [
+      "37886"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Walnut Grove",
+    "county": "Hardin",
+    "zip_codes": [
+      "38372"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Walnut Grove",
+    "county": "Sumner",
+    "zip_codes": [
+      "37048"
+    ],
+    "population": 576
+  },
+  {
+    "city": "Walnut Hill",
+    "county": "Sullivan",
+    "zip_codes": [
+      "37620"
+    ],
+    "population": 2480
+  },
+  {
+    "city": "Walterhill",
+    "county": "Rutherford",
+    "zip_codes": [
+      "37085",
+      "37129",
+      "37130"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Wartburg",
+    "county": "Morgan",
+    "zip_codes": [
+      "37887"
+    ],
+    "population": 1266
+  },
+  {
+    "city": "Wartrace",
+    "county": "Bedford",
+    "zip_codes": [
+      "37183"
+    ],
+    "population": 737
+  },
+  {
+    "city": "Watauga",
+    "county": "Carter",
+    "zip_codes": [
+      "37694"
+    ],
+    "population": 631
+  },
+  {
+    "city": "Watertown",
+    "county": "Wilson",
+    "zip_codes": [
+      "37184"
+    ],
+    "population": 1511
+  },
+  {
+    "city": "Waverly",
+    "county": "Humphreys",
+    "zip_codes": [
+      "37185"
+    ],
+    "population": 4278
+  },
+  {
+    "city": "Waynesboro",
+    "county": "Wayne",
+    "zip_codes": [
+      "38485"
+    ],
+    "population": 2483
+  },
+  {
+    "city": "Westmoreland",
+    "county": "Sumner",
+    "zip_codes": [
+      "37186"
+    ],
+    "population": 2735
+  },
+  {
+    "city": "Westpoint",
+    "county": "Lawrence",
+    "zip_codes": [
+      "38486"
+    ],
+    "population": 240
+  },
+  {
+    "city": "White Bluff",
+    "county": "Dickson",
+    "zip_codes": [
+      "37187"
+    ],
+    "population": 3961
+  },
+  {
+    "city": "White House",
+    "county": "Robertson",
+    "zip_codes": [
+      "37048",
+      "37188"
+    ],
+    "population": 13875
+  },
+  {
+    "city": "White Pine",
+    "county": "Jefferson",
+    "zip_codes": [
+      "37890"
+    ],
+    "population": 2557
+  },
+  {
+    "city": "Whiteside",
+    "county": "Marion",
+    "zip_codes": [
+      "37396",
+      "37419"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Whiteville",
+    "county": "Hardeman",
+    "zip_codes": [
+      "38075"
+    ],
+    "population": 4689
+  },
+  {
+    "city": "Whitlock",
+    "county": "Henry",
+    "zip_codes": [
+      "38242"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Whitwell",
+    "county": "Marion",
+    "zip_codes": [
+      "37397"
+    ],
+    "population": 1863
+  },
+  {
+    "city": "Wildersville",
+    "county": "Henderson",
+    "zip_codes": [
+      "38351",
+      "38388"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Wildwood",
+    "county": "Blount",
+    "zip_codes": [
+      "37804"
+    ],
+    "population": 1133
+  },
+  {
+    "city": "Wildwood Lake",
+    "county": "Bradley",
+    "zip_codes": [
+      "37323"
+    ],
+    "population": 3490
+  },
+  {
+    "city": "Williston",
+    "county": "Fayette",
+    "zip_codes": [
+      "38068",
+      "38076"
+    ],
+    "population": 490
+  },
+  {
+    "city": "Winchester",
+    "county": "Franklin",
+    "zip_codes": [
+      "37324",
+      "37398"
+    ],
+    "population": 9600
+  },
+  {
+    "city": "Winfield",
+    "county": "Scott",
+    "zip_codes": [
+      "37841",
+      "37892"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Woodbury",
+    "county": "Cannon",
+    "zip_codes": [
+      "37190"
+    ],
+    "population": 2747
+  },
+  {
+    "city": "Woodland Mills",
+    "county": "Obion",
+    "zip_codes": [
+      "38261"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Wrigley",
+    "county": "Hickman",
+    "zip_codes": [
+      "37098"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Wynnburg",
+    "county": "Lake",
+    "zip_codes": [
+      "38077",
+      "38079",
+      "38080"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Yorkville",
+    "county": "Gibson",
+    "zip_codes": [
+      "38059",
+      "38330",
+      "38389"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Yuma",
+    "county": "Carroll",
+    "zip_codes": [
+      "38390"
+    ],
+    "population": 63
+  }
+]

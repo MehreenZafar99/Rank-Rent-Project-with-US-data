@@ -1,0 +1,3698 @@
+[
+  {
+    "city": "Accoville",
+    "county": "Logan",
+    "zip_codes": [
+      "25606"
+    ],
+    "population": 743
+  },
+  {
+    "city": "Addison (Webster Springs)",
+    "county": "Webster",
+    "zip_codes": [
+      "26288"
+    ],
+    "population": 913
+  },
+  {
+    "city": "Adrian",
+    "county": "Upshur",
+    "zip_codes": [
+      "26201",
+      "26210"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Albright",
+    "county": "Preston",
+    "zip_codes": [
+      "26519"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Alderson",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24910"
+    ],
+    "population": 1182
+  },
+  {
+    "city": "Alum Creek",
+    "county": "Lincoln",
+    "zip_codes": [
+      "25003",
+      "25202"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Amherstdale",
+    "county": "Logan",
+    "zip_codes": [
+      "25606",
+      "25607"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Anawalt",
+    "county": "McDowell",
+    "zip_codes": [
+      "24808",
+      "24871"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Anmoore",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301",
+      "26323",
+      "26330"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Ansted",
+    "county": "Fayette",
+    "zip_codes": [
+      "25812"
+    ],
+    "population": 1210
+  },
+  {
+    "city": "Apple Grove",
+    "county": "Mason",
+    "zip_codes": [
+      "25502"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Arbovale",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24915"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Arthurdale",
+    "county": "Preston",
+    "zip_codes": [
+      "26520",
+      "26547"
+    ],
+    "population": 755
+  },
+  {
+    "city": "Athens",
+    "county": "Mercer",
+    "zip_codes": [
+      "24712"
+    ],
+    "population": 1156
+  },
+  {
+    "city": "Auburn",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26325"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Aurora",
+    "county": "Preston",
+    "zip_codes": [
+      "26705"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Bancroft",
+    "county": "Putnam",
+    "zip_codes": [
+      "25011"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Barboursville",
+    "county": "Cabell",
+    "zip_codes": [
+      "25504",
+      "25702",
+      "25705"
+    ],
+    "population": 4394
+  },
+  {
+    "city": "Barrackville",
+    "county": "Marion",
+    "zip_codes": [
+      "26554",
+      "26559"
+    ],
+    "population": 1362
+  },
+  {
+    "city": "Bartley",
+    "county": "McDowell",
+    "zip_codes": [
+      "24813",
+      "24892"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Bartow",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24920"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Bath (Berkeley Springs)",
+    "county": "Morgan",
+    "zip_codes": [
+      "25411"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Baxter",
+    "county": "Marion",
+    "zip_codes": [
+      "26560",
+      "26588"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Bayard",
+    "county": "Grant",
+    "zip_codes": [
+      "26707"
+    ],
+    "population": 311
+  },
+  {
+    "city": "Beards Fork",
+    "county": "Fayette",
+    "zip_codes": [
+      "25173"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Beaver",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25813",
+      "25832"
+    ],
+    "population": 619
+  },
+  {
+    "city": "Beckley",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801"
+    ],
+    "population": 16977
+  },
+  {
+    "city": "Beech Bottom",
+    "county": "Brooke",
+    "zip_codes": [
+      "26030"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Belington",
+    "county": "Barbour",
+    "zip_codes": [
+      "26250"
+    ],
+    "population": 1843
+  },
+  {
+    "city": "Belle",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25015"
+    ],
+    "population": 1537
+  },
+  {
+    "city": "Belmont",
+    "county": "Pleasants",
+    "zip_codes": [
+      "26134",
+      "26170"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Belva",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26656"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Benwood",
+    "county": "Marshall",
+    "zip_codes": [
+      "26031"
+    ],
+    "population": 1173
+  },
+  {
+    "city": "Bergoo",
+    "county": "Webster",
+    "zip_codes": [
+      "26298"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Berwind",
+    "county": "McDowell",
+    "zip_codes": [
+      "24815",
+      "24894"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Bethany",
+    "county": "Brooke",
+    "zip_codes": [
+      "26032",
+      "26070"
+    ],
+    "population": 1066
+  },
+  {
+    "city": "Bethlehem",
+    "county": "Ohio",
+    "zip_codes": [
+      "26003"
+    ],
+    "population": 2568
+  },
+  {
+    "city": "Beverly",
+    "county": "Randolph",
+    "zip_codes": [
+      "26241",
+      "26253"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Big Chimney",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25302"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Big Creek",
+    "county": "Logan",
+    "zip_codes": [
+      "25505"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Big Sandy",
+    "county": "McDowell",
+    "zip_codes": [
+      "24816",
+      "24844",
+      "24881"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Birch River",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26610"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Blacksville",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26521"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Blennerhassett",
+    "county": "Wood",
+    "zip_codes": [
+      "26101",
+      "26181"
+    ],
+    "population": 3229
+  },
+  {
+    "city": "Bluefield",
+    "county": "Mercer",
+    "zip_codes": [
+      "24701"
+    ],
+    "population": 9511
+  },
+  {
+    "city": "Bluewell",
+    "county": "Mercer",
+    "zip_codes": [
+      "24701",
+      "24737"
+    ],
+    "population": 2281
+  },
+  {
+    "city": "Boaz",
+    "county": "Wood",
+    "zip_codes": [
+      "26187"
+    ],
+    "population": 1374
+  },
+  {
+    "city": "Bolivar",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25425"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Bolt",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25817",
+      "25839"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Boomer",
+    "county": "Fayette",
+    "zip_codes": [
+      "25031"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Booth",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26501"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Bowden",
+    "county": "Randolph",
+    "zip_codes": [
+      "26241"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bradley",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25818",
+      "25880"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Bradshaw",
+    "county": "McDowell",
+    "zip_codes": [
+      "24817"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Bramwell",
+    "county": "Mercer",
+    "zip_codes": [
+      "24701",
+      "24715",
+      "24724"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Brandonville",
+    "county": "Preston",
+    "zip_codes": [
+      "26525"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Brandywine",
+    "county": "Pendleton",
+    "zip_codes": [
+      "26802"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Brenton",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24818"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301",
+      "26330"
+    ],
+    "population": 9292
+  },
+  {
+    "city": "Brookhaven",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26508"
+    ],
+    "population": 6465
+  },
+  {
+    "city": "Bruceton Mills",
+    "county": "Preston",
+    "zip_codes": [
+      "26525"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Bruno",
+    "county": "Logan",
+    "zip_codes": [
+      "25611"
+    ],
+    "population": 619
+  },
+  {
+    "city": "Brush Fork",
+    "county": "Mercer",
+    "zip_codes": [
+      "24701"
+    ],
+    "population": 1213
+  },
+  {
+    "city": "Buckhannon",
+    "county": "Upshur",
+    "zip_codes": [
+      "26201"
+    ],
+    "population": 5144
+  },
+  {
+    "city": "Bud",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24716",
+      "24726"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Buffalo",
+    "county": "Putnam",
+    "zip_codes": [
+      "25033"
+    ],
+    "population": 1110
+  },
+  {
+    "city": "Burlington",
+    "county": "Mineral",
+    "zip_codes": [
+      "26710"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Burnsville",
+    "county": "Braxton",
+    "zip_codes": [
+      "26335",
+      "26412"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Cairo",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26337"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Camden-on-Gauley",
+    "county": "Webster",
+    "zip_codes": [
+      "26208"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Cameron",
+    "county": "Marshall",
+    "zip_codes": [
+      "26033"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Capon Bridge",
+    "county": "Hampshire",
+    "zip_codes": [
+      "26711"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Carolina",
+    "county": "Marion",
+    "zip_codes": [
+      "26563",
+      "26591"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Carpendale",
+    "county": "Mineral",
+    "zip_codes": [
+      "26753"
+    ],
+    "population": 1053
+  },
+  {
+    "city": "Cass",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24927"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Cassville",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26501",
+      "26541"
+    ],
+    "population": 900
+  },
+  {
+    "city": "Cedar Grove",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25039",
+      "25086"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Century",
+    "county": "Barbour",
+    "zip_codes": [
+      "26238"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Ceredo",
+    "county": "Wayne",
+    "zip_codes": [
+      "25507",
+      "25704"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "Chapmanville",
+    "county": "Logan",
+    "zip_codes": [
+      "25508"
+    ],
+    "population": 1005
+  },
+  {
+    "city": "Charles Town",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25414"
+    ],
+    "population": 6854
+  },
+  {
+    "city": "Charleston",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25301",
+      "25302",
+      "25303",
+      "25304",
+      "25305",
+      "25309",
+      "25311",
+      "25312",
+      "25314",
+      "25387"
+    ],
+    "population": 47918
+  },
+  {
+    "city": "Charlton Heights",
+    "county": "Fayette",
+    "zip_codes": [
+      "25040"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Chattaroy",
+    "county": "Mingo",
+    "zip_codes": [
+      "25661",
+      "25667"
+    ],
+    "population": 577
+  },
+  {
+    "city": "Chauncey",
+    "county": "Logan",
+    "zip_codes": [
+      "25612",
+      "25647"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Cheat Lake",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26508"
+    ],
+    "population": 10485
+  },
+  {
+    "city": "Chelyan",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25035"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Chesapeake",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25214",
+      "25315"
+    ],
+    "population": 1615
+  },
+  {
+    "city": "Chester",
+    "county": "Hancock",
+    "zip_codes": [
+      "26034"
+    ],
+    "population": 2302
+  },
+  {
+    "city": "Clarksburg",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301",
+      "26330"
+    ],
+    "population": 15829
+  },
+  {
+    "city": "Clay",
+    "county": "Clay",
+    "zip_codes": [
+      "25043",
+      "25133"
+    ],
+    "population": 485
+  },
+  {
+    "city": "Clearview",
+    "county": "Ohio",
+    "zip_codes": [
+      "26003"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Clendenin",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25045"
+    ],
+    "population": 994
+  },
+  {
+    "city": "Clifton",
+    "county": "Mason",
+    "zip_codes": [
+      "25260"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Coal City",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25813",
+      "25823",
+      "25921"
+    ],
+    "population": 1236
+  },
+  {
+    "city": "Coal Fork",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25306",
+      "25311"
+    ],
+    "population": 1414
+  },
+  {
+    "city": "Colcord",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25048"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Colliers",
+    "county": "Brooke",
+    "zip_codes": [
+      "26035"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Comfort",
+    "county": "Boone",
+    "zip_codes": [
+      "25049"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Corinne",
+    "county": "Wyoming",
+    "zip_codes": [
+      "25810",
+      "25826"
+    ],
+    "population": 660
+  },
+  {
+    "city": "Cottageville",
+    "county": "Jackson",
+    "zip_codes": [
+      "25239"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Covel",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24719"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Cowen",
+    "county": "Webster",
+    "zip_codes": [
+      "26206"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Crab Orchard",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25827"
+    ],
+    "population": 1877
+  },
+  {
+    "city": "Craigsville",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26205"
+    ],
+    "population": 1584
+  },
+  {
+    "city": "Crooked Creek",
+    "county": "Logan",
+    "zip_codes": [
+      "25639"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Cross Lanes",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25143",
+      "25313"
+    ],
+    "population": 10172
+  },
+  {
+    "city": "Crum",
+    "county": "Wayne",
+    "zip_codes": [
+      "25669"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Crumpler",
+    "county": "McDowell",
+    "zip_codes": [
+      "24868"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Cucumber",
+    "county": "McDowell",
+    "zip_codes": [
+      "24826",
+      "24866"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Culloden",
+    "county": "Cabell",
+    "zip_codes": [
+      "25510",
+      "25526"
+    ],
+    "population": 3158
+  },
+  {
+    "city": "Cunard",
+    "county": "Fayette",
+    "zip_codes": [
+      "25840"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Dailey",
+    "county": "Randolph",
+    "zip_codes": [
+      "26253",
+      "26259"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Daniels",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25813",
+      "25832"
+    ],
+    "population": 1542
+  },
+  {
+    "city": "Danville",
+    "county": "Boone",
+    "zip_codes": [
+      "25053",
+      "25529"
+    ],
+    "population": 634
+  },
+  {
+    "city": "Davis",
+    "county": "Tucker",
+    "zip_codes": [
+      "26260"
+    ],
+    "population": 796
+  },
+  {
+    "city": "Davy",
+    "county": "McDowell",
+    "zip_codes": [
+      "24828",
+      "24878"
+    ],
+    "population": 282
+  },
+  {
+    "city": "Deep Water",
+    "county": "Fayette",
+    "zip_codes": [
+      "25057"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Delbarton",
+    "county": "Mingo",
+    "zip_codes": [
+      "25670"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Despard",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301"
+    ],
+    "population": 1038
+  },
+  {
+    "city": "Dixie",
+    "county": "Nicholas",
+    "zip_codes": [
+      "25059"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Dorothy",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25048",
+      "25060"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Dunbar",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25064"
+    ],
+    "population": 7340
+  },
+  {
+    "city": "Dupont City",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25015"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Durbin",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24920",
+      "26264"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Earling",
+    "county": "Logan",
+    "zip_codes": [
+      "25632"
+    ],
+    "population": 397
+  },
+  {
+    "city": "East Bank",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25067"
+    ],
+    "population": 776
+  },
+  {
+    "city": "East Dailey",
+    "county": "Randolph",
+    "zip_codes": [
+      "26253"
+    ],
+    "population": 320
+  },
+  {
+    "city": "East View",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Eccles",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25836"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Eleanor",
+    "county": "Putnam",
+    "zip_codes": [
+      "25070"
+    ],
+    "population": 1655
+  },
+  {
+    "city": "Elizabeth",
+    "county": "Wirt",
+    "zip_codes": [
+      "26143"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Elk Garden",
+    "county": "Mineral",
+    "zip_codes": [
+      "26717"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Elkins",
+    "county": "Randolph",
+    "zip_codes": [
+      "26241"
+    ],
+    "population": 6875
+  },
+  {
+    "city": "Elkview",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25071"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Ellenboro",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26346"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Enterprise",
+    "county": "Harrison",
+    "zip_codes": [
+      "26431",
+      "26568",
+      "26591"
+    ],
+    "population": 1084
+  },
+  {
+    "city": "Eskdale",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25075"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Fairlea",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24901",
+      "24970"
+    ],
+    "population": 1266
+  },
+  {
+    "city": "Fairmont",
+    "county": "Marion",
+    "zip_codes": [
+      "26554"
+    ],
+    "population": 18303
+  },
+  {
+    "city": "Fairview",
+    "county": "Marion",
+    "zip_codes": [
+      "26570"
+    ],
+    "population": 253
+  },
+  {
+    "city": "Falling Spring",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24966"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Falling Waters",
+    "county": "Berkeley",
+    "zip_codes": [
+      "25419"
+    ],
+    "population": 2384
+  },
+  {
+    "city": "Falls View",
+    "county": "Fayette",
+    "zip_codes": [
+      "25002",
+      "25040"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Farmington",
+    "county": "Marion",
+    "zip_codes": [
+      "26571"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Fayetteville",
+    "county": "Fayette",
+    "zip_codes": [
+      "25840"
+    ],
+    "population": 2864
+  },
+  {
+    "city": "Fenwick",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26202",
+      "26261"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Flatwoods",
+    "county": "Braxton",
+    "zip_codes": [
+      "26601",
+      "26621"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Flemington",
+    "county": "Taylor",
+    "zip_codes": [
+      "26347"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Follansbee",
+    "county": "Brooke",
+    "zip_codes": [
+      "26035",
+      "26037"
+    ],
+    "population": 2790
+  },
+  {
+    "city": "Fort Ashby",
+    "county": "Mineral",
+    "zip_codes": [
+      "26719"
+    ],
+    "population": 1011
+  },
+  {
+    "city": "Fort Gay",
+    "county": "Wayne",
+    "zip_codes": [
+      "25514"
+    ],
+    "population": 459
+  },
+  {
+    "city": "Frank",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24920"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Franklin",
+    "county": "Pendleton",
+    "zip_codes": [
+      "26807"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Friendly",
+    "county": "Tyler",
+    "zip_codes": [
+      "26146",
+      "26175"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Gallipolis Ferry",
+    "county": "Mason",
+    "zip_codes": [
+      "25515"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Galloway",
+    "county": "Barbour",
+    "zip_codes": [
+      "26347",
+      "26349"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Garten",
+    "county": "Fayette",
+    "zip_codes": [
+      "25840"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Gary",
+    "county": "McDowell",
+    "zip_codes": [
+      "24830",
+      "24836",
+      "24871",
+      "24888",
+      "24895"
+    ],
+    "population": 858
+  },
+  {
+    "city": "Gassaway",
+    "county": "Braxton",
+    "zip_codes": [
+      "26624"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Gatewood",
+    "county": "Fayette",
+    "zip_codes": [
+      "25840"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Gauley Bridge",
+    "county": "Fayette",
+    "zip_codes": [
+      "25085",
+      "25090"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Ghent",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25843"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Gilbert",
+    "county": "Mingo",
+    "zip_codes": [
+      "25621"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Gilbert Creek",
+    "county": "Mingo",
+    "zip_codes": [
+      "24846",
+      "25608"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Glasgow",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25086"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Glen Dale",
+    "county": "Marshall",
+    "zip_codes": [
+      "26038"
+    ],
+    "population": 1517
+  },
+  {
+    "city": "Glen Ferris",
+    "county": "Fayette",
+    "zip_codes": [
+      "25090"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Glen Fork",
+    "county": "Wyoming",
+    "zip_codes": [
+      "25845"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Glen Jean",
+    "county": "Fayette",
+    "zip_codes": [
+      "25846",
+      "25901"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Glen White",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25849"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Glenville",
+    "county": "Gilmer",
+    "zip_codes": [
+      "26351"
+    ],
+    "population": 1049
+  },
+  {
+    "city": "Grafton",
+    "county": "Taylor",
+    "zip_codes": [
+      "26354"
+    ],
+    "population": 4671
+  },
+  {
+    "city": "Grant Town",
+    "county": "Marion",
+    "zip_codes": [
+      "26574",
+      "26588"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Grantsville",
+    "county": "Calhoun",
+    "zip_codes": [
+      "26147"
+    ],
+    "population": 554
+  },
+  {
+    "city": "Granville",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26501",
+      "26534"
+    ],
+    "population": 1215
+  },
+  {
+    "city": "Great Cacapon",
+    "county": "Morgan",
+    "zip_codes": [
+      "25422"
+    ],
+    "population": 836
+  },
+  {
+    "city": "Green Bank",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24915",
+      "24944"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Green Spring",
+    "county": "Hampshire",
+    "zip_codes": [
+      "26722"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Greenview",
+    "county": "Boone",
+    "zip_codes": [
+      "25053",
+      "25114"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Greenville",
+    "county": "Logan",
+    "zip_codes": [
+      "25635"
+    ],
+    "population": 574
+  },
+  {
+    "city": "Gypsy",
+    "county": "Harrison",
+    "zip_codes": [
+      "26361",
+      "26431"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Hambleton",
+    "county": "Tucker",
+    "zip_codes": [
+      "26269"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Hamlin",
+    "county": "Lincoln",
+    "zip_codes": [
+      "25523"
+    ],
+    "population": 1173
+  },
+  {
+    "city": "Handley",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25102"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Hansford",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25103"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Harman",
+    "county": "Randolph",
+    "zip_codes": [
+      "26270"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Harpers Ferry",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25425"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Harrisville",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26362"
+    ],
+    "population": 1408
+  },
+  {
+    "city": "Hartford City",
+    "county": "Mason",
+    "zip_codes": [
+      "25247",
+      "25253"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Harts",
+    "county": "Lincoln",
+    "zip_codes": [
+      "25524"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Hedgesville",
+    "county": "Berkeley",
+    "zip_codes": [
+      "25427"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Helen",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25853"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Helvetia",
+    "county": "Randolph",
+    "zip_codes": [
+      "26224"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Henderson",
+    "county": "Mason",
+    "zip_codes": [
+      "25106",
+      "25515"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Hendricks",
+    "county": "Tucker",
+    "zip_codes": [
+      "26269",
+      "26271"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Henlawson",
+    "county": "Logan",
+    "zip_codes": [
+      "25624"
+    ],
+    "population": 376
+  },
+  {
+    "city": "Hepzibah",
+    "county": "Harrison",
+    "zip_codes": [
+      "26369"
+    ],
+    "population": 281
+  },
+  {
+    "city": "Hico",
+    "county": "Fayette",
+    "zip_codes": [
+      "25854",
+      "25938"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24946"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Hilltop",
+    "county": "Fayette",
+    "zip_codes": [
+      "25855",
+      "25901",
+      "25917"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Hinkleville",
+    "county": "Upshur",
+    "zip_codes": [
+      "26201"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Hinton",
+    "county": "Summers",
+    "zip_codes": [
+      "25951"
+    ],
+    "population": 2413
+  },
+  {
+    "city": "Holden",
+    "county": "Logan",
+    "zip_codes": [
+      "25625"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Hollygrove",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25103"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Hometown",
+    "county": "Putnam",
+    "zip_codes": [
+      "25109",
+      "25168"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Hooverson Heights",
+    "county": "Brooke",
+    "zip_codes": [
+      "26037"
+    ],
+    "population": 2156
+  },
+  {
+    "city": "Hundred",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26575"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Huntersville",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24954"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Huntington",
+    "county": "Cabell",
+    "zip_codes": [
+      "25701",
+      "25702",
+      "25703",
+      "25704",
+      "25705",
+      "25755"
+    ],
+    "population": 46189
+  },
+  {
+    "city": "Hurricane",
+    "county": "Putnam",
+    "zip_codes": [
+      "25510",
+      "25526"
+    ],
+    "population": 6891
+  },
+  {
+    "city": "Huttonsville",
+    "county": "Randolph",
+    "zip_codes": [
+      "26273"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Iaeger",
+    "county": "McDowell",
+    "zip_codes": [
+      "24844"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Idamay",
+    "county": "Marion",
+    "zip_codes": [
+      "26576"
+    ],
+    "population": 635
+  },
+  {
+    "city": "Institute",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25064",
+      "25112"
+    ],
+    "population": 690
+  },
+  {
+    "city": "Inwood",
+    "county": "Berkeley",
+    "zip_codes": [
+      "25413",
+      "25420",
+      "25428"
+    ],
+    "population": 2605
+  },
+  {
+    "city": "Itmann",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24847"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Jacksonburg",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26377"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Jane Lew",
+    "county": "Lewis",
+    "zip_codes": [
+      "26378"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Jefferson",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25177"
+    ],
+    "population": 653
+  },
+  {
+    "city": "Junior",
+    "county": "Barbour",
+    "zip_codes": [
+      "26275"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Justice",
+    "county": "Mingo",
+    "zip_codes": [
+      "24851"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Justice Addition",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Kanawha",
+    "county": "Wood",
+    "zip_codes": [
+      "26142"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Kenova",
+    "county": "Wayne",
+    "zip_codes": [
+      "25507",
+      "25530"
+    ],
+    "population": 2977
+  },
+  {
+    "city": "Kermit",
+    "county": "Mingo",
+    "zip_codes": [
+      "25674"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Keyser",
+    "county": "Mineral",
+    "zip_codes": [
+      "26726"
+    ],
+    "population": 4870
+  },
+  {
+    "city": "Keystone",
+    "county": "McDowell",
+    "zip_codes": [
+      "24868"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Kimball",
+    "county": "McDowell",
+    "zip_codes": [
+      "24853"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Kimberly",
+    "county": "Fayette",
+    "zip_codes": [
+      "25118",
+      "25139"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Kincaid",
+    "county": "Fayette",
+    "zip_codes": [
+      "25119"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Kingwood",
+    "county": "Preston",
+    "zip_codes": [
+      "26537"
+    ],
+    "population": 2980
+  },
+  {
+    "city": "Kistler",
+    "county": "Logan",
+    "zip_codes": [
+      "25628"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Kopperston",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24854"
+    ],
+    "population": 717
+  },
+  {
+    "city": "Lashmeet",
+    "county": "Mercer",
+    "zip_codes": [
+      "24747"
+    ],
+    "population": 734
+  },
+  {
+    "city": "Lavalette",
+    "county": "Wayne",
+    "zip_codes": [
+      "25535"
+    ],
+    "population": 795
+  },
+  {
+    "city": "Leon",
+    "county": "Mason",
+    "zip_codes": [
+      "25123"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Lesage",
+    "county": "Cabell",
+    "zip_codes": [
+      "25537",
+      "25702"
+    ],
+    "population": 1165
+  },
+  {
+    "city": "Lester",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25865"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Lewisburg",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24901"
+    ],
+    "population": 3871
+  },
+  {
+    "city": "Littleton",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26581"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Logan",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 1736
+  },
+  {
+    "city": "Lost Creek",
+    "county": "Harrison",
+    "zip_codes": [
+      "26385",
+      "26408"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Lubeck",
+    "county": "Wood",
+    "zip_codes": [
+      "26101",
+      "26181"
+    ],
+    "population": 1412
+  },
+  {
+    "city": "Lumberport",
+    "county": "Harrison",
+    "zip_codes": [
+      "26386"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Mabscott",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25871"
+    ],
+    "population": 1488
+  },
+  {
+    "city": "MacArthur",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25873"
+    ],
+    "population": 1287
+  },
+  {
+    "city": "Madison",
+    "county": "Boone",
+    "zip_codes": [
+      "25053",
+      "25130"
+    ],
+    "population": 2840
+  },
+  {
+    "city": "Malden",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25306"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Mallory",
+    "county": "Logan",
+    "zip_codes": [
+      "25634"
+    ],
+    "population": 1453
+  },
+  {
+    "city": "Man",
+    "county": "Logan",
+    "zip_codes": [
+      "25617",
+      "25632",
+      "25635"
+    ],
+    "population": 1234
+  },
+  {
+    "city": "Mannington",
+    "county": "Marion",
+    "zip_codes": [
+      "26582"
+    ],
+    "population": 1679
+  },
+  {
+    "city": "Marlinton",
+    "county": "Pocahontas",
+    "zip_codes": [
+      "24924",
+      "24954"
+    ],
+    "population": 1050
+  },
+  {
+    "city": "Marmet",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25315"
+    ],
+    "population": 1520
+  },
+  {
+    "city": "Martinsburg",
+    "county": "Berkeley",
+    "zip_codes": [
+      "25401",
+      "25403",
+      "25404"
+    ],
+    "population": 18805
+  },
+  {
+    "city": "Mason",
+    "county": "Mason",
+    "zip_codes": [
+      "25260"
+    ],
+    "population": 863
+  },
+  {
+    "city": "Masontown",
+    "county": "Preston",
+    "zip_codes": [
+      "26542"
+    ],
+    "population": 490
+  },
+  {
+    "city": "Matewan",
+    "county": "Mingo",
+    "zip_codes": [
+      "25661",
+      "25678",
+      "25688"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Matheny",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24860"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Matoaka",
+    "county": "Mercer",
+    "zip_codes": [
+      "24736"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Maybeury",
+    "county": "McDowell",
+    "zip_codes": [
+      "24861"
+    ],
+    "population": 87
+  },
+  {
+    "city": "McConnell",
+    "county": "Logan",
+    "zip_codes": [
+      "25646"
+    ],
+    "population": 837
+  },
+  {
+    "city": "McMechen",
+    "county": "Marshall",
+    "zip_codes": [
+      "26040"
+    ],
+    "population": 1735
+  },
+  {
+    "city": "Meadow Bridge",
+    "county": "Fayette",
+    "zip_codes": [
+      "25976"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Middlebourne",
+    "county": "Tyler",
+    "zip_codes": [
+      "26149"
+    ],
+    "population": 895
+  },
+  {
+    "city": "Middleway",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25430"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Mill Creek",
+    "county": "Randolph",
+    "zip_codes": [
+      "26280"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Milton",
+    "county": "Cabell",
+    "zip_codes": [
+      "25510",
+      "25541"
+    ],
+    "population": 2773
+  },
+  {
+    "city": "Mineralwells",
+    "county": "Wood",
+    "zip_codes": [
+      "26150"
+    ],
+    "population": 2489
+  },
+  {
+    "city": "Mitchell Heights",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Monaville",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Monongah",
+    "county": "Marion",
+    "zip_codes": [
+      "26554"
+    ],
+    "population": 944
+  },
+  {
+    "city": "Montcalm",
+    "county": "Mercer",
+    "zip_codes": [
+      "24737",
+      "24747"
+    ],
+    "population": 541
+  },
+  {
+    "city": "Montgomery",
+    "county": "Fayette",
+    "zip_codes": [
+      "25110",
+      "25126",
+      "25136"
+    ],
+    "population": 1635
+  },
+  {
+    "city": "Montrose",
+    "county": "Randolph",
+    "zip_codes": [
+      "26283"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Moorefield",
+    "county": "Hardy",
+    "zip_codes": [
+      "26836"
+    ],
+    "population": 2952
+  },
+  {
+    "city": "Morgantown",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26501",
+      "26505",
+      "26506",
+      "26508"
+    ],
+    "population": 30273
+  },
+  {
+    "city": "Moundsville",
+    "county": "Marshall",
+    "zip_codes": [
+      "26038",
+      "26041"
+    ],
+    "population": 7934
+  },
+  {
+    "city": "Mount Carbon",
+    "county": "Fayette",
+    "zip_codes": [
+      "25031",
+      "25118",
+      "25139"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Mount Gay-Shamrock",
+    "county": "Logan",
+    "zip_codes": [
+      "25601",
+      "25637",
+      "25649"
+    ],
+    "population": 1440
+  },
+  {
+    "city": "Mount Hope",
+    "county": "Fayette",
+    "zip_codes": [
+      "25880",
+      "25917"
+    ],
+    "population": 1369
+  },
+  {
+    "city": "Mullens",
+    "county": "Wyoming",
+    "zip_codes": [
+      "25826",
+      "25882",
+      "25928"
+    ],
+    "population": 2267
+  },
+  {
+    "city": "Neibert",
+    "county": "Logan",
+    "zip_codes": [
+      "25632"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Nettie",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26681"
+    ],
+    "population": 291
+  },
+  {
+    "city": "New Cumberland",
+    "county": "Hancock",
+    "zip_codes": [
+      "26047"
+    ],
+    "population": 949
+  },
+  {
+    "city": "New Haven",
+    "county": "Mason",
+    "zip_codes": [
+      "25253",
+      "25265"
+    ],
+    "population": 1735
+  },
+  {
+    "city": "New Martinsville",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26155"
+    ],
+    "population": 5175
+  },
+  {
+    "city": "New Richmond",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24867"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Newark",
+    "county": "Wirt",
+    "zip_codes": [
+      "26143"
+    ],
+    "population": 424
+  },
+  {
+    "city": "Newburg",
+    "county": "Preston",
+    "zip_codes": [
+      "26410"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Newell",
+    "county": "Hancock",
+    "zip_codes": [
+      "26050"
+    ],
+    "population": 1252
+  },
+  {
+    "city": "Nitro",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25064",
+      "25143",
+      "25313"
+    ],
+    "population": 6941
+  },
+  {
+    "city": "North Hills",
+    "county": "Wood",
+    "zip_codes": [
+      "26104"
+    ],
+    "population": 971
+  },
+  {
+    "city": "Northfork",
+    "county": "McDowell",
+    "zip_codes": [
+      "24868"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Norton",
+    "county": "Randolph",
+    "zip_codes": [
+      "26257",
+      "26285"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Nutter Fort",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301"
+    ],
+    "population": 1890
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Fayette",
+    "zip_codes": [
+      "25840",
+      "25879",
+      "25901"
+    ],
+    "population": 8057
+  },
+  {
+    "city": "Oakvale",
+    "county": "Mercer",
+    "zip_codes": [
+      "24739"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Oceana",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24857",
+      "24870"
+    ],
+    "population": 1421
+  },
+  {
+    "city": "Omar",
+    "county": "Logan",
+    "zip_codes": [
+      "25638"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Osage",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26543"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Paden City",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26155",
+      "26159"
+    ],
+    "population": 2529
+  },
+  {
+    "city": "Page",
+    "county": "Fayette",
+    "zip_codes": [
+      "25119",
+      "25152"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Pageton",
+    "county": "McDowell",
+    "zip_codes": [
+      "24871"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Parcoal",
+    "county": "Webster",
+    "zip_codes": [
+      "26288"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Parkersburg",
+    "county": "Wood",
+    "zip_codes": [
+      "26101",
+      "26104",
+      "26105",
+      "26150"
+    ],
+    "population": 29461
+  },
+  {
+    "city": "Parsons",
+    "county": "Tucker",
+    "zip_codes": [
+      "26287"
+    ],
+    "population": 1481
+  },
+  {
+    "city": "Paw Paw",
+    "county": "Morgan",
+    "zip_codes": [
+      "25434"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Pax",
+    "county": "Fayette",
+    "zip_codes": [
+      "25904"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Pea Ridge",
+    "county": "Cabell",
+    "zip_codes": [
+      "25504",
+      "25705"
+    ],
+    "population": 7188
+  },
+  {
+    "city": "Peach Creek",
+    "county": "Logan",
+    "zip_codes": [
+      "25639"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pennsboro",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26415"
+    ],
+    "population": 1227
+  },
+  {
+    "city": "Pentress",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26544"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Petersburg",
+    "county": "Grant",
+    "zip_codes": [
+      "26847"
+    ],
+    "population": 3172
+  },
+  {
+    "city": "Peterstown",
+    "county": "Monroe",
+    "zip_codes": [
+      "24963"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Philippi",
+    "county": "Barbour",
+    "zip_codes": [
+      "26416"
+    ],
+    "population": 2919
+  },
+  {
+    "city": "Pickens",
+    "county": "Randolph",
+    "zip_codes": [
+      "26230"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Piedmont",
+    "county": "Mineral",
+    "zip_codes": [
+      "26750"
+    ],
+    "population": 872
+  },
+  {
+    "city": "Pinch",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25071",
+      "25156"
+    ],
+    "population": 3893
+  },
+  {
+    "city": "Pine Grove",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26419"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Pineville",
+    "county": "Wyoming",
+    "zip_codes": [
+      "24726",
+      "24874"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Piney View",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25813",
+      "25864"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Marion",
+    "zip_codes": [
+      "26554"
+    ],
+    "population": 3494
+  },
+  {
+    "city": "Poca",
+    "county": "Putnam",
+    "zip_codes": [
+      "25143",
+      "25159"
+    ],
+    "population": 1056
+  },
+  {
+    "city": "Point Pleasant",
+    "county": "Mason",
+    "zip_codes": [
+      "25550"
+    ],
+    "population": 4009
+  },
+  {
+    "city": "Powellton",
+    "county": "Fayette",
+    "zip_codes": [
+      "25118",
+      "25161"
+    ],
+    "population": 518
+  },
+  {
+    "city": "Pratt",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25162"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Prichard",
+    "county": "Wayne",
+    "zip_codes": [
+      "25555"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Prince",
+    "county": "Fayette",
+    "zip_codes": [
+      "25907"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Princeton",
+    "county": "Mercer",
+    "zip_codes": [
+      "24739",
+      "24740"
+    ],
+    "population": 5780
+  },
+  {
+    "city": "Prosperity",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25880",
+      "25909"
+    ],
+    "population": 1575
+  },
+  {
+    "city": "Pullman",
+    "county": "Ritchie",
+    "zip_codes": [
+      "26362",
+      "26421"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Quinwood",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "25972",
+      "25981"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Rachel",
+    "county": "Marion",
+    "zip_codes": [
+      "26587"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Racine",
+    "county": "Boone",
+    "zip_codes": [
+      "25165"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Rainelle",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "25962"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Raleigh",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801",
+      "25911"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Rand",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25306"
+    ],
+    "population": 915
+  },
+  {
+    "city": "Ranson",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25414",
+      "25430",
+      "25438"
+    ],
+    "population": 5588
+  },
+  {
+    "city": "Ravenswood",
+    "county": "Jackson",
+    "zip_codes": [
+      "26164"
+    ],
+    "population": 3846
+  },
+  {
+    "city": "Raymond City",
+    "county": "Putnam",
+    "zip_codes": [
+      "25159"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Raysal",
+    "county": "McDowell",
+    "zip_codes": [
+      "24879"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Reader",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26167"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Red Jacket",
+    "county": "Mingo",
+    "zip_codes": [
+      "25688",
+      "25692",
+      "25696"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Reedsville",
+    "county": "Preston",
+    "zip_codes": [
+      "26547"
+    ],
+    "population": 652
+  },
+  {
+    "city": "Reedy",
+    "county": "Roane",
+    "zip_codes": [
+      "25270"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Reynoldsville",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301",
+      "26422"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Rhodell",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25915"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Richwood",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26261"
+    ],
+    "population": 2617
+  },
+  {
+    "city": "Ridgeley",
+    "county": "Mineral",
+    "zip_codes": [
+      "26753"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Ripley",
+    "county": "Jackson",
+    "zip_codes": [
+      "25271"
+    ],
+    "population": 3066
+  },
+  {
+    "city": "Rivesville",
+    "county": "Marion",
+    "zip_codes": [
+      "26588"
+    ],
+    "population": 701
+  },
+  {
+    "city": "Robinette",
+    "county": "Logan",
+    "zip_codes": [
+      "25607"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Rock Cave",
+    "county": "Upshur",
+    "zip_codes": [
+      "26218",
+      "26234",
+      "26343"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Roderfield",
+    "county": "McDowell",
+    "zip_codes": [
+      "24881"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Romney",
+    "county": "Hampshire",
+    "zip_codes": [
+      "26757"
+    ],
+    "population": 1714
+  },
+  {
+    "city": "Ronceverte",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24970"
+    ],
+    "population": 1523
+  },
+  {
+    "city": "Rossmore",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Rowlesburg",
+    "county": "Preston",
+    "zip_codes": [
+      "26425"
+    ],
+    "population": 640
+  },
+  {
+    "city": "Rupert",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "25984"
+    ],
+    "population": 977
+  },
+  {
+    "city": "Salem",
+    "county": "Harrison",
+    "zip_codes": [
+      "26426"
+    ],
+    "population": 1812
+  },
+  {
+    "city": "Salt Rock",
+    "county": "Cabell",
+    "zip_codes": [
+      "25559"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Sand Fork",
+    "county": "Gilmer",
+    "zip_codes": [
+      "26351",
+      "26430"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Sarah Ann",
+    "county": "Logan",
+    "zip_codes": [
+      "25644"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Scarbro",
+    "county": "Fayette",
+    "zip_codes": [
+      "25917"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Shady Spring",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25825",
+      "25832",
+      "25918"
+    ],
+    "population": 3455
+  },
+  {
+    "city": "Shannondale",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25425"
+    ],
+    "population": 3441
+  },
+  {
+    "city": "Shenandoah Junction",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25442"
+    ],
+    "population": 1339
+  },
+  {
+    "city": "Shepherdstown",
+    "county": "Jefferson",
+    "zip_codes": [
+      "25443"
+    ],
+    "population": 1399
+  },
+  {
+    "city": "Shinnston",
+    "county": "Harrison",
+    "zip_codes": [
+      "26431"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Shrewsbury",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25015"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Sissonville",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25312",
+      "25320"
+    ],
+    "population": 2706
+  },
+  {
+    "city": "Sistersville",
+    "county": "Tyler",
+    "zip_codes": [
+      "26175"
+    ],
+    "population": 1340
+  },
+  {
+    "city": "Smithers",
+    "county": "Fayette",
+    "zip_codes": [
+      "25136",
+      "25186"
+    ],
+    "population": 891
+  },
+  {
+    "city": "Smithfield",
+    "county": "Wetzel",
+    "zip_codes": [
+      "26437"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Sophia",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25827",
+      "25878",
+      "25921"
+    ],
+    "population": 1654
+  },
+  {
+    "city": "South Charleston",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25303",
+      "25309",
+      "25314"
+    ],
+    "population": 13594
+  },
+  {
+    "city": "Spelter",
+    "county": "Harrison",
+    "zip_codes": [
+      "26438"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Spencer",
+    "county": "Roane",
+    "zip_codes": [
+      "25276"
+    ],
+    "population": 2137
+  },
+  {
+    "city": "Sprague",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801"
+    ],
+    "population": 971
+  },
+  {
+    "city": "Springfield",
+    "county": "Hampshire",
+    "zip_codes": [
+      "26763"
+    ],
+    "population": 485
+  },
+  {
+    "city": "St. Albans",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25177"
+    ],
+    "population": 10637
+  },
+  {
+    "city": "St. George",
+    "county": "Tucker",
+    "zip_codes": [
+      "26287"
+    ],
+    "population": 145
+  },
+  {
+    "city": "St. Marys",
+    "county": "Pleasants",
+    "zip_codes": [
+      "26170"
+    ],
+    "population": 2178
+  },
+  {
+    "city": "Stanaford",
+    "county": "Raleigh",
+    "zip_codes": [
+      "25801"
+    ],
+    "population": 1327
+  },
+  {
+    "city": "Star City",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26505"
+    ],
+    "population": 1894
+  },
+  {
+    "city": "Stollings",
+    "county": "Logan",
+    "zip_codes": [
+      "25601",
+      "25646"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Stonewood",
+    "county": "Harrison",
+    "zip_codes": [
+      "26301"
+    ],
+    "population": 2273
+  },
+  {
+    "city": "Summersville",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26651"
+    ],
+    "population": 3397
+  },
+  {
+    "city": "Sutton",
+    "county": "Braxton",
+    "zip_codes": [
+      "26601"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Switzer",
+    "county": "Logan",
+    "zip_codes": [
+      "25647"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Sylvester",
+    "county": "Boone",
+    "zip_codes": [
+      "25148",
+      "25193"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Teays Valley",
+    "county": "Putnam",
+    "zip_codes": [
+      "25177",
+      "25526",
+      "25560"
+    ],
+    "population": 13961
+  },
+  {
+    "city": "Terra Alta",
+    "county": "Preston",
+    "zip_codes": [
+      "26764"
+    ],
+    "population": 1992
+  },
+  {
+    "city": "Thomas",
+    "county": "Tucker",
+    "zip_codes": [
+      "26260",
+      "26292"
+    ],
+    "population": 614
+  },
+  {
+    "city": "Thurmond",
+    "county": "Fayette",
+    "zip_codes": [
+      "25936"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Tioga",
+    "county": "Nicholas",
+    "zip_codes": [
+      "26691"
+    ],
+    "population": 509
+  },
+  {
+    "city": "Tornado",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25177",
+      "25202"
+    ],
+    "population": 1101
+  },
+  {
+    "city": "Triadelphia",
+    "county": "Ohio",
+    "zip_codes": [
+      "26059"
+    ],
+    "population": 885
+  },
+  {
+    "city": "Tunnelton",
+    "county": "Preston",
+    "zip_codes": [
+      "26444"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Twilight",
+    "county": "Boone",
+    "zip_codes": [
+      "25204"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Union",
+    "county": "Monroe",
+    "zip_codes": [
+      "24983"
+    ],
+    "population": 414
+  },
+  {
+    "city": "Valley Bend",
+    "county": "Randolph",
+    "zip_codes": [
+      "26293"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Valley Grove",
+    "county": "Ohio",
+    "zip_codes": [
+      "26059",
+      "26060"
+    ],
+    "population": 448
+  },
+  {
+    "city": "Valley Head",
+    "county": "Randolph",
+    "zip_codes": [
+      "26294"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Van",
+    "county": "Boone",
+    "zip_codes": [
+      "25206"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Verdunville",
+    "county": "Logan",
+    "zip_codes": [
+      "25649"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Vienna",
+    "county": "Wood",
+    "zip_codes": [
+      "26105"
+    ],
+    "population": 10575
+  },
+  {
+    "city": "Vivian",
+    "county": "McDowell",
+    "zip_codes": [
+      "24853"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Wallace",
+    "county": "Harrison",
+    "zip_codes": [
+      "26448"
+    ],
+    "population": 251
+  },
+  {
+    "city": "War",
+    "county": "McDowell",
+    "zip_codes": [
+      "24892",
+      "24894"
+    ],
+    "population": 593
+  },
+  {
+    "city": "Wardensville",
+    "county": "Hardy",
+    "zip_codes": [
+      "26851"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Washington",
+    "county": "Wood",
+    "zip_codes": [
+      "26181"
+    ],
+    "population": 1129
+  },
+  {
+    "city": "Waverly",
+    "county": "Wood",
+    "zip_codes": [
+      "26184",
+      "26187"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Wayne",
+    "county": "Wayne",
+    "zip_codes": [
+      "25570"
+    ],
+    "population": 1433
+  },
+  {
+    "city": "Weirton",
+    "county": "Hancock",
+    "zip_codes": [
+      "26035",
+      "26062"
+    ],
+    "population": 18785
+  },
+  {
+    "city": "Welch",
+    "county": "McDowell",
+    "zip_codes": [
+      "24801",
+      "24853"
+    ],
+    "population": 3492
+  },
+  {
+    "city": "Wellsburg",
+    "county": "Brooke",
+    "zip_codes": [
+      "26070"
+    ],
+    "population": 2364
+  },
+  {
+    "city": "West Dunbar",
+    "county": "Kanawha",
+    "zip_codes": [
+      "25064"
+    ],
+    "population": 385
+  },
+  {
+    "city": "West Hamlin",
+    "county": "Lincoln",
+    "zip_codes": [
+      "25506",
+      "25571"
+    ],
+    "population": 640
+  },
+  {
+    "city": "West Liberty",
+    "county": "Ohio",
+    "zip_codes": [
+      "26003",
+      "26074"
+    ],
+    "population": 1568
+  },
+  {
+    "city": "West Logan",
+    "county": "Logan",
+    "zip_codes": [
+      "25601"
+    ],
+    "population": 368
+  },
+  {
+    "city": "West Milford",
+    "county": "Harrison",
+    "zip_codes": [
+      "26451"
+    ],
+    "population": 529
+  },
+  {
+    "city": "West Union",
+    "county": "Doddridge",
+    "zip_codes": [
+      "26456"
+    ],
+    "population": 940
+  },
+  {
+    "city": "Weston",
+    "county": "Lewis",
+    "zip_codes": [
+      "26452"
+    ],
+    "population": 3884
+  },
+  {
+    "city": "Westover",
+    "county": "Monongalia",
+    "zip_codes": [
+      "26501"
+    ],
+    "population": 4007
+  },
+  {
+    "city": "Wheeling",
+    "county": "Ohio",
+    "zip_codes": [
+      "26003"
+    ],
+    "population": 26670
+  },
+  {
+    "city": "White Hall",
+    "county": "Marion",
+    "zip_codes": [
+      "26554"
+    ],
+    "population": 1141
+  },
+  {
+    "city": "White Sulphur Springs",
+    "county": "Greenbrier",
+    "zip_codes": [
+      "24925",
+      "24986"
+    ],
+    "population": 2646
+  },
+  {
+    "city": "Whitesville",
+    "county": "Boone",
+    "zip_codes": [
+      "25209"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Whitmer",
+    "county": "Randolph",
+    "zip_codes": [
+      "26296"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Wiley Ford",
+    "county": "Mineral",
+    "zip_codes": [
+      "26753",
+      "26767"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Williamson",
+    "county": "Mingo",
+    "zip_codes": [
+      "25661"
+    ],
+    "population": 2979
+  },
+  {
+    "city": "Williamstown",
+    "county": "Wood",
+    "zip_codes": [
+      "26187"
+    ],
+    "population": 2977
+  },
+  {
+    "city": "Windsor Heights",
+    "county": "Brooke",
+    "zip_codes": [
+      "26075"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Winfield",
+    "county": "Putnam",
+    "zip_codes": [
+      "25213"
+    ],
+    "population": 2538
+  },
+  {
+    "city": "Wolf Summit",
+    "county": "Harrison",
+    "zip_codes": [
+      "26426"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Womelsdorf (Coalton)",
+    "county": "Randolph",
+    "zip_codes": [
+      "26257"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Worthington",
+    "county": "Marion",
+    "zip_codes": [
+      "26554",
+      "26591"
+    ],
+    "population": 94
+  }
+]

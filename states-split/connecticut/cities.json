@@ -1,0 +1,1809 @@
+[
+  {
+    "city": "Ansonia",
+    "county": "New Haven",
+    "zip_codes": [
+      "06401"
+    ],
+    "population": 18951
+  },
+  {
+    "city": "Ball Pond",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 2623
+  },
+  {
+    "city": "Baltic",
+    "county": "New London",
+    "zip_codes": [
+      "06330"
+    ],
+    "population": 1266
+  },
+  {
+    "city": "Bantam",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06750"
+    ],
+    "population": 762
+  },
+  {
+    "city": "Bethel",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06801"
+    ],
+    "population": 11606
+  },
+  {
+    "city": "Bethlehem Village",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06751"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Bigelow Corners",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 841
+  },
+  {
+    "city": "Blue Hills",
+    "county": "Hartford",
+    "zip_codes": [
+      "06002"
+    ],
+    "population": 1989
+  },
+  {
+    "city": "Bogus Hill",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Botsford",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06470"
+    ],
+    "population": 702
+  },
+  {
+    "city": "Branchville",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Branford Center",
+    "county": "New Haven",
+    "zip_codes": [
+      "06405"
+    ],
+    "population": 6130
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06604",
+      "06605",
+      "06606",
+      "06607",
+      "06608",
+      "06610"
+    ],
+    "population": 148012
+  },
+  {
+    "city": "Bridgewater",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06752"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Bristol",
+    "county": "Hartford",
+    "zip_codes": [
+      "06010"
+    ],
+    "population": 61129
+  },
+  {
+    "city": "Broad Brook",
+    "county": "Hartford",
+    "zip_codes": [
+      "06016"
+    ],
+    "population": 3550
+  },
+  {
+    "city": "Brookfield Center",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06804"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Brooklyn",
+    "county": "Windham",
+    "zip_codes": [
+      "06234"
+    ],
+    "population": 1045
+  },
+  {
+    "city": "Byram",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06830"
+    ],
+    "population": 5011
+  },
+  {
+    "city": "Canaan",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06018"
+    ],
+    "population": 1297
+  },
+  {
+    "city": "Candlewood Isle",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 569
+  },
+  {
+    "city": "Candlewood Knolls",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Candlewood Lake Club",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06776",
+      "06804"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Candlewood Orchards",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06804"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Candlewood Shores",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06804"
+    ],
+    "population": 534
+  },
+  {
+    "city": "Cannondale",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06897"
+    ],
+    "population": 677
+  },
+  {
+    "city": "Canton Valley",
+    "county": "Hartford",
+    "zip_codes": [
+      "06019"
+    ],
+    "population": 1364
+  },
+  {
+    "city": "Cheshire Village",
+    "county": "New Haven",
+    "zip_codes": [
+      "06410"
+    ],
+    "population": 6049
+  },
+  {
+    "city": "Chester Center",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06412"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Chimney Point",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06776"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Clinton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06413"
+    ],
+    "population": 3547
+  },
+  {
+    "city": "Colchester",
+    "county": "New London",
+    "zip_codes": [
+      "06415"
+    ],
+    "population": 4624
+  },
+  {
+    "city": "Coleytown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 3479
+  },
+  {
+    "city": "Collinsville",
+    "county": "Hartford",
+    "zip_codes": [
+      "06019"
+    ],
+    "population": 4001
+  },
+  {
+    "city": "Compo",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 3561
+  },
+  {
+    "city": "Conning Towers-Nautilus Park",
+    "county": "New London",
+    "zip_codes": [
+      "06340"
+    ],
+    "population": 8590
+  },
+  {
+    "city": "Cornwall",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06753",
+      "06754",
+      "06796"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Cornwall Bridge",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06754"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Cos Cob",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06807",
+      "06830"
+    ],
+    "population": 7354
+  },
+  {
+    "city": "Coventry Lake",
+    "county": "Tolland",
+    "zip_codes": [
+      "06238"
+    ],
+    "population": 2358
+  },
+  {
+    "city": "Crystal Lake",
+    "county": "Tolland",
+    "zip_codes": [
+      "06029",
+      "06076",
+      "06084"
+    ],
+    "population": 1963
+  },
+  {
+    "city": "Danbury",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06810",
+      "06811"
+    ],
+    "population": 86086
+  },
+  {
+    "city": "Daniels Farm",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06611"
+    ],
+    "population": 5995
+  },
+  {
+    "city": "Danielson",
+    "county": "Windham",
+    "zip_codes": [
+      "06239"
+    ],
+    "population": 4185
+  },
+  {
+    "city": "Darien Downtown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06820"
+    ],
+    "population": 1329
+  },
+  {
+    "city": "Dayville",
+    "county": "Windham",
+    "zip_codes": [
+      "06241"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Deep River Center",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06417"
+    ],
+    "population": 2636
+  },
+  {
+    "city": "Derby",
+    "county": "New Haven",
+    "zip_codes": [
+      "06418"
+    ],
+    "population": 12359
+  },
+  {
+    "city": "Dodgingtown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06470"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Durham",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06422"
+    ],
+    "population": 3508
+  },
+  {
+    "city": "East Brooklyn",
+    "county": "Windham",
+    "zip_codes": [
+      "06234"
+    ],
+    "population": 2008
+  },
+  {
+    "city": "East Hampton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06424"
+    ],
+    "population": 3159
+  },
+  {
+    "city": "East Hartford",
+    "county": "Hartford",
+    "zip_codes": [
+      "06108",
+      "06118"
+    ],
+    "population": 50798
+  },
+  {
+    "city": "East Haven",
+    "county": "New Haven",
+    "zip_codes": [
+      "06473",
+      "06512",
+      "06513"
+    ],
+    "population": 27729
+  },
+  {
+    "city": "East Village",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06468"
+    ],
+    "population": 3744
+  },
+  {
+    "city": "Essex Village",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06426"
+    ],
+    "population": 2722
+  },
+  {
+    "city": "Fairfield University",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06824"
+    ],
+    "population": 2516
+  },
+  {
+    "city": "Falls Village",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06031"
+    ],
+    "population": 452
+  },
+  {
+    "city": "Fenwick",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06475"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Gales Ferry",
+    "county": "New London",
+    "zip_codes": [
+      "06335"
+    ],
+    "population": 1027
+  },
+  {
+    "city": "Gaylordsville",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06755"
+    ],
+    "population": 659
+  },
+  {
+    "city": "Georgetown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06883",
+      "06896",
+      "06897"
+    ],
+    "population": 1751
+  },
+  {
+    "city": "Glastonbury Center",
+    "county": "Hartford",
+    "zip_codes": [
+      "06033"
+    ],
+    "population": 7860
+  },
+  {
+    "city": "Glenville",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06831"
+    ],
+    "population": 2663
+  },
+  {
+    "city": "Greens Farms",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 3022
+  },
+  {
+    "city": "Greenwich",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06830",
+      "06831"
+    ],
+    "population": 14528
+  },
+  {
+    "city": "Groton",
+    "county": "New London",
+    "zip_codes": [
+      "06340"
+    ],
+    "population": 9343
+  },
+  {
+    "city": "Groton Long Point",
+    "county": "New London",
+    "zip_codes": [
+      "06340"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Guilford Center",
+    "county": "New Haven",
+    "zip_codes": [
+      "06437"
+    ],
+    "population": 2272
+  },
+  {
+    "city": "Hartford",
+    "county": "Hartford",
+    "zip_codes": [
+      "06103",
+      "06105",
+      "06106",
+      "06112",
+      "06114",
+      "06120"
+    ],
+    "population": 119970
+  },
+  {
+    "city": "Hawleyville",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06470"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Hazardville",
+    "county": "Hartford",
+    "zip_codes": [
+      "06082"
+    ],
+    "population": 6482
+  },
+  {
+    "city": "Heritage Village",
+    "county": "New Haven",
+    "zip_codes": [
+      "06488"
+    ],
+    "population": 4517
+  },
+  {
+    "city": "Higganum",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06438",
+      "06441"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Indian Field",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06830"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Inglenook",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 1162
+  },
+  {
+    "city": "Jewett City",
+    "county": "New London",
+    "zip_codes": [
+      "06351"
+    ],
+    "population": 3412
+  },
+  {
+    "city": "Kellogg Point",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Kensington",
+    "county": "Hartford",
+    "zip_codes": [
+      "06037"
+    ],
+    "population": 9936
+  },
+  {
+    "city": "Knollcrest",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Lake Bungee",
+    "county": "Windham",
+    "zip_codes": [
+      "06281",
+      "06282"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Lake Chaffee",
+    "county": "Windham",
+    "zip_codes": [
+      "06278"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Lake Pocotopaug",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06424"
+    ],
+    "population": 4715
+  },
+  {
+    "city": "Lakes East",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 1295
+  },
+  {
+    "city": "Lakes West",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 1308
+  },
+  {
+    "city": "Lakeside Woods",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06784"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Lakeville",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06039",
+      "06068"
+    ],
+    "population": 641
+  },
+  {
+    "city": "Litchfield",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06759"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Long Hill",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06611"
+    ],
+    "population": 8597
+  },
+  {
+    "city": "Long Hill",
+    "county": "New London",
+    "zip_codes": [
+      "06340"
+    ],
+    "population": 4292
+  },
+  {
+    "city": "Lordship",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06615"
+    ],
+    "population": 3613
+  },
+  {
+    "city": "Madison Center",
+    "county": "New Haven",
+    "zip_codes": [
+      "06443"
+    ],
+    "population": 1818
+  },
+  {
+    "city": "Mamanasco Lake",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Manchester",
+    "county": "Hartford",
+    "zip_codes": [
+      "06040",
+      "06042"
+    ],
+    "population": 36561
+  },
+  {
+    "city": "Mansfield Center",
+    "county": "Tolland",
+    "zip_codes": [
+      "06250",
+      "06268"
+    ],
+    "population": 988
+  },
+  {
+    "city": "Mashantucket",
+    "county": "New London",
+    "zip_codes": [
+      "06338",
+      "06339"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Mechanicsville",
+    "county": "Windham",
+    "zip_codes": [
+      "06255",
+      "06277"
+    ],
+    "population": 906
+  },
+  {
+    "city": "Meriden",
+    "county": "New Haven",
+    "zip_codes": [
+      "06450",
+      "06451"
+    ],
+    "population": 60418
+  },
+  {
+    "city": "Middletown",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06457",
+      "06459"
+    ],
+    "population": 47646
+  },
+  {
+    "city": "Milford",
+    "county": "New Haven",
+    "zip_codes": [
+      "06460",
+      "06461"
+    ],
+    "population": 50749
+  },
+  {
+    "city": "Mill Plain",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06824"
+    ],
+    "population": 1980
+  },
+  {
+    "city": "Moodus",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06423",
+      "06469"
+    ],
+    "population": 1815
+  },
+  {
+    "city": "Moosup",
+    "county": "Windham",
+    "zip_codes": [
+      "06354"
+    ],
+    "population": 3218
+  },
+  {
+    "city": "Murray",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06824"
+    ],
+    "population": 688
+  },
+  {
+    "city": "Mystic",
+    "county": "New London",
+    "zip_codes": [
+      "06355",
+      "06378"
+    ],
+    "population": 4441
+  },
+  {
+    "city": "Naugatuck",
+    "county": "New Haven",
+    "zip_codes": [
+      "06770"
+    ],
+    "population": 31634
+  },
+  {
+    "city": "New Britain",
+    "county": "Hartford",
+    "zip_codes": [
+      "06051",
+      "06052",
+      "06053"
+    ],
+    "population": 73301
+  },
+  {
+    "city": "New Canaan",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06840"
+    ],
+    "population": 7032
+  },
+  {
+    "city": "New Hartford Center",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06057",
+      "06061"
+    ],
+    "population": 1691
+  },
+  {
+    "city": "New Haven",
+    "county": "New Haven",
+    "zip_codes": [
+      "06510",
+      "06511",
+      "06512",
+      "06513",
+      "06515",
+      "06519"
+    ],
+    "population": 132893
+  },
+  {
+    "city": "New London",
+    "county": "New London",
+    "zip_codes": [
+      "06320"
+    ],
+    "population": 27199
+  },
+  {
+    "city": "New Milford",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06776"
+    ],
+    "population": 7632
+  },
+  {
+    "city": "New Preston",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06777",
+      "06794"
+    ],
+    "population": 1121
+  },
+  {
+    "city": "Newington",
+    "county": "Hartford",
+    "zip_codes": [
+      "06111"
+    ],
+    "population": 30551
+  },
+  {
+    "city": "Newtown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06470"
+    ],
+    "population": 1968
+  },
+  {
+    "city": "Niantic",
+    "county": "New London",
+    "zip_codes": [
+      "06357"
+    ],
+    "population": 3302
+  },
+  {
+    "city": "Noank",
+    "county": "New London",
+    "zip_codes": [
+      "06340",
+      "06355"
+    ],
+    "population": 1617
+  },
+  {
+    "city": "Norfolk",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06058"
+    ],
+    "population": 608
+  },
+  {
+    "city": "Noroton",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06820"
+    ],
+    "population": 5522
+  },
+  {
+    "city": "Noroton Heights",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06820"
+    ],
+    "population": 2949
+  },
+  {
+    "city": "North Granby",
+    "county": "Hartford",
+    "zip_codes": [
+      "06060"
+    ],
+    "population": 1510
+  },
+  {
+    "city": "North Grosvenor Dale",
+    "county": "Windham",
+    "zip_codes": [
+      "06255"
+    ],
+    "population": 1097
+  },
+  {
+    "city": "North Haven",
+    "county": "New Haven",
+    "zip_codes": [
+      "06473"
+    ],
+    "population": 24177
+  },
+  {
+    "city": "Northford",
+    "county": "New Haven",
+    "zip_codes": [
+      "06472"
+    ],
+    "population": 6161
+  },
+  {
+    "city": "Northwest Harwinton",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06791"
+    ],
+    "population": 3126
+  },
+  {
+    "city": "Norwalk",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06850",
+      "06851",
+      "06853",
+      "06854",
+      "06855"
+    ],
+    "population": 91375
+  },
+  {
+    "city": "Norwich",
+    "county": "New London",
+    "zip_codes": [
+      "06360",
+      "06380",
+      "06389"
+    ],
+    "population": 39992
+  },
+  {
+    "city": "Oakville",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06779",
+      "06795"
+    ],
+    "population": 9233
+  },
+  {
+    "city": "Old Greenwich",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06870",
+      "06878"
+    ],
+    "population": 6904
+  },
+  {
+    "city": "Old Hill",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 3078
+  },
+  {
+    "city": "Old Mystic",
+    "county": "New London",
+    "zip_codes": [
+      "06355"
+    ],
+    "population": 3189
+  },
+  {
+    "city": "Old Saybrook Center",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06475"
+    ],
+    "population": 2063
+  },
+  {
+    "city": "Orange",
+    "county": "New Haven",
+    "zip_codes": [
+      "06477"
+    ],
+    "population": 14251
+  },
+  {
+    "city": "Oronoque",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06614"
+    ],
+    "population": 3908
+  },
+  {
+    "city": "Oxoboxo River",
+    "county": "New London",
+    "zip_codes": [
+      "06353",
+      "06370",
+      "06382"
+    ],
+    "population": 2912
+  },
+  {
+    "city": "Pawcatuck",
+    "county": "New London",
+    "zip_codes": [
+      "06379"
+    ],
+    "population": 5475
+  },
+  {
+    "city": "Pemberwick",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06831"
+    ],
+    "population": 3455
+  },
+  {
+    "city": "Plainfield Village",
+    "county": "Windham",
+    "zip_codes": [
+      "06374"
+    ],
+    "population": 2260
+  },
+  {
+    "city": "Plantsville",
+    "county": "Hartford",
+    "zip_codes": [
+      "06479"
+    ],
+    "population": 2045
+  },
+  {
+    "city": "Plattsville",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06612",
+      "06825"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06063"
+    ],
+    "population": 343
+  },
+  {
+    "city": "Poplar Plains",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 1203
+  },
+  {
+    "city": "Poquonock Bridge",
+    "county": "New London",
+    "zip_codes": [
+      "06340"
+    ],
+    "population": 1108
+  },
+  {
+    "city": "Portland",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06480"
+    ],
+    "population": 5970
+  },
+  {
+    "city": "Putnam",
+    "county": "Windham",
+    "zip_codes": [
+      "06260"
+    ],
+    "population": 7120
+  },
+  {
+    "city": "Quasset Lake",
+    "county": "Windham",
+    "zip_codes": [
+      "06281"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Quinebaug",
+    "county": "Windham",
+    "zip_codes": [
+      "06255",
+      "06262"
+    ],
+    "population": 1163
+  },
+  {
+    "city": "Quinnipiac University",
+    "county": "New Haven",
+    "zip_codes": [
+      "06518"
+    ],
+    "population": 3821
+  },
+  {
+    "city": "Redding Center",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06896"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Ridgebury",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 1949
+  },
+  {
+    "city": "Ridgefield",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 7103
+  },
+  {
+    "city": "Riverside",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06870",
+      "06878"
+    ],
+    "population": 9216
+  },
+  {
+    "city": "Riverton",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06063",
+      "06065"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Rock Ridge",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06831"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Rockville",
+    "county": "Tolland",
+    "zip_codes": [
+      "06066"
+    ],
+    "population": 6657
+  },
+  {
+    "city": "Route 7 Gateway",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 1032
+  },
+  {
+    "city": "Sacred Heart University",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06825"
+    ],
+    "population": 1085
+  },
+  {
+    "city": "Sail Harbor",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06784",
+      "06812"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Salmon Brook",
+    "county": "Hartford",
+    "zip_codes": [
+      "06035"
+    ],
+    "population": 2229
+  },
+  {
+    "city": "Sandy Hook",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06470",
+      "06482"
+    ],
+    "population": 9718
+  },
+  {
+    "city": "Saugatuck",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06855",
+      "06880"
+    ],
+    "population": 3091
+  },
+  {
+    "city": "Saybrook Manor",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06475"
+    ],
+    "population": 1404
+  },
+  {
+    "city": "Sharon",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06069"
+    ],
+    "population": 495
+  },
+  {
+    "city": "Shelton",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06484"
+    ],
+    "population": 41402
+  },
+  {
+    "city": "Sherman",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06784"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Sherwood Manor",
+    "county": "Hartford",
+    "zip_codes": [
+      "06082"
+    ],
+    "population": 5781
+  },
+  {
+    "city": "Simsbury Center",
+    "county": "Hartford",
+    "zip_codes": [
+      "06070",
+      "06089"
+    ],
+    "population": 6326
+  },
+  {
+    "city": "Somers",
+    "county": "Tolland",
+    "zip_codes": [
+      "06071"
+    ],
+    "population": 2081
+  },
+  {
+    "city": "South Coventry",
+    "county": "Tolland",
+    "zip_codes": [
+      "06238"
+    ],
+    "population": 1509
+  },
+  {
+    "city": "South Wilton",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06897"
+    ],
+    "population": 1453
+  },
+  {
+    "city": "South Windham",
+    "county": "Windham",
+    "zip_codes": [
+      "06226",
+      "06266"
+    ],
+    "population": 1391
+  },
+  {
+    "city": "South Woodstock",
+    "county": "Windham",
+    "zip_codes": [
+      "06281"
+    ],
+    "population": 1294
+  },
+  {
+    "city": "Southport",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06890"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "Southwood Acres",
+    "county": "Hartford",
+    "zip_codes": [
+      "06082"
+    ],
+    "population": 8154
+  },
+  {
+    "city": "Stafford Springs",
+    "county": "Tolland",
+    "zip_codes": [
+      "06076"
+    ],
+    "population": 4801
+  },
+  {
+    "city": "Stamford",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06831",
+      "06901",
+      "06902",
+      "06903",
+      "06905",
+      "06906",
+      "06907"
+    ],
+    "population": 135806
+  },
+  {
+    "city": "Staples",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 6985
+  },
+  {
+    "city": "Stepney",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06468"
+    ],
+    "population": 3489
+  },
+  {
+    "city": "Stonington",
+    "county": "New London",
+    "zip_codes": [
+      "06378"
+    ],
+    "population": 934
+  },
+  {
+    "city": "Storrs",
+    "county": "Tolland",
+    "zip_codes": [
+      "06268",
+      "06269"
+    ],
+    "population": 13502
+  },
+  {
+    "city": "Stratford Downtown",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06614",
+      "06615"
+    ],
+    "population": 1758
+  },
+  {
+    "city": "Suffield Depot",
+    "county": "Hartford",
+    "zip_codes": [
+      "06078"
+    ],
+    "population": 1947
+  },
+  {
+    "city": "Tariffville",
+    "county": "Hartford",
+    "zip_codes": [
+      "06081"
+    ],
+    "population": 1607
+  },
+  {
+    "city": "Tashua",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06611"
+    ],
+    "population": 3436
+  },
+  {
+    "city": "Taylor Corners",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06812"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Terramuggus",
+    "county": "Hartford",
+    "zip_codes": [
+      "06447"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Terryville",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06786"
+    ],
+    "population": 5112
+  },
+  {
+    "city": "Thomaston",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06787"
+    ],
+    "population": 2073
+  },
+  {
+    "city": "Thompsonville",
+    "county": "Hartford",
+    "zip_codes": [
+      "06082"
+    ],
+    "population": 7473
+  },
+  {
+    "city": "Tokeneke",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06820"
+    ],
+    "population": 2466
+  },
+  {
+    "city": "Topstone",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06896"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Torrington",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06790"
+    ],
+    "population": 35481
+  },
+  {
+    "city": "Trumbull Center",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06611"
+    ],
+    "population": 10137
+  },
+  {
+    "city": "Wallingford Center",
+    "county": "New Haven",
+    "zip_codes": [
+      "06492"
+    ],
+    "population": 18107
+  },
+  {
+    "city": "Waterbury",
+    "county": "New Haven",
+    "zip_codes": [
+      "06702",
+      "06704",
+      "06705",
+      "06706",
+      "06708",
+      "06710"
+    ],
+    "population": 114356
+  },
+  {
+    "city": "Waterford",
+    "county": "New London",
+    "zip_codes": [
+      "06385"
+    ],
+    "population": 3496
+  },
+  {
+    "city": "Watertown",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06795"
+    ],
+    "population": 4215
+  },
+  {
+    "city": "Wauregan",
+    "county": "Windham",
+    "zip_codes": [
+      "06234",
+      "06239",
+      "06374",
+      "06387"
+    ],
+    "population": 1209
+  },
+  {
+    "city": "Weatogue",
+    "county": "Hartford",
+    "zip_codes": [
+      "06070",
+      "06089"
+    ],
+    "population": 2851
+  },
+  {
+    "city": "West Cornwall",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06796"
+    ],
+    "population": 56
+  },
+  {
+    "city": "West Hartford",
+    "county": "Hartford",
+    "zip_codes": [
+      "06105",
+      "06107",
+      "06110",
+      "06117",
+      "06119"
+    ],
+    "population": 63809
+  },
+  {
+    "city": "West Haven",
+    "county": "New Haven",
+    "zip_codes": [
+      "06516"
+    ],
+    "population": 55147
+  },
+  {
+    "city": "West Mountain",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06877"
+    ],
+    "population": 418
+  },
+  {
+    "city": "West Simsbury",
+    "county": "Hartford",
+    "zip_codes": [
+      "06070",
+      "06092"
+    ],
+    "population": 2878
+  },
+  {
+    "city": "Westbrook Center",
+    "county": "Middlesex",
+    "zip_codes": [
+      "06498"
+    ],
+    "population": 2529
+  },
+  {
+    "city": "Weston",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06883"
+    ],
+    "population": 795
+  },
+  {
+    "city": "Westport Village",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06880"
+    ],
+    "population": 2863
+  },
+  {
+    "city": "Wethersfield",
+    "county": "Hartford",
+    "zip_codes": [
+      "06109"
+    ],
+    "population": 27180
+  },
+  {
+    "city": "Willimantic",
+    "county": "Windham",
+    "zip_codes": [
+      "06226",
+      "06256"
+    ],
+    "population": 17774
+  },
+  {
+    "city": "Wilton Center",
+    "county": "Fairfield",
+    "zip_codes": [
+      "06897"
+    ],
+    "population": 1730
+  },
+  {
+    "city": "Windsor Locks",
+    "county": "Hartford",
+    "zip_codes": [
+      "06096"
+    ],
+    "population": 12555
+  },
+  {
+    "city": "Winsted",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06098"
+    ],
+    "population": 7074
+  },
+  {
+    "city": "Witches Woods",
+    "county": "Windham",
+    "zip_codes": [
+      "06281"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Woodbury Center",
+    "county": "Litchfield",
+    "zip_codes": [
+      "06798"
+    ],
+    "population": 1491
+  },
+  {
+    "city": "Woodmont",
+    "county": "New Haven",
+    "zip_codes": [
+      "06460"
+    ],
+    "population": 1591
+  }
+]

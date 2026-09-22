@@ -1,0 +1,3286 @@
+[
+  {
+    "city": "Abercrombie",
+    "county": "Richland",
+    "zip_codes": [
+      "58001",
+      "58075"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Adams",
+    "county": "Walsh",
+    "zip_codes": [
+      "58210"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Alamo",
+    "county": "Williams",
+    "zip_codes": [
+      "58830"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Alexander",
+    "county": "McKenzie",
+    "zip_codes": [
+      "58831"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Alice",
+    "county": "Cass",
+    "zip_codes": [
+      "58031"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Almont",
+    "county": "Morton",
+    "zip_codes": [
+      "58520"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Alsen",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58311",
+      "58338",
+      "58352"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Ambrose",
+    "county": "Divide",
+    "zip_codes": [
+      "58833"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Amenia",
+    "county": "Cass",
+    "zip_codes": [
+      "58004"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Amidon",
+    "county": "Slope",
+    "zip_codes": [
+      "58620"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Anamoose",
+    "county": "McHenry",
+    "zip_codes": [
+      "58710"
+    ],
+    "population": 292
+  },
+  {
+    "city": "Aneta",
+    "county": "Nelson",
+    "zip_codes": [
+      "58212"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Antler",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58711"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Apple Valley",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58558"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Ardoch",
+    "county": "Walsh",
+    "zip_codes": [
+      "58261"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Argusville",
+    "county": "Cass",
+    "zip_codes": [
+      "58005"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Arnegard",
+    "county": "McKenzie",
+    "zip_codes": [
+      "58835"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Arthur",
+    "county": "Cass",
+    "zip_codes": [
+      "58006"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Ashley",
+    "county": "McIntosh",
+    "zip_codes": [
+      "58413"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Auburn",
+    "county": "Walsh",
+    "zip_codes": [
+      "58237"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Ayr",
+    "county": "Cass",
+    "zip_codes": [
+      "58007"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Balfour",
+    "county": "McHenry",
+    "zip_codes": [
+      "58712"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Balta",
+    "county": "Pierce",
+    "zip_codes": [
+      "58313",
+      "58368"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Bantry",
+    "county": "McHenry",
+    "zip_codes": [
+      "58713"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Barney",
+    "county": "Richland",
+    "zip_codes": [
+      "58008"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Barton",
+    "county": "Pierce",
+    "zip_codes": [
+      "58384"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bathgate",
+    "county": "Pembina",
+    "zip_codes": [
+      "58216"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Beach",
+    "county": "Golden Valley",
+    "zip_codes": [
+      "58621"
+    ],
+    "population": 933
+  },
+  {
+    "city": "Belcourt",
+    "county": "Rolette",
+    "zip_codes": [
+      "58316"
+    ],
+    "population": 1739
+  },
+  {
+    "city": "Belfield",
+    "county": "Stark",
+    "zip_codes": [
+      "58622"
+    ],
+    "population": 618
+  },
+  {
+    "city": "Benedict",
+    "county": "McLean",
+    "zip_codes": [
+      "58716"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Bergen",
+    "county": "McHenry",
+    "zip_codes": [
+      "58792"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Berlin",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58415"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Berthold",
+    "county": "Ward",
+    "zip_codes": [
+      "58718"
+    ],
+    "population": 444
+  },
+  {
+    "city": "Beulah",
+    "county": "Mercer",
+    "zip_codes": [
+      "58523"
+    ],
+    "population": 3058
+  },
+  {
+    "city": "Binford",
+    "county": "Griggs",
+    "zip_codes": [
+      "58416"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Bisbee",
+    "county": "Towner",
+    "zip_codes": [
+      "58317"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Bismarck",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58501",
+      "58503",
+      "58504",
+      "58505"
+    ],
+    "population": 74146
+  },
+  {
+    "city": "Blacktail",
+    "county": "Williams",
+    "zip_codes": [
+      "58801"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Blanchard",
+    "county": "Traill",
+    "zip_codes": [
+      "58009"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bottineau",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58318"
+    ],
+    "population": 2063
+  },
+  {
+    "city": "Bowbells",
+    "county": "Burke",
+    "zip_codes": [
+      "58721"
+    ],
+    "population": 267
+  },
+  {
+    "city": "Bowdon",
+    "county": "Wells",
+    "zip_codes": [
+      "58418"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Bowman",
+    "county": "Bowman",
+    "zip_codes": [
+      "58623"
+    ],
+    "population": 1523
+  },
+  {
+    "city": "Braddock",
+    "county": "Emmons",
+    "zip_codes": [
+      "58524"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Briarwood",
+    "county": "Cass",
+    "zip_codes": [
+      "58104"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Brinsmade",
+    "county": "Benson",
+    "zip_codes": [
+      "58351"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Brocket",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58321"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Brooktree Park",
+    "county": "Cass",
+    "zip_codes": [
+      "58042"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Buchanan",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58420"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Bucyrus",
+    "county": "Adams",
+    "zip_codes": [
+      "58639"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Buffalo",
+    "county": "Cass",
+    "zip_codes": [
+      "58011"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Burlington",
+    "county": "Ward",
+    "zip_codes": [
+      "58722"
+    ],
+    "population": 1169
+  },
+  {
+    "city": "Butte",
+    "county": "McLean",
+    "zip_codes": [
+      "58723"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Buxton",
+    "county": "Traill",
+    "zip_codes": [
+      "58218"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Caledonia",
+    "county": "Traill",
+    "zip_codes": [
+      "58219"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Calio",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58352"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Calvin",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58323"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Cando",
+    "county": "Towner",
+    "zip_codes": [
+      "58324"
+    ],
+    "population": 1199
+  },
+  {
+    "city": "Cannon Ball",
+    "county": "Sioux",
+    "zip_codes": [
+      "58528",
+      "58538",
+      "58570"
+    ],
+    "population": 859
+  },
+  {
+    "city": "Canton City (Hensel)",
+    "county": "Pembina",
+    "zip_codes": [
+      "58241"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Carpio",
+    "county": "Ward",
+    "zip_codes": [
+      "58725"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Carrington",
+    "county": "Foster",
+    "zip_codes": [
+      "58421"
+    ],
+    "population": 2171
+  },
+  {
+    "city": "Carson",
+    "county": "Grant",
+    "zip_codes": [
+      "58529"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Casselton",
+    "county": "Cass",
+    "zip_codes": [
+      "58012"
+    ],
+    "population": 2640
+  },
+  {
+    "city": "Cathay",
+    "county": "Wells",
+    "zip_codes": [
+      "58422"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Cavalier",
+    "county": "Pembina",
+    "zip_codes": [
+      "58220"
+    ],
+    "population": 1304
+  },
+  {
+    "city": "Cayuga",
+    "county": "Sargent",
+    "zip_codes": [
+      "58013"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Center",
+    "county": "Oliver",
+    "zip_codes": [
+      "58530"
+    ],
+    "population": 510
+  },
+  {
+    "city": "Christine",
+    "county": "Richland",
+    "zip_codes": [
+      "58015"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Churchs Ferry",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58325"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Cleveland",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58424"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Clifford",
+    "county": "Traill",
+    "zip_codes": [
+      "58016"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Cogswell",
+    "county": "Sargent",
+    "zip_codes": [
+      "58017"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Coleharbor",
+    "county": "McLean",
+    "zip_codes": [
+      "58531"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Colfax",
+    "county": "Richland",
+    "zip_codes": [
+      "58018"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Columbus",
+    "county": "Burke",
+    "zip_codes": [
+      "58727"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Conway",
+    "county": "Walsh",
+    "zip_codes": [
+      "58233"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Cooperstown",
+    "county": "Griggs",
+    "zip_codes": [
+      "58425"
+    ],
+    "population": 910
+  },
+  {
+    "city": "Courtenay",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58426"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Crary",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58327"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Crosby",
+    "county": "Divide",
+    "zip_codes": [
+      "58730"
+    ],
+    "population": 1116
+  },
+  {
+    "city": "Crystal",
+    "county": "Pembina",
+    "zip_codes": [
+      "58222"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Dahlen",
+    "county": "Nelson",
+    "zip_codes": [
+      "58224"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Davenport",
+    "county": "Cass",
+    "zip_codes": [
+      "58021"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Dawson",
+    "county": "Kidder",
+    "zip_codes": [
+      "58428"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Dazey",
+    "county": "Barnes",
+    "zip_codes": [
+      "58429"
+    ],
+    "population": 70
+  },
+  {
+    "city": "De Lamere",
+    "county": "Sargent",
+    "zip_codes": [
+      "58060"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Deering",
+    "county": "McHenry",
+    "zip_codes": [
+      "58731"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Denhoff",
+    "county": "Sheridan",
+    "zip_codes": [
+      "58430"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Des Lacs",
+    "county": "Ward",
+    "zip_codes": [
+      "58733"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Devils Lake",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58301"
+    ],
+    "population": 7170
+  },
+  {
+    "city": "Dickey",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58431"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Dickinson",
+    "county": "Stark",
+    "zip_codes": [
+      "58601"
+    ],
+    "population": 25216
+  },
+  {
+    "city": "Dodge",
+    "county": "Dunn",
+    "zip_codes": [
+      "58625"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Donnybrook",
+    "county": "Ward",
+    "zip_codes": [
+      "58734"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Douglas",
+    "county": "Ward",
+    "zip_codes": [
+      "58735"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Drake",
+    "county": "McHenry",
+    "zip_codes": [
+      "58736"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Drayton",
+    "county": "Pembina",
+    "zip_codes": [
+      "58225"
+    ],
+    "population": 818
+  },
+  {
+    "city": "Driscoll",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58532"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Dunn Center",
+    "county": "Dunn",
+    "zip_codes": [
+      "58626"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Dunseith",
+    "county": "Rolette",
+    "zip_codes": [
+      "58329"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Dwight",
+    "county": "Richland",
+    "zip_codes": [
+      "58075"
+    ],
+    "population": 38
+  },
+  {
+    "city": "East Dunseith",
+    "county": "Rolette",
+    "zip_codes": [
+      "58329"
+    ],
+    "population": 367
+  },
+  {
+    "city": "East Fairview",
+    "county": "McKenzie",
+    "zip_codes": [
+      "59221"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Edgeley",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58433"
+    ],
+    "population": 672
+  },
+  {
+    "city": "Edinburg",
+    "county": "Walsh",
+    "zip_codes": [
+      "58227"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Edmore",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58330"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Egeland",
+    "county": "Towner",
+    "zip_codes": [
+      "58331"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Elgin",
+    "county": "Grant",
+    "zip_codes": [
+      "58533"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Ellendale",
+    "county": "Dickey",
+    "zip_codes": [
+      "58436"
+    ],
+    "population": 946
+  },
+  {
+    "city": "Elliott",
+    "county": "Ransom",
+    "zip_codes": [
+      "58054"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Embden",
+    "county": "Cass",
+    "zip_codes": [
+      "58079"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Emerado",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58228"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Enderlin",
+    "county": "Ransom",
+    "zip_codes": [
+      "58027"
+    ],
+    "population": 987
+  },
+  {
+    "city": "Englevale",
+    "county": "Ransom",
+    "zip_codes": [
+      "58033"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Epping",
+    "county": "Williams",
+    "zip_codes": [
+      "58843"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Erie",
+    "county": "Cass",
+    "zip_codes": [
+      "58029"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Esmond",
+    "county": "Benson",
+    "zip_codes": [
+      "58332"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Fairdale",
+    "county": "Walsh",
+    "zip_codes": [
+      "58229"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Fairmount",
+    "county": "Richland",
+    "zip_codes": [
+      "58030"
+    ],
+    "population": 316
+  },
+  {
+    "city": "Fargo",
+    "county": "Cass",
+    "zip_codes": [
+      "58047",
+      "58102",
+      "58103",
+      "58104",
+      "58105"
+    ],
+    "population": 129064
+  },
+  {
+    "city": "Fessenden",
+    "county": "Wells",
+    "zip_codes": [
+      "58438"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Fingal",
+    "county": "Barnes",
+    "zip_codes": [
+      "58031"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Finley",
+    "county": "Steele",
+    "zip_codes": [
+      "58230"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Flasher",
+    "county": "Morton",
+    "zip_codes": [
+      "58535"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Flaxton",
+    "county": "Burke",
+    "zip_codes": [
+      "58737"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Forbes",
+    "county": "Dickey",
+    "zip_codes": [
+      "58439"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Fordville",
+    "county": "Walsh",
+    "zip_codes": [
+      "58231"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Forest River",
+    "county": "Walsh",
+    "zip_codes": [
+      "58233"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Forman",
+    "county": "Sargent",
+    "zip_codes": [
+      "58032"
+    ],
+    "population": 622
+  },
+  {
+    "city": "Fort Ransom",
+    "county": "Ransom",
+    "zip_codes": [
+      "58033"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Fort Totten",
+    "county": "Benson",
+    "zip_codes": [
+      "58335",
+      "58370"
+    ],
+    "population": 930
+  },
+  {
+    "city": "Fort Yates",
+    "county": "Sioux",
+    "zip_codes": [
+      "58538"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Fortuna",
+    "county": "Divide",
+    "zip_codes": [
+      "58844"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Four Bears Village",
+    "county": "McKenzie",
+    "zip_codes": [
+      "58763"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Foxholm",
+    "county": "Ward",
+    "zip_codes": [
+      "58718"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Fredonia",
+    "county": "Logan",
+    "zip_codes": [
+      "58440"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Frontier",
+    "county": "Cass",
+    "zip_codes": [
+      "58104"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Fullerton",
+    "county": "Dickey",
+    "zip_codes": [
+      "58441"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Gackle",
+    "county": "Logan",
+    "zip_codes": [
+      "58442"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Galesburg",
+    "county": "Traill",
+    "zip_codes": [
+      "58035"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Gardena",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58318",
+      "58748"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Gardner",
+    "county": "Cass",
+    "zip_codes": [
+      "58036"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Garrison",
+    "county": "McLean",
+    "zip_codes": [
+      "58540"
+    ],
+    "population": 1456
+  },
+  {
+    "city": "Gascoyne",
+    "county": "Bowman",
+    "zip_codes": [
+      "58653"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Gilby",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58235"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Gladstone",
+    "county": "Stark",
+    "zip_codes": [
+      "58630"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Glen Ullin",
+    "county": "Morton",
+    "zip_codes": [
+      "58631"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Glenburn",
+    "county": "Renville",
+    "zip_codes": [
+      "58740"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Glenfield",
+    "county": "Foster",
+    "zip_codes": [
+      "58443"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Golden Valley",
+    "county": "Mercer",
+    "zip_codes": [
+      "58541"
+    ],
+    "population": 241
+  },
+  {
+    "city": "Golva",
+    "county": "Golden Valley",
+    "zip_codes": [
+      "58632"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Goodrich",
+    "county": "Sheridan",
+    "zip_codes": [
+      "58444"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Grace City",
+    "county": "Foster",
+    "zip_codes": [
+      "58445"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Grafton",
+    "county": "Walsh",
+    "zip_codes": [
+      "58237"
+    ],
+    "population": 4128
+  },
+  {
+    "city": "Grand Forks",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58201",
+      "58202",
+      "58203"
+    ],
+    "population": 58882
+  },
+  {
+    "city": "Grand Forks AFB",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58204",
+      "58205"
+    ],
+    "population": 2072
+  },
+  {
+    "city": "Grandin",
+    "county": "Cass",
+    "zip_codes": [
+      "58038"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Grano",
+    "county": "Renville",
+    "zip_codes": [
+      "58750"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Granville",
+    "county": "McHenry",
+    "zip_codes": [
+      "58741"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Great Bend",
+    "county": "Richland",
+    "zip_codes": [
+      "58075"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Green Acres",
+    "county": "Rolette",
+    "zip_codes": [
+      "58316"
+    ],
+    "population": 914
+  },
+  {
+    "city": "Grenora",
+    "county": "Williams",
+    "zip_codes": [
+      "58845"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Gwinner",
+    "county": "Sargent",
+    "zip_codes": [
+      "58040"
+    ],
+    "population": 877
+  },
+  {
+    "city": "Hague",
+    "county": "Emmons",
+    "zip_codes": [
+      "58542"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Halliday",
+    "county": "Dunn",
+    "zip_codes": [
+      "58636"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Hamberg",
+    "county": "Wells",
+    "zip_codes": [
+      "58341"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Hamilton",
+    "county": "Pembina",
+    "zip_codes": [
+      "58238"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Hampden",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58338"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Hankinson",
+    "county": "Richland",
+    "zip_codes": [
+      "58041"
+    ],
+    "population": 768
+  },
+  {
+    "city": "Hannaford",
+    "county": "Griggs",
+    "zip_codes": [
+      "58448"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Hannah",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58239",
+      "58281"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Hansboro",
+    "county": "Towner",
+    "zip_codes": [
+      "58339"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Harmon",
+    "county": "Morton",
+    "zip_codes": [
+      "58554"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Harvey",
+    "county": "Wells",
+    "zip_codes": [
+      "58341"
+    ],
+    "population": 1720
+  },
+  {
+    "city": "Harwood",
+    "county": "Cass",
+    "zip_codes": [
+      "58042"
+    ],
+    "population": 775
+  },
+  {
+    "city": "Hatton",
+    "county": "Traill",
+    "zip_codes": [
+      "58240"
+    ],
+    "population": 639
+  },
+  {
+    "city": "Havana",
+    "county": "Sargent",
+    "zip_codes": [
+      "58043"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Haynes",
+    "county": "Adams",
+    "zip_codes": [
+      "58639"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Hazelton",
+    "county": "Emmons",
+    "zip_codes": [
+      "58544"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Hazen",
+    "county": "Mercer",
+    "zip_codes": [
+      "58545"
+    ],
+    "population": 2509
+  },
+  {
+    "city": "Hebron",
+    "county": "Morton",
+    "zip_codes": [
+      "58638"
+    ],
+    "population": 739
+  },
+  {
+    "city": "Heil",
+    "county": "Grant",
+    "zip_codes": [
+      "58533"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Heimdal",
+    "county": "Wells",
+    "zip_codes": [
+      "58341"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Hettinger",
+    "county": "Adams",
+    "zip_codes": [
+      "58639"
+    ],
+    "population": 1141
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Traill",
+    "zip_codes": [
+      "58045"
+    ],
+    "population": 1643
+  },
+  {
+    "city": "Hoople",
+    "county": "Walsh",
+    "zip_codes": [
+      "58243"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Hope",
+    "county": "Steele",
+    "zip_codes": [
+      "58046"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Horace",
+    "county": "Cass",
+    "zip_codes": [
+      "58021",
+      "58047"
+    ],
+    "population": 3964
+  },
+  {
+    "city": "Hunter",
+    "county": "Cass",
+    "zip_codes": [
+      "58048"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Hurdsfield",
+    "county": "Wells",
+    "zip_codes": [
+      "58451"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Inkster",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58244"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Jamestown",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58401",
+      "58402",
+      "58405"
+    ],
+    "population": 15774
+  },
+  {
+    "city": "Jessie",
+    "county": "Griggs",
+    "zip_codes": [
+      "58452"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Jud",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58454"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Karlsruhe",
+    "county": "McHenry",
+    "zip_codes": [
+      "58744"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Kathryn",
+    "county": "Barnes",
+    "zip_codes": [
+      "58049"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Kenmare",
+    "county": "Ward",
+    "zip_codes": [
+      "58746"
+    ],
+    "population": 1027
+  },
+  {
+    "city": "Kensal",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58455"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Kief",
+    "county": "McHenry",
+    "zip_codes": [
+      "58712",
+      "58723"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Killdeer",
+    "county": "Dunn",
+    "zip_codes": [
+      "58640"
+    ],
+    "population": 879
+  },
+  {
+    "city": "Kindred",
+    "county": "Cass",
+    "zip_codes": [
+      "58051"
+    ],
+    "population": 927
+  },
+  {
+    "city": "Knox",
+    "county": "Benson",
+    "zip_codes": [
+      "58343"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Kramer",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58748"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Kulm",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58456"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Lakota",
+    "county": "Nelson",
+    "zip_codes": [
+      "58344"
+    ],
+    "population": 629
+  },
+  {
+    "city": "LaMoure",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58458"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Landa",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58783"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Langdon",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58249"
+    ],
+    "population": 1835
+  },
+  {
+    "city": "Lankin",
+    "county": "Walsh",
+    "zip_codes": [
+      "58250"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Lansford",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58750"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Larimore",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58251"
+    ],
+    "population": 1262
+  },
+  {
+    "city": "Larson",
+    "county": "Burke",
+    "zip_codes": [
+      "58727"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Lawton",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58345"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Leal",
+    "county": "Barnes",
+    "zip_codes": [
+      "58479"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Leeds",
+    "county": "Benson",
+    "zip_codes": [
+      "58346"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Lehr",
+    "county": "McIntosh",
+    "zip_codes": [
+      "58460"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Leith",
+    "county": "Grant",
+    "zip_codes": [
+      "58529"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Leonard",
+    "county": "Cass",
+    "zip_codes": [
+      "58052"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Lidgerwood",
+    "county": "Richland",
+    "zip_codes": [
+      "58053"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Lignite",
+    "county": "Burke",
+    "zip_codes": [
+      "58752"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Lincoln",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58504"
+    ],
+    "population": 4309
+  },
+  {
+    "city": "Linton",
+    "county": "Emmons",
+    "zip_codes": [
+      "58552"
+    ],
+    "population": 871
+  },
+  {
+    "city": "Lisbon",
+    "county": "Ransom",
+    "zip_codes": [
+      "58054"
+    ],
+    "population": 2262
+  },
+  {
+    "city": "Litchville",
+    "county": "Barnes",
+    "zip_codes": [
+      "58461"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Logan",
+    "county": "Ward",
+    "zip_codes": [
+      "58701"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Loma",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58311"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Long Creek",
+    "county": "Williams",
+    "zip_codes": [
+      "58843"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Loraine",
+    "county": "Renville",
+    "zip_codes": [
+      "58761"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ludden",
+    "county": "Dickey",
+    "zip_codes": [
+      "58474"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Luverne",
+    "county": "Steele",
+    "zip_codes": [
+      "58056"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Maddock",
+    "county": "Benson",
+    "zip_codes": [
+      "58348"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Makoti",
+    "county": "Ward",
+    "zip_codes": [
+      "58756"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Mandan",
+    "county": "Morton",
+    "zip_codes": [
+      "58554"
+    ],
+    "population": 24293
+  },
+  {
+    "city": "Mandaree",
+    "county": "McKenzie",
+    "zip_codes": [
+      "58757"
+    ],
+    "population": 604
+  },
+  {
+    "city": "Manning",
+    "county": "Dunn",
+    "zip_codes": [
+      "58642"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Mantador",
+    "county": "Richland",
+    "zip_codes": [
+      "58041",
+      "58058"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Manvel",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58256"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Mapleton",
+    "county": "Cass",
+    "zip_codes": [
+      "58059"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Marion",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58466"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Marmarth",
+    "county": "Slope",
+    "zip_codes": [
+      "58643"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Martin",
+    "county": "Sheridan",
+    "zip_codes": [
+      "58758"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Max",
+    "county": "McLean",
+    "zip_codes": [
+      "58759"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Maxbass",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58760"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Mayville",
+    "county": "Traill",
+    "zip_codes": [
+      "58257"
+    ],
+    "population": 2050
+  },
+  {
+    "city": "McClusky",
+    "county": "Sheridan",
+    "zip_codes": [
+      "58463"
+    ],
+    "population": 325
+  },
+  {
+    "city": "McGregor",
+    "county": "Williams",
+    "zip_codes": [
+      "58755"
+    ],
+    "population": 121
+  },
+  {
+    "city": "McHenry",
+    "county": "Foster",
+    "zip_codes": [
+      "58464"
+    ],
+    "population": 58
+  },
+  {
+    "city": "McLeod",
+    "county": "Ransom",
+    "zip_codes": [
+      "58057"
+    ],
+    "population": 121
+  },
+  {
+    "city": "McVille",
+    "county": "Nelson",
+    "zip_codes": [
+      "58254"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Medina",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58467"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Medora",
+    "county": "Billings",
+    "zip_codes": [
+      "58645"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Menoken",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58558"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Mercer",
+    "county": "McLean",
+    "zip_codes": [
+      "58559"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Michigan City",
+    "county": "Nelson",
+    "zip_codes": [
+      "58259"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Milnor",
+    "county": "Sargent",
+    "zip_codes": [
+      "58060"
+    ],
+    "population": 638
+  },
+  {
+    "city": "Milton",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58260"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Minnewaukan",
+    "county": "Benson",
+    "zip_codes": [
+      "58351"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Minot",
+    "county": "Ward",
+    "zip_codes": [
+      "58701",
+      "58703",
+      "58707"
+    ],
+    "population": 47922
+  },
+  {
+    "city": "Minot AFB",
+    "county": "Ward",
+    "zip_codes": [
+      "58704",
+      "58705"
+    ],
+    "population": 4904
+  },
+  {
+    "city": "Minto",
+    "county": "Walsh",
+    "zip_codes": [
+      "58261"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Mohall",
+    "county": "Renville",
+    "zip_codes": [
+      "58761"
+    ],
+    "population": 614
+  },
+  {
+    "city": "Monango",
+    "county": "Dickey",
+    "zip_codes": [
+      "58436"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Montpelier",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58472"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Mooreton",
+    "county": "Richland",
+    "zip_codes": [
+      "58061"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Mott",
+    "county": "Hettinger",
+    "zip_codes": [
+      "58646"
+    ],
+    "population": 738
+  },
+  {
+    "city": "Mountain",
+    "county": "Pembina",
+    "zip_codes": [
+      "58262"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Munich",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58352"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Mylo",
+    "county": "Rolette",
+    "zip_codes": [
+      "58353"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Napoleon",
+    "county": "Logan",
+    "zip_codes": [
+      "58561"
+    ],
+    "population": 768
+  },
+  {
+    "city": "Nash",
+    "county": "Walsh",
+    "zip_codes": [
+      "58237"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Neche",
+    "county": "Pembina",
+    "zip_codes": [
+      "58265"
+    ],
+    "population": 355
+  },
+  {
+    "city": "Nekoma",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58355"
+    ],
+    "population": 22
+  },
+  {
+    "city": "New England",
+    "county": "Hettinger",
+    "zip_codes": [
+      "58647"
+    ],
+    "population": 658
+  },
+  {
+    "city": "New Leipzig",
+    "county": "Grant",
+    "zip_codes": [
+      "58562"
+    ],
+    "population": 215
+  },
+  {
+    "city": "New Rockford",
+    "county": "Eddy",
+    "zip_codes": [
+      "58356"
+    ],
+    "population": 1325
+  },
+  {
+    "city": "New Salem",
+    "county": "Morton",
+    "zip_codes": [
+      "58563"
+    ],
+    "population": 904
+  },
+  {
+    "city": "New Town",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58763"
+    ],
+    "population": 2725
+  },
+  {
+    "city": "Newburg",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58762"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Niagara",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58266"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Nome",
+    "county": "Barnes",
+    "zip_codes": [
+      "58062"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Noonan",
+    "county": "Divide",
+    "zip_codes": [
+      "58765"
+    ],
+    "population": 139
+  },
+  {
+    "city": "North River",
+    "county": "Cass",
+    "zip_codes": [
+      "58102"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Northwood",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58267"
+    ],
+    "population": 941
+  },
+  {
+    "city": "Oakes",
+    "county": "Dickey",
+    "zip_codes": [
+      "58474"
+    ],
+    "population": 2046
+  },
+  {
+    "city": "Oberon",
+    "county": "Benson",
+    "zip_codes": [
+      "58357"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Oriska",
+    "county": "Barnes",
+    "zip_codes": [
+      "58063"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Orrin",
+    "county": "Pierce",
+    "zip_codes": [
+      "58368"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Osnabrock",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58269"
+    ],
+    "population": 124
+  },
+  {
+    "city": "Overly",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58384"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Oxbow",
+    "county": "Cass",
+    "zip_codes": [
+      "58047"
+    ],
+    "population": 361
+  },
+  {
+    "city": "Page",
+    "county": "Cass",
+    "zip_codes": [
+      "58064"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Palermo",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58769"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Park River",
+    "county": "Walsh",
+    "zip_codes": [
+      "58270"
+    ],
+    "population": 1483
+  },
+  {
+    "city": "Parshall",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58770"
+    ],
+    "population": 957
+  },
+  {
+    "city": "Pekin",
+    "county": "Nelson",
+    "zip_codes": [
+      "58361"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Pembina",
+    "county": "Pembina",
+    "zip_codes": [
+      "58271"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Perth",
+    "county": "Towner",
+    "zip_codes": [
+      "58363"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Petersburg",
+    "county": "Nelson",
+    "zip_codes": [
+      "58272"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Pettibone",
+    "county": "Kidder",
+    "zip_codes": [
+      "58475"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Pick City",
+    "county": "Mercer",
+    "zip_codes": [
+      "58545"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Pillsbury",
+    "county": "Barnes",
+    "zip_codes": [
+      "58065"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Pingree",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58476"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Pisek",
+    "county": "Walsh",
+    "zip_codes": [
+      "58273"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Plaza",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58771"
+    ],
+    "population": 314
+  },
+  {
+    "city": "Porcupine",
+    "county": "Sioux",
+    "zip_codes": [
+      "58568"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Portal",
+    "county": "Burke",
+    "zip_codes": [
+      "58772"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Portland",
+    "county": "Traill",
+    "zip_codes": [
+      "58274"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Powers Lake",
+    "county": "Burke",
+    "zip_codes": [
+      "58773"
+    ],
+    "population": 292
+  },
+  {
+    "city": "Prairie Rose",
+    "county": "Cass",
+    "zip_codes": [
+      "58104"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Raleigh",
+    "county": "Grant",
+    "zip_codes": [
+      "58564"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Ray",
+    "county": "Williams",
+    "zip_codes": [
+      "58849"
+    ],
+    "population": 762
+  },
+  {
+    "city": "Reeder",
+    "county": "Adams",
+    "zip_codes": [
+      "58649"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Regan",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58477"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Regent",
+    "county": "Hettinger",
+    "zip_codes": [
+      "58650"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Reile's Acres",
+    "county": "Cass",
+    "zip_codes": [
+      "58102"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Reynolds",
+    "county": "Traill",
+    "zip_codes": [
+      "58275"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Rhame",
+    "county": "Bowman",
+    "zip_codes": [
+      "58651"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Richardton",
+    "county": "Stark",
+    "zip_codes": [
+      "58652",
+      "58656"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Riverdale",
+    "county": "McLean",
+    "zip_codes": [
+      "58531",
+      "58565"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Robinson",
+    "county": "Kidder",
+    "zip_codes": [
+      "58478"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Rocklake",
+    "county": "Towner",
+    "zip_codes": [
+      "58365"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Rogers",
+    "county": "Barnes",
+    "zip_codes": [
+      "58479"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Rolette",
+    "county": "Rolette",
+    "zip_codes": [
+      "58366"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Rolla",
+    "county": "Rolette",
+    "zip_codes": [
+      "58367"
+    ],
+    "population": 1164
+  },
+  {
+    "city": "Ross",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58776"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Rugby",
+    "county": "Pierce",
+    "zip_codes": [
+      "58368"
+    ],
+    "population": 2555
+  },
+  {
+    "city": "Ruso",
+    "county": "McLean",
+    "zip_codes": [
+      "58778"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Ruthville",
+    "county": "Ward",
+    "zip_codes": [
+      "58703"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Rutland",
+    "county": "Sargent",
+    "zip_codes": [
+      "58067"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Ryder",
+    "county": "Ward",
+    "zip_codes": [
+      "58779"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Sanborn",
+    "county": "Barnes",
+    "zip_codes": [
+      "58480"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Sarles",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58372"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Sawyer",
+    "county": "Ward",
+    "zip_codes": [
+      "58781"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Scranton",
+    "county": "Bowman",
+    "zip_codes": [
+      "58653"
+    ],
+    "population": 408
+  },
+  {
+    "city": "Selfridge",
+    "county": "Sioux",
+    "zip_codes": [
+      "58568"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Selz",
+    "county": "Pierce",
+    "zip_codes": [
+      "58341"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Sentinel Butte",
+    "county": "Golden Valley",
+    "zip_codes": [
+      "58654"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Sharon",
+    "county": "Steele",
+    "zip_codes": [
+      "58277"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Sheldon",
+    "county": "Ransom",
+    "zip_codes": [
+      "58068"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Shell Valley",
+    "county": "Rolette",
+    "zip_codes": [
+      "58316",
+      "58366"
+    ],
+    "population": 1112
+  },
+  {
+    "city": "Sherwood",
+    "county": "Renville",
+    "zip_codes": [
+      "58782"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Sheyenne",
+    "county": "Eddy",
+    "zip_codes": [
+      "58374"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Sibley",
+    "county": "Barnes",
+    "zip_codes": [
+      "58429"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Solen",
+    "county": "Sioux",
+    "zip_codes": [
+      "58570"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Souris",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58783"
+    ],
+    "population": 44
+  },
+  {
+    "city": "South Heart",
+    "county": "Stark",
+    "zip_codes": [
+      "58601",
+      "58655"
+    ],
+    "population": 556
+  },
+  {
+    "city": "Spiritwood",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58481"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Spiritwood Lake",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58401",
+      "58426"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Springbrook",
+    "county": "Williams",
+    "zip_codes": [
+      "58843"
+    ],
+    "population": 30
+  },
+  {
+    "city": "St. John",
+    "county": "Rolette",
+    "zip_codes": [
+      "58369"
+    ],
+    "population": 248
+  },
+  {
+    "city": "St. Thomas",
+    "county": "Pembina",
+    "zip_codes": [
+      "58276"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Stanley",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58784"
+    ],
+    "population": 2089
+  },
+  {
+    "city": "Stanton",
+    "county": "Mercer",
+    "zip_codes": [
+      "58571"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Starkweather",
+    "county": "Ramsey",
+    "zip_codes": [
+      "58377"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Steele",
+    "county": "Kidder",
+    "zip_codes": [
+      "58482"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Strasburg",
+    "county": "Emmons",
+    "zip_codes": [
+      "58573"
+    ],
+    "population": 523
+  },
+  {
+    "city": "Streeter",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58483"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Surrey",
+    "county": "Ward",
+    "zip_codes": [
+      "58701",
+      "58785"
+    ],
+    "population": 1672
+  },
+  {
+    "city": "Sutton",
+    "county": "Griggs",
+    "zip_codes": [
+      "58484"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Sykeston",
+    "county": "Wells",
+    "zip_codes": [
+      "58486"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Tappen",
+    "county": "Kidder",
+    "zip_codes": [
+      "58487"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Taylor",
+    "county": "Stark",
+    "zip_codes": [
+      "58656"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Thompson",
+    "county": "Grand Forks",
+    "zip_codes": [
+      "58278"
+    ],
+    "population": 1092
+  },
+  {
+    "city": "Tioga",
+    "county": "Williams",
+    "zip_codes": [
+      "58852"
+    ],
+    "population": 1525
+  },
+  {
+    "city": "Tolley",
+    "county": "Renville",
+    "zip_codes": [
+      "58787"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Tolna",
+    "county": "Nelson",
+    "zip_codes": [
+      "58380"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Tower City",
+    "county": "Cass",
+    "zip_codes": [
+      "58071"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Towner",
+    "county": "McHenry",
+    "zip_codes": [
+      "58788"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Trenton",
+    "county": "Williams",
+    "zip_codes": [
+      "58801",
+      "58853"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Turtle Lake",
+    "county": "McLean",
+    "zip_codes": [
+      "58575"
+    ],
+    "population": 502
+  },
+  {
+    "city": "Tuttle",
+    "county": "Kidder",
+    "zip_codes": [
+      "58488"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Underwood",
+    "county": "McLean",
+    "zip_codes": [
+      "58576"
+    ],
+    "population": 701
+  },
+  {
+    "city": "Upham",
+    "county": "McHenry",
+    "zip_codes": [
+      "58789"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Valley City",
+    "county": "Barnes",
+    "zip_codes": [
+      "58072"
+    ],
+    "population": 6554
+  },
+  {
+    "city": "Velva",
+    "county": "McHenry",
+    "zip_codes": [
+      "58790"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Venturia",
+    "county": "McIntosh",
+    "zip_codes": [
+      "58413"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Verona",
+    "county": "LaMoure",
+    "zip_codes": [
+      "58490"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Voltaire",
+    "county": "McHenry",
+    "zip_codes": [
+      "58792"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Wahpeton",
+    "county": "Richland",
+    "zip_codes": [
+      "58075",
+      "58076"
+    ],
+    "population": 7996
+  },
+  {
+    "city": "Walcott",
+    "county": "Richland",
+    "zip_codes": [
+      "58077"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Wales",
+    "county": "Cavalier",
+    "zip_codes": [
+      "58281"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Walhalla",
+    "county": "Pembina",
+    "zip_codes": [
+      "58282"
+    ],
+    "population": 927
+  },
+  {
+    "city": "Warwick",
+    "county": "Benson",
+    "zip_codes": [
+      "58381"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Washburn",
+    "county": "McLean",
+    "zip_codes": [
+      "58577"
+    ],
+    "population": 1434
+  },
+  {
+    "city": "Watford City",
+    "county": "McKenzie",
+    "zip_codes": [
+      "58854"
+    ],
+    "population": 6016
+  },
+  {
+    "city": "West Fargo",
+    "county": "Cass",
+    "zip_codes": [
+      "58078"
+    ],
+    "population": 39325
+  },
+  {
+    "city": "Westhope",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58793"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Wheatland",
+    "county": "Cass",
+    "zip_codes": [
+      "58079"
+    ],
+    "population": 38
+  },
+  {
+    "city": "White Earth",
+    "county": "Mountrail",
+    "zip_codes": [
+      "58794"
+    ],
+    "population": 85
+  },
+  {
+    "city": "White Shield",
+    "county": "McLean",
+    "zip_codes": [
+      "58540",
+      "58775"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Wildrose",
+    "county": "Williams",
+    "zip_codes": [
+      "58795"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Williston",
+    "county": "Williams",
+    "zip_codes": [
+      "58801"
+    ],
+    "population": 27964
+  },
+  {
+    "city": "Willow City",
+    "county": "Bottineau",
+    "zip_codes": [
+      "58384"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Wilton",
+    "county": "McLean",
+    "zip_codes": [
+      "58579"
+    ],
+    "population": 582
+  },
+  {
+    "city": "Wimbledon",
+    "county": "Barnes",
+    "zip_codes": [
+      "58492"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Wing",
+    "county": "Burleigh",
+    "zip_codes": [
+      "58494"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Wishek",
+    "county": "McIntosh",
+    "zip_codes": [
+      "58495"
+    ],
+    "population": 922
+  },
+  {
+    "city": "Wolford",
+    "county": "Pierce",
+    "zip_codes": [
+      "58385"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Woodworth",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58496"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Wyndmere",
+    "county": "Richland",
+    "zip_codes": [
+      "58081"
+    ],
+    "population": 553
+  },
+  {
+    "city": "York",
+    "county": "Benson",
+    "zip_codes": [
+      "58386"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Ypsilanti",
+    "county": "Stutsman",
+    "zip_codes": [
+      "58497"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Zap",
+    "county": "Mercer",
+    "zip_codes": [
+      "58580"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Zeeland",
+    "county": "McIntosh",
+    "zip_codes": [
+      "58581"
+    ],
+    "population": 76
+  }
+]

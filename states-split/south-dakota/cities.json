@@ -1,0 +1,3937 @@
+[
+  {
+    "city": "Aberdeen",
+    "county": "Brown",
+    "zip_codes": [
+      "57401"
+    ],
+    "population": 28297
+  },
+  {
+    "city": "Agar",
+    "county": "Sully",
+    "zip_codes": [
+      "57520"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Agency Village",
+    "county": "Roberts",
+    "zip_codes": [
+      "57262"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Akaska",
+    "county": "Walworth",
+    "zip_codes": [
+      "57420"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Albee",
+    "county": "Grant",
+    "zip_codes": [
+      "57259"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Alcester",
+    "county": "Union",
+    "zip_codes": [
+      "57001"
+    ],
+    "population": 987
+  },
+  {
+    "city": "Alexandria",
+    "county": "Hanson",
+    "zip_codes": [
+      "57311"
+    ],
+    "population": 725
+  },
+  {
+    "city": "Allen",
+    "county": "Bennett",
+    "zip_codes": [
+      "57714"
+    ],
+    "population": 860
+  },
+  {
+    "city": "Alpena",
+    "county": "Jerauld",
+    "zip_codes": [
+      "57312"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Altamont",
+    "county": "Deuel",
+    "zip_codes": [
+      "57226"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Anderson",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57110"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Andover",
+    "county": "Day",
+    "zip_codes": [
+      "57422"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Angostura",
+    "county": "Fall River",
+    "zip_codes": [
+      "57747"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Antelope",
+    "county": "Todd",
+    "zip_codes": [
+      "57555"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Ardmore",
+    "county": "Fall River",
+    "zip_codes": [
+      "57735"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Arlington",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57212"
+    ],
+    "population": 833
+  },
+  {
+    "city": "Armour",
+    "county": "Douglas",
+    "zip_codes": [
+      "57313"
+    ],
+    "population": 647
+  },
+  {
+    "city": "Artas",
+    "county": "Campbell",
+    "zip_codes": [
+      "57437"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Artesian",
+    "county": "Sanborn",
+    "zip_codes": [
+      "57314"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Ashland Heights",
+    "county": "Pennington",
+    "zip_codes": [
+      "57701",
+      "57719"
+    ],
+    "population": 1142
+  },
+  {
+    "city": "Ashton",
+    "county": "Spink",
+    "zip_codes": [
+      "57424"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Astoria",
+    "county": "Deuel",
+    "zip_codes": [
+      "57213"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Aurora",
+    "county": "Brookings",
+    "zip_codes": [
+      "57002"
+    ],
+    "population": 1407
+  },
+  {
+    "city": "Aurora Center",
+    "county": "Aurora",
+    "zip_codes": [
+      "57375"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Avon",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57315"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Badger",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57214"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Baltic",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57003"
+    ],
+    "population": 1512
+  },
+  {
+    "city": "Bancroft",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57353"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Batesland",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57716"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Bath",
+    "county": "Brown",
+    "zip_codes": [
+      "57427"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Bath Corner",
+    "county": "Brown",
+    "zip_codes": [
+      "57427"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Belle Fourche",
+    "county": "Butte",
+    "zip_codes": [
+      "57717"
+    ],
+    "population": 5741
+  },
+  {
+    "city": "Belvidere",
+    "county": "Jackson",
+    "zip_codes": [
+      "57521"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Beresford",
+    "county": "Union",
+    "zip_codes": [
+      "57004"
+    ],
+    "population": 2437
+  },
+  {
+    "city": "Big Stone City",
+    "county": "Grant",
+    "zip_codes": [
+      "57216"
+    ],
+    "population": 609
+  },
+  {
+    "city": "Bijou Hills",
+    "county": "Brule",
+    "zip_codes": [
+      "57369"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bison",
+    "county": "Perkins",
+    "zip_codes": [
+      "57620"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Blackhawk",
+    "county": "Meade",
+    "zip_codes": [
+      "57702",
+      "57718"
+    ],
+    "population": 2805
+  },
+  {
+    "city": "Blucksberg Mountain",
+    "county": "Meade",
+    "zip_codes": [
+      "57785"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Blumengard Colony",
+    "county": "Faulk",
+    "zip_codes": [
+      "57438"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Blunt",
+    "county": "Hughes",
+    "zip_codes": [
+      "57522"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Bon Homme Colony",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57063"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bonesteel",
+    "county": "Gregory",
+    "zip_codes": [
+      "57317"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Boulder Canyon",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57785"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Bowdle",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57428"
+    ],
+    "population": 442
+  },
+  {
+    "city": "Box Elder",
+    "county": "Pennington",
+    "zip_codes": [
+      "57703",
+      "57706",
+      "57719"
+    ],
+    "population": 12457
+  },
+  {
+    "city": "Bradley",
+    "county": "Clark",
+    "zip_codes": [
+      "57217"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Brandon",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57005"
+    ],
+    "population": 10996
+  },
+  {
+    "city": "Brandt",
+    "county": "Deuel",
+    "zip_codes": [
+      "57218"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Brant Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "57016"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Brant Lake South",
+    "county": "Lake",
+    "zip_codes": [
+      "57016"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Brentford",
+    "county": "Spink",
+    "zip_codes": [
+      "57429"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Brentwood Colony",
+    "county": "Faulk",
+    "zip_codes": [
+      "57438"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Bridger",
+    "county": "Ziebach",
+    "zip_codes": [
+      "57748"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Bridgewater",
+    "county": "McCook",
+    "zip_codes": [
+      "57319"
+    ],
+    "population": 456
+  },
+  {
+    "city": "Bristol",
+    "county": "Day",
+    "zip_codes": [
+      "57219"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Britton",
+    "county": "Marshall",
+    "zip_codes": [
+      "57430"
+    ],
+    "population": 1117
+  },
+  {
+    "city": "Broadland",
+    "county": "Beadle",
+    "zip_codes": [
+      "57350"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Brookings",
+    "county": "Brookings",
+    "zip_codes": [
+      "57006",
+      "57007"
+    ],
+    "population": 23710
+  },
+  {
+    "city": "Bruce",
+    "county": "Brookings",
+    "zip_codes": [
+      "57220"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Bryant",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57221"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Buffalo",
+    "county": "Harding",
+    "zip_codes": [
+      "57720"
+    ],
+    "population": 282
+  },
+  {
+    "city": "Buffalo Gap",
+    "county": "Custer",
+    "zip_codes": [
+      "57722"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Bullhead",
+    "county": "Corson",
+    "zip_codes": [
+      "57621"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Burbank",
+    "county": "Clay",
+    "zip_codes": [
+      "57010"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Burke",
+    "county": "Gregory",
+    "zip_codes": [
+      "57523"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Bushnell",
+    "county": "Brookings",
+    "zip_codes": [
+      "57276"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Butler",
+    "county": "Day",
+    "zip_codes": [
+      "57219"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Cameron Colony",
+    "county": "Turner",
+    "zip_codes": [
+      "57070"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Camp Crook",
+    "county": "Harding",
+    "zip_codes": [
+      "57724"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Camrose Colony",
+    "county": "Spink",
+    "zip_codes": [
+      "57440"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Canistota",
+    "county": "McCook",
+    "zip_codes": [
+      "57012"
+    ],
+    "population": 664
+  },
+  {
+    "city": "Canova",
+    "county": "Miner",
+    "zip_codes": [
+      "57321"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Canton",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57013"
+    ],
+    "population": 3060
+  },
+  {
+    "city": "Caputa",
+    "county": "Pennington",
+    "zip_codes": [
+      "57703",
+      "57725"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Carthage",
+    "county": "Miner",
+    "zip_codes": [
+      "57323"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Castlewood",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57223"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Cavour",
+    "county": "Beadle",
+    "zip_codes": [
+      "57324"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Cedar Grove Colony",
+    "county": "Brule",
+    "zip_codes": [
+      "57369"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Centerville",
+    "county": "Turner",
+    "zip_codes": [
+      "57014"
+    ],
+    "population": 876
+  },
+  {
+    "city": "Central City",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57754"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Chamberlain",
+    "county": "Brule",
+    "zip_codes": [
+      "57325"
+    ],
+    "population": 2621
+  },
+  {
+    "city": "Chancellor",
+    "county": "Turner",
+    "zip_codes": [
+      "57015"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Chelsea",
+    "county": "Faulk",
+    "zip_codes": [
+      "57465"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Cherry Creek",
+    "county": "Ziebach",
+    "zip_codes": [
+      "57622"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Chester",
+    "county": "Lake",
+    "zip_codes": [
+      "57016"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Claire City",
+    "county": "Roberts",
+    "zip_codes": [
+      "57224"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Claremont",
+    "county": "Brown",
+    "zip_codes": [
+      "57432"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Claremont Colony",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57223"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Clark",
+    "county": "Clark",
+    "zip_codes": [
+      "57225"
+    ],
+    "population": 1181
+  },
+  {
+    "city": "Clark Colony",
+    "county": "Spink",
+    "zip_codes": [
+      "57258"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Clear Lake",
+    "county": "Deuel",
+    "zip_codes": [
+      "57226"
+    ],
+    "population": 1333
+  },
+  {
+    "city": "Clear Lake",
+    "county": "Marshall",
+    "zip_codes": [
+      "57247",
+      "57262"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Clearfield Colony",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57330"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Cloverleaf Colony",
+    "county": "Miner",
+    "zip_codes": [
+      "57349"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Collins Colony",
+    "county": "Clark",
+    "zip_codes": [
+      "57353"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Colman",
+    "county": "Moody",
+    "zip_codes": [
+      "57017"
+    ],
+    "population": 1011
+  },
+  {
+    "city": "Colome",
+    "county": "Tripp",
+    "zip_codes": [
+      "57528"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Colonial Pine Hills",
+    "county": "Pennington",
+    "zip_codes": [
+      "57702"
+    ],
+    "population": 2347
+  },
+  {
+    "city": "Colton",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57018"
+    ],
+    "population": 802
+  },
+  {
+    "city": "Columbia",
+    "county": "Brown",
+    "zip_codes": [
+      "57433"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Conde",
+    "county": "Spink",
+    "zip_codes": [
+      "57434"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Corn Creek",
+    "county": "Mellette",
+    "zip_codes": [
+      "57521",
+      "57560"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Corona",
+    "county": "Roberts",
+    "zip_codes": [
+      "57227"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Corsica",
+    "county": "Douglas",
+    "zip_codes": [
+      "57328"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Cottonwood",
+    "county": "Jackson",
+    "zip_codes": [
+      "57567",
+      "57775"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Cow Creek",
+    "county": "Sully",
+    "zip_codes": [
+      "57501"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Cresbard",
+    "county": "Faulk",
+    "zip_codes": [
+      "57435"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Crocker",
+    "county": "Clark",
+    "zip_codes": [
+      "57217"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Crook City",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57793"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Crooks",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57020"
+    ],
+    "population": 1216
+  },
+  {
+    "city": "Custer",
+    "county": "Custer",
+    "zip_codes": [
+      "57730"
+    ],
+    "population": 2148
+  },
+  {
+    "city": "Dakota Dunes",
+    "county": "Union",
+    "zip_codes": [
+      "57049"
+    ],
+    "population": 4129
+  },
+  {
+    "city": "Dallas",
+    "county": "Gregory",
+    "zip_codes": [
+      "57529"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Dante",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57329"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Davis",
+    "county": "Turner",
+    "zip_codes": [
+      "57021"
+    ],
+    "population": 108
+  },
+  {
+    "city": "De Smet",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57231"
+    ],
+    "population": 974
+  },
+  {
+    "city": "Deadwood",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57732",
+      "57754",
+      "57785"
+    ],
+    "population": 1319
+  },
+  {
+    "city": "Deerfield Colony",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57451"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Dell Rapids",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57022"
+    ],
+    "population": 3947
+  },
+  {
+    "city": "Delmont",
+    "county": "Douglas",
+    "zip_codes": [
+      "57330"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Dimock",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57331"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Doland",
+    "county": "Spink",
+    "zip_codes": [
+      "57436"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Dolton",
+    "county": "Turner",
+    "zip_codes": [
+      "57319"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Draper",
+    "county": "Jones",
+    "zip_codes": [
+      "57531"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Dudley",
+    "county": "Fall River",
+    "zip_codes": [
+      "57735"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Dupree",
+    "county": "Ziebach",
+    "zip_codes": [
+      "57623"
+    ],
+    "population": 483
+  },
+  {
+    "city": "Eagle Butte",
+    "county": "Dewey",
+    "zip_codes": [
+      "57625"
+    ],
+    "population": 1492
+  },
+  {
+    "city": "Eden",
+    "county": "Marshall",
+    "zip_codes": [
+      "57232"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Edgemont",
+    "county": "Fall River",
+    "zip_codes": [
+      "57735"
+    ],
+    "population": 845
+  },
+  {
+    "city": "Egan",
+    "county": "Moody",
+    "zip_codes": [
+      "57024"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Elk Point",
+    "county": "Union",
+    "zip_codes": [
+      "57025"
+    ],
+    "population": 2391
+  },
+  {
+    "city": "Elkton",
+    "county": "Brookings",
+    "zip_codes": [
+      "57026"
+    ],
+    "population": 971
+  },
+  {
+    "city": "Emery",
+    "county": "Hanson",
+    "zip_codes": [
+      "57332"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Enemy Swim",
+    "county": "Day",
+    "zip_codes": [
+      "57273"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Erwin",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57233"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Estelline",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57234"
+    ],
+    "population": 862
+  },
+  {
+    "city": "Ethan",
+    "county": "Davison",
+    "zip_codes": [
+      "57334"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Eureka",
+    "county": "McPherson",
+    "zip_codes": [
+      "57437"
+    ],
+    "population": 946
+  },
+  {
+    "city": "Evergreen Colony",
+    "county": "Faulk",
+    "zip_codes": [
+      "57438"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Fairburn",
+    "county": "Custer",
+    "zip_codes": [
+      "57738"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Fairfax",
+    "county": "Gregory",
+    "zip_codes": [
+      "57335"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Fairview",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57027"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Faith",
+    "county": "Meade",
+    "zip_codes": [
+      "57626"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Farmer",
+    "county": "Hanson",
+    "zip_codes": [
+      "57311"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Faulkton",
+    "county": "Faulk",
+    "zip_codes": [
+      "57438"
+    ],
+    "population": 627
+  },
+  {
+    "city": "Fedora",
+    "county": "Miner",
+    "zip_codes": [
+      "57337"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Ferney",
+    "county": "Brown",
+    "zip_codes": [
+      "57434",
+      "57439"
+    ],
+    "population": 1
+  },
+  {
+    "city": "Flandreau",
+    "county": "Moody",
+    "zip_codes": [
+      "57028"
+    ],
+    "population": 2291
+  },
+  {
+    "city": "Florence",
+    "county": "Codington",
+    "zip_codes": [
+      "57235"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Fordham Colony",
+    "county": "Clark",
+    "zip_codes": [
+      "57258"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Forestburg",
+    "county": "Sanborn",
+    "zip_codes": [
+      "57314"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Fort Pierre",
+    "county": "Stanley",
+    "zip_codes": [
+      "57532"
+    ],
+    "population": 2534
+  },
+  {
+    "city": "Fort Thompson",
+    "county": "Buffalo",
+    "zip_codes": [
+      "57339"
+    ],
+    "population": 1134
+  },
+  {
+    "city": "Frankfort",
+    "county": "Spink",
+    "zip_codes": [
+      "57440"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Frederick",
+    "county": "Brown",
+    "zip_codes": [
+      "57441"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Freeman",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57029"
+    ],
+    "population": 1558
+  },
+  {
+    "city": "Fruitdale",
+    "county": "Butte",
+    "zip_codes": [
+      "57717"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Fulton",
+    "county": "Hanson",
+    "zip_codes": [
+      "57340"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Gann Valley",
+    "county": "Buffalo",
+    "zip_codes": [
+      "57341"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Garden City",
+    "county": "Clark",
+    "zip_codes": [
+      "57236"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Garretson",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57030"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Gary",
+    "county": "Deuel",
+    "zip_codes": [
+      "57237"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Gayville",
+    "county": "Yankton",
+    "zip_codes": [
+      "57031"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Geddes",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57342"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Gettysburg",
+    "county": "Potter",
+    "zip_codes": [
+      "57442"
+    ],
+    "population": 1344
+  },
+  {
+    "city": "Glendale Colony",
+    "county": "Spink",
+    "zip_codes": [
+      "57440"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Glenham",
+    "county": "Walworth",
+    "zip_codes": [
+      "57631"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Golden View Colony",
+    "county": "McCook",
+    "zip_codes": [
+      "57058"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Goodwin",
+    "county": "Deuel",
+    "zip_codes": [
+      "57238"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Graceville Colony",
+    "county": "Lake",
+    "zip_codes": [
+      "57076"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Grass Ranch Colony",
+    "county": "Brule",
+    "zip_codes": [
+      "57355"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Grassland Colony",
+    "county": "McPherson",
+    "zip_codes": [
+      "57481"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Green Grass",
+    "county": "Dewey",
+    "zip_codes": [
+      "57625"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Green Valley",
+    "county": "Pennington",
+    "zip_codes": [
+      "57703"
+    ],
+    "population": 1503
+  },
+  {
+    "city": "Greenwood Colony",
+    "county": "Douglas",
+    "zip_codes": [
+      "57330"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Gregory",
+    "county": "Gregory",
+    "zip_codes": [
+      "57533"
+    ],
+    "population": 1330
+  },
+  {
+    "city": "Grenville",
+    "county": "Day",
+    "zip_codes": [
+      "57239",
+      "57274"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Groton",
+    "county": "Brown",
+    "zip_codes": [
+      "57445"
+    ],
+    "population": 1794
+  },
+  {
+    "city": "Hamill",
+    "county": "Tripp",
+    "zip_codes": [
+      "57534"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Harrisburg",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57032"
+    ],
+    "population": 7790
+  },
+  {
+    "city": "Harrison",
+    "county": "Douglas",
+    "zip_codes": [
+      "57344"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Harrold",
+    "county": "Hughes",
+    "zip_codes": [
+      "57536"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Hartford",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57033"
+    ],
+    "population": 3412
+  },
+  {
+    "city": "Hayti",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57241"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Hazel",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57242"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Hecla",
+    "county": "Brown",
+    "zip_codes": [
+      "57446"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Henry",
+    "county": "Codington",
+    "zip_codes": [
+      "57243"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Hermosa",
+    "county": "Custer",
+    "zip_codes": [
+      "57744"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Herreid",
+    "county": "Campbell",
+    "zip_codes": [
+      "57632"
+    ],
+    "population": 549
+  },
+  {
+    "city": "Herrick",
+    "county": "Gregory",
+    "zip_codes": [
+      "57538"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Hetland",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57212"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Highmore",
+    "county": "Hyde",
+    "zip_codes": [
+      "57345"
+    ],
+    "population": 717
+  },
+  {
+    "city": "Hill City",
+    "county": "Pennington",
+    "zip_codes": [
+      "57745"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Hillcrest Colony",
+    "county": "Clark",
+    "zip_codes": [
+      "57236"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hillside Colony",
+    "county": "Spink",
+    "zip_codes": [
+      "57436"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hillsview",
+    "county": "McPherson",
+    "zip_codes": [
+      "57437"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hitchcock",
+    "county": "Beadle",
+    "zip_codes": [
+      "57348"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Horse Creek",
+    "county": "Mellette",
+    "zip_codes": [
+      "57579"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Hosmer",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57448"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Hot Springs",
+    "county": "Fall River",
+    "zip_codes": [
+      "57747"
+    ],
+    "population": 3506
+  },
+  {
+    "city": "Hoven",
+    "county": "Potter",
+    "zip_codes": [
+      "57450"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Howard",
+    "county": "Miner",
+    "zip_codes": [
+      "57349"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Hudson",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57034"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Humboldt",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57035"
+    ],
+    "population": 674
+  },
+  {
+    "city": "Hurley",
+    "county": "Turner",
+    "zip_codes": [
+      "57036"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Huron",
+    "county": "Beadle",
+    "zip_codes": [
+      "57350"
+    ],
+    "population": 14347
+  },
+  {
+    "city": "Huron Colony",
+    "county": "Beadle",
+    "zip_codes": [
+      "57350"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hutterville Colony",
+    "county": "Brown",
+    "zip_codes": [
+      "57474"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ideal",
+    "county": "Tripp",
+    "zip_codes": [
+      "57541"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Interior",
+    "county": "Jackson",
+    "zip_codes": [
+      "57750"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Ipswich",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57451"
+    ],
+    "population": 1126
+  },
+  {
+    "city": "Irene",
+    "county": "Turner",
+    "zip_codes": [
+      "57037"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Iroquois",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57353"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Isabel",
+    "county": "Dewey",
+    "zip_codes": [
+      "57633"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Jamesville Colony",
+    "county": "Yankton",
+    "zip_codes": [
+      "57067"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Java",
+    "county": "Walworth",
+    "zip_codes": [
+      "57452"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Jefferson",
+    "county": "Union",
+    "zip_codes": [
+      "57038"
+    ],
+    "population": 717
+  },
+  {
+    "city": "Johnson Siding",
+    "county": "Pennington",
+    "zip_codes": [
+      "57702"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Kadoka",
+    "county": "Jackson",
+    "zip_codes": [
+      "57543"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Kaylor",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57354"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Kenel",
+    "county": "Corson",
+    "zip_codes": [
+      "57642"
+    ],
+    "population": 124
+  },
+  {
+    "city": "Kennebec",
+    "county": "Lyman",
+    "zip_codes": [
+      "57544"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Keystone",
+    "county": "Pennington",
+    "zip_codes": [
+      "57751"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Kidder",
+    "county": "Marshall",
+    "zip_codes": [
+      "57430"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Kimball",
+    "county": "Brule",
+    "zip_codes": [
+      "57355"
+    ],
+    "population": 469
+  },
+  {
+    "city": "Kranzburg",
+    "county": "Codington",
+    "zip_codes": [
+      "57201",
+      "57238",
+      "57245"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Kyle",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57752"
+    ],
+    "population": 1495
+  },
+  {
+    "city": "La Bolt",
+    "county": "Grant",
+    "zip_codes": [
+      "57246"
+    ],
+    "population": 85
+  },
+  {
+    "city": "La Plant",
+    "county": "Dewey",
+    "zip_codes": [
+      "57652"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Lake Andes",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57356"
+    ],
+    "population": 934
+  },
+  {
+    "city": "Lake City",
+    "county": "Marshall",
+    "zip_codes": [
+      "57247"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Lake Madison",
+    "county": "Lake",
+    "zip_codes": [
+      "57042",
+      "57075"
+    ],
+    "population": 885
+  },
+  {
+    "city": "Lake Norden",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57248"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Lake Poinsett",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57212",
+      "57223",
+      "57234",
+      "57248"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Lake Preston",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57249"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Lakeview Colony",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57356"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lane",
+    "county": "Jerauld",
+    "zip_codes": [
+      "57358",
+      "57382",
+      "57385"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Langford",
+    "county": "Marshall",
+    "zip_codes": [
+      "57454"
+    ],
+    "population": 402
+  },
+  {
+    "city": "Lantry",
+    "county": "Dewey",
+    "zip_codes": [
+      "57636"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Lead",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57732",
+      "57754"
+    ],
+    "population": 2997
+  },
+  {
+    "city": "Lebanon",
+    "county": "Potter",
+    "zip_codes": [
+      "57455"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Lemmon",
+    "county": "Perkins",
+    "zip_codes": [
+      "57638"
+    ],
+    "population": 1214
+  },
+  {
+    "city": "Lennox",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57039"
+    ],
+    "population": 2587
+  },
+  {
+    "city": "Leola",
+    "county": "McPherson",
+    "zip_codes": [
+      "57456"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Lesterville",
+    "county": "Yankton",
+    "zip_codes": [
+      "57040"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Letcher",
+    "county": "Sanborn",
+    "zip_codes": [
+      "57359"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Little Eagle",
+    "county": "Corson",
+    "zip_codes": [
+      "57639"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Long Hollow",
+    "county": "Roberts",
+    "zip_codes": [
+      "57262"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Long Lake",
+    "county": "McPherson",
+    "zip_codes": [
+      "57457"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Long Lake Colony",
+    "county": "McPherson",
+    "zip_codes": [
+      "57456",
+      "57481"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Loomis",
+    "county": "Davison",
+    "zip_codes": [
+      "57301"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Lower Brule",
+    "county": "Lyman",
+    "zip_codes": [
+      "57548"
+    ],
+    "population": 777
+  },
+  {
+    "city": "Lowry",
+    "county": "Walworth",
+    "zip_codes": [
+      "57472"
+    ],
+    "population": 1
+  },
+  {
+    "city": "Lyons",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57041"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Madison",
+    "county": "Lake",
+    "zip_codes": [
+      "57042"
+    ],
+    "population": 6158
+  },
+  {
+    "city": "Manderson-White Horse Creek",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57756",
+      "57764"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Mansfield",
+    "county": "Brown",
+    "zip_codes": [
+      "57460"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Marion",
+    "county": "Turner",
+    "zip_codes": [
+      "57043"
+    ],
+    "population": 1004
+  },
+  {
+    "city": "Martin",
+    "county": "Bennett",
+    "zip_codes": [
+      "57551"
+    ],
+    "population": 1054
+  },
+  {
+    "city": "Marty",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57356",
+      "57361",
+      "57380"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Marvin",
+    "county": "Grant",
+    "zip_codes": [
+      "57251"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Maverick Junction",
+    "county": "Fall River",
+    "zip_codes": [
+      "57747"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Maxwell Colony",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57059"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Mayfield Colony",
+    "county": "Clark",
+    "zip_codes": [
+      "57278"
+    ],
+    "population": 84
+  },
+  {
+    "city": "McIntosh",
+    "county": "Corson",
+    "zip_codes": [
+      "57641"
+    ],
+    "population": 100
+  },
+  {
+    "city": "McLaughlin",
+    "county": "Corson",
+    "zip_codes": [
+      "57642"
+    ],
+    "population": 567
+  },
+  {
+    "city": "Meadow View Addition",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57104"
+    ],
+    "population": 880
+  },
+  {
+    "city": "Meckling",
+    "county": "Clay",
+    "zip_codes": [
+      "57069"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Mellette",
+    "county": "Spink",
+    "zip_codes": [
+      "57461"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Menno",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57045"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Midland",
+    "county": "Haakon",
+    "zip_codes": [
+      "57552"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Milbank",
+    "county": "Grant",
+    "zip_codes": [
+      "57252"
+    ],
+    "population": 3513
+  },
+  {
+    "city": "Millbrook Colony",
+    "county": "Hanson",
+    "zip_codes": [
+      "57301"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Miller",
+    "county": "Hand",
+    "zip_codes": [
+      "57362"
+    ],
+    "population": 1346
+  },
+  {
+    "city": "Millerdale Colony",
+    "county": "Hand",
+    "zip_codes": [
+      "57362"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Milltown",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57366"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Mina",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57451"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Mission",
+    "county": "Todd",
+    "zip_codes": [
+      "57555"
+    ],
+    "population": 1380
+  },
+  {
+    "city": "Mission Hill",
+    "county": "Yankton",
+    "zip_codes": [
+      "57046"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Mitchell",
+    "county": "Davison",
+    "zip_codes": [
+      "57301"
+    ],
+    "population": 15637
+  },
+  {
+    "city": "Mobridge",
+    "county": "Walworth",
+    "zip_codes": [
+      "57601"
+    ],
+    "population": 2928
+  },
+  {
+    "city": "Monroe",
+    "county": "Turner",
+    "zip_codes": [
+      "57047"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Montrose",
+    "county": "McCook",
+    "zip_codes": [
+      "57048"
+    ],
+    "population": 514
+  },
+  {
+    "city": "Morningside",
+    "county": "Beadle",
+    "zip_codes": [
+      "57350"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Morristown",
+    "county": "Corson",
+    "zip_codes": [
+      "57645"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Mound City",
+    "county": "Campbell",
+    "zip_codes": [
+      "57646"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Davison",
+    "zip_codes": [
+      "57363"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Mountain Plains",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57783"
+    ],
+    "population": 412
+  },
+  {
+    "city": "Murdo",
+    "county": "Jones",
+    "zip_codes": [
+      "57559"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Naples",
+    "county": "Clark",
+    "zip_codes": [
+      "57271"
+    ],
+    "population": 100
+  },
+  {
+    "city": "New Effington",
+    "county": "Roberts",
+    "zip_codes": [
+      "57255"
+    ],
+    "population": 236
+  },
+  {
+    "city": "New Elm Spring Colony",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57334"
+    ],
+    "population": 40
+  },
+  {
+    "city": "New Holland",
+    "county": "Douglas",
+    "zip_codes": [
+      "57328",
+      "57364"
+    ],
+    "population": 4
+  },
+  {
+    "city": "New Underwood",
+    "county": "Pennington",
+    "zip_codes": [
+      "57761"
+    ],
+    "population": 538
+  },
+  {
+    "city": "New Witten",
+    "county": "Tripp",
+    "zip_codes": [
+      "57584"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Newdale Colony",
+    "county": "Brookings",
+    "zip_codes": [
+      "57026"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Newell",
+    "county": "Butte",
+    "zip_codes": [
+      "57760"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Newport Colony",
+    "county": "Marshall",
+    "zip_codes": [
+      "57432"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Nisland",
+    "county": "Butte",
+    "zip_codes": [
+      "57762"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Norfeld Colony",
+    "county": "Brookings",
+    "zip_codes": [
+      "57276"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Norris",
+    "county": "Mellette",
+    "zip_codes": [
+      "57560"
+    ],
+    "population": 116
+  },
+  {
+    "city": "North Eagle Butte",
+    "county": "Dewey",
+    "zip_codes": [
+      "57625"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "North Sioux City",
+    "county": "Union",
+    "zip_codes": [
+      "57049"
+    ],
+    "population": 3018
+  },
+  {
+    "city": "North Spearfish",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57783"
+    ],
+    "population": 2201
+  },
+  {
+    "city": "Northville",
+    "county": "Spink",
+    "zip_codes": [
+      "57465"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Nunda",
+    "county": "Lake",
+    "zip_codes": [
+      "57050"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Oacoma",
+    "county": "Lyman",
+    "zip_codes": [
+      "57365"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Oahe Acres",
+    "county": "Hughes",
+    "zip_codes": [
+      "57501"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Oak Lane Colony",
+    "county": "Hanson",
+    "zip_codes": [
+      "57311"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Oelrichs",
+    "county": "Fall River",
+    "zip_codes": [
+      "57763"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Oglala",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57764",
+      "57770"
+    ],
+    "population": 1601
+  },
+  {
+    "city": "Okaton",
+    "county": "Jones",
+    "zip_codes": [
+      "57562"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Okreek",
+    "county": "Todd",
+    "zip_codes": [
+      "57555",
+      "57563",
+      "57580"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Ola",
+    "county": "Brule",
+    "zip_codes": [
+      "57325"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Old Elm Spring Colony",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57366"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Oldham",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57051"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Olivet",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57052"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Onaka",
+    "county": "Faulk",
+    "zip_codes": [
+      "57466"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Onida",
+    "county": "Sully",
+    "zip_codes": [
+      "57564"
+    ],
+    "population": 658
+  },
+  {
+    "city": "Oral",
+    "county": "Fall River",
+    "zip_codes": [
+      "57766"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Orient",
+    "county": "Faulk",
+    "zip_codes": [
+      "57467"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Orland Colony",
+    "county": "McCook",
+    "zip_codes": [
+      "57048"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Ortley",
+    "county": "Roberts",
+    "zip_codes": [
+      "57256",
+      "57273"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Parker",
+    "county": "Turner",
+    "zip_codes": [
+      "57053"
+    ],
+    "population": 1247
+  },
+  {
+    "city": "Parkston",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57366"
+    ],
+    "population": 1981
+  },
+  {
+    "city": "Parmelee",
+    "county": "Todd",
+    "zip_codes": [
+      "57566"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Pearl Creek Colony",
+    "county": "Beadle",
+    "zip_codes": [
+      "57353"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Peever",
+    "county": "Roberts",
+    "zip_codes": [
+      "57257"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Peever Flats",
+    "county": "Roberts",
+    "zip_codes": [
+      "57257"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Pembrook Colony",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57451"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Philip",
+    "county": "Haakon",
+    "zip_codes": [
+      "57567"
+    ],
+    "population": 491
+  },
+  {
+    "city": "Pickstown",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57356",
+      "57367"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Piedmont",
+    "county": "Meade",
+    "zip_codes": [
+      "57718",
+      "57769"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Pierpont",
+    "county": "Day",
+    "zip_codes": [
+      "57468"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Pierre",
+    "county": "Hughes",
+    "zip_codes": [
+      "57501"
+    ],
+    "population": 14008
+  },
+  {
+    "city": "Pine Lakes Addition",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57110"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Pine Ridge",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57770"
+    ],
+    "population": 2480
+  },
+  {
+    "city": "Plainview Colony",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57456"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Plankinton",
+    "county": "Aurora",
+    "zip_codes": [
+      "57368"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Platte",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57369"
+    ],
+    "population": 1310
+  },
+  {
+    "city": "Platte Colony",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57369"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pleasant Valley Colony",
+    "county": "Moody",
+    "zip_codes": [
+      "57028"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Poinsett Colony",
+    "county": "Hamlin",
+    "zip_codes": [
+      "57223"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pollock",
+    "county": "Campbell",
+    "zip_codes": [
+      "57648"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Porcupine",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57772"
+    ],
+    "population": 549
+  },
+  {
+    "city": "Prairie City",
+    "county": "Perkins",
+    "zip_codes": [
+      "57649"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Prairiewood Village",
+    "county": "Brown",
+    "zip_codes": [
+      "57401"
+    ],
+    "population": 496
+  },
+  {
+    "city": "Presho",
+    "county": "Lyman",
+    "zip_codes": [
+      "57568"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Pringle",
+    "county": "Custer",
+    "zip_codes": [
+      "57773"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Provo",
+    "county": "Fall River",
+    "zip_codes": [
+      "57735"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pukwana",
+    "county": "Brule",
+    "zip_codes": [
+      "57370"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Quinn",
+    "county": "Pennington",
+    "zip_codes": [
+      "57775"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Ramona",
+    "county": "Lake",
+    "zip_codes": [
+      "57054"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Rapid City",
+    "county": "Pennington",
+    "zip_codes": [
+      "57701",
+      "57702",
+      "57703"
+    ],
+    "population": 76836
+  },
+  {
+    "city": "Rapid Valley",
+    "county": "Pennington",
+    "zip_codes": [
+      "57703"
+    ],
+    "population": 7153
+  },
+  {
+    "city": "Ravinia",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57356"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Raymond",
+    "county": "Clark",
+    "zip_codes": [
+      "57258"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Redfield",
+    "county": "Spink",
+    "zip_codes": [
+      "57469"
+    ],
+    "population": 2230
+  },
+  {
+    "city": "Ree Heights",
+    "county": "Hand",
+    "zip_codes": [
+      "57371"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Reliance",
+    "county": "Lyman",
+    "zip_codes": [
+      "57569"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Renner Corner",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57055",
+      "57104"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Revillo",
+    "county": "Grant",
+    "zip_codes": [
+      "57259"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Richland",
+    "county": "Union",
+    "zip_codes": [
+      "57025"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Riverside Colony",
+    "county": "Beadle",
+    "zip_codes": [
+      "57350"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Rockham",
+    "county": "Faulk",
+    "zip_codes": [
+      "57470"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Rockport Colony",
+    "county": "Hanson",
+    "zip_codes": [
+      "57311"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Rolland Colony",
+    "county": "Brookings",
+    "zip_codes": [
+      "57276"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Roscoe",
+    "county": "Edmunds",
+    "zip_codes": [
+      "57471"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Rosebud",
+    "county": "Todd",
+    "zip_codes": [
+      "57570"
+    ],
+    "population": 1710
+  },
+  {
+    "city": "Rosedale Colony",
+    "county": "Hanson",
+    "zip_codes": [
+      "57301",
+      "57311"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Rosholt",
+    "county": "Roberts",
+    "zip_codes": [
+      "57260"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Roslyn",
+    "county": "Day",
+    "zip_codes": [
+      "57261"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Roswell",
+    "county": "Miner",
+    "zip_codes": [
+      "57349"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Rowena",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57005"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Running Water",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57062"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Rustic Acres Colony",
+    "county": "Lake",
+    "zip_codes": [
+      "57042"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Salem",
+    "county": "McCook",
+    "zip_codes": [
+      "57058"
+    ],
+    "population": 1201
+  },
+  {
+    "city": "Scotland",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57059"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Selby",
+    "county": "Walworth",
+    "zip_codes": [
+      "57472"
+    ],
+    "population": 642
+  },
+  {
+    "city": "Seneca",
+    "county": "Faulk",
+    "zip_codes": [
+      "57473"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Shamrock Colony",
+    "county": "Beadle",
+    "zip_codes": [
+      "57322"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Shannon Colony",
+    "county": "Miner",
+    "zip_codes": [
+      "57076"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sherman",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57030"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Shindler",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57032",
+      "57108"
+    ],
+    "population": 651
+  },
+  {
+    "city": "Sicangu Village",
+    "county": "Todd",
+    "zip_codes": [
+      "69201"
+    ],
+    "population": 350
+  },
+  {
+    "city": "Silver Lake Colony",
+    "county": "Clark",
+    "zip_codes": [
+      "57225"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sinai",
+    "county": "Brookings",
+    "zip_codes": [
+      "57061"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Sioux Falls",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57103",
+      "57104",
+      "57105",
+      "57106",
+      "57107",
+      "57108",
+      "57110",
+      "57117",
+      "57197"
+    ],
+    "population": 197642
+  },
+  {
+    "city": "Sisseton",
+    "county": "Roberts",
+    "zip_codes": [
+      "57262"
+    ],
+    "population": 2593
+  },
+  {
+    "city": "Smithwick",
+    "county": "Fall River",
+    "zip_codes": [
+      "57782"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Soldier Creek",
+    "county": "Todd",
+    "zip_codes": [
+      "57555"
+    ],
+    "population": 271
+  },
+  {
+    "city": "South Shore",
+    "county": "Codington",
+    "zip_codes": [
+      "57263"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Spearfish",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57717",
+      "57783",
+      "57793",
+      "57799"
+    ],
+    "population": 12551
+  },
+  {
+    "city": "Spencer",
+    "county": "McCook",
+    "zip_codes": [
+      "57374"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Spink Colony",
+    "county": "Spink",
+    "zip_codes": [
+      "57440"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Spring Creek",
+    "county": "Todd",
+    "zip_codes": [
+      "57572"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Spring Creek Colony",
+    "county": "McPherson",
+    "zip_codes": [
+      "58439"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Spring Lake Colony",
+    "county": "Kingsbury",
+    "zip_codes": [
+      "57212"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Spring Valley Colony",
+    "county": "Jerauld",
+    "zip_codes": [
+      "57382"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Springfield",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57062"
+    ],
+    "population": 2073
+  },
+  {
+    "city": "St. Charles",
+    "county": "Gregory",
+    "zip_codes": [
+      "57571"
+    ],
+    "population": 11
+  },
+  {
+    "city": "St. Francis",
+    "county": "Todd",
+    "zip_codes": [
+      "57572"
+    ],
+    "population": 631
+  },
+  {
+    "city": "St. Lawrence",
+    "county": "Hand",
+    "zip_codes": [
+      "57373"
+    ],
+    "population": 145
+  },
+  {
+    "city": "St. Onge",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57779"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Stephan",
+    "county": "Hyde",
+    "zip_codes": [
+      "57346"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Stickney",
+    "county": "Aurora",
+    "zip_codes": [
+      "57375"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Stockholm",
+    "county": "Grant",
+    "zip_codes": [
+      "57264"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Storla",
+    "county": "Aurora",
+    "zip_codes": [
+      "57359"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Strandburg",
+    "county": "Grant",
+    "zip_codes": [
+      "57265"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Stratford",
+    "county": "Brown",
+    "zip_codes": [
+      "57474"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Sturgis",
+    "county": "Meade",
+    "zip_codes": [
+      "57785",
+      "57793"
+    ],
+    "population": 7111
+  },
+  {
+    "city": "Summerset",
+    "county": "Meade",
+    "zip_codes": [
+      "57702",
+      "57718",
+      "57769"
+    ],
+    "population": 2978
+  },
+  {
+    "city": "Summit",
+    "county": "Roberts",
+    "zip_codes": [
+      "57266"
+    ],
+    "population": 389
+  },
+  {
+    "city": "Sunset Colony",
+    "county": "Marshall",
+    "zip_codes": [
+      "57430"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Swift Bird",
+    "county": "Dewey",
+    "zip_codes": [
+      "57442"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Tabor",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57063"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Tea",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57064",
+      "57106"
+    ],
+    "population": 6339
+  },
+  {
+    "city": "Thunderbird Colony",
+    "county": "Faulk",
+    "zip_codes": [
+      "57438"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Timber Lake",
+    "county": "Dewey",
+    "zip_codes": [
+      "57656"
+    ],
+    "population": 677
+  },
+  {
+    "city": "Tolstoy",
+    "county": "Potter",
+    "zip_codes": [
+      "57475"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Toronto",
+    "county": "Deuel",
+    "zip_codes": [
+      "57268"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Trent",
+    "county": "Moody",
+    "zip_codes": [
+      "57065"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Tripp",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57376"
+    ],
+    "population": 563
+  },
+  {
+    "city": "Tschetter Colony",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57052"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Tulare",
+    "county": "Spink",
+    "zip_codes": [
+      "57476"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Turton",
+    "county": "Spink",
+    "zip_codes": [
+      "57477"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Twin Brooks",
+    "county": "Grant",
+    "zip_codes": [
+      "57269"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Two Strike",
+    "county": "Todd",
+    "zip_codes": [
+      "57570"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Tyndall",
+    "county": "Bon Homme",
+    "zip_codes": [
+      "57066"
+    ],
+    "population": 1206
+  },
+  {
+    "city": "Upland Colony",
+    "county": "Sanborn",
+    "zip_codes": [
+      "57314"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Utica",
+    "county": "Yankton",
+    "zip_codes": [
+      "57067"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Vale",
+    "county": "Butte",
+    "zip_codes": [
+      "57788"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Valley Springs",
+    "county": "Minnehaha",
+    "zip_codes": [
+      "57068"
+    ],
+    "population": 967
+  },
+  {
+    "city": "Veblen",
+    "county": "Marshall",
+    "zip_codes": [
+      "57270"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Verdon",
+    "county": "Brown",
+    "zip_codes": [
+      "57434"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Vermillion",
+    "county": "Clay",
+    "zip_codes": [
+      "57069"
+    ],
+    "population": 11800
+  },
+  {
+    "city": "Viborg",
+    "county": "Turner",
+    "zip_codes": [
+      "57070"
+    ],
+    "population": 874
+  },
+  {
+    "city": "Vienna",
+    "county": "Clark",
+    "zip_codes": [
+      "57271"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Vilas",
+    "county": "Miner",
+    "zip_codes": [
+      "57349"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Virgil",
+    "county": "Beadle",
+    "zip_codes": [
+      "57379"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Vivian",
+    "county": "Lyman",
+    "zip_codes": [
+      "57576"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Volga",
+    "county": "Brookings",
+    "zip_codes": [
+      "57071"
+    ],
+    "population": 2246
+  },
+  {
+    "city": "Volin",
+    "county": "Yankton",
+    "zip_codes": [
+      "57072"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Wagner",
+    "county": "Charles Mix",
+    "zip_codes": [
+      "57380"
+    ],
+    "population": 1555
+  },
+  {
+    "city": "Wakonda",
+    "county": "Clay",
+    "zip_codes": [
+      "57073"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Wakpala",
+    "county": "Corson",
+    "zip_codes": [
+      "57658"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Wall",
+    "county": "Pennington",
+    "zip_codes": [
+      "57790"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Wallace",
+    "county": "Codington",
+    "zip_codes": [
+      "57272"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Wanblee",
+    "county": "Jackson",
+    "zip_codes": [
+      "57577"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Ward",
+    "county": "Moody",
+    "zip_codes": [
+      "57026"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Warner",
+    "county": "Brown",
+    "zip_codes": [
+      "57479"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Wasta",
+    "county": "Pennington",
+    "zip_codes": [
+      "57790",
+      "57791"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Watertown",
+    "county": "Codington",
+    "zip_codes": [
+      "57201"
+    ],
+    "population": 22859
+  },
+  {
+    "city": "Waubay",
+    "county": "Day",
+    "zip_codes": [
+      "57273"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Waverly",
+    "county": "Codington",
+    "zip_codes": [
+      "57201"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Webster",
+    "county": "Day",
+    "zip_codes": [
+      "57274"
+    ],
+    "population": 1823
+  },
+  {
+    "city": "Wentworth",
+    "county": "Lake",
+    "zip_codes": [
+      "57075"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Wessington",
+    "county": "Beadle",
+    "zip_codes": [
+      "57381"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Wessington Springs",
+    "county": "Jerauld",
+    "zip_codes": [
+      "57382"
+    ],
+    "population": 747
+  },
+  {
+    "city": "West Brule",
+    "county": "Lyman",
+    "zip_codes": [
+      "57548"
+    ],
+    "population": 482
+  },
+  {
+    "city": "Westport",
+    "county": "Brown",
+    "zip_codes": [
+      "57481"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Westwood Colony",
+    "county": "Marshall",
+    "zip_codes": [
+      "57430"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Wetonka",
+    "county": "McPherson",
+    "zip_codes": [
+      "57481"
+    ],
+    "population": 14
+  },
+  {
+    "city": "White",
+    "county": "Brookings",
+    "zip_codes": [
+      "57276"
+    ],
+    "population": 438
+  },
+  {
+    "city": "White Horse",
+    "county": "Todd",
+    "zip_codes": [
+      "57555"
+    ],
+    "population": 230
+  },
+  {
+    "city": "White Lake",
+    "county": "Aurora",
+    "zip_codes": [
+      "57383"
+    ],
+    "population": 423
+  },
+  {
+    "city": "White River",
+    "county": "Mellette",
+    "zip_codes": [
+      "57579"
+    ],
+    "population": 712
+  },
+  {
+    "city": "White Rock",
+    "county": "Roberts",
+    "zip_codes": [
+      "57260"
+    ],
+    "population": 13
+  },
+  {
+    "city": "White Rock Colony",
+    "county": "Roberts",
+    "zip_codes": [
+      "57260"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Whitehorse",
+    "county": "Dewey",
+    "zip_codes": [
+      "57630",
+      "57661"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Whitewood",
+    "county": "Lawrence",
+    "zip_codes": [
+      "57793"
+    ],
+    "population": 746
+  },
+  {
+    "city": "Willow Lake",
+    "county": "Clark",
+    "zip_codes": [
+      "57278"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Wilmot",
+    "county": "Roberts",
+    "zip_codes": [
+      "57279"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Winfred",
+    "county": "Lake",
+    "zip_codes": [
+      "57076"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Winner",
+    "county": "Tripp",
+    "zip_codes": [
+      "57580"
+    ],
+    "population": 2900
+  },
+  {
+    "city": "Wolf Creek Colony",
+    "county": "Hutchinson",
+    "zip_codes": [
+      "57029"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Wolsey",
+    "county": "Beadle",
+    "zip_codes": [
+      "57384"
+    ],
+    "population": 666
+  },
+  {
+    "city": "Wonderland Homes",
+    "county": "Meade",
+    "zip_codes": [
+      "57718"
+    ],
+    "population": 782
+  },
+  {
+    "city": "Wood",
+    "county": "Mellette",
+    "zip_codes": [
+      "57585"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Woonsocket",
+    "county": "Sanborn",
+    "zip_codes": [
+      "57385"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Worthing",
+    "county": "Lincoln",
+    "zip_codes": [
+      "57077"
+    ],
+    "population": 1087
+  },
+  {
+    "city": "Wounded Knee",
+    "county": "Oglala Lakota",
+    "zip_codes": [
+      "57794"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Yale",
+    "county": "Beadle",
+    "zip_codes": [
+      "57386"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Yankton",
+    "county": "Yankton",
+    "zip_codes": [
+      "57078"
+    ],
+    "population": 15501
+  }
+]

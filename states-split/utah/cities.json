@@ -1,0 +1,2839 @@
+[
+  {
+    "city": "Alpine",
+    "county": "Utah",
+    "zip_codes": [
+      "84004"
+    ],
+    "population": 10272
+  },
+  {
+    "city": "Alta",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84092"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Altamont",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84001"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Alton",
+    "county": "Kane",
+    "zip_codes": [
+      "84710"
+    ],
+    "population": 308
+  },
+  {
+    "city": "Amalga",
+    "county": "Cache",
+    "zip_codes": [
+      "84335"
+    ],
+    "population": 486
+  },
+  {
+    "city": "American Fork",
+    "county": "Utah",
+    "zip_codes": [
+      "84003"
+    ],
+    "population": 35312
+  },
+  {
+    "city": "Aneth",
+    "county": "San Juan",
+    "zip_codes": [
+      "84534"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Annabella",
+    "county": "Sevier",
+    "zip_codes": [
+      "84711"
+    ],
+    "population": 719
+  },
+  {
+    "city": "Antimony",
+    "county": "Garfield",
+    "zip_codes": [
+      "84712"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Apple Valley",
+    "county": "Washington",
+    "zip_codes": [
+      "84737"
+    ],
+    "population": 1399
+  },
+  {
+    "city": "Aurora",
+    "county": "Sevier",
+    "zip_codes": [
+      "84620"
+    ],
+    "population": 881
+  },
+  {
+    "city": "Avon",
+    "county": "Cache",
+    "zip_codes": [
+      "84328"
+    ],
+    "population": 499
+  },
+  {
+    "city": "Ballard",
+    "county": "Uintah",
+    "zip_codes": [
+      "84066"
+    ],
+    "population": 1648
+  },
+  {
+    "city": "Bear River City",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84301"
+    ],
+    "population": 863
+  },
+  {
+    "city": "Beaver",
+    "county": "Beaver",
+    "zip_codes": [
+      "84713"
+    ],
+    "population": 3632
+  },
+  {
+    "city": "Benjamin",
+    "county": "Utah",
+    "zip_codes": [
+      "84660"
+    ],
+    "population": 690
+  },
+  {
+    "city": "Benson",
+    "county": "Cache",
+    "zip_codes": [
+      "84321",
+      "84335",
+      "84339"
+    ],
+    "population": 1864
+  },
+  {
+    "city": "Beryl Junction",
+    "county": "Iron",
+    "zip_codes": [
+      "84714"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bicknell",
+    "county": "Wayne",
+    "zip_codes": [
+      "84715"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Big Water",
+    "county": "Kane",
+    "zip_codes": [
+      "84741"
+    ],
+    "population": 520
+  },
+  {
+    "city": "Blanding",
+    "county": "San Juan",
+    "zip_codes": [
+      "84511"
+    ],
+    "population": 3303
+  },
+  {
+    "city": "Bluebell",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84001",
+      "84007"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Bluff",
+    "county": "San Juan",
+    "zip_codes": [
+      "84512"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Bluffdale",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84065"
+    ],
+    "population": 18168
+  },
+  {
+    "city": "Bonanza",
+    "county": "Uintah",
+    "zip_codes": [
+      "84008",
+      "84078"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Boulder",
+    "county": "Garfield",
+    "zip_codes": [
+      "84716"
+    ],
+    "population": 389
+  },
+  {
+    "city": "Bountiful",
+    "county": "Davis",
+    "zip_codes": [
+      "84010"
+    ],
+    "population": 45093
+  },
+  {
+    "city": "Brian Head",
+    "county": "Iron",
+    "zip_codes": [
+      "84719"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Brigham City",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84302"
+    ],
+    "population": 19796
+  },
+  {
+    "city": "Brighton",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84121"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Bryce Canyon City",
+    "county": "Garfield",
+    "zip_codes": [
+      "84764"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Cache",
+    "county": "Cache",
+    "zip_codes": [
+      "84304",
+      "84327"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Cannonville",
+    "county": "Garfield",
+    "zip_codes": [
+      "84718"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Carbonville",
+    "county": "Carbon",
+    "zip_codes": [
+      "84501",
+      "84526"
+    ],
+    "population": 1410
+  },
+  {
+    "city": "Castle Dale",
+    "county": "Emery",
+    "zip_codes": [
+      "84513"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Castle Valley",
+    "county": "Grand",
+    "zip_codes": [
+      "84532"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Cedar City",
+    "county": "Iron",
+    "zip_codes": [
+      "84720",
+      "84721"
+    ],
+    "population": 37202
+  },
+  {
+    "city": "Cedar Fort",
+    "county": "Utah",
+    "zip_codes": [
+      "84013"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Cedar Highlands",
+    "county": "Iron",
+    "zip_codes": [
+      "84720"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Cedar Hills",
+    "county": "Utah",
+    "zip_codes": [
+      "84003",
+      "84062"
+    ],
+    "population": 9945
+  },
+  {
+    "city": "Centerfield",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84622"
+    ],
+    "population": 1312
+  },
+  {
+    "city": "Centerville",
+    "county": "Davis",
+    "zip_codes": [
+      "84010",
+      "84014",
+      "84025",
+      "84087"
+    ],
+    "population": 16692
+  },
+  {
+    "city": "Central",
+    "county": "Washington",
+    "zip_codes": [
+      "84722"
+    ],
+    "population": 773
+  },
+  {
+    "city": "Central Valley",
+    "county": "Sevier",
+    "zip_codes": [
+      "84754"
+    ],
+    "population": 686
+  },
+  {
+    "city": "Charleston",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032",
+      "84082"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Circleville",
+    "county": "Piute",
+    "zip_codes": [
+      "84712",
+      "84723"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Clarkston",
+    "county": "Cache",
+    "zip_codes": [
+      "84305"
+    ],
+    "population": 596
+  },
+  {
+    "city": "Clawson",
+    "county": "Emery",
+    "zip_codes": [
+      "84516"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Clear Creek",
+    "county": "Carbon",
+    "zip_codes": [
+      "84526"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Clearfield",
+    "county": "Davis",
+    "zip_codes": [
+      "84015",
+      "84056"
+    ],
+    "population": 32895
+  },
+  {
+    "city": "Cleveland",
+    "county": "Emery",
+    "zip_codes": [
+      "84518"
+    ],
+    "population": 429
+  },
+  {
+    "city": "Clinton",
+    "county": "Davis",
+    "zip_codes": [
+      "84015"
+    ],
+    "population": 23492
+  },
+  {
+    "city": "Coalville",
+    "county": "Summit",
+    "zip_codes": [
+      "84017",
+      "84033"
+    ],
+    "population": 1915
+  },
+  {
+    "city": "Copperton metro",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84006"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Corinne",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84307"
+    ],
+    "population": 836
+  },
+  {
+    "city": "Cornish",
+    "county": "Cache",
+    "zip_codes": [
+      "84308"
+    ],
+    "population": 236
+  },
+  {
+    "city": "Cottonwood Heights",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84047",
+      "84092",
+      "84093",
+      "84121"
+    ],
+    "population": 32984
+  },
+  {
+    "city": "Cove",
+    "county": "Cache",
+    "zip_codes": [
+      "84320",
+      "84333"
+    ],
+    "population": 412
+  },
+  {
+    "city": "Dammeron Valley",
+    "county": "Washington",
+    "zip_codes": [
+      "84783"
+    ],
+    "population": 962
+  },
+  {
+    "city": "Daniel",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Delta",
+    "county": "Millard",
+    "zip_codes": [
+      "84624"
+    ],
+    "population": 3675
+  },
+  {
+    "city": "Deseret",
+    "county": "Millard",
+    "zip_codes": [
+      "84624"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Deweyville",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84302",
+      "84309",
+      "84314"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Draper",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84003",
+      "84004",
+      "84020",
+      "84043"
+    ],
+    "population": 50159
+  },
+  {
+    "city": "Duchesne",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84021"
+    ],
+    "population": 1744
+  },
+  {
+    "city": "Dugway",
+    "county": "Tooele",
+    "zip_codes": [
+      "84022"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Dutch John",
+    "county": "Daggett",
+    "zip_codes": [
+      "84023"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Eagle Mountain",
+    "county": "Utah",
+    "zip_codes": [
+      "84005",
+      "84013"
+    ],
+    "population": 49514
+  },
+  {
+    "city": "East Basin",
+    "county": "Summit",
+    "zip_codes": [
+      "84098"
+    ],
+    "population": 3613
+  },
+  {
+    "city": "East Carbon",
+    "county": "Carbon",
+    "zip_codes": [
+      "84520",
+      "84539"
+    ],
+    "population": 1476
+  },
+  {
+    "city": "Echo",
+    "county": "Summit",
+    "zip_codes": [
+      "84024"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Eden",
+    "county": "Weber",
+    "zip_codes": [
+      "84310"
+    ],
+    "population": 873
+  },
+  {
+    "city": "Elberta",
+    "county": "Utah",
+    "zip_codes": [
+      "84626"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Elk Ridge",
+    "county": "Utah",
+    "zip_codes": [
+      "84651"
+    ],
+    "population": 4782
+  },
+  {
+    "city": "Elmo",
+    "county": "Emery",
+    "zip_codes": [
+      "84521"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Elsinore",
+    "county": "Sevier",
+    "zip_codes": [
+      "84724"
+    ],
+    "population": 760
+  },
+  {
+    "city": "Elwood",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84337"
+    ],
+    "population": 1643
+  },
+  {
+    "city": "Emery",
+    "county": "Emery",
+    "zip_codes": [
+      "84522"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Emigration Canyon metro",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84108"
+    ],
+    "population": 1465
+  },
+  {
+    "city": "Enoch",
+    "county": "Iron",
+    "zip_codes": [
+      "84721"
+    ],
+    "population": 7856
+  },
+  {
+    "city": "Enterprise",
+    "county": "Morgan",
+    "zip_codes": [
+      "84050"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Enterprise",
+    "county": "Washington",
+    "zip_codes": [
+      "84725"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Ephraim",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84627"
+    ],
+    "population": 5805
+  },
+  {
+    "city": "Erda",
+    "county": "Tooele",
+    "zip_codes": [
+      "84029",
+      "84074"
+    ],
+    "population": 3294
+  },
+  {
+    "city": "Escalante",
+    "county": "Garfield",
+    "zip_codes": [
+      "84726"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Eureka",
+    "county": "Juab",
+    "zip_codes": [
+      "84628"
+    ],
+    "population": 941
+  },
+  {
+    "city": "Fairfield",
+    "county": "Utah",
+    "zip_codes": [
+      "84013"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Fairview",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84629"
+    ],
+    "population": 1389
+  },
+  {
+    "city": "Farmington",
+    "county": "Davis",
+    "zip_codes": [
+      "84025"
+    ],
+    "population": 24934
+  },
+  {
+    "city": "Farr West",
+    "county": "Weber",
+    "zip_codes": [
+      "84404"
+    ],
+    "population": 7881
+  },
+  {
+    "city": "Fayette",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84630"
+    ],
+    "population": 388
+  },
+  {
+    "city": "Ferron",
+    "county": "Emery",
+    "zip_codes": [
+      "84523"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Fielding",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84311"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Fillmore",
+    "county": "Millard",
+    "zip_codes": [
+      "84631"
+    ],
+    "population": 2633
+  },
+  {
+    "city": "Flaming Gorge",
+    "county": "Daggett",
+    "zip_codes": [
+      "84023"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Fort Duchesne",
+    "county": "Uintah",
+    "zip_codes": [
+      "84026"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Fountain Green",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84632"
+    ],
+    "population": 1539
+  },
+  {
+    "city": "Francis",
+    "county": "Summit",
+    "zip_codes": [
+      "84036"
+    ],
+    "population": 1797
+  },
+  {
+    "city": "Fremont",
+    "county": "Wayne",
+    "zip_codes": [
+      "84747"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Fruit Heights",
+    "county": "Davis",
+    "zip_codes": [
+      "84037"
+    ],
+    "population": 6036
+  },
+  {
+    "city": "Garden",
+    "county": "Rich",
+    "zip_codes": [
+      "84028",
+      "84038"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Garden City",
+    "county": "Rich",
+    "zip_codes": [
+      "84028"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Garland",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84312",
+      "84337"
+    ],
+    "population": 2609
+  },
+  {
+    "city": "Genola",
+    "county": "Utah",
+    "zip_codes": [
+      "84655"
+    ],
+    "population": 1766
+  },
+  {
+    "city": "Glendale",
+    "county": "Kane",
+    "zip_codes": [
+      "84729"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Glenwood",
+    "county": "Sevier",
+    "zip_codes": [
+      "84730"
+    ],
+    "population": 653
+  },
+  {
+    "city": "Goshen",
+    "county": "Utah",
+    "zip_codes": [
+      "84633"
+    ],
+    "population": 833
+  },
+  {
+    "city": "Granite",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84092",
+      "84093"
+    ],
+    "population": 813
+  },
+  {
+    "city": "Grantsville",
+    "county": "Tooele",
+    "zip_codes": [
+      "84029",
+      "84074"
+    ],
+    "population": 13637
+  },
+  {
+    "city": "Green River",
+    "county": "Emery",
+    "zip_codes": [
+      "84525"
+    ],
+    "population": 804
+  },
+  {
+    "city": "Gunnison",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84634"
+    ],
+    "population": 3537
+  },
+  {
+    "city": "Halchita",
+    "county": "San Juan",
+    "zip_codes": [
+      "84531",
+      "84536"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Halls Crossing",
+    "county": "San Juan",
+    "zip_codes": [
+      "84533"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hanksville",
+    "county": "Wayne",
+    "zip_codes": [
+      "84734"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Harrisville",
+    "county": "Weber",
+    "zip_codes": [
+      "84404",
+      "84414"
+    ],
+    "population": 6919
+  },
+  {
+    "city": "Hatch",
+    "county": "Garfield",
+    "zip_codes": [
+      "84735"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Heber",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032"
+    ],
+    "population": 17438
+  },
+  {
+    "city": "Helper",
+    "county": "Carbon",
+    "zip_codes": [
+      "84526"
+    ],
+    "population": 2680
+  },
+  {
+    "city": "Henefer",
+    "county": "Summit",
+    "zip_codes": [
+      "84033"
+    ],
+    "population": 855
+  },
+  {
+    "city": "Henrieville",
+    "county": "Garfield",
+    "zip_codes": [
+      "84736"
+    ],
+    "population": 292
+  },
+  {
+    "city": "Herriman",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84065",
+      "84096"
+    ],
+    "population": 57336
+  },
+  {
+    "city": "Hideout",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032",
+      "84036"
+    ],
+    "population": 1111
+  },
+  {
+    "city": "Highland",
+    "county": "Utah",
+    "zip_codes": [
+      "84003",
+      "84004",
+      "84062"
+    ],
+    "population": 19625
+  },
+  {
+    "city": "Hildale",
+    "county": "Washington",
+    "zip_codes": [
+      "84737",
+      "84784"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "Hinckley",
+    "county": "Millard",
+    "zip_codes": [
+      "84624",
+      "84635"
+    ],
+    "population": 832
+  },
+  {
+    "city": "Hobble Creek",
+    "county": "Utah",
+    "zip_codes": [
+      "84663"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Holden",
+    "county": "Millard",
+    "zip_codes": [
+      "84636"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Holladay",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84117",
+      "84121",
+      "84124"
+    ],
+    "population": 31236
+  },
+  {
+    "city": "Honeyville",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84302",
+      "84314"
+    ],
+    "population": 1383
+  },
+  {
+    "city": "Hooper",
+    "county": "Weber",
+    "zip_codes": [
+      "84315"
+    ],
+    "population": 9220
+  },
+  {
+    "city": "Howell",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84316"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Hoytsville",
+    "county": "Summit",
+    "zip_codes": [
+      "84017"
+    ],
+    "population": 788
+  },
+  {
+    "city": "Huntington",
+    "county": "Emery",
+    "zip_codes": [
+      "84528"
+    ],
+    "population": 2271
+  },
+  {
+    "city": "Huntsville",
+    "county": "Weber",
+    "zip_codes": [
+      "84317"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Hurricane",
+    "county": "Washington",
+    "zip_codes": [
+      "84737"
+    ],
+    "population": 21677
+  },
+  {
+    "city": "Hyde Park",
+    "county": "Cache",
+    "zip_codes": [
+      "84318",
+      "84335",
+      "84341"
+    ],
+    "population": 5410
+  },
+  {
+    "city": "Hyrum",
+    "county": "Cache",
+    "zip_codes": [
+      "84319",
+      "84321",
+      "84339"
+    ],
+    "population": 10022
+  },
+  {
+    "city": "Independence",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Interlaken",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84049"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Ivins",
+    "county": "Washington",
+    "zip_codes": [
+      "84738"
+    ],
+    "population": 9524
+  },
+  {
+    "city": "Jensen",
+    "county": "Uintah",
+    "zip_codes": [
+      "84035"
+    ],
+    "population": 331
+  },
+  {
+    "city": "Joseph",
+    "county": "Sevier",
+    "zip_codes": [
+      "84739"
+    ],
+    "population": 546
+  },
+  {
+    "city": "Junction",
+    "county": "Piute",
+    "zip_codes": [
+      "84740",
+      "84743"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Kamas",
+    "county": "Summit",
+    "zip_codes": [
+      "84036"
+    ],
+    "population": 2229
+  },
+  {
+    "city": "Kanab",
+    "county": "Kane",
+    "zip_codes": [
+      "84741"
+    ],
+    "population": 4950
+  },
+  {
+    "city": "Kanarraville",
+    "county": "Iron",
+    "zip_codes": [
+      "84742"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Kanosh",
+    "county": "Millard",
+    "zip_codes": [
+      "84637"
+    ],
+    "population": 550
+  },
+  {
+    "city": "Kaysville",
+    "county": "Davis",
+    "zip_codes": [
+      "84037"
+    ],
+    "population": 32861
+  },
+  {
+    "city": "Kearns metro",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84118"
+    ],
+    "population": 37058
+  },
+  {
+    "city": "Kenilworth",
+    "county": "Carbon",
+    "zip_codes": [
+      "84526",
+      "84529"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Kingston",
+    "county": "Piute",
+    "zip_codes": [
+      "84723",
+      "84743"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Koosharem",
+    "county": "Sevier",
+    "zip_codes": [
+      "84744"
+    ],
+    "population": 294
+  },
+  {
+    "city": "La Sal",
+    "county": "San Juan",
+    "zip_codes": [
+      "84530",
+      "84532"
+    ],
+    "population": 251
+  },
+  {
+    "city": "La Verkin",
+    "county": "Washington",
+    "zip_codes": [
+      "84745",
+      "84774"
+    ],
+    "population": 4429
+  },
+  {
+    "city": "Lake Point",
+    "county": "Tooele",
+    "zip_codes": [
+      "84074"
+    ],
+    "population": 2938
+  },
+  {
+    "city": "Lake Shore",
+    "county": "Utah",
+    "zip_codes": [
+      "84660"
+    ],
+    "population": 1242
+  },
+  {
+    "city": "Laketown",
+    "county": "Rich",
+    "zip_codes": [
+      "84038"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Lapoint",
+    "county": "Uintah",
+    "zip_codes": [
+      "84039"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Layton",
+    "county": "Davis",
+    "zip_codes": [
+      "84040",
+      "84041"
+    ],
+    "population": 82512
+  },
+  {
+    "city": "Leamington",
+    "county": "Millard",
+    "zip_codes": [
+      "84638"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Leeds",
+    "county": "Washington",
+    "zip_codes": [
+      "84746",
+      "84774"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Lehi",
+    "county": "Utah",
+    "zip_codes": [
+      "84003",
+      "84043",
+      "84045"
+    ],
+    "population": 81039
+  },
+  {
+    "city": "Levan",
+    "county": "Juab",
+    "zip_codes": [
+      "84639"
+    ],
+    "population": 886
+  },
+  {
+    "city": "Lewiston",
+    "county": "Cache",
+    "zip_codes": [
+      "84320"
+    ],
+    "population": 2225
+  },
+  {
+    "city": "Liberty",
+    "county": "Weber",
+    "zip_codes": [
+      "84310"
+    ],
+    "population": 1333
+  },
+  {
+    "city": "Lindon",
+    "county": "Utah",
+    "zip_codes": [
+      "84042",
+      "84062"
+    ],
+    "population": 11594
+  },
+  {
+    "city": "Loa",
+    "county": "Wayne",
+    "zip_codes": [
+      "84747"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Logan",
+    "county": "Cache",
+    "zip_codes": [
+      "84321",
+      "84322",
+      "84335",
+      "84339",
+      "84341"
+    ],
+    "population": 53923
+  },
+  {
+    "city": "Lyman",
+    "county": "Wayne",
+    "zip_codes": [
+      "84749"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Lynndyl",
+    "county": "Millard",
+    "zip_codes": [
+      "84640"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Maeser",
+    "county": "Uintah",
+    "zip_codes": [
+      "84078"
+    ],
+    "population": 4533
+  },
+  {
+    "city": "Magna metro",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84044"
+    ],
+    "population": 29488
+  },
+  {
+    "city": "Manila",
+    "county": "Daggett",
+    "zip_codes": [
+      "84046"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Manti",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84642"
+    ],
+    "population": 3532
+  },
+  {
+    "city": "Mantua",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84324"
+    ],
+    "population": 1642
+  },
+  {
+    "city": "Mapleton",
+    "county": "Utah",
+    "zip_codes": [
+      "84660",
+      "84664"
+    ],
+    "population": 12340
+  },
+  {
+    "city": "Marion",
+    "county": "Summit",
+    "zip_codes": [
+      "84036"
+    ],
+    "population": 694
+  },
+  {
+    "city": "Marriott-Slaterville",
+    "county": "Weber",
+    "zip_codes": [
+      "84401",
+      "84404"
+    ],
+    "population": 1885
+  },
+  {
+    "city": "Marysvale",
+    "county": "Piute",
+    "zip_codes": [
+      "84750"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Mayfield",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84643"
+    ],
+    "population": 424
+  },
+  {
+    "city": "Meadow",
+    "county": "Millard",
+    "zip_codes": [
+      "84644"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Mendon",
+    "county": "Cache",
+    "zip_codes": [
+      "84325"
+    ],
+    "population": 1446
+  },
+  {
+    "city": "Mexican Hat",
+    "county": "San Juan",
+    "zip_codes": [
+      "84531"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Midvale",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84047",
+      "84070"
+    ],
+    "population": 35736
+  },
+  {
+    "city": "Midway",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84049"
+    ],
+    "population": 6110
+  },
+  {
+    "city": "Milford",
+    "county": "Beaver",
+    "zip_codes": [
+      "84751"
+    ],
+    "population": 1400
+  },
+  {
+    "city": "Millcreek",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84106",
+      "84107",
+      "84109",
+      "84117",
+      "84123",
+      "84124"
+    ],
+    "population": 63342
+  },
+  {
+    "city": "Millville",
+    "county": "Cache",
+    "zip_codes": [
+      "84321",
+      "84326",
+      "84332"
+    ],
+    "population": 1820
+  },
+  {
+    "city": "Minersville",
+    "county": "Beaver",
+    "zip_codes": [
+      "84752"
+    ],
+    "population": 901
+  },
+  {
+    "city": "Moab",
+    "county": "Grand",
+    "zip_codes": [
+      "84532"
+    ],
+    "population": 5316
+  },
+  {
+    "city": "Modena",
+    "county": "Iron",
+    "zip_codes": [
+      "84753"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Mona",
+    "county": "Juab",
+    "zip_codes": [
+      "84645"
+    ],
+    "population": 1647
+  },
+  {
+    "city": "Monroe",
+    "county": "Sevier",
+    "zip_codes": [
+      "84754"
+    ],
+    "population": 2570
+  },
+  {
+    "city": "Montezuma Creek",
+    "county": "San Juan",
+    "zip_codes": [
+      "84534"
+    ],
+    "population": 256
+  },
+  {
+    "city": "Monticello",
+    "county": "San Juan",
+    "zip_codes": [
+      "84535"
+    ],
+    "population": 1941
+  },
+  {
+    "city": "Morgan",
+    "county": "Morgan",
+    "zip_codes": [
+      "84050"
+    ],
+    "population": 4268
+  },
+  {
+    "city": "Moroni",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84646"
+    ],
+    "population": 1238
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84647"
+    ],
+    "population": 3737
+  },
+  {
+    "city": "Mountain Green",
+    "county": "Morgan",
+    "zip_codes": [
+      "84050"
+    ],
+    "population": 3739
+  },
+  {
+    "city": "Murray",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84107",
+      "84117",
+      "84121",
+      "84123"
+    ],
+    "population": 49904
+  },
+  {
+    "city": "Myton",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84052"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Naples",
+    "county": "Uintah",
+    "zip_codes": [
+      "84078"
+    ],
+    "population": 3217
+  },
+  {
+    "city": "Navajo Mountain",
+    "county": "San Juan",
+    "zip_codes": [
+      "86044"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Neola",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84053"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Nephi",
+    "county": "Juab",
+    "zip_codes": [
+      "84648"
+    ],
+    "population": 6700
+  },
+  {
+    "city": "New Harmony",
+    "county": "Washington",
+    "zip_codes": [
+      "84757"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Newcastle",
+    "county": "Iron",
+    "zip_codes": [
+      "84756"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Newton",
+    "county": "Cache",
+    "zip_codes": [
+      "84327"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Nibley",
+    "county": "Cache",
+    "zip_codes": [
+      "84321"
+    ],
+    "population": 7651
+  },
+  {
+    "city": "North Logan",
+    "county": "Cache",
+    "zip_codes": [
+      "84341"
+    ],
+    "population": 11228
+  },
+  {
+    "city": "North Ogden",
+    "county": "Weber",
+    "zip_codes": [
+      "84404",
+      "84414"
+    ],
+    "population": 21473
+  },
+  {
+    "city": "North Salt Lake",
+    "county": "Davis",
+    "zip_codes": [
+      "84054",
+      "84087"
+    ],
+    "population": 23239
+  },
+  {
+    "city": "Oak City",
+    "county": "Millard",
+    "zip_codes": [
+      "84649"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Oakley",
+    "county": "Summit",
+    "zip_codes": [
+      "84036",
+      "84055",
+      "84061"
+    ],
+    "population": 1812
+  },
+  {
+    "city": "Oasis",
+    "county": "Millard",
+    "zip_codes": [
+      "84624"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Ogden",
+    "county": "Weber",
+    "zip_codes": [
+      "84310",
+      "84401",
+      "84403",
+      "84404",
+      "84405",
+      "84408"
+    ],
+    "population": 86973
+  },
+  {
+    "city": "Oljato-Monument Valley",
+    "county": "San Juan",
+    "zip_codes": [
+      "84536"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Ophir",
+    "county": "Tooele",
+    "zip_codes": [
+      "84071"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Orangeville",
+    "county": "Emery",
+    "zip_codes": [
+      "84513",
+      "84537"
+    ],
+    "population": 1281
+  },
+  {
+    "city": "Orderville",
+    "county": "Kane",
+    "zip_codes": [
+      "84755",
+      "84758"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Orem",
+    "county": "Utah",
+    "zip_codes": [
+      "84057",
+      "84058",
+      "84059",
+      "84097"
+    ],
+    "population": 97048
+  },
+  {
+    "city": "Palmyra",
+    "county": "Utah",
+    "zip_codes": [
+      "84660"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Panguitch",
+    "county": "Garfield",
+    "zip_codes": [
+      "84759"
+    ],
+    "population": 1871
+  },
+  {
+    "city": "Paradise",
+    "county": "Cache",
+    "zip_codes": [
+      "84328"
+    ],
+    "population": 806
+  },
+  {
+    "city": "Paragonah",
+    "county": "Iron",
+    "zip_codes": [
+      "84760"
+    ],
+    "population": 678
+  },
+  {
+    "city": "Park City",
+    "county": "Summit",
+    "zip_codes": [
+      "84060",
+      "84098"
+    ],
+    "population": 8365
+  },
+  {
+    "city": "Parowan",
+    "county": "Iron",
+    "zip_codes": [
+      "84760",
+      "84761"
+    ],
+    "population": 3095
+  },
+  {
+    "city": "Payson",
+    "county": "Utah",
+    "zip_codes": [
+      "84651",
+      "84653"
+    ],
+    "population": 22205
+  },
+  {
+    "city": "Peoa",
+    "county": "Summit",
+    "zip_codes": [
+      "84061"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Perry",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84302",
+      "84340"
+    ],
+    "population": 5708
+  },
+  {
+    "city": "Peter",
+    "county": "Cache",
+    "zip_codes": [
+      "84325"
+    ],
+    "population": 421
+  },
+  {
+    "city": "Pine Valley",
+    "county": "Washington",
+    "zip_codes": [
+      "84781"
+    ],
+    "population": 372
+  },
+  {
+    "city": "Plain City",
+    "county": "Weber",
+    "zip_codes": [
+      "84404"
+    ],
+    "population": 8101
+  },
+  {
+    "city": "Pleasant Grove",
+    "county": "Utah",
+    "zip_codes": [
+      "84042",
+      "84062"
+    ],
+    "population": 37544
+  },
+  {
+    "city": "Pleasant View",
+    "county": "Weber",
+    "zip_codes": [
+      "84404",
+      "84414"
+    ],
+    "population": 11104
+  },
+  {
+    "city": "Plymouth",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84330"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Portage",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84331"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Price",
+    "county": "Carbon",
+    "zip_codes": [
+      "84501"
+    ],
+    "population": 8216
+  },
+  {
+    "city": "Providence",
+    "county": "Cache",
+    "zip_codes": [
+      "84321",
+      "84332"
+    ],
+    "population": 8675
+  },
+  {
+    "city": "Provo",
+    "county": "Utah",
+    "zip_codes": [
+      "84601",
+      "84602",
+      "84604",
+      "84606",
+      "84663"
+    ],
+    "population": 114303
+  },
+  {
+    "city": "Randlett",
+    "county": "Uintah",
+    "zip_codes": [
+      "84063"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Randolph",
+    "county": "Rich",
+    "zip_codes": [
+      "84064"
+    ],
+    "population": 772
+  },
+  {
+    "city": "Redmond",
+    "county": "Sevier",
+    "zip_codes": [
+      "84652"
+    ],
+    "population": 773
+  },
+  {
+    "city": "Richfield",
+    "county": "Sevier",
+    "zip_codes": [
+      "84701",
+      "84754"
+    ],
+    "population": 8173
+  },
+  {
+    "city": "Richmond",
+    "county": "Cache",
+    "zip_codes": [
+      "84333"
+    ],
+    "population": 2971
+  },
+  {
+    "city": "River Heights",
+    "county": "Cache",
+    "zip_codes": [
+      "84321"
+    ],
+    "population": 2179
+  },
+  {
+    "city": "Riverdale",
+    "county": "Weber",
+    "zip_codes": [
+      "84405"
+    ],
+    "population": 9294
+  },
+  {
+    "city": "Riverside",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84311",
+      "84312",
+      "84334"
+    ],
+    "population": 1238
+  },
+  {
+    "city": "Riverton",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84065",
+      "84096"
+    ],
+    "population": 44944
+  },
+  {
+    "city": "Rockville",
+    "county": "Washington",
+    "zip_codes": [
+      "84763",
+      "84767"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Rocky Ridge",
+    "county": "Juab",
+    "zip_codes": [
+      "84645"
+    ],
+    "population": 901
+  },
+  {
+    "city": "Roosevelt",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84066"
+    ],
+    "population": 6960
+  },
+  {
+    "city": "Roy",
+    "county": "Weber",
+    "zip_codes": [
+      "84067"
+    ],
+    "population": 39021
+  },
+  {
+    "city": "Rush Valley",
+    "county": "Tooele",
+    "zip_codes": [
+      "84069"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Salem",
+    "county": "Utah",
+    "zip_codes": [
+      "84653"
+    ],
+    "population": 9893
+  },
+  {
+    "city": "Salina",
+    "county": "Sevier",
+    "zip_codes": [
+      "84620",
+      "84654"
+    ],
+    "population": 2521
+  },
+  {
+    "city": "Salt Lake City",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84044",
+      "84101",
+      "84102",
+      "84103",
+      "84104",
+      "84105",
+      "84106",
+      "84108",
+      "84109",
+      "84111",
+      "84112",
+      "84113",
+      "84114",
+      "84115",
+      "84116",
+      "84128",
+      "84138",
+      "84150",
+      "84180"
+    ],
+    "population": 203888
+  },
+  {
+    "city": "Samak",
+    "county": "Summit",
+    "zip_codes": [
+      "84036"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Sandy",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84047",
+      "84070",
+      "84092",
+      "84093",
+      "84094"
+    ],
+    "population": 94723
+  },
+  {
+    "city": "Santa Clara",
+    "county": "Washington",
+    "zip_codes": [
+      "84765",
+      "84770"
+    ],
+    "population": 7891
+  },
+  {
+    "city": "Santaquin",
+    "county": "Utah",
+    "zip_codes": [
+      "84645",
+      "84651",
+      "84655"
+    ],
+    "population": 15391
+  },
+  {
+    "city": "Saratoga Springs",
+    "county": "Utah",
+    "zip_codes": [
+      "84043",
+      "84045"
+    ],
+    "population": 44070
+  },
+  {
+    "city": "Scipio",
+    "county": "Millard",
+    "zip_codes": [
+      "84656"
+    ],
+    "population": 435
+  },
+  {
+    "city": "Scofield",
+    "county": "Carbon",
+    "zip_codes": [
+      "84526"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Sigurd",
+    "county": "Sevier",
+    "zip_codes": [
+      "84620",
+      "84657"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Silver Summit",
+    "county": "Summit",
+    "zip_codes": [
+      "84098"
+    ],
+    "population": 1574
+  },
+  {
+    "city": "Smithfield",
+    "county": "Cache",
+    "zip_codes": [
+      "84335"
+    ],
+    "population": 14033
+  },
+  {
+    "city": "Snowville",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84336"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Snyderville",
+    "county": "Summit",
+    "zip_codes": [
+      "84098"
+    ],
+    "population": 6143
+  },
+  {
+    "city": "South Jordan",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84009",
+      "84095"
+    ],
+    "population": 80331
+  },
+  {
+    "city": "South Ogden",
+    "county": "Weber",
+    "zip_codes": [
+      "84403",
+      "84405"
+    ],
+    "population": 17563
+  },
+  {
+    "city": "South Salt Lake",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84106",
+      "84115",
+      "84119"
+    ],
+    "population": 26277
+  },
+  {
+    "city": "South Weber",
+    "county": "Davis",
+    "zip_codes": [
+      "84405"
+    ],
+    "population": 8037
+  },
+  {
+    "city": "South Willard",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84340"
+    ],
+    "population": 1378
+  },
+  {
+    "city": "Spanish Fork",
+    "county": "Utah",
+    "zip_codes": [
+      "84660",
+      "84663"
+    ],
+    "population": 43632
+  },
+  {
+    "city": "Spanish Valley",
+    "county": "San Juan",
+    "zip_codes": [
+      "84532"
+    ],
+    "population": 925
+  },
+  {
+    "city": "Spring City",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84662"
+    ],
+    "population": 1094
+  },
+  {
+    "city": "Spring Glen",
+    "county": "Carbon",
+    "zip_codes": [
+      "84526"
+    ],
+    "population": 925
+  },
+  {
+    "city": "Spring Lake",
+    "county": "Utah",
+    "zip_codes": [
+      "84651"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Springdale",
+    "county": "Washington",
+    "zip_codes": [
+      "84767"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Springville",
+    "county": "Utah",
+    "zip_codes": [
+      "84606",
+      "84663"
+    ],
+    "population": 35474
+  },
+  {
+    "city": "St. George",
+    "county": "Washington",
+    "zip_codes": [
+      "84770",
+      "84780",
+      "84790"
+    ],
+    "population": 99184
+  },
+  {
+    "city": "Stansbury Park",
+    "county": "Tooele",
+    "zip_codes": [
+      "84074"
+    ],
+    "population": 11163
+  },
+  {
+    "city": "Sterling",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84665"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Stockton",
+    "county": "Tooele",
+    "zip_codes": [
+      "84071"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Summit",
+    "county": "Iron",
+    "zip_codes": [
+      "84772"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Summit Park",
+    "county": "Summit",
+    "zip_codes": [
+      "84098"
+    ],
+    "population": 8545
+  },
+  {
+    "city": "Sundance",
+    "county": "Utah",
+    "zip_codes": [
+      "84062",
+      "84604"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Sunset",
+    "county": "Davis",
+    "zip_codes": [
+      "84015",
+      "84056"
+    ],
+    "population": 5567
+  },
+  {
+    "city": "Sutherland",
+    "county": "Millard",
+    "zip_codes": [
+      "84624"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Syracuse",
+    "county": "Davis",
+    "zip_codes": [
+      "84075"
+    ],
+    "population": 34009
+  },
+  {
+    "city": "Tabiona",
+    "county": "Duchesne",
+    "zip_codes": [
+      "84072"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Taylorsville",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84084",
+      "84123",
+      "84129"
+    ],
+    "population": 59010
+  },
+  {
+    "city": "Teasdale",
+    "county": "Wayne",
+    "zip_codes": [
+      "84773"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Thatcher",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84337"
+    ],
+    "population": 1094
+  },
+  {
+    "city": "Thompson Springs",
+    "county": "Grand",
+    "zip_codes": [
+      "84540"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Timber Lakes",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84032"
+    ],
+    "population": 966
+  },
+  {
+    "city": "Tooele",
+    "county": "Tooele",
+    "zip_codes": [
+      "84074"
+    ],
+    "population": 37265
+  },
+  {
+    "city": "Toquerville",
+    "county": "Washington",
+    "zip_codes": [
+      "84720",
+      "84746",
+      "84774"
+    ],
+    "population": 2115
+  },
+  {
+    "city": "Torrey",
+    "county": "Wayne",
+    "zip_codes": [
+      "84775"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Tremonton",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84337"
+    ],
+    "population": 10886
+  },
+  {
+    "city": "Trenton",
+    "county": "Cache",
+    "zip_codes": [
+      "84308",
+      "84327",
+      "84338"
+    ],
+    "population": 534
+  },
+  {
+    "city": "Tropic",
+    "county": "Garfield",
+    "zip_codes": [
+      "84718",
+      "84776"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Tselakai Dezza",
+    "county": "San Juan",
+    "zip_codes": [
+      "84512"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Uintah",
+    "county": "Weber",
+    "zip_codes": [
+      "84403",
+      "84405"
+    ],
+    "population": 1461
+  },
+  {
+    "city": "Vernal",
+    "county": "Uintah",
+    "zip_codes": [
+      "84078"
+    ],
+    "population": 10254
+  },
+  {
+    "city": "Vernon",
+    "county": "Tooele",
+    "zip_codes": [
+      "84080"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Veyo",
+    "county": "Washington",
+    "zip_codes": [
+      "84782"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Vineyard",
+    "county": "Utah",
+    "zip_codes": [
+      "84042",
+      "84059"
+    ],
+    "population": 13510
+  },
+  {
+    "city": "Virgin",
+    "county": "Washington",
+    "zip_codes": [
+      "84737",
+      "84779"
+    ],
+    "population": 734
+  },
+  {
+    "city": "Wales",
+    "county": "Sanpete",
+    "zip_codes": [
+      "84667"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Wallsburg",
+    "county": "Wasatch",
+    "zip_codes": [
+      "84082"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Wanship",
+    "county": "Summit",
+    "zip_codes": [
+      "84017"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Washington",
+    "county": "Washington",
+    "zip_codes": [
+      "84737",
+      "84780"
+    ],
+    "population": 30686
+  },
+  {
+    "city": "Washington Terrace",
+    "county": "Weber",
+    "zip_codes": [
+      "84405"
+    ],
+    "population": 9196
+  },
+  {
+    "city": "Wellington",
+    "county": "Carbon",
+    "zip_codes": [
+      "84501",
+      "84542"
+    ],
+    "population": 1526
+  },
+  {
+    "city": "Wellsville",
+    "county": "Cache",
+    "zip_codes": [
+      "84339"
+    ],
+    "population": 4120
+  },
+  {
+    "city": "Wendover",
+    "county": "Tooele",
+    "zip_codes": [
+      "84083"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "West Bountiful",
+    "county": "Davis",
+    "zip_codes": [
+      "84010",
+      "84087"
+    ],
+    "population": 5920
+  },
+  {
+    "city": "West Haven",
+    "county": "Weber",
+    "zip_codes": [
+      "84401"
+    ],
+    "population": 19977
+  },
+  {
+    "city": "West Jordan",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84006",
+      "84081",
+      "84084",
+      "84088",
+      "84118"
+    ],
+    "population": 116277
+  },
+  {
+    "city": "West Mountain",
+    "county": "Utah",
+    "zip_codes": [
+      "84651"
+    ],
+    "population": 1371
+  },
+  {
+    "city": "West Point",
+    "county": "Davis",
+    "zip_codes": [
+      "84015",
+      "84315"
+    ],
+    "population": 11559
+  },
+  {
+    "city": "West Valley City",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84044",
+      "84081",
+      "84118",
+      "84119",
+      "84120",
+      "84128"
+    ],
+    "population": 137955
+  },
+  {
+    "city": "West Wood",
+    "county": "Carbon",
+    "zip_codes": [
+      "84501"
+    ],
+    "population": 833
+  },
+  {
+    "city": "White City metro",
+    "county": "Salt Lake",
+    "zip_codes": [
+      "84094"
+    ],
+    "population": 5568
+  },
+  {
+    "city": "White Mesa",
+    "county": "San Juan",
+    "zip_codes": [
+      "84511"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Whiterocks",
+    "county": "Uintah",
+    "zip_codes": [
+      "84085"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Willard",
+    "county": "Box Elder",
+    "zip_codes": [
+      "84340"
+    ],
+    "population": 2008
+  },
+  {
+    "city": "Wolf Creek",
+    "county": "Weber",
+    "zip_codes": [
+      "84310"
+    ],
+    "population": 1599
+  },
+  {
+    "city": "Woodland",
+    "county": "Summit",
+    "zip_codes": [
+      "84036"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Woodland Hills",
+    "county": "Utah",
+    "zip_codes": [
+      "84653"
+    ],
+    "population": 1439
+  },
+  {
+    "city": "Woodruff",
+    "county": "Rich",
+    "zip_codes": [
+      "84086"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Woods Cross",
+    "county": "Davis",
+    "zip_codes": [
+      "84010",
+      "84087"
+    ],
+    "population": 11490
+  }
+]

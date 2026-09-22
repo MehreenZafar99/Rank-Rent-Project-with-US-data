@@ -1,0 +1,6776 @@
+[
+  {
+    "city": "Abbotsford",
+    "county": "Clark",
+    "zip_codes": [
+      "54405",
+      "54421"
+    ],
+    "population": 2100
+  },
+  {
+    "city": "Abrams",
+    "county": "Oconto",
+    "zip_codes": [
+      "54101"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Adams",
+    "county": "Adams",
+    "zip_codes": [
+      "53910",
+      "53934"
+    ],
+    "population": 2144
+  },
+  {
+    "city": "Adell",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53001",
+      "53075"
+    ],
+    "population": 461
+  },
+  {
+    "city": "Albany",
+    "county": "Green",
+    "zip_codes": [
+      "53502"
+    ],
+    "population": 1065
+  },
+  {
+    "city": "Algoma",
+    "county": "Kewaunee",
+    "zip_codes": [
+      "54201"
+    ],
+    "population": 3219
+  },
+  {
+    "city": "Allens Grove",
+    "county": "Walworth",
+    "zip_codes": [
+      "53114",
+      "53525"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Allenton",
+    "county": "Washington",
+    "zip_codes": [
+      "53002"
+    ],
+    "population": 940
+  },
+  {
+    "city": "Allouez",
+    "county": "Brown",
+    "zip_codes": [
+      "54301",
+      "54307"
+    ],
+    "population": 14023
+  },
+  {
+    "city": "Alma",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54610",
+      "54756"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Alma Center",
+    "county": "Jackson",
+    "zip_codes": [
+      "54611"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Almena",
+    "county": "Barron",
+    "zip_codes": [
+      "54805"
+    ],
+    "population": 749
+  },
+  {
+    "city": "Almond",
+    "county": "Portage",
+    "zip_codes": [
+      "54909"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Alto",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53919",
+      "53963"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Altoona",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54701",
+      "54720"
+    ],
+    "population": 8750
+  },
+  {
+    "city": "Amberg",
+    "county": "Marinette",
+    "zip_codes": [
+      "54102"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Amery",
+    "county": "Polk",
+    "zip_codes": [
+      "54001"
+    ],
+    "population": 2959
+  },
+  {
+    "city": "Amherst",
+    "county": "Portage",
+    "zip_codes": [
+      "54406"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Amherst Junction",
+    "county": "Portage",
+    "zip_codes": [
+      "54406",
+      "54407"
+    ],
+    "population": 334
+  },
+  {
+    "city": "Angelica",
+    "county": "Shawano",
+    "zip_codes": [
+      "54162"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Aniwa",
+    "county": "Shawano",
+    "zip_codes": [
+      "54408",
+      "54414"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Antigo",
+    "county": "Langlade",
+    "zip_codes": [
+      "54409"
+    ],
+    "population": 8058
+  },
+  {
+    "city": "Appleton",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54911",
+      "54913",
+      "54914",
+      "54915"
+    ],
+    "population": 74873
+  },
+  {
+    "city": "Arcadia",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54612"
+    ],
+    "population": 3720
+  },
+  {
+    "city": "Arena",
+    "county": "Iowa",
+    "zip_codes": [
+      "53503"
+    ],
+    "population": 886
+  },
+  {
+    "city": "Argonne",
+    "county": "Forest",
+    "zip_codes": [
+      "54511"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Argyle",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53504"
+    ],
+    "population": 875
+  },
+  {
+    "city": "Arkansaw",
+    "county": "Pepin",
+    "zip_codes": [
+      "54721"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Arkdale",
+    "county": "Adams",
+    "zip_codes": [
+      "54613"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Arlington",
+    "county": "Columbia",
+    "zip_codes": [
+      "53911"
+    ],
+    "population": 947
+  },
+  {
+    "city": "Arpin",
+    "county": "Wood",
+    "zip_codes": [
+      "54410"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Ashippun",
+    "county": "Dodge",
+    "zip_codes": [
+      "53003",
+      "53036",
+      "53066"
+    ],
+    "population": 972
+  },
+  {
+    "city": "Ashland",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806"
+    ],
+    "population": 7884
+  },
+  {
+    "city": "Ashwaubenon",
+    "county": "Brown",
+    "zip_codes": [
+      "54115",
+      "54304",
+      "54313"
+    ],
+    "population": 16931
+  },
+  {
+    "city": "Athens",
+    "county": "Marathon",
+    "zip_codes": [
+      "54411"
+    ],
+    "population": 1005
+  },
+  {
+    "city": "Auburndale",
+    "county": "Wood",
+    "zip_codes": [
+      "54412"
+    ],
+    "population": 807
+  },
+  {
+    "city": "Augusta",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54722"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "Avoca",
+    "county": "Iowa",
+    "zip_codes": [
+      "53506"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Babcock",
+    "county": "Wood",
+    "zip_codes": [
+      "54413"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Bagley",
+    "county": "Grant",
+    "zip_codes": [
+      "53801"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Baileys Harbor",
+    "county": "Door",
+    "zip_codes": [
+      "54202"
+    ],
+    "population": 280
+  },
+  {
+    "city": "Baldwin",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54002"
+    ],
+    "population": 4313
+  },
+  {
+    "city": "Balsam Lake",
+    "county": "Polk",
+    "zip_codes": [
+      "54810"
+    ],
+    "population": 819
+  },
+  {
+    "city": "Bancroft",
+    "county": "Portage",
+    "zip_codes": [
+      "54921"
+    ],
+    "population": 623
+  },
+  {
+    "city": "Bangor",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54614"
+    ],
+    "population": 1409
+  },
+  {
+    "city": "Baraboo",
+    "county": "Sauk",
+    "zip_codes": [
+      "53913"
+    ],
+    "population": 12506
+  },
+  {
+    "city": "Barneveld",
+    "county": "Iowa",
+    "zip_codes": [
+      "53507"
+    ],
+    "population": 1485
+  },
+  {
+    "city": "Barron",
+    "county": "Barron",
+    "zip_codes": [
+      "54812"
+    ],
+    "population": 3689
+  },
+  {
+    "city": "Barronett",
+    "county": "Barron",
+    "zip_codes": [
+      "54813"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Batavia",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53001"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Bay City",
+    "county": "Pierce",
+    "zip_codes": [
+      "54723"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Bayfield",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54814"
+    ],
+    "population": 590
+  },
+  {
+    "city": "Bayfront",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Bayside",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53217"
+    ],
+    "population": 4398
+  },
+  {
+    "city": "Bear Creek",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54922"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Beaver Dam",
+    "county": "Dodge",
+    "zip_codes": [
+      "53916"
+    ],
+    "population": 16629
+  },
+  {
+    "city": "Belgium",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53004"
+    ],
+    "population": 2648
+  },
+  {
+    "city": "Bell Center",
+    "county": "Crawford",
+    "zip_codes": [
+      "54631"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Belleville",
+    "county": "Dane",
+    "zip_codes": [
+      "53508"
+    ],
+    "population": 2628
+  },
+  {
+    "city": "Bellevue",
+    "county": "Brown",
+    "zip_codes": [
+      "54115",
+      "54302",
+      "54311"
+    ],
+    "population": 16255
+  },
+  {
+    "city": "Belmont",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53510"
+    ],
+    "population": 996
+  },
+  {
+    "city": "Beloit",
+    "county": "Rock",
+    "zip_codes": [
+      "53511"
+    ],
+    "population": 36554
+  },
+  {
+    "city": "Benton",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53803"
+    ],
+    "population": 904
+  },
+  {
+    "city": "Berlin",
+    "county": "Green Lake",
+    "zip_codes": [
+      "54923"
+    ],
+    "population": 5523
+  },
+  {
+    "city": "Big Bend",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53103",
+      "53189"
+    ],
+    "population": 1311
+  },
+  {
+    "city": "Big Falls",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54486",
+      "54926",
+      "54950"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Big Foot Prairie",
+    "county": "Walworth",
+    "zip_codes": [
+      "53184"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Birch Hill",
+    "county": "Ashland",
+    "zip_codes": [
+      "54559"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Birchwood",
+    "county": "Washburn",
+    "zip_codes": [
+      "54817"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Birnamwood",
+    "county": "Shawano",
+    "zip_codes": [
+      "54414"
+    ],
+    "population": 688
+  },
+  {
+    "city": "Biron",
+    "county": "Wood",
+    "zip_codes": [
+      "54494"
+    ],
+    "population": 694
+  },
+  {
+    "city": "Black Creek",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54106"
+    ],
+    "population": 1263
+  },
+  {
+    "city": "Black Earth",
+    "county": "Dane",
+    "zip_codes": [
+      "53515"
+    ],
+    "population": 1724
+  },
+  {
+    "city": "Black River Falls",
+    "county": "Jackson",
+    "zip_codes": [
+      "54615"
+    ],
+    "population": 3514
+  },
+  {
+    "city": "Blair",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54616",
+      "54659",
+      "54773"
+    ],
+    "population": 1169
+  },
+  {
+    "city": "Blanchardville",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53516"
+    ],
+    "population": 659
+  },
+  {
+    "city": "Bloomer",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54724"
+    ],
+    "population": 3691
+  },
+  {
+    "city": "Bloomfield",
+    "county": "Walworth",
+    "zip_codes": [
+      "53128",
+      "53147",
+      "53157"
+    ],
+    "population": 4815
+  },
+  {
+    "city": "Bloomington",
+    "county": "Grant",
+    "zip_codes": [
+      "53804"
+    ],
+    "population": 716
+  },
+  {
+    "city": "Blue Mounds",
+    "county": "Dane",
+    "zip_codes": [
+      "53517"
+    ],
+    "population": 873
+  },
+  {
+    "city": "Blue River",
+    "county": "Grant",
+    "zip_codes": [
+      "53518"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Bluffview",
+    "county": "Sauk",
+    "zip_codes": [
+      "53951"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Boaz",
+    "county": "Richland",
+    "zip_codes": [
+      "53573",
+      "53581"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Bohners Lake",
+    "county": "Racine",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 2138
+  },
+  {
+    "city": "Bonduel",
+    "county": "Shawano",
+    "zip_codes": [
+      "54107"
+    ],
+    "population": 1492
+  },
+  {
+    "city": "Boscobel",
+    "county": "Grant",
+    "zip_codes": [
+      "53805"
+    ],
+    "population": 3263
+  },
+  {
+    "city": "Boulder Junction",
+    "county": "Vilas",
+    "zip_codes": [
+      "54512"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Bowler",
+    "county": "Shawano",
+    "zip_codes": [
+      "54416"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Boyceville",
+    "county": "Dunn",
+    "zip_codes": [
+      "54725"
+    ],
+    "population": 1200
+  },
+  {
+    "city": "Boyd",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54726"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Brandon",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53919"
+    ],
+    "population": 914
+  },
+  {
+    "city": "Brice Prairie",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54650"
+    ],
+    "population": 1858
+  },
+  {
+    "city": "Briggsville",
+    "county": "Marquette",
+    "zip_codes": [
+      "53901",
+      "53920"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Brillion",
+    "county": "Calumet",
+    "zip_codes": [
+      "54110"
+    ],
+    "population": 3307
+  },
+  {
+    "city": "Bristol",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53104",
+      "53142"
+    ],
+    "population": 5196
+  },
+  {
+    "city": "Brodhead",
+    "county": "Green",
+    "zip_codes": [
+      "53520"
+    ],
+    "population": 3205
+  },
+  {
+    "city": "Brookfield",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53005",
+      "53045",
+      "53072"
+    ],
+    "population": 41592
+  },
+  {
+    "city": "Brooklyn",
+    "county": "Green",
+    "zip_codes": [
+      "53521"
+    ],
+    "population": 1457
+  },
+  {
+    "city": "Brothertown",
+    "county": "Calumet",
+    "zip_codes": [
+      "53014"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Brown Deer",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53209",
+      "53223"
+    ],
+    "population": 12615
+  },
+  {
+    "city": "Browns Lake",
+    "county": "Racine",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 1766
+  },
+  {
+    "city": "Brownsville",
+    "county": "Dodge",
+    "zip_codes": [
+      "53006"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Browntown",
+    "county": "Green",
+    "zip_codes": [
+      "53522"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Bruce",
+    "county": "Rusk",
+    "zip_codes": [
+      "54819"
+    ],
+    "population": 851
+  },
+  {
+    "city": "Brule",
+    "county": "Douglas",
+    "zip_codes": [
+      "54820"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Buffalo City",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54622"
+    ],
+    "population": 916
+  },
+  {
+    "city": "Burlington",
+    "county": "Racine",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 11021
+  },
+  {
+    "city": "Burnett",
+    "county": "Dodge",
+    "zip_codes": [
+      "53922"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Butler",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53007",
+      "53051"
+    ],
+    "population": 2003
+  },
+  {
+    "city": "Butte des Morts",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54904",
+      "54927",
+      "54986"
+    ],
+    "population": 1053
+  },
+  {
+    "city": "Butternut",
+    "county": "Ashland",
+    "zip_codes": [
+      "54514"
+    ],
+    "population": 421
+  },
+  {
+    "city": "Cable",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54821"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Cadott",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54727"
+    ],
+    "population": 1495
+  },
+  {
+    "city": "Caledonia",
+    "county": "Racine",
+    "zip_codes": [
+      "53108",
+      "53126",
+      "53402",
+      "53404",
+      "53405",
+      "53406"
+    ],
+    "population": 25292
+  },
+  {
+    "city": "Cambria",
+    "county": "Columbia",
+    "zip_codes": [
+      "53923"
+    ],
+    "population": 765
+  },
+  {
+    "city": "Cambridge",
+    "county": "Dane",
+    "zip_codes": [
+      "53523"
+    ],
+    "population": 1507
+  },
+  {
+    "city": "Cameron",
+    "county": "Barron",
+    "zip_codes": [
+      "54822"
+    ],
+    "population": 1763
+  },
+  {
+    "city": "Camp Douglas",
+    "county": "Juneau",
+    "zip_codes": [
+      "54618"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Campbellsport",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53010"
+    ],
+    "population": 2053
+  },
+  {
+    "city": "Caroline",
+    "county": "Shawano",
+    "zip_codes": [
+      "54486",
+      "54928"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Cascade",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53011"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Casco",
+    "county": "Kewaunee",
+    "zip_codes": [
+      "54205"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Cashton",
+    "county": "Monroe",
+    "zip_codes": [
+      "54619"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Cassville",
+    "county": "Grant",
+    "zip_codes": [
+      "53806"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Cataract",
+    "county": "Monroe",
+    "zip_codes": [
+      "54656"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Catawba",
+    "county": "Price",
+    "zip_codes": [
+      "54515"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Cazenovia",
+    "county": "Richland",
+    "zip_codes": [
+      "53924"
+    ],
+    "population": 241
+  },
+  {
+    "city": "Cecil",
+    "county": "Shawano",
+    "zip_codes": [
+      "54111"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Cedar Grove",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53013"
+    ],
+    "population": 2430
+  },
+  {
+    "city": "Cedarburg",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53012"
+    ],
+    "population": 12317
+  },
+  {
+    "city": "Ceex Haci",
+    "county": "Wood",
+    "zip_codes": [
+      "54457"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Centuria",
+    "county": "Polk",
+    "zip_codes": [
+      "54824"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Chain O' Lakes",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54981"
+    ],
+    "population": 1006
+  },
+  {
+    "city": "Chaseburg",
+    "county": "Vernon",
+    "zip_codes": [
+      "54621"
+    ],
+    "population": 311
+  },
+  {
+    "city": "Chelsea",
+    "county": "Taylor",
+    "zip_codes": [
+      "54451",
+      "54490"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Chenequa",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53029",
+      "53058"
+    ],
+    "population": 817
+  },
+  {
+    "city": "Chetek",
+    "county": "Barron",
+    "zip_codes": [
+      "54728"
+    ],
+    "population": 2017
+  },
+  {
+    "city": "Chief Lake",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54828",
+      "54843",
+      "54876"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Chili",
+    "county": "Clark",
+    "zip_codes": [
+      "54420"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Chilton",
+    "county": "Calumet",
+    "zip_codes": [
+      "53014"
+    ],
+    "population": 3987
+  },
+  {
+    "city": "Chippewa Falls",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54729"
+    ],
+    "population": 14643
+  },
+  {
+    "city": "Clam Lake",
+    "county": "Ashland",
+    "zip_codes": [
+      "54517"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Clarks Mills",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54230"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Clayton",
+    "county": "Polk",
+    "zip_codes": [
+      "54004"
+    ],
+    "population": 343
+  },
+  {
+    "city": "Clear Lake",
+    "county": "Polk",
+    "zip_codes": [
+      "54005"
+    ],
+    "population": 1050
+  },
+  {
+    "city": "Cleveland",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "53015"
+    ],
+    "population": 1655
+  },
+  {
+    "city": "Clinton",
+    "county": "Rock",
+    "zip_codes": [
+      "53525"
+    ],
+    "population": 2034
+  },
+  {
+    "city": "Clintonville",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54929"
+    ],
+    "population": 4553
+  },
+  {
+    "city": "Clyman",
+    "county": "Dodge",
+    "zip_codes": [
+      "53016",
+      "53039"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Cobb",
+    "county": "Iowa",
+    "zip_codes": [
+      "53526"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Cochrane",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54622"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Colby",
+    "county": "Clark",
+    "zip_codes": [
+      "54421"
+    ],
+    "population": 2118
+  },
+  {
+    "city": "Coleman",
+    "county": "Marinette",
+    "zip_codes": [
+      "54112",
+      "54161"
+    ],
+    "population": 846
+  },
+  {
+    "city": "Colfax",
+    "county": "Dunn",
+    "zip_codes": [
+      "54730"
+    ],
+    "population": 1344
+  },
+  {
+    "city": "Collins",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "53014",
+      "54207",
+      "54230"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Coloma",
+    "county": "Waushara",
+    "zip_codes": [
+      "54930"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Columbus",
+    "county": "Columbia",
+    "zip_codes": [
+      "53925"
+    ],
+    "population": 5493
+  },
+  {
+    "city": "Combined Locks",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54113",
+      "54915"
+    ],
+    "population": 3633
+  },
+  {
+    "city": "Como",
+    "county": "Walworth",
+    "zip_codes": [
+      "53147"
+    ],
+    "population": 2368
+  },
+  {
+    "city": "Conrath",
+    "county": "Rusk",
+    "zip_codes": [
+      "54731"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Coon Valley",
+    "county": "Vernon",
+    "zip_codes": [
+      "54623"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Cornell",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54732"
+    ],
+    "population": 1331
+  },
+  {
+    "city": "Cornucopia",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54827"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Cottage Grove",
+    "county": "Dane",
+    "zip_codes": [
+      "53527",
+      "53590",
+      "53718"
+    ],
+    "population": 7906
+  },
+  {
+    "city": "Couderay",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54828"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Crandon",
+    "county": "Forest",
+    "zip_codes": [
+      "54520"
+    ],
+    "population": 1499
+  },
+  {
+    "city": "Crivitz",
+    "county": "Marinette",
+    "zip_codes": [
+      "54114"
+    ],
+    "population": 1026
+  },
+  {
+    "city": "Cross Plains",
+    "county": "Dane",
+    "zip_codes": [
+      "53528"
+    ],
+    "population": 4059
+  },
+  {
+    "city": "Cuba City",
+    "county": "Grant",
+    "zip_codes": [
+      "53807"
+    ],
+    "population": 2094
+  },
+  {
+    "city": "Cudahy",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53110"
+    ],
+    "population": 17964
+  },
+  {
+    "city": "Cumberland",
+    "county": "Barron",
+    "zip_codes": [
+      "54829"
+    ],
+    "population": 2389
+  },
+  {
+    "city": "Curtiss",
+    "county": "Clark",
+    "zip_codes": [
+      "54422"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Dale",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54931",
+      "54940",
+      "54944"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Dallas",
+    "county": "Barron",
+    "zip_codes": [
+      "54733"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Dalton",
+    "county": "Green Lake",
+    "zip_codes": [
+      "53926"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Danbury",
+    "county": "Burnett",
+    "zip_codes": [
+      "54830"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Dane",
+    "county": "Dane",
+    "zip_codes": [
+      "53529"
+    ],
+    "population": 1039
+  },
+  {
+    "city": "Darien",
+    "county": "Walworth",
+    "zip_codes": [
+      "53114"
+    ],
+    "population": 1175
+  },
+  {
+    "city": "Darlington",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53530"
+    ],
+    "population": 2473
+  },
+  {
+    "city": "De Pere",
+    "county": "Brown",
+    "zip_codes": [
+      "54115"
+    ],
+    "population": 25368
+  },
+  {
+    "city": "De Soto",
+    "county": "Vernon",
+    "zip_codes": [
+      "54624"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Deer Park",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54007"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Deerfield",
+    "county": "Dane",
+    "zip_codes": [
+      "53531"
+    ],
+    "population": 2489
+  },
+  {
+    "city": "DeForest",
+    "county": "Dane",
+    "zip_codes": [
+      "53532",
+      "53598"
+    ],
+    "population": 10853
+  },
+  {
+    "city": "Dekorra",
+    "county": "Columbia",
+    "zip_codes": [
+      "53955"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Delafield",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53018",
+      "53029",
+      "53058"
+    ],
+    "population": 7192
+  },
+  {
+    "city": "Delavan",
+    "county": "Walworth",
+    "zip_codes": [
+      "53115"
+    ],
+    "population": 8531
+  },
+  {
+    "city": "Delavan Lake",
+    "county": "Walworth",
+    "zip_codes": [
+      "53115",
+      "53184"
+    ],
+    "population": 2728
+  },
+  {
+    "city": "Dellwood",
+    "county": "Adams",
+    "zip_codes": [
+      "53934",
+      "54613"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Denmark",
+    "county": "Brown",
+    "zip_codes": [
+      "54208"
+    ],
+    "population": 2472
+  },
+  {
+    "city": "Diamond Bluff",
+    "county": "Pierce",
+    "zip_codes": [
+      "54014"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Diaperville",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Dickeyville",
+    "county": "Grant",
+    "zip_codes": [
+      "53807",
+      "53808"
+    ],
+    "population": 904
+  },
+  {
+    "city": "Dodge",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54625"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Dodgeville",
+    "county": "Iowa",
+    "zip_codes": [
+      "53533"
+    ],
+    "population": 5013
+  },
+  {
+    "city": "Dorchester",
+    "county": "Clark",
+    "zip_codes": [
+      "54405",
+      "54425"
+    ],
+    "population": 818
+  },
+  {
+    "city": "Dousman",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53066",
+      "53118"
+    ],
+    "population": 2043
+  },
+  {
+    "city": "Downing",
+    "county": "Dunn",
+    "zip_codes": [
+      "54734"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Downsville",
+    "county": "Dunn",
+    "zip_codes": [
+      "54751"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Doylestown",
+    "county": "Columbia",
+    "zip_codes": [
+      "53925",
+      "53928",
+      "53960"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Dresser",
+    "county": "Polk",
+    "zip_codes": [
+      "54009",
+      "54020"
+    ],
+    "population": 1037
+  },
+  {
+    "city": "Drummond",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54832"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Dunbar",
+    "county": "Marinette",
+    "zip_codes": [
+      "54119"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Durand",
+    "county": "Pepin",
+    "zip_codes": [
+      "54736"
+    ],
+    "population": 1735
+  },
+  {
+    "city": "Dyckesville",
+    "county": "Brown",
+    "zip_codes": [
+      "54217",
+      "54229"
+    ],
+    "population": 300
+  },
+  {
+    "city": "Eagle",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53119"
+    ],
+    "population": 2016
+  },
+  {
+    "city": "Eagle Lake",
+    "county": "Racine",
+    "zip_codes": [
+      "53139"
+    ],
+    "population": 1019
+  },
+  {
+    "city": "Eagle River",
+    "county": "Vilas",
+    "zip_codes": [
+      "54521"
+    ],
+    "population": 1508
+  },
+  {
+    "city": "East Troy",
+    "county": "Walworth",
+    "zip_codes": [
+      "53120"
+    ],
+    "population": 4689
+  },
+  {
+    "city": "Eastman",
+    "county": "Crawford",
+    "zip_codes": [
+      "53826",
+      "54626"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Easton",
+    "county": "Adams",
+    "zip_codes": [
+      "53910",
+      "53936"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Eau Claire",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54701",
+      "54703"
+    ],
+    "population": 69274
+  },
+  {
+    "city": "Eden",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53019"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Edgar",
+    "county": "Marathon",
+    "zip_codes": [
+      "54426"
+    ],
+    "population": 1366
+  },
+  {
+    "city": "Edgerton",
+    "county": "Rock",
+    "zip_codes": [
+      "53534"
+    ],
+    "population": 5924
+  },
+  {
+    "city": "Edmund",
+    "county": "Iowa",
+    "zip_codes": [
+      "53533"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Egg Harbor",
+    "county": "Door",
+    "zip_codes": [
+      "54209"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Eland",
+    "county": "Shawano",
+    "zip_codes": [
+      "54427"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Elcho",
+    "county": "Langlade",
+    "zip_codes": [
+      "54428"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Elderon",
+    "county": "Marathon",
+    "zip_codes": [
+      "54427",
+      "54499"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Eleva",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54738"
+    ],
+    "population": 715
+  },
+  {
+    "city": "Elk Mound",
+    "county": "Dunn",
+    "zip_codes": [
+      "54739"
+    ],
+    "population": 1103
+  },
+  {
+    "city": "Elkhart Lake",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53020"
+    ],
+    "population": 1097
+  },
+  {
+    "city": "Elkhorn",
+    "county": "Walworth",
+    "zip_codes": [
+      "53121"
+    ],
+    "population": 10259
+  },
+  {
+    "city": "Ellison Bay",
+    "county": "Door",
+    "zip_codes": [
+      "54210"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Ellsworth",
+    "county": "Pierce",
+    "zip_codes": [
+      "54011"
+    ],
+    "population": 3323
+  },
+  {
+    "city": "Elm Grove",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53122"
+    ],
+    "population": 6428
+  },
+  {
+    "city": "Elmwood",
+    "county": "Pierce",
+    "zip_codes": [
+      "54740"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Elmwood Park",
+    "county": "Racine",
+    "zip_codes": [
+      "53405"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Elroy",
+    "county": "Juneau",
+    "zip_codes": [
+      "53929"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "Embarrass",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54929",
+      "54933"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Emerald",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54013"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Endeavor",
+    "county": "Marquette",
+    "zip_codes": [
+      "53930"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Ephraim",
+    "county": "Door",
+    "zip_codes": [
+      "54211",
+      "54234"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Ettrick",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54627"
+    ],
+    "population": 632
+  },
+  {
+    "city": "Eureka",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54963"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Evansville",
+    "county": "Rock",
+    "zip_codes": [
+      "53536"
+    ],
+    "population": 5771
+  },
+  {
+    "city": "Exeland",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54835"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Fairchild",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54741"
+    ],
+    "population": 418
+  },
+  {
+    "city": "Fairwater",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53931"
+    ],
+    "population": 368
+  },
+  {
+    "city": "Fall Creek",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54742"
+    ],
+    "population": 1502
+  },
+  {
+    "city": "Fall River",
+    "county": "Columbia",
+    "zip_codes": [
+      "53932"
+    ],
+    "population": 1739
+  },
+  {
+    "city": "Fennimore",
+    "county": "Grant",
+    "zip_codes": [
+      "53809"
+    ],
+    "population": 2762
+  },
+  {
+    "city": "Fenwood",
+    "county": "Marathon",
+    "zip_codes": [
+      "54426"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Ferryville",
+    "county": "Crawford",
+    "zip_codes": [
+      "54628"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Fitchburg",
+    "county": "Dane",
+    "zip_codes": [
+      "53575",
+      "53593",
+      "53711",
+      "53713",
+      "53719"
+    ],
+    "population": 31566
+  },
+  {
+    "city": "Florence",
+    "county": "Florence",
+    "zip_codes": [
+      "54121"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Fond du Lac",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54935",
+      "54937"
+    ],
+    "population": 44491
+  },
+  {
+    "city": "Fontana-on-Geneva Lake",
+    "county": "Walworth",
+    "zip_codes": [
+      "53125",
+      "53184"
+    ],
+    "population": 1633
+  },
+  {
+    "city": "Footville",
+    "county": "Rock",
+    "zip_codes": [
+      "53537",
+      "53548"
+    ],
+    "population": 876
+  },
+  {
+    "city": "Forest Junction",
+    "county": "Calumet",
+    "zip_codes": [
+      "54110",
+      "54123"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Forestville",
+    "county": "Door",
+    "zip_codes": [
+      "54213"
+    ],
+    "population": 576
+  },
+  {
+    "city": "Fort Atkinson",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53538",
+      "53549"
+    ],
+    "population": 12490
+  },
+  {
+    "city": "Fountain City",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54629"
+    ],
+    "population": 747
+  },
+  {
+    "city": "Fox Crossing",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54914",
+      "54915",
+      "54952",
+      "54956"
+    ],
+    "population": 18960
+  },
+  {
+    "city": "Fox Lake",
+    "county": "Dodge",
+    "zip_codes": [
+      "53933"
+    ],
+    "population": 1765
+  },
+  {
+    "city": "Fox Point",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53217"
+    ],
+    "population": 6746
+  },
+  {
+    "city": "Francis Creek",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54214",
+      "54220",
+      "54247"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Franklin",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53132"
+    ],
+    "population": 35751
+  },
+  {
+    "city": "Franks Field",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Frederic",
+    "county": "Polk",
+    "zip_codes": [
+      "54837"
+    ],
+    "population": 1148
+  },
+  {
+    "city": "Fredonia",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53004",
+      "53021"
+    ],
+    "population": 2382
+  },
+  {
+    "city": "Fremont",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54940"
+    ],
+    "population": 592
+  },
+  {
+    "city": "French Island",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54603"
+    ],
+    "population": 4235
+  },
+  {
+    "city": "Friendship",
+    "county": "Adams",
+    "zip_codes": [
+      "53934"
+    ],
+    "population": 737
+  },
+  {
+    "city": "Friesland",
+    "county": "Columbia",
+    "zip_codes": [
+      "53935"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Fulton",
+    "county": "Rock",
+    "zip_codes": [
+      "53534"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Galesville",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54630"
+    ],
+    "population": 1740
+  },
+  {
+    "city": "Gays Mills",
+    "county": "Crawford",
+    "zip_codes": [
+      "54631"
+    ],
+    "population": 577
+  },
+  {
+    "city": "Genoa",
+    "county": "Vernon",
+    "zip_codes": [
+      "54632"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Genoa City",
+    "county": "Walworth",
+    "zip_codes": [
+      "53128",
+      "53181"
+    ],
+    "population": 2967
+  },
+  {
+    "city": "Germantown",
+    "county": "Washington",
+    "zip_codes": [
+      "53017",
+      "53022",
+      "53076"
+    ],
+    "population": 20940
+  },
+  {
+    "city": "Gibbsville",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53070",
+      "53085"
+    ],
+    "population": 557
+  },
+  {
+    "city": "Gillett",
+    "county": "Oconto",
+    "zip_codes": [
+      "54124"
+    ],
+    "population": 1333
+  },
+  {
+    "city": "Gilman",
+    "county": "Taylor",
+    "zip_codes": [
+      "54433"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Gilmanton",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54755"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Glen Flora",
+    "county": "Rusk",
+    "zip_codes": [
+      "54526",
+      "54563"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Glen Haven",
+    "county": "Grant",
+    "zip_codes": [
+      "53810"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Glenbeulah",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53023",
+      "53073"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Glendale",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53209",
+      "53212",
+      "53217"
+    ],
+    "population": 13134
+  },
+  {
+    "city": "Glenwood City",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54013"
+    ],
+    "population": 1218
+  },
+  {
+    "city": "Glidden",
+    "county": "Ashland",
+    "zip_codes": [
+      "54527"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Goodman",
+    "county": "Marinette",
+    "zip_codes": [
+      "54125"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Gordon",
+    "county": "Douglas",
+    "zip_codes": [
+      "54838"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Gotham",
+    "county": "Richland",
+    "zip_codes": [
+      "53540",
+      "53556"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Grafton",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53024"
+    ],
+    "population": 12274
+  },
+  {
+    "city": "Grand Marsh",
+    "county": "Adams",
+    "zip_codes": [
+      "53936"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Grand View",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54839"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Granton",
+    "county": "Clark",
+    "zip_codes": [
+      "54436"
+    ],
+    "population": 368
+  },
+  {
+    "city": "Grantsburg",
+    "county": "Burnett",
+    "zip_codes": [
+      "54840"
+    ],
+    "population": 1359
+  },
+  {
+    "city": "Gratiot",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53541"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Green Bay",
+    "county": "Brown",
+    "zip_codes": [
+      "54229",
+      "54301",
+      "54302",
+      "54303",
+      "54304",
+      "54311",
+      "54313"
+    ],
+    "population": 106585
+  },
+  {
+    "city": "Green Lake",
+    "county": "Green Lake",
+    "zip_codes": [
+      "54941"
+    ],
+    "population": 1054
+  },
+  {
+    "city": "Green Valley",
+    "county": "Shawano",
+    "zip_codes": [
+      "54127"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Greenbush",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53023"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Greendale",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53129",
+      "53132"
+    ],
+    "population": 14656
+  },
+  {
+    "city": "Greenfield",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53219",
+      "53220",
+      "53221",
+      "53227",
+      "53228"
+    ],
+    "population": 37361
+  },
+  {
+    "city": "Greenleaf",
+    "county": "Brown",
+    "zip_codes": [
+      "54126"
+    ],
+    "population": 921
+  },
+  {
+    "city": "Greenville",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54942"
+    ],
+    "population": 12911
+  },
+  {
+    "city": "Greenwood",
+    "county": "Clark",
+    "zip_codes": [
+      "54437"
+    ],
+    "population": 1163
+  },
+  {
+    "city": "Gresham",
+    "county": "Shawano",
+    "zip_codes": [
+      "54128"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Hager City",
+    "county": "Pierce",
+    "zip_codes": [
+      "54014"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Hales Corners",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53130"
+    ],
+    "population": 7627
+  },
+  {
+    "city": "Hammond",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54015"
+    ],
+    "population": 2071
+  },
+  {
+    "city": "Hancock",
+    "county": "Waushara",
+    "zip_codes": [
+      "54943"
+    ],
+    "population": 439
+  },
+  {
+    "city": "Hanover",
+    "county": "Rock",
+    "zip_codes": [
+      "53548",
+      "53576"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Harrison",
+    "county": "Calumet",
+    "zip_codes": [
+      "54129",
+      "54130",
+      "54169",
+      "54915",
+      "54952"
+    ],
+    "population": 13345
+  },
+  {
+    "city": "Harrisville",
+    "county": "Marquette",
+    "zip_codes": [
+      "53949",
+      "53964"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Hartford",
+    "county": "Washington",
+    "zip_codes": [
+      "53027",
+      "53078",
+      "53086"
+    ],
+    "population": 15761
+  },
+  {
+    "city": "Hartland",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53029",
+      "53089"
+    ],
+    "population": 9716
+  },
+  {
+    "city": "Hatfield",
+    "county": "Jackson",
+    "zip_codes": [
+      "54754"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Hatley",
+    "county": "Marathon",
+    "zip_codes": [
+      "54440"
+    ],
+    "population": 593
+  },
+  {
+    "city": "Haugen",
+    "county": "Barron",
+    "zip_codes": [
+      "54841",
+      "54868"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Hawkins",
+    "county": "Rusk",
+    "zip_codes": [
+      "54530"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Hayward",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54843"
+    ],
+    "population": 2549
+  },
+  {
+    "city": "Hazel Green",
+    "county": "Grant",
+    "zip_codes": [
+      "53811"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Hebron",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53538"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Helenville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53137"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Herbster",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54844"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Hewitt",
+    "county": "Wood",
+    "zip_codes": [
+      "54441"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Highland",
+    "county": "Iowa",
+    "zip_codes": [
+      "53543"
+    ],
+    "population": 934
+  },
+  {
+    "city": "Hilbert",
+    "county": "Calumet",
+    "zip_codes": [
+      "54129"
+    ],
+    "population": 1117
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Vernon",
+    "zip_codes": [
+      "54634"
+    ],
+    "population": 1324
+  },
+  {
+    "city": "Hingham",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53031",
+      "53085",
+      "53093"
+    ],
+    "population": 927
+  },
+  {
+    "city": "Hixton",
+    "county": "Jackson",
+    "zip_codes": [
+      "54635"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Hobart",
+    "county": "Brown",
+    "zip_codes": [
+      "54115",
+      "54155",
+      "54313"
+    ],
+    "population": 10418
+  },
+  {
+    "city": "Holcombe",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54745"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Hollandale",
+    "county": "Iowa",
+    "zip_codes": [
+      "53544"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Holmen",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54636",
+      "54650"
+    ],
+    "population": 11027
+  },
+  {
+    "city": "Horicon",
+    "county": "Dodge",
+    "zip_codes": [
+      "53032"
+    ],
+    "population": 3797
+  },
+  {
+    "city": "Hortonville",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54944"
+    ],
+    "population": 3180
+  },
+  {
+    "city": "Houlton",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54082"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Howard",
+    "county": "Brown",
+    "zip_codes": [
+      "54303",
+      "54313"
+    ],
+    "population": 20261
+  },
+  {
+    "city": "Howards Grove",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53083"
+    ],
+    "population": 3245
+  },
+  {
+    "city": "Hudson",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54016"
+    ],
+    "population": 15004
+  },
+  {
+    "city": "Humbird",
+    "county": "Clark",
+    "zip_codes": [
+      "54746"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Hurley",
+    "county": "Iron",
+    "zip_codes": [
+      "54534"
+    ],
+    "population": 1438
+  },
+  {
+    "city": "Hustisford",
+    "county": "Dodge",
+    "zip_codes": [
+      "53034",
+      "53059"
+    ],
+    "population": 1062
+  },
+  {
+    "city": "Hustler",
+    "county": "Juneau",
+    "zip_codes": [
+      "54618",
+      "54637"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Independence",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54612",
+      "54747",
+      "54773"
+    ],
+    "population": 1477
+  },
+  {
+    "city": "Ingram",
+    "county": "Rusk",
+    "zip_codes": [
+      "54526"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Iola",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54945"
+    ],
+    "population": 1230
+  },
+  {
+    "city": "Iron Belt",
+    "county": "Iron",
+    "zip_codes": [
+      "54536"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Iron Ridge",
+    "county": "Dodge",
+    "zip_codes": [
+      "53035"
+    ],
+    "population": 931
+  },
+  {
+    "city": "Iron River",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54847"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Ironton",
+    "county": "Sauk",
+    "zip_codes": [
+      "53941"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Ixonia",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53036"
+    ],
+    "population": 2470
+  },
+  {
+    "city": "Jackson",
+    "county": "Washington",
+    "zip_codes": [
+      "53037"
+    ],
+    "population": 7882
+  },
+  {
+    "city": "Janesville",
+    "county": "Rock",
+    "zip_codes": [
+      "53545",
+      "53546",
+      "53548",
+      "53563"
+    ],
+    "population": 65813
+  },
+  {
+    "city": "Jefferson",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53549"
+    ],
+    "population": 7722
+  },
+  {
+    "city": "Jim Falls",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54748"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Johnson Creek",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53038",
+      "53094"
+    ],
+    "population": 3367
+  },
+  {
+    "city": "Jolmaville",
+    "county": "Ashland",
+    "zip_codes": [
+      "54855"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Juda",
+    "county": "Green",
+    "zip_codes": [
+      "53550"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Jump River",
+    "county": "Taylor",
+    "zip_codes": [
+      "54766"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Junction City",
+    "county": "Portage",
+    "zip_codes": [
+      "54443"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Juneau",
+    "county": "Dodge",
+    "zip_codes": [
+      "53039"
+    ],
+    "population": 2600
+  },
+  {
+    "city": "Kaukauna",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54130"
+    ],
+    "population": 17237
+  },
+  {
+    "city": "Kekoskee",
+    "county": "Dodge",
+    "zip_codes": [
+      "53032",
+      "53050"
+    ],
+    "population": 987
+  },
+  {
+    "city": "Kellnersville",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54215",
+      "54247"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Kendall",
+    "county": "Monroe",
+    "zip_codes": [
+      "54638"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Kennan",
+    "county": "Price",
+    "zip_codes": [
+      "54537"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Kenosha",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53104",
+      "53140",
+      "53142",
+      "53143",
+      "53144"
+    ],
+    "population": 99147
+  },
+  {
+    "city": "Keshena",
+    "county": "Menominee",
+    "zip_codes": [
+      "54135"
+    ],
+    "population": 1487
+  },
+  {
+    "city": "Kewaskum",
+    "county": "Washington",
+    "zip_codes": [
+      "53040"
+    ],
+    "population": 4367
+  },
+  {
+    "city": "Kewaunee",
+    "county": "Kewaunee",
+    "zip_codes": [
+      "54216"
+    ],
+    "population": 2824
+  },
+  {
+    "city": "Kiel",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "53042"
+    ],
+    "population": 3919
+  },
+  {
+    "city": "Kieler",
+    "county": "Grant",
+    "zip_codes": [
+      "53807",
+      "53812"
+    ],
+    "population": 334
+  },
+  {
+    "city": "Kimberly",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54113",
+      "54136",
+      "54915"
+    ],
+    "population": 7432
+  },
+  {
+    "city": "King",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54946",
+      "54981"
+    ],
+    "population": 1474
+  },
+  {
+    "city": "Kingston",
+    "county": "Green Lake",
+    "zip_codes": [
+      "53926",
+      "53939",
+      "53946"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Knapp",
+    "county": "Dunn",
+    "zip_codes": [
+      "54749"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Knowlton",
+    "county": "Marathon",
+    "zip_codes": [
+      "54455"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Kohler",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53044",
+      "53081"
+    ],
+    "population": 2136
+  },
+  {
+    "city": "Krakow",
+    "county": "Shawano",
+    "zip_codes": [
+      "54137"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Kronenwetter",
+    "county": "Marathon",
+    "zip_codes": [
+      "54455"
+    ],
+    "population": 8420
+  },
+  {
+    "city": "La Crosse",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54601",
+      "54603",
+      "54650"
+    ],
+    "population": 51791
+  },
+  {
+    "city": "La Farge",
+    "county": "Vernon",
+    "zip_codes": [
+      "54639"
+    ],
+    "population": 745
+  },
+  {
+    "city": "La Valle",
+    "county": "Sauk",
+    "zip_codes": [
+      "53941"
+    ],
+    "population": 334
+  },
+  {
+    "city": "Lac du Flambeau",
+    "county": "Vilas",
+    "zip_codes": [
+      "54538"
+    ],
+    "population": 1619
+  },
+  {
+    "city": "Lac La Belle",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53036",
+      "53066"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Ladysmith",
+    "county": "Rusk",
+    "zip_codes": [
+      "54848"
+    ],
+    "population": 3152
+  },
+  {
+    "city": "Lake Arrowhead",
+    "county": "Adams",
+    "zip_codes": [
+      "54457"
+    ],
+    "population": 832
+  },
+  {
+    "city": "Lake Camelot",
+    "county": "Adams",
+    "zip_codes": [
+      "54457"
+    ],
+    "population": 1197
+  },
+  {
+    "city": "Lake Delton",
+    "county": "Sauk",
+    "zip_codes": [
+      "53913",
+      "53940",
+      "53965"
+    ],
+    "population": 3522
+  },
+  {
+    "city": "Lake Geneva",
+    "county": "Walworth",
+    "zip_codes": [
+      "53147"
+    ],
+    "population": 8443
+  },
+  {
+    "city": "Lake Hallie",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54703",
+      "54729"
+    ],
+    "population": 7245
+  },
+  {
+    "city": "Lake Ivanhoe",
+    "county": "Walworth",
+    "zip_codes": [
+      "53105",
+      "53128"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Lake Koshkonong",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53534",
+      "53538",
+      "53563"
+    ],
+    "population": 983
+  },
+  {
+    "city": "Lake Lorraine",
+    "county": "Walworth",
+    "zip_codes": [
+      "53115",
+      "53190"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Lake Mills",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53551"
+    ],
+    "population": 6391
+  },
+  {
+    "city": "Lake Nebagamon",
+    "county": "Douglas",
+    "zip_codes": [
+      "54849"
+    ],
+    "population": 891
+  },
+  {
+    "city": "Lake Ripley",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53523"
+    ],
+    "population": 1972
+  },
+  {
+    "city": "Lake Sherwood",
+    "county": "Adams",
+    "zip_codes": [
+      "54457"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Lake Tomahawk",
+    "county": "Oneida",
+    "zip_codes": [
+      "54539"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Lake Wazeecha",
+    "county": "Wood",
+    "zip_codes": [
+      "54494"
+    ],
+    "population": 2722
+  },
+  {
+    "city": "Lake Wisconsin",
+    "county": "Columbia",
+    "zip_codes": [
+      "53555",
+      "53561",
+      "53578",
+      "53955"
+    ],
+    "population": 5051
+  },
+  {
+    "city": "Lake Wissota",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54729"
+    ],
+    "population": 3103
+  },
+  {
+    "city": "Lakewood",
+    "county": "Oconto",
+    "zip_codes": [
+      "54138"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Lancaster",
+    "county": "Grant",
+    "zip_codes": [
+      "53813"
+    ],
+    "population": 3916
+  },
+  {
+    "city": "Lannon",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53046"
+    ],
+    "population": 1475
+  },
+  {
+    "city": "Laona",
+    "county": "Forest",
+    "zip_codes": [
+      "54541"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Lauderdale Lakes",
+    "county": "Walworth",
+    "zip_codes": [
+      "53121"
+    ],
+    "population": 1337
+  },
+  {
+    "city": "Lebanon",
+    "county": "Dodge",
+    "zip_codes": [
+      "53047",
+      "53098"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Legend Lake",
+    "county": "Menominee",
+    "zip_codes": [
+      "54124",
+      "54135",
+      "54174"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Lena",
+    "county": "Oconto",
+    "zip_codes": [
+      "54139"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Leopolis",
+    "county": "Shawano",
+    "zip_codes": [
+      "54948"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Lewis",
+    "county": "Polk",
+    "zip_codes": [
+      "54837"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Lily Lake",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 639
+  },
+  {
+    "city": "Lime Ridge",
+    "county": "Sauk",
+    "zip_codes": [
+      "53941",
+      "53942"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Linden",
+    "county": "Iowa",
+    "zip_codes": [
+      "53553"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Little Chute",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54130",
+      "54140",
+      "54911",
+      "54913"
+    ],
+    "population": 11930
+  },
+  {
+    "city": "Little Round Lake",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54843"
+    ],
+    "population": 1233
+  },
+  {
+    "city": "Little Sturgeon",
+    "county": "Door",
+    "zip_codes": [
+      "54235"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Livingston",
+    "county": "Grant",
+    "zip_codes": [
+      "53554"
+    ],
+    "population": 517
+  },
+  {
+    "city": "Lodi",
+    "county": "Columbia",
+    "zip_codes": [
+      "53555"
+    ],
+    "population": 3206
+  },
+  {
+    "city": "Loganville",
+    "county": "Sauk",
+    "zip_codes": [
+      "53943",
+      "53959"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Lohrville",
+    "county": "Waushara",
+    "zip_codes": [
+      "54970"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Lomira",
+    "county": "Dodge",
+    "zip_codes": [
+      "53048"
+    ],
+    "population": 2681
+  },
+  {
+    "city": "Lone Rock",
+    "county": "Richland",
+    "zip_codes": [
+      "53556"
+    ],
+    "population": 821
+  },
+  {
+    "city": "Long Lake",
+    "county": "Florence",
+    "zip_codes": [
+      "54542"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Lowell",
+    "county": "Dodge",
+    "zip_codes": [
+      "53557"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Loyal",
+    "county": "Clark",
+    "zip_codes": [
+      "54446"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Lublin",
+    "county": "Taylor",
+    "zip_codes": [
+      "54447"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Luck",
+    "county": "Polk",
+    "zip_codes": [
+      "54853"
+    ],
+    "population": 1185
+  },
+  {
+    "city": "Luxemburg",
+    "county": "Kewaunee",
+    "zip_codes": [
+      "54217"
+    ],
+    "population": 2722
+  },
+  {
+    "city": "Lyndon Station",
+    "county": "Juneau",
+    "zip_codes": [
+      "53944"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Lynxville",
+    "county": "Crawford",
+    "zip_codes": [
+      "54626"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Lyons",
+    "county": "Walworth",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 1206
+  },
+  {
+    "city": "Madison",
+    "county": "Dane",
+    "zip_codes": [
+      "53562",
+      "53593",
+      "53703",
+      "53704",
+      "53705",
+      "53706",
+      "53711",
+      "53713",
+      "53714",
+      "53715",
+      "53716",
+      "53717",
+      "53718",
+      "53719",
+      "53726",
+      "53792"
+    ],
+    "population": 275568
+  },
+  {
+    "city": "Maiden Rock",
+    "county": "Pierce",
+    "zip_codes": [
+      "54750"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Maine",
+    "county": "Marathon",
+    "zip_codes": [
+      "54401",
+      "54403",
+      "54417",
+      "54452"
+    ],
+    "population": 2608
+  },
+  {
+    "city": "Manawa",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54949"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Manitowoc",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54220"
+    ],
+    "population": 34553
+  },
+  {
+    "city": "Maple Bluff",
+    "county": "Dane",
+    "zip_codes": [
+      "53704"
+    ],
+    "population": 1319
+  },
+  {
+    "city": "Marathon City",
+    "county": "Marathon",
+    "zip_codes": [
+      "54448"
+    ],
+    "population": 1397
+  },
+  {
+    "city": "Marengo",
+    "county": "Ashland",
+    "zip_codes": [
+      "54855"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Maribel",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54227"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Marinette",
+    "county": "Marinette",
+    "zip_codes": [
+      "54143"
+    ],
+    "population": 11060
+  },
+  {
+    "city": "Marion",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54950"
+    ],
+    "population": 1167
+  },
+  {
+    "city": "Markesan",
+    "county": "Green Lake",
+    "zip_codes": [
+      "53946"
+    ],
+    "population": 1276
+  },
+  {
+    "city": "Marquette",
+    "county": "Green Lake",
+    "zip_codes": [
+      "53946",
+      "53947"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Marshall",
+    "county": "Dane",
+    "zip_codes": [
+      "53559"
+    ],
+    "population": 3806
+  },
+  {
+    "city": "Marshfield",
+    "county": "Wood",
+    "zip_codes": [
+      "54449"
+    ],
+    "population": 18718
+  },
+  {
+    "city": "Mason",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54856"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Mattoon",
+    "county": "Shawano",
+    "zip_codes": [
+      "54409",
+      "54450"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Mauston",
+    "county": "Juneau",
+    "zip_codes": [
+      "53948"
+    ],
+    "population": 4280
+  },
+  {
+    "city": "Mayville",
+    "county": "Dodge",
+    "zip_codes": [
+      "53050"
+    ],
+    "population": 5169
+  },
+  {
+    "city": "Mazomanie",
+    "county": "Dane",
+    "zip_codes": [
+      "53560"
+    ],
+    "population": 1705
+  },
+  {
+    "city": "McFarland",
+    "county": "Dane",
+    "zip_codes": [
+      "53558",
+      "53718"
+    ],
+    "population": 9230
+  },
+  {
+    "city": "Medford",
+    "county": "Taylor",
+    "zip_codes": [
+      "54451"
+    ],
+    "population": 4331
+  },
+  {
+    "city": "Mellen",
+    "county": "Ashland",
+    "zip_codes": [
+      "54546"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Melrose",
+    "county": "Jackson",
+    "zip_codes": [
+      "54642"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Melvina",
+    "county": "Monroe",
+    "zip_codes": [
+      "54619"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Menasha",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54952"
+    ],
+    "population": 18130
+  },
+  {
+    "city": "Menomonee Falls",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53051"
+    ],
+    "population": 38963
+  },
+  {
+    "city": "Menomonie",
+    "county": "Dunn",
+    "zip_codes": [
+      "54751"
+    ],
+    "population": 16548
+  },
+  {
+    "city": "Mequon",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53092",
+      "53097"
+    ],
+    "population": 25259
+  },
+  {
+    "city": "Mercer",
+    "county": "Iron",
+    "zip_codes": [
+      "54547"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Merrill",
+    "county": "Lincoln",
+    "zip_codes": [
+      "54452"
+    ],
+    "population": 9224
+  },
+  {
+    "city": "Merrillan",
+    "county": "Jackson",
+    "zip_codes": [
+      "54754"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Merrimac",
+    "county": "Sauk",
+    "zip_codes": [
+      "53561"
+    ],
+    "population": 575
+  },
+  {
+    "city": "Merton",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53029",
+      "53089"
+    ],
+    "population": 3495
+  },
+  {
+    "city": "Middle Village",
+    "county": "Menominee",
+    "zip_codes": [
+      "54128",
+      "54150"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Middleton",
+    "county": "Dane",
+    "zip_codes": [
+      "53562",
+      "53597"
+    ],
+    "population": 22235
+  },
+  {
+    "city": "Milladore",
+    "county": "Wood",
+    "zip_codes": [
+      "54454"
+    ],
+    "population": 426
+  },
+  {
+    "city": "Millston",
+    "county": "Jackson",
+    "zip_codes": [
+      "54615",
+      "54643"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Milltown",
+    "county": "Polk",
+    "zip_codes": [
+      "54858"
+    ],
+    "population": 817
+  },
+  {
+    "city": "Milton",
+    "county": "Rock",
+    "zip_codes": [
+      "53563"
+    ],
+    "population": 5685
+  },
+  {
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53202",
+      "53203",
+      "53204",
+      "53205",
+      "53206",
+      "53207",
+      "53208",
+      "53209",
+      "53210",
+      "53211",
+      "53212",
+      "53213",
+      "53214",
+      "53215",
+      "53216",
+      "53218",
+      "53219",
+      "53220",
+      "53221",
+      "53222",
+      "53223",
+      "53224",
+      "53225",
+      "53226",
+      "53227",
+      "53228",
+      "53233",
+      "53295"
+    ],
+    "population": 569756
+  },
+  {
+    "city": "Mindoro",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54644"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Mineral Point",
+    "county": "Iowa",
+    "zip_codes": [
+      "53565"
+    ],
+    "population": 2575
+  },
+  {
+    "city": "Minocqua",
+    "county": "Oneida",
+    "zip_codes": [
+      "54548"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Minong",
+    "county": "Washburn",
+    "zip_codes": [
+      "54859"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Mishicot",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54228",
+      "54241"
+    ],
+    "population": 1470
+  },
+  {
+    "city": "Mission",
+    "county": "Jackson",
+    "zip_codes": [
+      "54615"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Mole Lake",
+    "county": "Forest",
+    "zip_codes": [
+      "54520"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Mondovi",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54755"
+    ],
+    "population": 2843
+  },
+  {
+    "city": "Monona",
+    "county": "Dane",
+    "zip_codes": [
+      "53713",
+      "53716"
+    ],
+    "population": 8604
+  },
+  {
+    "city": "Monroe",
+    "county": "Green",
+    "zip_codes": [
+      "53566"
+    ],
+    "population": 10568
+  },
+  {
+    "city": "Montello",
+    "county": "Marquette",
+    "zip_codes": [
+      "53949"
+    ],
+    "population": 1411
+  },
+  {
+    "city": "Montfort",
+    "county": "Grant",
+    "zip_codes": [
+      "53569"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Monticello",
+    "county": "Green",
+    "zip_codes": [
+      "53570"
+    ],
+    "population": 1186
+  },
+  {
+    "city": "Montreal",
+    "county": "Iron",
+    "zip_codes": [
+      "54525",
+      "54534",
+      "54550"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Mosinee",
+    "county": "Marathon",
+    "zip_codes": [
+      "54455"
+    ],
+    "population": 4492
+  },
+  {
+    "city": "Mount Calvary",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53057"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Mount Hope",
+    "county": "Grant",
+    "zip_codes": [
+      "53816"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Mount Horeb",
+    "county": "Dane",
+    "zip_codes": [
+      "53572"
+    ],
+    "population": 7719
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Racine",
+    "zip_codes": [
+      "53126",
+      "53177",
+      "53403",
+      "53405",
+      "53406"
+    ],
+    "population": 27694
+  },
+  {
+    "city": "Mount Sterling",
+    "county": "Crawford",
+    "zip_codes": [
+      "54631",
+      "54645"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Mountain",
+    "county": "Oconto",
+    "zip_codes": [
+      "54149"
+    ],
+    "population": 253
+  },
+  {
+    "city": "Mukwonago",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53120",
+      "53149"
+    ],
+    "population": 8411
+  },
+  {
+    "city": "Muscoda",
+    "county": "Grant",
+    "zip_codes": [
+      "53518",
+      "53573"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Muskego",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53150"
+    ],
+    "population": 25156
+  },
+  {
+    "city": "Nashotah",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53029",
+      "53058"
+    ],
+    "population": 1272
+  },
+  {
+    "city": "Navarino",
+    "county": "Shawano",
+    "zip_codes": [
+      "54107"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Necedah",
+    "county": "Juneau",
+    "zip_codes": [
+      "54646"
+    ],
+    "population": 1122
+  },
+  {
+    "city": "Neenah",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54956"
+    ],
+    "population": 27409
+  },
+  {
+    "city": "Neillsville",
+    "county": "Clark",
+    "zip_codes": [
+      "54456"
+    ],
+    "population": 2314
+  },
+  {
+    "city": "Nekoosa",
+    "county": "Wood",
+    "zip_codes": [
+      "54457"
+    ],
+    "population": 2439
+  },
+  {
+    "city": "Nelson",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54756"
+    ],
+    "population": 351
+  },
+  {
+    "city": "Nelsonville",
+    "county": "Portage",
+    "zip_codes": [
+      "54407",
+      "54458"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Neopit",
+    "county": "Menominee",
+    "zip_codes": [
+      "54150"
+    ],
+    "population": 730
+  },
+  {
+    "city": "Neosho",
+    "county": "Dodge",
+    "zip_codes": [
+      "53059"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Neshkoro",
+    "county": "Marquette",
+    "zip_codes": [
+      "54960"
+    ],
+    "population": 459
+  },
+  {
+    "city": "New Auburn",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54757"
+    ],
+    "population": 550
+  },
+  {
+    "city": "New Berlin",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53146",
+      "53150",
+      "53151"
+    ],
+    "population": 40384
+  },
+  {
+    "city": "New Glarus",
+    "county": "Green",
+    "zip_codes": [
+      "53574"
+    ],
+    "population": 2276
+  },
+  {
+    "city": "New Holstein",
+    "county": "Calumet",
+    "zip_codes": [
+      "53061"
+    ],
+    "population": 3104
+  },
+  {
+    "city": "New Lisbon",
+    "county": "Juneau",
+    "zip_codes": [
+      "53950"
+    ],
+    "population": 2549
+  },
+  {
+    "city": "New London",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54961"
+    ],
+    "population": 7492
+  },
+  {
+    "city": "New Munster",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53105"
+    ],
+    "population": 292
+  },
+  {
+    "city": "New Odanah",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806",
+      "54861"
+    ],
+    "population": 318
+  },
+  {
+    "city": "New Post",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54828",
+      "54843"
+    ],
+    "population": 322
+  },
+  {
+    "city": "New Richmond",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54017"
+    ],
+    "population": 10334
+  },
+  {
+    "city": "Newald",
+    "county": "Forest",
+    "zip_codes": [
+      "54511"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Newburg",
+    "county": "Washington",
+    "zip_codes": [
+      "53090",
+      "53095"
+    ],
+    "population": 1285
+  },
+  {
+    "city": "Niagara",
+    "county": "Marinette",
+    "zip_codes": [
+      "54151"
+    ],
+    "population": 1386
+  },
+  {
+    "city": "Nichols",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54106",
+      "54107",
+      "54152"
+    ],
+    "population": 278
+  },
+  {
+    "city": "North Bay",
+    "county": "Racine",
+    "zip_codes": [
+      "53402"
+    ],
+    "population": 238
+  },
+  {
+    "city": "North Fond du Lac",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54937"
+    ],
+    "population": 5373
+  },
+  {
+    "city": "North Freedom",
+    "county": "Sauk",
+    "zip_codes": [
+      "53951"
+    ],
+    "population": 730
+  },
+  {
+    "city": "North Hudson",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54016"
+    ],
+    "population": 3848
+  },
+  {
+    "city": "North Lake",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53029"
+    ],
+    "population": 222
+  },
+  {
+    "city": "North Prairie",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53149",
+      "53153"
+    ],
+    "population": 2514
+  },
+  {
+    "city": "Northport",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54961"
+    ],
+    "population": 421
+  },
+  {
+    "city": "Norwalk",
+    "county": "Monroe",
+    "zip_codes": [
+      "54648"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Oak Creek",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53154"
+    ],
+    "population": 36473
+  },
+  {
+    "city": "Oakdale",
+    "county": "Monroe",
+    "zip_codes": [
+      "54660"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Oakfield",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53065"
+    ],
+    "population": 1219
+  },
+  {
+    "city": "Oconomowoc",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53066"
+    ],
+    "population": 18385
+  },
+  {
+    "city": "Oconomowoc Lake",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53066"
+    ],
+    "population": 699
+  },
+  {
+    "city": "Oconto",
+    "county": "Oconto",
+    "zip_codes": [
+      "54153"
+    ],
+    "population": 4623
+  },
+  {
+    "city": "Oconto Falls",
+    "county": "Oconto",
+    "zip_codes": [
+      "54154"
+    ],
+    "population": 2979
+  },
+  {
+    "city": "Odanah",
+    "county": "Ashland",
+    "zip_codes": [
+      "54806"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Ogdensburg",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54962"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Ogema",
+    "county": "Price",
+    "zip_codes": [
+      "54459"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Okauchee Lake",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53058",
+      "53066",
+      "53069"
+    ],
+    "population": 4827
+  },
+  {
+    "city": "Oliver",
+    "county": "Douglas",
+    "zip_codes": [
+      "54880"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Omro",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54963"
+    ],
+    "population": 3639
+  },
+  {
+    "city": "Onalaska",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54650"
+    ],
+    "population": 18909
+  },
+  {
+    "city": "Ontario",
+    "county": "Vernon",
+    "zip_codes": [
+      "54651"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Oostburg",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53070"
+    ],
+    "population": 3077
+  },
+  {
+    "city": "Oregon",
+    "county": "Dane",
+    "zip_codes": [
+      "53575"
+    ],
+    "population": 11384
+  },
+  {
+    "city": "Orfordville",
+    "county": "Rock",
+    "zip_codes": [
+      "53576"
+    ],
+    "population": 1567
+  },
+  {
+    "city": "Osceola",
+    "county": "Polk",
+    "zip_codes": [
+      "54020"
+    ],
+    "population": 2818
+  },
+  {
+    "city": "Oshkosh",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54901",
+      "54902",
+      "54904",
+      "54985"
+    ],
+    "population": 66247
+  },
+  {
+    "city": "Osseo",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54758"
+    ],
+    "population": 1736
+  },
+  {
+    "city": "Owen",
+    "county": "Clark",
+    "zip_codes": [
+      "54460",
+      "54498"
+    ],
+    "population": 884
+  },
+  {
+    "city": "Oxford",
+    "county": "Marquette",
+    "zip_codes": [
+      "53952"
+    ],
+    "population": 500
+  },
+  {
+    "city": "Paac Ciinak",
+    "county": "Shawano",
+    "zip_codes": [
+      "54427",
+      "54499"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Packwaukee",
+    "county": "Marquette",
+    "zip_codes": [
+      "53949",
+      "53953"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Paddock Lake",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53168"
+    ],
+    "population": 2965
+  },
+  {
+    "city": "Palmyra",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53156"
+    ],
+    "population": 2042
+  },
+  {
+    "city": "Pardeeville",
+    "county": "Columbia",
+    "zip_codes": [
+      "53954"
+    ],
+    "population": 1804
+  },
+  {
+    "city": "Park Falls",
+    "county": "Price",
+    "zip_codes": [
+      "54552"
+    ],
+    "population": 2308
+  },
+  {
+    "city": "Park Ridge",
+    "county": "Portage",
+    "zip_codes": [
+      "54481"
+    ],
+    "population": 589
+  },
+  {
+    "city": "Patch Grove",
+    "county": "Grant",
+    "zip_codes": [
+      "53817"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Pella",
+    "county": "Shawano",
+    "zip_codes": [
+      "54950"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Pembine",
+    "county": "Marinette",
+    "zip_codes": [
+      "54156"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Pence",
+    "county": "Iron",
+    "zip_codes": [
+      "54550"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Pepin",
+    "county": "Pepin",
+    "zip_codes": [
+      "54759"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Peshtigo",
+    "county": "Marinette",
+    "zip_codes": [
+      "54157"
+    ],
+    "population": 3404
+  },
+  {
+    "city": "Pewaukee",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53072",
+      "53186",
+      "53188"
+    ],
+    "population": 16002
+  },
+  {
+    "city": "Phillips",
+    "county": "Price",
+    "zip_codes": [
+      "54555"
+    ],
+    "population": 1546
+  },
+  {
+    "city": "Pigeon Falls",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54758",
+      "54760",
+      "54773"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Pine River",
+    "county": "Waushara",
+    "zip_codes": [
+      "54965"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Pittsville",
+    "county": "Wood",
+    "zip_codes": [
+      "54466"
+    ],
+    "population": 829
+  },
+  {
+    "city": "Plain",
+    "county": "Sauk",
+    "zip_codes": [
+      "53577"
+    ],
+    "population": 776
+  },
+  {
+    "city": "Plainfield",
+    "county": "Waushara",
+    "zip_codes": [
+      "54966"
+    ],
+    "population": 1057
+  },
+  {
+    "city": "Platteville",
+    "county": "Grant",
+    "zip_codes": [
+      "53818"
+    ],
+    "population": 11421
+  },
+  {
+    "city": "Pleasant Prairie",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53142",
+      "53143",
+      "53158"
+    ],
+    "population": 21515
+  },
+  {
+    "city": "Plover",
+    "county": "Portage",
+    "zip_codes": [
+      "54467"
+    ],
+    "population": 13713
+  },
+  {
+    "city": "Plum City",
+    "county": "Pierce",
+    "zip_codes": [
+      "54761"
+    ],
+    "population": 582
+  },
+  {
+    "city": "Plymouth",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53073"
+    ],
+    "population": 8913
+  },
+  {
+    "city": "Polonia",
+    "county": "Portage",
+    "zip_codes": [
+      "54423",
+      "54473"
+    ],
+    "population": 624
+  },
+  {
+    "city": "Poplar",
+    "county": "Douglas",
+    "zip_codes": [
+      "54864"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Port Edwards",
+    "county": "Wood",
+    "zip_codes": [
+      "54457",
+      "54469",
+      "54494",
+      "54495"
+    ],
+    "population": 1776
+  },
+  {
+    "city": "Port Washington",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53024",
+      "53074"
+    ],
+    "population": 12569
+  },
+  {
+    "city": "Port Wing",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54865"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Portage",
+    "county": "Columbia",
+    "zip_codes": [
+      "53901"
+    ],
+    "population": 10374
+  },
+  {
+    "city": "Post Lake",
+    "county": "Langlade",
+    "zip_codes": [
+      "54428"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Potosi",
+    "county": "Grant",
+    "zip_codes": [
+      "53820"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Potter",
+    "county": "Calumet",
+    "zip_codes": [
+      "54160"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Potter Lake",
+    "county": "Walworth",
+    "zip_codes": [
+      "53120"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Pound",
+    "county": "Marinette",
+    "zip_codes": [
+      "54161"
+    ],
+    "population": 339
+  },
+  {
+    "city": "Powers Lake",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53105",
+      "53128"
+    ],
+    "population": 1378
+  },
+  {
+    "city": "Poy Sippi",
+    "county": "Waushara",
+    "zip_codes": [
+      "54967"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Poynette",
+    "county": "Columbia",
+    "zip_codes": [
+      "53955"
+    ],
+    "population": 2583
+  },
+  {
+    "city": "Prairie du Chien",
+    "county": "Crawford",
+    "zip_codes": [
+      "53821"
+    ],
+    "population": 5471
+  },
+  {
+    "city": "Prairie du Sac",
+    "county": "Sauk",
+    "zip_codes": [
+      "53578"
+    ],
+    "population": 4385
+  },
+  {
+    "city": "Prairie Farm",
+    "county": "Barron",
+    "zip_codes": [
+      "54762"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Prentice",
+    "county": "Price",
+    "zip_codes": [
+      "54556"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Prescott",
+    "county": "Pierce",
+    "zip_codes": [
+      "54021"
+    ],
+    "population": 4376
+  },
+  {
+    "city": "Princeton",
+    "county": "Green Lake",
+    "zip_codes": [
+      "54968"
+    ],
+    "population": 1167
+  },
+  {
+    "city": "Pulaski",
+    "county": "Brown",
+    "zip_codes": [
+      "54162"
+    ],
+    "population": 3892
+  },
+  {
+    "city": "Pulcifer",
+    "county": "Shawano",
+    "zip_codes": [
+      "54111",
+      "54124"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Racine",
+    "county": "Racine",
+    "zip_codes": [
+      "53402",
+      "53403",
+      "53404",
+      "53405",
+      "53406"
+    ],
+    "population": 77155
+  },
+  {
+    "city": "Radisson",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54867"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Randolph",
+    "county": "Dodge",
+    "zip_codes": [
+      "53956"
+    ],
+    "population": 1574
+  },
+  {
+    "city": "Random Lake",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53075"
+    ],
+    "population": 1494
+  },
+  {
+    "city": "Raymond",
+    "county": "Racine",
+    "zip_codes": [
+      "53108",
+      "53126"
+    ],
+    "population": 3928
+  },
+  {
+    "city": "Readstown",
+    "county": "Vernon",
+    "zip_codes": [
+      "54652"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Redgranite",
+    "county": "Waushara",
+    "zip_codes": [
+      "54970"
+    ],
+    "population": 1977
+  },
+  {
+    "city": "Reedsburg",
+    "county": "Sauk",
+    "zip_codes": [
+      "53959"
+    ],
+    "population": 10060
+  },
+  {
+    "city": "Reedsville",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54230"
+    ],
+    "population": 1195
+  },
+  {
+    "city": "Reeseville",
+    "county": "Dodge",
+    "zip_codes": [
+      "53579"
+    ],
+    "population": 826
+  },
+  {
+    "city": "Reserve",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54828",
+      "54843",
+      "54876"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Rewey",
+    "county": "Iowa",
+    "zip_codes": [
+      "53580"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Rhinelander",
+    "county": "Oneida",
+    "zip_codes": [
+      "54501"
+    ],
+    "population": 8248
+  },
+  {
+    "city": "Rib Lake",
+    "county": "Taylor",
+    "zip_codes": [
+      "54470",
+      "54490"
+    ],
+    "population": 878
+  },
+  {
+    "city": "Rib Mountain",
+    "county": "Marathon",
+    "zip_codes": [
+      "54401"
+    ],
+    "population": 6134
+  },
+  {
+    "city": "Rice Lake",
+    "county": "Barron",
+    "zip_codes": [
+      "54822",
+      "54868"
+    ],
+    "population": 9030
+  },
+  {
+    "city": "Richfield",
+    "county": "Washington",
+    "zip_codes": [
+      "53017",
+      "53027",
+      "53033",
+      "53076"
+    ],
+    "population": 11806
+  },
+  {
+    "city": "Richland Center",
+    "county": "Richland",
+    "zip_codes": [
+      "53581"
+    ],
+    "population": 5030
+  },
+  {
+    "city": "Ridgeland",
+    "county": "Dunn",
+    "zip_codes": [
+      "54763"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Ridgeway",
+    "county": "Iowa",
+    "zip_codes": [
+      "53582"
+    ],
+    "population": 599
+  },
+  {
+    "city": "Rio",
+    "county": "Columbia",
+    "zip_codes": [
+      "53960"
+    ],
+    "population": 1068
+  },
+  {
+    "city": "Ripon",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54971"
+    ],
+    "population": 7803
+  },
+  {
+    "city": "River Falls",
+    "county": "Pierce",
+    "zip_codes": [
+      "54022"
+    ],
+    "population": 16349
+  },
+  {
+    "city": "River Hills",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53217"
+    ],
+    "population": 1639
+  },
+  {
+    "city": "Roberts",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54023"
+    ],
+    "population": 1981
+  },
+  {
+    "city": "Rochester",
+    "county": "Racine",
+    "zip_codes": [
+      "53105",
+      "53167",
+      "53185"
+    ],
+    "population": 3780
+  },
+  {
+    "city": "Rock Falls",
+    "county": "Dunn",
+    "zip_codes": [
+      "54755"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Rock Springs",
+    "county": "Sauk",
+    "zip_codes": [
+      "53961"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Rockdale",
+    "county": "Dane",
+    "zip_codes": [
+      "53523"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Rockland",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54614",
+      "54653"
+    ],
+    "population": 698
+  },
+  {
+    "city": "Rome",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53137",
+      "53178"
+    ],
+    "population": 609
+  },
+  {
+    "city": "Rosendale",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54974"
+    ],
+    "population": 973
+  },
+  {
+    "city": "Rosholt",
+    "county": "Portage",
+    "zip_codes": [
+      "54473"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Rothschild",
+    "county": "Marathon",
+    "zip_codes": [
+      "54401",
+      "54474",
+      "54476"
+    ],
+    "population": 5532
+  },
+  {
+    "city": "Rubicon",
+    "county": "Dodge",
+    "zip_codes": [
+      "53078"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Rudolph",
+    "county": "Wood",
+    "zip_codes": [
+      "54475"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Salem Lakes",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53104",
+      "53105",
+      "53168",
+      "53170",
+      "53179",
+      "53192"
+    ],
+    "population": 14521
+  },
+  {
+    "city": "Sand Pillow",
+    "county": "Jackson",
+    "zip_codes": [
+      "54615"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Sandy Hook",
+    "county": "Grant",
+    "zip_codes": [
+      "53811"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Sauk City",
+    "county": "Sauk",
+    "zip_codes": [
+      "53583"
+    ],
+    "population": 3500
+  },
+  {
+    "city": "Saukville",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53024",
+      "53074",
+      "53080"
+    ],
+    "population": 4268
+  },
+  {
+    "city": "Saxon",
+    "county": "Iron",
+    "zip_codes": [
+      "54559"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Sayner",
+    "county": "Vilas",
+    "zip_codes": [
+      "54560"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Scandinavia",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54977"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Schofield",
+    "county": "Marathon",
+    "zip_codes": [
+      "54476"
+    ],
+    "population": 2020
+  },
+  {
+    "city": "Seneca",
+    "county": "Crawford",
+    "zip_codes": [
+      "54626",
+      "54631",
+      "54654"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Sextonville",
+    "county": "Richland",
+    "zip_codes": [
+      "53556",
+      "53581",
+      "53584"
+    ],
+    "population": 435
+  },
+  {
+    "city": "Seymour",
+    "county": "Eau Claire",
+    "zip_codes": [
+      "54703"
+    ],
+    "population": 1547
+  },
+  {
+    "city": "Seymour",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54165"
+    ],
+    "population": 3532
+  },
+  {
+    "city": "Sharon",
+    "county": "Walworth",
+    "zip_codes": [
+      "53585"
+    ],
+    "population": 1567
+  },
+  {
+    "city": "Shawano",
+    "county": "Shawano",
+    "zip_codes": [
+      "54166"
+    ],
+    "population": 9236
+  },
+  {
+    "city": "Sheboygan",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53081",
+      "53083"
+    ],
+    "population": 49812
+  },
+  {
+    "city": "Sheboygan Falls",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53085"
+    ],
+    "population": 8190
+  },
+  {
+    "city": "Sheldon",
+    "county": "Rusk",
+    "zip_codes": [
+      "54766"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Shell Lake",
+    "county": "Washburn",
+    "zip_codes": [
+      "54871"
+    ],
+    "population": 1513
+  },
+  {
+    "city": "Sherwood",
+    "county": "Calumet",
+    "zip_codes": [
+      "54129",
+      "54169",
+      "54952"
+    ],
+    "population": 3231
+  },
+  {
+    "city": "Shiocton",
+    "county": "Outagamie",
+    "zip_codes": [
+      "54170"
+    ],
+    "population": 776
+  },
+  {
+    "city": "Shopiere",
+    "county": "Rock",
+    "zip_codes": [
+      "53511",
+      "53525"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Shorewood",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53211"
+    ],
+    "population": 13682
+  },
+  {
+    "city": "Shorewood Hills",
+    "county": "Dane",
+    "zip_codes": [
+      "53705"
+    ],
+    "population": 2067
+  },
+  {
+    "city": "Shullsburg",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53586"
+    ],
+    "population": 1310
+  },
+  {
+    "city": "Siren",
+    "county": "Burnett",
+    "zip_codes": [
+      "54872"
+    ],
+    "population": 700
+  },
+  {
+    "city": "Sister Bay",
+    "county": "Door",
+    "zip_codes": [
+      "54234"
+    ],
+    "population": 1016
+  },
+  {
+    "city": "Slinger",
+    "county": "Washington",
+    "zip_codes": [
+      "53086"
+    ],
+    "population": 6173
+  },
+  {
+    "city": "Sobieski",
+    "county": "Oconto",
+    "zip_codes": [
+      "54171"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Soldiers Grove",
+    "county": "Crawford",
+    "zip_codes": [
+      "54655"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Solon Springs",
+    "county": "Douglas",
+    "zip_codes": [
+      "54873"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Somers",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53140",
+      "53144",
+      "53177",
+      "53403"
+    ],
+    "population": 8245
+  },
+  {
+    "city": "Somerset",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54025"
+    ],
+    "population": 3084
+  },
+  {
+    "city": "South Milwaukee",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53172"
+    ],
+    "population": 20547
+  },
+  {
+    "city": "South Wayne",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53587"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Sparta",
+    "county": "Monroe",
+    "zip_codes": [
+      "54656"
+    ],
+    "population": 9921
+  },
+  {
+    "city": "Spencer",
+    "county": "Marathon",
+    "zip_codes": [
+      "54479"
+    ],
+    "population": 1621
+  },
+  {
+    "city": "Spooner",
+    "county": "Washburn",
+    "zip_codes": [
+      "54801"
+    ],
+    "population": 2203
+  },
+  {
+    "city": "Spring Green",
+    "county": "Sauk",
+    "zip_codes": [
+      "53588"
+    ],
+    "population": 1499
+  },
+  {
+    "city": "Spring Valley",
+    "county": "Pierce",
+    "zip_codes": [
+      "54767"
+    ],
+    "population": 1260
+  },
+  {
+    "city": "Springbrook",
+    "county": "Washburn",
+    "zip_codes": [
+      "54875"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Springfield",
+    "county": "Walworth",
+    "zip_codes": [
+      "53147",
+      "53176"
+    ],
+    "population": 154
+  },
+  {
+    "city": "St. Cloud",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53079"
+    ],
+    "population": 467
+  },
+  {
+    "city": "St. Croix Falls",
+    "county": "Polk",
+    "zip_codes": [
+      "54024"
+    ],
+    "population": 2469
+  },
+  {
+    "city": "St. Francis",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53235"
+    ],
+    "population": 9318
+  },
+  {
+    "city": "St. Joseph",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54601"
+    ],
+    "population": 530
+  },
+  {
+    "city": "St. Nazianz",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54232"
+    ],
+    "population": 881
+  },
+  {
+    "city": "St. Peter",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "53049",
+      "54937"
+    ],
+    "population": 1403
+  },
+  {
+    "city": "Stanley",
+    "county": "Chippewa",
+    "zip_codes": [
+      "54768"
+    ],
+    "population": 3774
+  },
+  {
+    "city": "Star Prairie",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54026"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Stetsonville",
+    "county": "Taylor",
+    "zip_codes": [
+      "54480"
+    ],
+    "population": 632
+  },
+  {
+    "city": "Steuben",
+    "county": "Crawford",
+    "zip_codes": [
+      "54657"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Stevens Point",
+    "county": "Portage",
+    "zip_codes": [
+      "54481",
+      "54482"
+    ],
+    "population": 25497
+  },
+  {
+    "city": "Stockbridge",
+    "county": "Calumet",
+    "zip_codes": [
+      "53014",
+      "53088",
+      "54129"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Stockholm",
+    "county": "Pepin",
+    "zip_codes": [
+      "54769"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Stoddard",
+    "county": "Vernon",
+    "zip_codes": [
+      "54658"
+    ],
+    "population": 860
+  },
+  {
+    "city": "Stone Lake",
+    "county": "Washburn",
+    "zip_codes": [
+      "54876"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Stoughton",
+    "county": "Dane",
+    "zip_codes": [
+      "53589"
+    ],
+    "population": 13063
+  },
+  {
+    "city": "Stratford",
+    "county": "Marathon",
+    "zip_codes": [
+      "54484"
+    ],
+    "population": 1439
+  },
+  {
+    "city": "Strum",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54770"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Sturgeon Bay",
+    "county": "Door",
+    "zip_codes": [
+      "54235"
+    ],
+    "population": 9702
+  },
+  {
+    "city": "Sturtevant",
+    "county": "Racine",
+    "zip_codes": [
+      "53177"
+    ],
+    "population": 6787
+  },
+  {
+    "city": "Suamico",
+    "county": "Brown",
+    "zip_codes": [
+      "54173",
+      "54313"
+    ],
+    "population": 13003
+  },
+  {
+    "city": "Sullivan",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53178"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Summit",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53066"
+    ],
+    "population": 4997
+  },
+  {
+    "city": "Summit Lake",
+    "county": "Langlade",
+    "zip_codes": [
+      "54485"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Sun Prairie",
+    "county": "Dane",
+    "zip_codes": [
+      "53590"
+    ],
+    "population": 36455
+  },
+  {
+    "city": "Superior",
+    "county": "Douglas",
+    "zip_codes": [
+      "54874",
+      "54880"
+    ],
+    "population": 26550
+  },
+  {
+    "city": "Suring",
+    "county": "Oconto",
+    "zip_codes": [
+      "54174"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Sussex",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53072",
+      "53089"
+    ],
+    "population": 11795
+  },
+  {
+    "city": "Tainter Lake",
+    "county": "Dunn",
+    "zip_codes": [
+      "54730",
+      "54751"
+    ],
+    "population": 2753
+  },
+  {
+    "city": "Taycheedah",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54935",
+      "54937"
+    ],
+    "population": 682
+  },
+  {
+    "city": "Taylor",
+    "county": "Jackson",
+    "zip_codes": [
+      "54659"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Tennyson",
+    "county": "Grant",
+    "zip_codes": [
+      "53820"
+    ],
+    "population": 335
+  },
+  {
+    "city": "Theresa",
+    "county": "Dodge",
+    "zip_codes": [
+      "53091"
+    ],
+    "population": 1320
+  },
+  {
+    "city": "Thiensville",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53092"
+    ],
+    "population": 3277
+  },
+  {
+    "city": "Thornton",
+    "county": "Shawano",
+    "zip_codes": [
+      "54166"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Thorp",
+    "county": "Clark",
+    "zip_codes": [
+      "54771"
+    ],
+    "population": 1696
+  },
+  {
+    "city": "Three Lakes",
+    "county": "Oneida",
+    "zip_codes": [
+      "54562"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Tichigan",
+    "county": "Racine",
+    "zip_codes": [
+      "53185"
+    ],
+    "population": 5173
+  },
+  {
+    "city": "Tigerton",
+    "county": "Shawano",
+    "zip_codes": [
+      "54486"
+    ],
+    "population": 698
+  },
+  {
+    "city": "Tilleda",
+    "county": "Shawano",
+    "zip_codes": [
+      "54128",
+      "54416"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Tomah",
+    "county": "Monroe",
+    "zip_codes": [
+      "54660"
+    ],
+    "population": 9505
+  },
+  {
+    "city": "Tomahawk",
+    "county": "Lincoln",
+    "zip_codes": [
+      "54487"
+    ],
+    "population": 3416
+  },
+  {
+    "city": "Tony",
+    "county": "Rusk",
+    "zip_codes": [
+      "54563"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Townsend",
+    "county": "Oconto",
+    "zip_codes": [
+      "54175"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Trego",
+    "county": "Washburn",
+    "zip_codes": [
+      "54888"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Trempealeau",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54661"
+    ],
+    "population": 1737
+  },
+  {
+    "city": "Tunnel City",
+    "county": "Monroe",
+    "zip_codes": [
+      "54660"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Turtle Lake",
+    "county": "Barron",
+    "zip_codes": [
+      "54889"
+    ],
+    "population": 900
+  },
+  {
+    "city": "Turtle Lake",
+    "county": "Walworth",
+    "zip_codes": [
+      "53115"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Tustin",
+    "county": "Waushara",
+    "zip_codes": [
+      "54940"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Twin Lakes",
+    "county": "Kenosha",
+    "zip_codes": [
+      "53128",
+      "53181"
+    ],
+    "population": 6351
+  },
+  {
+    "city": "Two Rivers",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54220",
+      "54241"
+    ],
+    "population": 11224
+  },
+  {
+    "city": "Union Center",
+    "county": "Juneau",
+    "zip_codes": [
+      "53962",
+      "53968"
+    ],
+    "population": 241
+  },
+  {
+    "city": "Union Grove",
+    "county": "Racine",
+    "zip_codes": [
+      "53182"
+    ],
+    "population": 4968
+  },
+  {
+    "city": "Unity",
+    "county": "Marathon",
+    "zip_codes": [
+      "54488"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Valders",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54245"
+    ],
+    "population": 871
+  },
+  {
+    "city": "Van Dyne",
+    "county": "Fond du Lac",
+    "zip_codes": [
+      "54979"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Vernon",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53149"
+    ],
+    "population": 7470
+  },
+  {
+    "city": "Verona",
+    "county": "Dane",
+    "zip_codes": [
+      "53593"
+    ],
+    "population": 14499
+  },
+  {
+    "city": "Vesper",
+    "county": "Wood",
+    "zip_codes": [
+      "54489"
+    ],
+    "population": 482
+  },
+  {
+    "city": "Viola",
+    "county": "Vernon",
+    "zip_codes": [
+      "54664"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Viroqua",
+    "county": "Vernon",
+    "zip_codes": [
+      "54665"
+    ],
+    "population": 4469
+  },
+  {
+    "city": "Wabeno",
+    "county": "Forest",
+    "zip_codes": [
+      "54566"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Waldo",
+    "county": "Sheboygan",
+    "zip_codes": [
+      "53093"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Wales",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53183",
+      "53188"
+    ],
+    "population": 2915
+  },
+  {
+    "city": "Walworth",
+    "county": "Walworth",
+    "zip_codes": [
+      "53184"
+    ],
+    "population": 2786
+  },
+  {
+    "city": "Warrens",
+    "county": "Monroe",
+    "zip_codes": [
+      "54666"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Washburn",
+    "county": "Bayfield",
+    "zip_codes": [
+      "54891"
+    ],
+    "population": 1858
+  },
+  {
+    "city": "Waterford",
+    "county": "Racine",
+    "zip_codes": [
+      "53185"
+    ],
+    "population": 5627
+  },
+  {
+    "city": "Waterloo",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53594"
+    ],
+    "population": 3542
+  },
+  {
+    "city": "Watertown",
+    "county": "Jefferson",
+    "zip_codes": [
+      "53094",
+      "53098"
+    ],
+    "population": 22873
+  },
+  {
+    "city": "Waubeka",
+    "county": "Ozaukee",
+    "zip_codes": [
+      "53021",
+      "53080"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Waukau",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54963",
+      "54964",
+      "54980"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Waukesha",
+    "county": "Waukesha",
+    "zip_codes": [
+      "53072",
+      "53186",
+      "53188",
+      "53189"
+    ],
+    "population": 70779
+  },
+  {
+    "city": "Waumandee",
+    "county": "Buffalo",
+    "zip_codes": [
+      "54622"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Waunakee",
+    "county": "Dane",
+    "zip_codes": [
+      "53597"
+    ],
+    "population": 14927
+  },
+  {
+    "city": "Waupaca",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54981"
+    ],
+    "population": 6314
+  },
+  {
+    "city": "Waupun",
+    "county": "Dodge",
+    "zip_codes": [
+      "53963"
+    ],
+    "population": 11244
+  },
+  {
+    "city": "Wausau",
+    "county": "Marathon",
+    "zip_codes": [
+      "54401",
+      "54403"
+    ],
+    "population": 39893
+  },
+  {
+    "city": "Wausaukee",
+    "county": "Marinette",
+    "zip_codes": [
+      "54177"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Wautoma",
+    "county": "Waushara",
+    "zip_codes": [
+      "54982"
+    ],
+    "population": 1882
+  },
+  {
+    "city": "Wauwatosa",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53213",
+      "53222",
+      "53225",
+      "53226"
+    ],
+    "population": 47718
+  },
+  {
+    "city": "Wauzeka",
+    "county": "Crawford",
+    "zip_codes": [
+      "53826"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Webster",
+    "county": "Burnett",
+    "zip_codes": [
+      "54893"
+    ],
+    "population": 630
+  },
+  {
+    "city": "West Allis",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53214",
+      "53219",
+      "53227"
+    ],
+    "population": 59588
+  },
+  {
+    "city": "West Baraboo",
+    "county": "Sauk",
+    "zip_codes": [
+      "53913"
+    ],
+    "population": 1493
+  },
+  {
+    "city": "West Bend",
+    "county": "Washington",
+    "zip_codes": [
+      "53090",
+      "53095"
+    ],
+    "population": 31722
+  },
+  {
+    "city": "West Milwaukee",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53214",
+      "53215",
+      "53219"
+    ],
+    "population": 4064
+  },
+  {
+    "city": "West Salem",
+    "county": "La Crosse",
+    "zip_codes": [
+      "54669"
+    ],
+    "population": 5268
+  },
+  {
+    "city": "Westboro",
+    "county": "Taylor",
+    "zip_codes": [
+      "54490"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Westby",
+    "county": "Vernon",
+    "zip_codes": [
+      "54667"
+    ],
+    "population": 2380
+  },
+  {
+    "city": "Westfield",
+    "county": "Marquette",
+    "zip_codes": [
+      "53964"
+    ],
+    "population": 1272
+  },
+  {
+    "city": "Weston",
+    "county": "Marathon",
+    "zip_codes": [
+      "54403",
+      "54476"
+    ],
+    "population": 15784
+  },
+  {
+    "city": "Weyauwega",
+    "county": "Waupaca",
+    "zip_codes": [
+      "54983"
+    ],
+    "population": 1760
+  },
+  {
+    "city": "Weyerhaeuser",
+    "county": "Rusk",
+    "zip_codes": [
+      "54895"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Wheeler",
+    "county": "Dunn",
+    "zip_codes": [
+      "54772"
+    ],
+    "population": 262
+  },
+  {
+    "city": "White Lake",
+    "county": "Langlade",
+    "zip_codes": [
+      "54491"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Whitefish Bay",
+    "county": "Milwaukee",
+    "zip_codes": [
+      "53211",
+      "53217"
+    ],
+    "population": 14750
+  },
+  {
+    "city": "Whitehall",
+    "county": "Trempealeau",
+    "zip_codes": [
+      "54773"
+    ],
+    "population": 1651
+  },
+  {
+    "city": "Whitelaw",
+    "county": "Manitowoc",
+    "zip_codes": [
+      "54247"
+    ],
+    "population": 922
+  },
+  {
+    "city": "Whitewater",
+    "county": "Walworth",
+    "zip_codes": [
+      "53190"
+    ],
+    "population": 15705
+  },
+  {
+    "city": "Whiting",
+    "county": "Portage",
+    "zip_codes": [
+      "54481"
+    ],
+    "population": 1496
+  },
+  {
+    "city": "Whittlesey",
+    "county": "Taylor",
+    "zip_codes": [
+      "54451"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Wild Rose",
+    "county": "Waushara",
+    "zip_codes": [
+      "54984"
+    ],
+    "population": 942
+  },
+  {
+    "city": "Williams Bay",
+    "county": "Walworth",
+    "zip_codes": [
+      "53191"
+    ],
+    "population": 2967
+  },
+  {
+    "city": "Wilson",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54027"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Wilton",
+    "county": "Monroe",
+    "zip_codes": [
+      "54670"
+    ],
+    "population": 535
+  },
+  {
+    "city": "Winchester",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54947"
+    ],
+    "population": 619
+  },
+  {
+    "city": "Wind Lake",
+    "county": "Racine",
+    "zip_codes": [
+      "53185"
+    ],
+    "population": 5028
+  },
+  {
+    "city": "Wind Point",
+    "county": "Racine",
+    "zip_codes": [
+      "53402"
+    ],
+    "population": 1632
+  },
+  {
+    "city": "Windsor",
+    "county": "Dane",
+    "zip_codes": [
+      "53532",
+      "53571",
+      "53590",
+      "53598"
+    ],
+    "population": 8992
+  },
+  {
+    "city": "Winneconne",
+    "county": "Winnebago",
+    "zip_codes": [
+      "54986"
+    ],
+    "population": 2519
+  },
+  {
+    "city": "Winter",
+    "county": "Sawyer",
+    "zip_codes": [
+      "54896"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Wiota",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53541",
+      "53587"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Wisconsin Dells",
+    "county": "Columbia",
+    "zip_codes": [
+      "53965"
+    ],
+    "population": 2763
+  },
+  {
+    "city": "Wisconsin Rapids",
+    "county": "Wood",
+    "zip_codes": [
+      "54494",
+      "54495"
+    ],
+    "population": 18756
+  },
+  {
+    "city": "Withee",
+    "county": "Clark",
+    "zip_codes": [
+      "54498"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Wittenberg",
+    "county": "Shawano",
+    "zip_codes": [
+      "54499"
+    ],
+    "population": 992
+  },
+  {
+    "city": "Wonewoc",
+    "county": "Juneau",
+    "zip_codes": [
+      "53968"
+    ],
+    "population": 691
+  },
+  {
+    "city": "Woodford",
+    "county": "Lafayette",
+    "zip_codes": [
+      "53599"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Woodman",
+    "county": "Grant",
+    "zip_codes": [
+      "53805",
+      "53827"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Woodruff",
+    "county": "Oneida",
+    "zip_codes": [
+      "54548",
+      "54568"
+    ],
+    "population": 550
+  },
+  {
+    "city": "Woodville",
+    "county": "St. Croix",
+    "zip_codes": [
+      "54028"
+    ],
+    "population": 1497
+  },
+  {
+    "city": "Wrightstown",
+    "county": "Brown",
+    "zip_codes": [
+      "54130",
+      "54180"
+    ],
+    "population": 3330
+  },
+  {
+    "city": "Wyeville",
+    "county": "Monroe",
+    "zip_codes": [
+      "54660",
+      "54666"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Wyocena",
+    "county": "Columbia",
+    "zip_codes": [
+      "53954",
+      "53960",
+      "53969"
+    ],
+    "population": 684
+  },
+  {
+    "city": "Yorkville",
+    "county": "Racine",
+    "zip_codes": [
+      "53126",
+      "53177",
+      "53182"
+    ],
+    "population": 3237
+  },
+  {
+    "city": "Yuba",
+    "county": "Richland",
+    "zip_codes": [
+      "54634"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Zoar",
+    "county": "Menominee",
+    "zip_codes": [
+      "54150"
+    ],
+    "population": 48
+  }
+]

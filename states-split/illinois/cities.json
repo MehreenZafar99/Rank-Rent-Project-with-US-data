@@ -1,0 +1,12383 @@
+[
+  {
+    "city": "Abingdon",
+    "county": "Knox",
+    "zip_codes": [
+      "61410"
+    ],
+    "population": 3424
+  },
+  {
+    "city": "Adair",
+    "county": "McDonough",
+    "zip_codes": [
+      "61411"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Adams",
+    "county": "Adams",
+    "zip_codes": [
+      "62347"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Addieville",
+    "county": "Washington",
+    "zip_codes": [
+      "62214"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Addison",
+    "county": "DuPage",
+    "zip_codes": [
+      "60101",
+      "60191"
+    ],
+    "population": 35470
+  },
+  {
+    "city": "Adeline",
+    "county": "Ogle",
+    "zip_codes": [
+      "61047"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Albany",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61230"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Albers",
+    "county": "Clinton",
+    "zip_codes": [
+      "62215",
+      "62245",
+      "62265"
+    ],
+    "population": 1428
+  },
+  {
+    "city": "Albion",
+    "county": "Edwards",
+    "zip_codes": [
+      "62806"
+    ],
+    "population": 2107
+  },
+  {
+    "city": "Alden",
+    "county": "McHenry",
+    "zip_codes": [
+      "60033"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Aledo",
+    "county": "Mercer",
+    "zip_codes": [
+      "61231"
+    ],
+    "population": 3753
+  },
+  {
+    "city": "Alexander",
+    "county": "Morgan",
+    "zip_codes": [
+      "62601"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Alexis",
+    "county": "Warren",
+    "zip_codes": [
+      "61412"
+    ],
+    "population": 719
+  },
+  {
+    "city": "Algonquin",
+    "county": "McHenry",
+    "zip_codes": [
+      "60013",
+      "60102"
+    ],
+    "population": 29904
+  },
+  {
+    "city": "Alhambra",
+    "county": "Madison",
+    "zip_codes": [
+      "62001"
+    ],
+    "population": 608
+  },
+  {
+    "city": "Allendale",
+    "county": "Wabash",
+    "zip_codes": [
+      "62410"
+    ],
+    "population": 491
+  },
+  {
+    "city": "Allenville",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61951"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Allerton",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61810"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Alma",
+    "county": "Marion",
+    "zip_codes": [
+      "62807"
+    ],
+    "population": 300
+  },
+  {
+    "city": "Alpha",
+    "county": "Henry",
+    "zip_codes": [
+      "61413"
+    ],
+    "population": 801
+  },
+  {
+    "city": "Alsey",
+    "county": "Scott",
+    "zip_codes": [
+      "62082",
+      "62610",
+      "62694"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Alsip",
+    "county": "Cook",
+    "zip_codes": [
+      "60406",
+      "60803"
+    ],
+    "population": 18650
+  },
+  {
+    "city": "Altamont",
+    "county": "Effingham",
+    "zip_codes": [
+      "62411"
+    ],
+    "population": 2500
+  },
+  {
+    "city": "Alto Pass",
+    "county": "Union",
+    "zip_codes": [
+      "62905"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Alton",
+    "county": "Madison",
+    "zip_codes": [
+      "62002",
+      "62018"
+    ],
+    "population": 25430
+  },
+  {
+    "city": "Altona",
+    "county": "Knox",
+    "zip_codes": [
+      "61414"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Alvan (Alvin)",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61811"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Amboy",
+    "county": "Lee",
+    "zip_codes": [
+      "61021",
+      "61310"
+    ],
+    "population": 2396
+  },
+  {
+    "city": "Anchor",
+    "county": "McLean",
+    "zip_codes": [
+      "61720"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Andalusia",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61232",
+      "61264"
+    ],
+    "population": 1073
+  },
+  {
+    "city": "Andover",
+    "county": "Henry",
+    "zip_codes": [
+      "61233",
+      "61238",
+      "61262"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Andres",
+    "county": "Will",
+    "zip_codes": [
+      "60468"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Anna",
+    "county": "Union",
+    "zip_codes": [
+      "62906"
+    ],
+    "population": 4222
+  },
+  {
+    "city": "Annapolis",
+    "county": "Crawford",
+    "zip_codes": [
+      "62413"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Annawan",
+    "county": "Henry",
+    "zip_codes": [
+      "61234",
+      "61344"
+    ],
+    "population": 955
+  },
+  {
+    "city": "Antioch",
+    "county": "Lake",
+    "zip_codes": [
+      "60002"
+    ],
+    "population": 14751
+  },
+  {
+    "city": "Apple Canyon Lake",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61001"
+    ],
+    "population": 795
+  },
+  {
+    "city": "Apple River",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61001"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Arbury Hills",
+    "county": "Will",
+    "zip_codes": [
+      "60448"
+    ],
+    "population": 1408
+  },
+  {
+    "city": "Arcola",
+    "county": "Douglas",
+    "zip_codes": [
+      "61910"
+    ],
+    "population": 2867
+  },
+  {
+    "city": "Arenzville",
+    "county": "Cass",
+    "zip_codes": [
+      "62611"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Argenta",
+    "county": "Macon",
+    "zip_codes": [
+      "62501"
+    ],
+    "population": 838
+  },
+  {
+    "city": "Argyle",
+    "county": "Boone",
+    "zip_codes": [
+      "61011"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Arlington",
+    "county": "Bureau",
+    "zip_codes": [
+      "61312"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Arlington Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60004",
+      "60005"
+    ],
+    "population": 76220
+  },
+  {
+    "city": "Armington",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61721"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Aroma Park",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901",
+      "60910",
+      "60964"
+    ],
+    "population": 702
+  },
+  {
+    "city": "Arrowsmith",
+    "county": "McLean",
+    "zip_codes": [
+      "61722"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Arthur",
+    "county": "Douglas",
+    "zip_codes": [
+      "61911"
+    ],
+    "population": 2024
+  },
+  {
+    "city": "Ashkum",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60911"
+    ],
+    "population": 765
+  },
+  {
+    "city": "Ashland",
+    "county": "Cass",
+    "zip_codes": [
+      "62612"
+    ],
+    "population": 1001
+  },
+  {
+    "city": "Ashley",
+    "county": "Washington",
+    "zip_codes": [
+      "62808"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Ashmore",
+    "county": "Coles",
+    "zip_codes": [
+      "61912"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Ashton",
+    "county": "Lee",
+    "zip_codes": [
+      "61006"
+    ],
+    "population": 837
+  },
+  {
+    "city": "Assumption",
+    "county": "Christian",
+    "zip_codes": [
+      "62510"
+    ],
+    "population": 1117
+  },
+  {
+    "city": "Astoria",
+    "county": "Fulton",
+    "zip_codes": [
+      "61501"
+    ],
+    "population": 1094
+  },
+  {
+    "city": "Athens",
+    "county": "Menard",
+    "zip_codes": [
+      "62613"
+    ],
+    "population": 2146
+  },
+  {
+    "city": "Atkinson",
+    "county": "Henry",
+    "zip_codes": [
+      "61235"
+    ],
+    "population": 988
+  },
+  {
+    "city": "Atlanta",
+    "county": "Logan",
+    "zip_codes": [
+      "61723"
+    ],
+    "population": 1738
+  },
+  {
+    "city": "Atwood",
+    "county": "Piatt",
+    "zip_codes": [
+      "61913"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Auburn",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62615"
+    ],
+    "population": 4357
+  },
+  {
+    "city": "Augusta",
+    "county": "Hancock",
+    "zip_codes": [
+      "62311"
+    ],
+    "population": 710
+  },
+  {
+    "city": "Aurora",
+    "county": "Kane",
+    "zip_codes": [
+      "60502",
+      "60503",
+      "60504",
+      "60505",
+      "60506",
+      "60519",
+      "60563",
+      "60564"
+    ],
+    "population": 179867
+  },
+  {
+    "city": "Ava",
+    "county": "Jackson",
+    "zip_codes": [
+      "62907"
+    ],
+    "population": 557
+  },
+  {
+    "city": "Aviston",
+    "county": "Clinton",
+    "zip_codes": [
+      "62216"
+    ],
+    "population": 2451
+  },
+  {
+    "city": "Avon",
+    "county": "Fulton",
+    "zip_codes": [
+      "61415"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Baileyville",
+    "county": "Ogle",
+    "zip_codes": [
+      "61007"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Baldwin",
+    "county": "Randolph",
+    "zip_codes": [
+      "62217"
+    ],
+    "population": 334
+  },
+  {
+    "city": "Banner",
+    "county": "Fulton",
+    "zip_codes": [
+      "61520"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Bannockburn",
+    "county": "Lake",
+    "zip_codes": [
+      "60015"
+    ],
+    "population": 1125
+  },
+  {
+    "city": "Bardolph",
+    "county": "McDonough",
+    "zip_codes": [
+      "61416"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Barrington",
+    "county": "Cook",
+    "zip_codes": [
+      "60010"
+    ],
+    "population": 11049
+  },
+  {
+    "city": "Barrington Hills",
+    "county": "Cook",
+    "zip_codes": [
+      "60010",
+      "60118"
+    ],
+    "population": 3923
+  },
+  {
+    "city": "Barry",
+    "county": "Pike",
+    "zip_codes": [
+      "62312"
+    ],
+    "population": 1442
+  },
+  {
+    "city": "Barstow",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61236",
+      "61244"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Bartelso",
+    "county": "Clinton",
+    "zip_codes": [
+      "62218"
+    ],
+    "population": 768
+  },
+  {
+    "city": "Bartlett",
+    "county": "DuPage",
+    "zip_codes": [
+      "60103",
+      "60120"
+    ],
+    "population": 40531
+  },
+  {
+    "city": "Bartonville",
+    "county": "Peoria",
+    "zip_codes": [
+      "61607"
+    ],
+    "population": 5854
+  },
+  {
+    "city": "Basco",
+    "county": "Hancock",
+    "zip_codes": [
+      "62313"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Batavia",
+    "county": "Kane",
+    "zip_codes": [
+      "60510",
+      "60539",
+      "60542"
+    ],
+    "population": 26730
+  },
+  {
+    "city": "Batchtown",
+    "county": "Calhoun",
+    "zip_codes": [
+      "62006"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Bath",
+    "county": "Mason",
+    "zip_codes": [
+      "62617"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Bay View Gardens",
+    "county": "Woodford",
+    "zip_codes": [
+      "61611"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Baylis",
+    "county": "Pike",
+    "zip_codes": [
+      "62314"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Beach Park",
+    "county": "Lake",
+    "zip_codes": [
+      "60083",
+      "60087",
+      "60099"
+    ],
+    "population": 13988
+  },
+  {
+    "city": "Beardstown",
+    "county": "Cass",
+    "zip_codes": [
+      "62618"
+    ],
+    "population": 6047
+  },
+  {
+    "city": "Beason",
+    "county": "Logan",
+    "zip_codes": [
+      "62512"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Beaverville",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60912"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Beckemeyer",
+    "county": "Clinton",
+    "zip_codes": [
+      "62219"
+    ],
+    "population": 1024
+  },
+  {
+    "city": "Bedford Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60455",
+      "60501",
+      "60629",
+      "60638"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Beecher",
+    "county": "Will",
+    "zip_codes": [
+      "60401"
+    ],
+    "population": 4837
+  },
+  {
+    "city": "Beecher City",
+    "county": "Effingham",
+    "zip_codes": [
+      "62414"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Belgium",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61834",
+      "61883"
+    ],
+    "population": 326
+  },
+  {
+    "city": "Belknap",
+    "county": "Johnson",
+    "zip_codes": [
+      "62908"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Belle Prairie City",
+    "county": "Hamilton",
+    "zip_codes": [
+      "62828"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Belle Rive",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62810"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Belleville",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62220",
+      "62221",
+      "62223",
+      "62226",
+      "62243"
+    ],
+    "population": 41722
+  },
+  {
+    "city": "Bellevue",
+    "county": "Peoria",
+    "zip_codes": [
+      "61604",
+      "61605",
+      "61607"
+    ],
+    "population": 2158
+  },
+  {
+    "city": "Bellflower",
+    "county": "McLean",
+    "zip_codes": [
+      "61724"
+    ],
+    "population": 410
+  },
+  {
+    "city": "Bellmont",
+    "county": "Wabash",
+    "zip_codes": [
+      "62811"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Bellwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60104",
+      "60160"
+    ],
+    "population": 18373
+  },
+  {
+    "city": "Belvidere",
+    "county": "Boone",
+    "zip_codes": [
+      "61008"
+    ],
+    "population": 24510
+  },
+  {
+    "city": "Bement",
+    "county": "Piatt",
+    "zip_codes": [
+      "61813"
+    ],
+    "population": 1664
+  },
+  {
+    "city": "Benld",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62009",
+      "62085"
+    ],
+    "population": 1535
+  },
+  {
+    "city": "Bensenville",
+    "county": "DuPage",
+    "zip_codes": [
+      "60106",
+      "60131"
+    ],
+    "population": 18576
+  },
+  {
+    "city": "Benson",
+    "county": "Woodford",
+    "zip_codes": [
+      "61516"
+    ],
+    "population": 482
+  },
+  {
+    "city": "Bentley",
+    "county": "Hancock",
+    "zip_codes": [
+      "62321"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Benton",
+    "county": "Franklin",
+    "zip_codes": [
+      "62812",
+      "62897"
+    ],
+    "population": 7076
+  },
+  {
+    "city": "Berkeley",
+    "county": "Cook",
+    "zip_codes": [
+      "60163",
+      "60164"
+    ],
+    "population": 5222
+  },
+  {
+    "city": "Berlin",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62670"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Berwyn",
+    "county": "Cook",
+    "zip_codes": [
+      "60402"
+    ],
+    "population": 55888
+  },
+  {
+    "city": "Bethalto",
+    "county": "Madison",
+    "zip_codes": [
+      "62010",
+      "62018",
+      "62024",
+      "62067"
+    ],
+    "population": 9244
+  },
+  {
+    "city": "Bethany",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61914"
+    ],
+    "population": 1253
+  },
+  {
+    "city": "Beverly",
+    "county": "Adams",
+    "zip_codes": [
+      "62347"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Big Foot Prairie",
+    "county": "McHenry",
+    "zip_codes": [
+      "60033"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Big Rock",
+    "county": "Kane",
+    "zip_codes": [
+      "60511",
+      "60554"
+    ],
+    "population": 1208
+  },
+  {
+    "city": "Biggsville",
+    "county": "Henderson",
+    "zip_codes": [
+      "61418"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Bingham",
+    "county": "Fayette",
+    "zip_codes": [
+      "62011"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Bishop Hill",
+    "county": "Henry",
+    "zip_codes": [
+      "61419"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Bismarck",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61814"
+    ],
+    "population": 510
+  },
+  {
+    "city": "Blairsville",
+    "county": "Williamson",
+    "zip_codes": [
+      "62918",
+      "62924"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Blandinsville",
+    "county": "McDonough",
+    "zip_codes": [
+      "61420"
+    ],
+    "population": 715
+  },
+  {
+    "city": "Bloomfield",
+    "county": "Adams",
+    "zip_codes": [
+      "62305"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "zip_codes": [
+      "60108",
+      "60172"
+    ],
+    "population": 22388
+  },
+  {
+    "city": "Bloomington",
+    "county": "McLean",
+    "zip_codes": [
+      "61701",
+      "61704",
+      "61705"
+    ],
+    "population": 78703
+  },
+  {
+    "city": "Blue Island",
+    "county": "Cook",
+    "zip_codes": [
+      "60406",
+      "60827"
+    ],
+    "population": 23416
+  },
+  {
+    "city": "Blue Mound",
+    "county": "Macon",
+    "zip_codes": [
+      "62513"
+    ],
+    "population": 891
+  },
+  {
+    "city": "Bluffs",
+    "county": "Scott",
+    "zip_codes": [
+      "62621"
+    ],
+    "population": 586
+  },
+  {
+    "city": "Bluford",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62814"
+    ],
+    "population": 569
+  },
+  {
+    "city": "Bolingbrook",
+    "county": "Will",
+    "zip_codes": [
+      "60440",
+      "60490",
+      "60544"
+    ],
+    "population": 73813
+  },
+  {
+    "city": "Bondville",
+    "county": "Champaign",
+    "zip_codes": [
+      "61815",
+      "61822"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Bone Gap",
+    "county": "Edwards",
+    "zip_codes": [
+      "62815"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Bonfield",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60913"
+    ],
+    "population": 474
+  },
+  {
+    "city": "Bonnie",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62816"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Bonnie Brae",
+    "county": "Will",
+    "zip_codes": [
+      "60441"
+    ],
+    "population": 844
+  },
+  {
+    "city": "Boody",
+    "county": "Macon",
+    "zip_codes": [
+      "62514",
+      "62544"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Boulder Hill",
+    "county": "Kendall",
+    "zip_codes": [
+      "60538"
+    ],
+    "population": 9127
+  },
+  {
+    "city": "Bourbonnais",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60914",
+      "60950"
+    ],
+    "population": 18109
+  },
+  {
+    "city": "Bowen",
+    "county": "Hancock",
+    "zip_codes": [
+      "62316"
+    ],
+    "population": 710
+  },
+  {
+    "city": "Braceville",
+    "county": "Grundy",
+    "zip_codes": [
+      "60407",
+      "60481"
+    ],
+    "population": 890
+  },
+  {
+    "city": "Bradford",
+    "county": "Stark",
+    "zip_codes": [
+      "61421"
+    ],
+    "population": 773
+  },
+  {
+    "city": "Bradley",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901",
+      "60914",
+      "60915"
+    ],
+    "population": 15331
+  },
+  {
+    "city": "Braidwood",
+    "county": "Will",
+    "zip_codes": [
+      "60407",
+      "60408",
+      "60481"
+    ],
+    "population": 6175
+  },
+  {
+    "city": "Breese",
+    "county": "Clinton",
+    "zip_codes": [
+      "62230"
+    ],
+    "population": 4373
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Lawrence",
+    "zip_codes": [
+      "62417"
+    ],
+    "population": 1819
+  },
+  {
+    "city": "Bridgeview",
+    "county": "Cook",
+    "zip_codes": [
+      "60455"
+    ],
+    "population": 16721
+  },
+  {
+    "city": "Brighton",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62012"
+    ],
+    "population": 2536
+  },
+  {
+    "city": "Brimfield",
+    "county": "Peoria",
+    "zip_codes": [
+      "61517"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Broadlands",
+    "county": "Champaign",
+    "zip_codes": [
+      "61816"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Broadview",
+    "county": "Cook",
+    "zip_codes": [
+      "60155"
+    ],
+    "population": 7898
+  },
+  {
+    "city": "Broadwell",
+    "county": "Logan",
+    "zip_codes": [
+      "62634",
+      "62666"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Brocton",
+    "county": "Edgar",
+    "zip_codes": [
+      "61917"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Brookfield",
+    "county": "Cook",
+    "zip_codes": [
+      "60513"
+    ],
+    "population": 19235
+  },
+  {
+    "city": "Brooklyn",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62059",
+      "62060",
+      "62201"
+    ],
+    "population": 811
+  },
+  {
+    "city": "Brookport",
+    "county": "Massac",
+    "zip_codes": [
+      "62910"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Broughton",
+    "county": "Hamilton",
+    "zip_codes": [
+      "62817"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Browning",
+    "county": "Schuyler",
+    "zip_codes": [
+      "62624"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Browns",
+    "county": "Edwards",
+    "zip_codes": [
+      "62818"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Brownstown",
+    "county": "Fayette",
+    "zip_codes": [
+      "62418"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Brussels",
+    "county": "Calhoun",
+    "zip_codes": [
+      "62013"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Bryant",
+    "county": "Fulton",
+    "zip_codes": [
+      "61519"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Buckingham",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60917"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Buckley",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60918"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Buckner",
+    "county": "Franklin",
+    "zip_codes": [
+      "62812",
+      "62819"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Buda",
+    "county": "Bureau",
+    "zip_codes": [
+      "61314"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Buffalo",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62515"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Buffalo Grove",
+    "county": "Lake",
+    "zip_codes": [
+      "60089"
+    ],
+    "population": 42824
+  },
+  {
+    "city": "Buffalo Prairie",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61237",
+      "61279"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bull Valley",
+    "county": "McHenry",
+    "zip_codes": [
+      "60012",
+      "60050",
+      "60097",
+      "60098"
+    ],
+    "population": 1121
+  },
+  {
+    "city": "Bulpitt",
+    "county": "Christian",
+    "zip_codes": [
+      "62517"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Buncombe",
+    "county": "Johnson",
+    "zip_codes": [
+      "62912"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Bunker Hill",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62014"
+    ],
+    "population": 1305
+  },
+  {
+    "city": "Burbank",
+    "county": "Cook",
+    "zip_codes": [
+      "60459"
+    ],
+    "population": 28822
+  },
+  {
+    "city": "Bureau Junction",
+    "county": "Bureau",
+    "zip_codes": [
+      "61315",
+      "61356"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Burlington",
+    "county": "Kane",
+    "zip_codes": [
+      "60109",
+      "60140",
+      "60178"
+    ],
+    "population": 479
+  },
+  {
+    "city": "Burnham",
+    "county": "Cook",
+    "zip_codes": [
+      "60633"
+    ],
+    "population": 3978
+  },
+  {
+    "city": "Burnt Prairie",
+    "county": "White",
+    "zip_codes": [
+      "62820"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Burr Ridge",
+    "county": "DuPage",
+    "zip_codes": [
+      "60525",
+      "60527"
+    ],
+    "population": 11119
+  },
+  {
+    "city": "Burton",
+    "county": "Adams",
+    "zip_codes": [
+      "62305"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Burtons Bridge",
+    "county": "McHenry",
+    "zip_codes": [
+      "60012",
+      "60014",
+      "60050"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Bush",
+    "county": "Williamson",
+    "zip_codes": [
+      "62924"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Bushnell",
+    "county": "McDonough",
+    "zip_codes": [
+      "61422"
+    ],
+    "population": 2763
+  },
+  {
+    "city": "Butler",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62015"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Byron",
+    "county": "Ogle",
+    "zip_codes": [
+      "61010"
+    ],
+    "population": 3742
+  },
+  {
+    "city": "Cabery",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60919"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Cable",
+    "county": "Mercer",
+    "zip_codes": [
+      "61281"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Cahokia Heights",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62206"
+    ],
+    "population": 17173
+  },
+  {
+    "city": "Cairo",
+    "county": "Alexander",
+    "zip_codes": [
+      "62914"
+    ],
+    "population": 1699
+  },
+  {
+    "city": "Caledonia",
+    "county": "Boone",
+    "zip_codes": [
+      "61011"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Calhoun",
+    "county": "Richland",
+    "zip_codes": [
+      "62419"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Calumet City",
+    "county": "Cook",
+    "zip_codes": [
+      "60409"
+    ],
+    "population": 35253
+  },
+  {
+    "city": "Calumet Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60827"
+    ],
+    "population": 6836
+  },
+  {
+    "city": "Camargo",
+    "county": "Douglas",
+    "zip_codes": [
+      "61919"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Cambria",
+    "county": "Williamson",
+    "zip_codes": [
+      "62915",
+      "62918"
+    ],
+    "population": 1271
+  },
+  {
+    "city": "Cambridge",
+    "county": "Henry",
+    "zip_codes": [
+      "61238"
+    ],
+    "population": 2184
+  },
+  {
+    "city": "Camden",
+    "county": "Schuyler",
+    "zip_codes": [
+      "62319"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Cameron",
+    "county": "Warren",
+    "zip_codes": [
+      "61423"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Camp Point",
+    "county": "Adams",
+    "zip_codes": [
+      "62320"
+    ],
+    "population": 1197
+  },
+  {
+    "city": "Campbell Hill",
+    "county": "Jackson",
+    "zip_codes": [
+      "62916"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Campbell's Island",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61244"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Campton Hills",
+    "county": "Kane",
+    "zip_codes": [
+      "60119",
+      "60124",
+      "60175",
+      "60183"
+    ],
+    "population": 10724
+  },
+  {
+    "city": "Campus",
+    "county": "Livingston",
+    "zip_codes": [
+      "60920"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Candlewick Lake",
+    "county": "Boone",
+    "zip_codes": [
+      "61065"
+    ],
+    "population": 5459
+  },
+  {
+    "city": "Canton",
+    "county": "Fulton",
+    "zip_codes": [
+      "61520"
+    ],
+    "population": 13408
+  },
+  {
+    "city": "Cantrall",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62625"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Capron",
+    "county": "Boone",
+    "zip_codes": [
+      "61012"
+    ],
+    "population": 1328
+  },
+  {
+    "city": "Carbon Cliff",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61239",
+      "61244",
+      "61282"
+    ],
+    "population": 2248
+  },
+  {
+    "city": "Carbon Hill",
+    "county": "Grundy",
+    "zip_codes": [
+      "60416"
+    ],
+    "population": 485
+  },
+  {
+    "city": "Carbondale",
+    "county": "Jackson",
+    "zip_codes": [
+      "62901",
+      "62902",
+      "62903",
+      "62966"
+    ],
+    "population": 21813
+  },
+  {
+    "city": "Carlinville",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62626"
+    ],
+    "population": 5574
+  },
+  {
+    "city": "Carlock",
+    "county": "McLean",
+    "zip_codes": [
+      "61725"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Carlyle",
+    "county": "Clinton",
+    "zip_codes": [
+      "62231"
+    ],
+    "population": 3134
+  },
+  {
+    "city": "Carman",
+    "county": "Henderson",
+    "zip_codes": [
+      "61425"
+    ],
+    "population": 343
+  },
+  {
+    "city": "Carmi",
+    "county": "White",
+    "zip_codes": [
+      "62821"
+    ],
+    "population": 4879
+  },
+  {
+    "city": "Carol Stream",
+    "county": "DuPage",
+    "zip_codes": [
+      "60108",
+      "60188"
+    ],
+    "population": 39427
+  },
+  {
+    "city": "Carpentersville",
+    "county": "Kane",
+    "zip_codes": [
+      "60110",
+      "60118"
+    ],
+    "population": 37544
+  },
+  {
+    "city": "Carrier Mills",
+    "county": "Saline",
+    "zip_codes": [
+      "62917"
+    ],
+    "population": 1702
+  },
+  {
+    "city": "Carrollton",
+    "county": "Greene",
+    "zip_codes": [
+      "62016"
+    ],
+    "population": 2528
+  },
+  {
+    "city": "Carterville",
+    "county": "Williamson",
+    "zip_codes": [
+      "62918"
+    ],
+    "population": 5822
+  },
+  {
+    "city": "Carthage",
+    "county": "Hancock",
+    "zip_codes": [
+      "62321"
+    ],
+    "population": 2508
+  },
+  {
+    "city": "Cary",
+    "county": "McHenry",
+    "zip_codes": [
+      "60013"
+    ],
+    "population": 17875
+  },
+  {
+    "city": "Casey",
+    "county": "Clark",
+    "zip_codes": [
+      "62420"
+    ],
+    "population": 2258
+  },
+  {
+    "city": "Caseyville",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62203",
+      "62204",
+      "62208",
+      "62232",
+      "62234"
+    ],
+    "population": 4170
+  },
+  {
+    "city": "Catlin",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61817"
+    ],
+    "population": 2161
+  },
+  {
+    "city": "Cave-In-Rock",
+    "county": "Hardin",
+    "zip_codes": [
+      "62919"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Cedar Point",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61316",
+      "61354"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Cedarville",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61013",
+      "61032"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Central City",
+    "county": "Marion",
+    "zip_codes": [
+      "62801"
+    ],
+    "population": 1123
+  },
+  {
+    "city": "Centralia",
+    "county": "Marion",
+    "zip_codes": [
+      "62801"
+    ],
+    "population": 12009
+  },
+  {
+    "city": "Cerro Gordo",
+    "county": "Piatt",
+    "zip_codes": [
+      "61818"
+    ],
+    "population": 1426
+  },
+  {
+    "city": "Chadwick",
+    "county": "Carroll",
+    "zip_codes": [
+      "61014"
+    ],
+    "population": 577
+  },
+  {
+    "city": "Champaign",
+    "county": "Champaign",
+    "zip_codes": [
+      "61820",
+      "61821",
+      "61822"
+    ],
+    "population": 88822
+  },
+  {
+    "city": "Chandlerville",
+    "county": "Cass",
+    "zip_codes": [
+      "62627"
+    ],
+    "population": 552
+  },
+  {
+    "city": "Channahon",
+    "county": "Grundy",
+    "zip_codes": [
+      "60410",
+      "60447",
+      "60450",
+      "60481"
+    ],
+    "population": 13854
+  },
+  {
+    "city": "Channel Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60002"
+    ],
+    "population": 1988
+  },
+  {
+    "city": "Chapin",
+    "county": "Morgan",
+    "zip_codes": [
+      "62628"
+    ],
+    "population": 618
+  },
+  {
+    "city": "Charleston",
+    "county": "Coles",
+    "zip_codes": [
+      "61920",
+      "61938"
+    ],
+    "population": 17212
+  },
+  {
+    "city": "Chatham",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62536",
+      "62615",
+      "62629",
+      "62712"
+    ],
+    "population": 14740
+  },
+  {
+    "city": "Chatsworth",
+    "county": "Livingston",
+    "zip_codes": [
+      "60921"
+    ],
+    "population": 1161
+  },
+  {
+    "city": "Chebanse",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60922"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Chemung",
+    "county": "McHenry",
+    "zip_codes": [
+      "60033"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Chenoa",
+    "county": "McLean",
+    "zip_codes": [
+      "61726"
+    ],
+    "population": 1559
+  },
+  {
+    "city": "Cherry",
+    "county": "Bureau",
+    "zip_codes": [
+      "61312",
+      "61317"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Cherry Valley",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61008",
+      "61016",
+      "61108",
+      "61109",
+      "61112"
+    ],
+    "population": 3268
+  },
+  {
+    "city": "Chester",
+    "county": "Randolph",
+    "zip_codes": [
+      "62233"
+    ],
+    "population": 6830
+  },
+  {
+    "city": "Chesterfield",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62630"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Chestnut",
+    "county": "Logan",
+    "zip_codes": [
+      "62518"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Chicago",
+    "county": "Cook",
+    "zip_codes": [
+      "60018",
+      "60106",
+      "60601",
+      "60602",
+      "60603",
+      "60604",
+      "60605",
+      "60606",
+      "60607",
+      "60608",
+      "60609",
+      "60610",
+      "60611",
+      "60612",
+      "60613",
+      "60614",
+      "60615",
+      "60616",
+      "60617",
+      "60618",
+      "60619",
+      "60620",
+      "60621",
+      "60622",
+      "60623",
+      "60624",
+      "60625",
+      "60626",
+      "60628",
+      "60629",
+      "60630",
+      "60631",
+      "60632",
+      "60633",
+      "60634",
+      "60636",
+      "60637",
+      "60638",
+      "60639",
+      "60640",
+      "60641",
+      "60642",
+      "60643",
+      "60644",
+      "60645",
+      "60646",
+      "60647",
+      "60649",
+      "60651",
+      "60652",
+      "60653",
+      "60654",
+      "60655",
+      "60656",
+      "60657",
+      "60659",
+      "60660",
+      "60661",
+      "60707",
+      "60827"
+    ],
+    "population": 2707648
+  },
+  {
+    "city": "Chicago Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60411"
+    ],
+    "population": 26938
+  },
+  {
+    "city": "Chicago Ridge",
+    "county": "Cook",
+    "zip_codes": [
+      "60415"
+    ],
+    "population": 14147
+  },
+  {
+    "city": "Chillicothe",
+    "county": "Peoria",
+    "zip_codes": [
+      "61523"
+    ],
+    "population": 6185
+  },
+  {
+    "city": "Chrisman",
+    "county": "Edgar",
+    "zip_codes": [
+      "61924"
+    ],
+    "population": 1352
+  },
+  {
+    "city": "Christopher",
+    "county": "Franklin",
+    "zip_codes": [
+      "62822",
+      "62865"
+    ],
+    "population": 2413
+  },
+  {
+    "city": "Cicero",
+    "county": "Cook",
+    "zip_codes": [
+      "60804"
+    ],
+    "population": 83223
+  },
+  {
+    "city": "Cisco",
+    "county": "Piatt",
+    "zip_codes": [
+      "61830"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Cisne",
+    "county": "Wayne",
+    "zip_codes": [
+      "62823"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Cissna Park",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60924"
+    ],
+    "population": 960
+  },
+  {
+    "city": "Claremont",
+    "county": "Richland",
+    "zip_codes": [
+      "62421"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Clarendon Hills",
+    "county": "DuPage",
+    "zip_codes": [
+      "60514"
+    ],
+    "population": 8642
+  },
+  {
+    "city": "Clay City",
+    "county": "Clay",
+    "zip_codes": [
+      "62824"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Clayton",
+    "county": "Adams",
+    "zip_codes": [
+      "62324"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Cleveland",
+    "county": "Henry",
+    "zip_codes": [
+      "61241"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Clifton",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60927"
+    ],
+    "population": 1279
+  },
+  {
+    "city": "Clinton",
+    "county": "De Witt",
+    "zip_codes": [
+      "61727"
+    ],
+    "population": 7012
+  },
+  {
+    "city": "Coal City",
+    "county": "Grundy",
+    "zip_codes": [
+      "60407",
+      "60416"
+    ],
+    "population": 5145
+  },
+  {
+    "city": "Coal Valley",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61240"
+    ],
+    "population": 4142
+  },
+  {
+    "city": "Coalton",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62075"
+    ],
+    "population": 280
+  },
+  {
+    "city": "Coatsburg",
+    "county": "Adams",
+    "zip_codes": [
+      "62325"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Cobden",
+    "county": "Union",
+    "zip_codes": [
+      "62920"
+    ],
+    "population": 1064
+  },
+  {
+    "city": "Coffeen",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62017"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Colchester",
+    "county": "McDonough",
+    "zip_codes": [
+      "62326"
+    ],
+    "population": 1057
+  },
+  {
+    "city": "Coleta",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61081"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Colfax",
+    "county": "McLean",
+    "zip_codes": [
+      "61728"
+    ],
+    "population": 955
+  },
+  {
+    "city": "Collinsville",
+    "county": "Madison",
+    "zip_codes": [
+      "62234"
+    ],
+    "population": 24126
+  },
+  {
+    "city": "Colona",
+    "county": "Henry",
+    "zip_codes": [
+      "61240",
+      "61241"
+    ],
+    "population": 5189
+  },
+  {
+    "city": "Colp",
+    "county": "Williamson",
+    "zip_codes": [
+      "62918",
+      "62921"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Columbia",
+    "county": "Monroe",
+    "zip_codes": [
+      "62236"
+    ],
+    "population": 11063
+  },
+  {
+    "city": "Columbus",
+    "county": "Adams",
+    "zip_codes": [
+      "62305",
+      "62320"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Como",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61081"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Compton",
+    "county": "Lee",
+    "zip_codes": [
+      "61318"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Concord",
+    "county": "Morgan",
+    "zip_codes": [
+      "62631"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Congerville",
+    "county": "Woodford",
+    "zip_codes": [
+      "61729"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Cooksville",
+    "county": "McLean",
+    "zip_codes": [
+      "61730"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Coral",
+    "county": "McHenry",
+    "zip_codes": [
+      "60152"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Cordova",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61242"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Cornell",
+    "county": "Livingston",
+    "zip_codes": [
+      "61319"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Cornland",
+    "county": "Logan",
+    "zip_codes": [
+      "62519"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Cortland",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60112",
+      "60115",
+      "60151"
+    ],
+    "population": 4556
+  },
+  {
+    "city": "Coulterville",
+    "county": "Randolph",
+    "zip_codes": [
+      "62237"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Country Club Hills",
+    "county": "Cook",
+    "zip_codes": [
+      "60478"
+    ],
+    "population": 16419
+  },
+  {
+    "city": "Countryside",
+    "county": "Cook",
+    "zip_codes": [
+      "60525"
+    ],
+    "population": 6294
+  },
+  {
+    "city": "Cowden",
+    "county": "Shelby",
+    "zip_codes": [
+      "62422"
+    ],
+    "population": 547
+  },
+  {
+    "city": "Coyne Center",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61264"
+    ],
+    "population": 906
+  },
+  {
+    "city": "Crab Orchard",
+    "county": "Williamson",
+    "zip_codes": [
+      "62959"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Crainville",
+    "county": "Williamson",
+    "zip_codes": [
+      "62918"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Creal Springs",
+    "county": "Williamson",
+    "zip_codes": [
+      "62922"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Crescent City",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60928"
+    ],
+    "population": 450
+  },
+  {
+    "city": "Crest Hill",
+    "county": "Will",
+    "zip_codes": [
+      "60403",
+      "60441"
+    ],
+    "population": 19754
+  },
+  {
+    "city": "Creston",
+    "county": "Ogle",
+    "zip_codes": [
+      "60113",
+      "61068"
+    ],
+    "population": 547
+  },
+  {
+    "city": "Crestwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60418",
+      "60445",
+      "60472"
+    ],
+    "population": 10622
+  },
+  {
+    "city": "Crete",
+    "county": "Will",
+    "zip_codes": [
+      "60401",
+      "60417"
+    ],
+    "population": 8382
+  },
+  {
+    "city": "Creve Coeur",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61554",
+      "61610"
+    ],
+    "population": 4572
+  },
+  {
+    "city": "Crossville",
+    "county": "White",
+    "zip_codes": [
+      "62827"
+    ],
+    "population": 749
+  },
+  {
+    "city": "Crystal Lake",
+    "county": "McHenry",
+    "zip_codes": [
+      "60012",
+      "60014",
+      "60098",
+      "60156"
+    ],
+    "population": 40436
+  },
+  {
+    "city": "Crystal Lawns",
+    "county": "Will",
+    "zip_codes": [
+      "60431",
+      "60435",
+      "60586"
+    ],
+    "population": 1965
+  },
+  {
+    "city": "Cuba",
+    "county": "Fulton",
+    "zip_codes": [
+      "61427"
+    ],
+    "population": 979
+  },
+  {
+    "city": "Cullom",
+    "county": "Livingston",
+    "zip_codes": [
+      "60929"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Curran",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62670"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Custer Park",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 426
+  },
+  {
+    "city": "Cutler",
+    "county": "Perry",
+    "zip_codes": [
+      "62238"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Cypress",
+    "county": "Johnson",
+    "zip_codes": [
+      "62923"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Dahlgren",
+    "county": "Hamilton",
+    "zip_codes": [
+      "62828"
+    ],
+    "population": 631
+  },
+  {
+    "city": "Dakota",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61018"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Dallas City",
+    "county": "Hancock",
+    "zip_codes": [
+      "62330"
+    ],
+    "population": 938
+  },
+  {
+    "city": "Dalton City",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61925"
+    ],
+    "population": 686
+  },
+  {
+    "city": "Dalzell",
+    "county": "Bureau",
+    "zip_codes": [
+      "61320",
+      "61362"
+    ],
+    "population": 716
+  },
+  {
+    "city": "Damiansville",
+    "county": "Clinton",
+    "zip_codes": [
+      "62215"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Dana",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61321"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Danforth",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60930"
+    ],
+    "population": 619
+  },
+  {
+    "city": "Danvers",
+    "county": "McLean",
+    "zip_codes": [
+      "61732"
+    ],
+    "population": 951
+  },
+  {
+    "city": "Danville",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61832",
+      "61834"
+    ],
+    "population": 28663
+  },
+  {
+    "city": "Darien",
+    "county": "DuPage",
+    "zip_codes": [
+      "60527",
+      "60561"
+    ],
+    "population": 21855
+  },
+  {
+    "city": "Darmstadt",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62255"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Davis",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61019"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Davis Junction",
+    "county": "Ogle",
+    "zip_codes": [
+      "61020"
+    ],
+    "population": 2656
+  },
+  {
+    "city": "Dawson",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62520",
+      "62561"
+    ],
+    "population": 555
+  },
+  {
+    "city": "Dayton",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61350"
+    ],
+    "population": 363
+  },
+  {
+    "city": "De Land",
+    "county": "Piatt",
+    "zip_codes": [
+      "61839"
+    ],
+    "population": 472
+  },
+  {
+    "city": "De Pue",
+    "county": "Bureau",
+    "zip_codes": [
+      "61322",
+      "61356",
+      "61362"
+    ],
+    "population": 1594
+  },
+  {
+    "city": "De Soto",
+    "county": "Jackson",
+    "zip_codes": [
+      "62924"
+    ],
+    "population": 1701
+  },
+  {
+    "city": "De Witt",
+    "county": "De Witt",
+    "zip_codes": [
+      "61735"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Decatur",
+    "county": "Macon",
+    "zip_codes": [
+      "62501",
+      "62521",
+      "62522",
+      "62523",
+      "62526",
+      "62535"
+    ],
+    "population": 70368
+  },
+  {
+    "city": "Deer Creek",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61733"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Deer Grove",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61243"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Deer Park",
+    "county": "Lake",
+    "zip_codes": [
+      "60010",
+      "60047",
+      "60074"
+    ],
+    "population": 3711
+  },
+  {
+    "city": "Deerfield",
+    "county": "Lake",
+    "zip_codes": [
+      "60015"
+    ],
+    "population": 19185
+  },
+  {
+    "city": "DeKalb",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60115"
+    ],
+    "population": 40464
+  },
+  {
+    "city": "Delavan",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61734"
+    ],
+    "population": 1600
+  },
+  {
+    "city": "Des Plaines",
+    "county": "Cook",
+    "zip_codes": [
+      "60016",
+      "60018"
+    ],
+    "population": 59408
+  },
+  {
+    "city": "Detroit",
+    "county": "Pike",
+    "zip_codes": [
+      "62363"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Dewey",
+    "county": "Champaign",
+    "zip_codes": [
+      "61840"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Diamond",
+    "county": "Grundy",
+    "zip_codes": [
+      "60416",
+      "60481"
+    ],
+    "population": 2900
+  },
+  {
+    "city": "Dieterich",
+    "county": "Effingham",
+    "zip_codes": [
+      "62424"
+    ],
+    "population": 1171
+  },
+  {
+    "city": "Divernon",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62530"
+    ],
+    "population": 1262
+  },
+  {
+    "city": "Dix",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62830"
+    ],
+    "population": 557
+  },
+  {
+    "city": "Dixmoor",
+    "county": "Cook",
+    "zip_codes": [
+      "60406",
+      "60426",
+      "60827"
+    ],
+    "population": 2962
+  },
+  {
+    "city": "Dixon",
+    "county": "Lee",
+    "zip_codes": [
+      "61021"
+    ],
+    "population": 15166
+  },
+  {
+    "city": "Dolton",
+    "county": "Cook",
+    "zip_codes": [
+      "60419",
+      "60827"
+    ],
+    "population": 20979
+  },
+  {
+    "city": "Dongola",
+    "county": "Union",
+    "zip_codes": [
+      "62926"
+    ],
+    "population": 576
+  },
+  {
+    "city": "Donnellson",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62019"
+    ],
+    "population": 133
+  },
+  {
+    "city": "Donovan",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60931"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Dorchester",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62033"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Dover",
+    "county": "Bureau",
+    "zip_codes": [
+      "61323",
+      "61356"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Dowell",
+    "county": "Jackson",
+    "zip_codes": [
+      "62927",
+      "62932"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Downers Grove",
+    "county": "DuPage",
+    "zip_codes": [
+      "60515",
+      "60516"
+    ],
+    "population": 49867
+  },
+  {
+    "city": "Downs",
+    "county": "McLean",
+    "zip_codes": [
+      "61705",
+      "61736"
+    ],
+    "population": 1451
+  },
+  {
+    "city": "Du Bois",
+    "county": "Washington",
+    "zip_codes": [
+      "62831"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Du Quoin",
+    "county": "Perry",
+    "zip_codes": [
+      "62832"
+    ],
+    "population": 5780
+  },
+  {
+    "city": "Dundas",
+    "county": "Richland",
+    "zip_codes": [
+      "62425"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Dunfermline",
+    "county": "Fulton",
+    "zip_codes": [
+      "61520",
+      "61524"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Dunlap",
+    "county": "Peoria",
+    "zip_codes": [
+      "61525"
+    ],
+    "population": 1448
+  },
+  {
+    "city": "Dupo",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62236",
+      "62239",
+      "62240"
+    ],
+    "population": 3914
+  },
+  {
+    "city": "Durand",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61024"
+    ],
+    "population": 1485
+  },
+  {
+    "city": "Dwight",
+    "county": "Livingston",
+    "zip_codes": [
+      "60420"
+    ],
+    "population": 3794
+  },
+  {
+    "city": "Eagarville",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62023",
+      "62033",
+      "62069"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Eagle Lake",
+    "county": "Will",
+    "zip_codes": [
+      "60401"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Earlville",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60518"
+    ],
+    "population": 2015
+  },
+  {
+    "city": "East Alton",
+    "county": "Madison",
+    "zip_codes": [
+      "62002",
+      "62018",
+      "62024",
+      "62095"
+    ],
+    "population": 5729
+  },
+  {
+    "city": "East Brooklyn",
+    "county": "Grundy",
+    "zip_codes": [
+      "60474"
+    ],
+    "population": 58
+  },
+  {
+    "city": "East Cape Girardeau",
+    "county": "Alexander",
+    "zip_codes": [
+      "62957"
+    ],
+    "population": 292
+  },
+  {
+    "city": "East Carondelet",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62240"
+    ],
+    "population": 219
+  },
+  {
+    "city": "East Dubuque",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61025"
+    ],
+    "population": 1427
+  },
+  {
+    "city": "East Dundee",
+    "county": "Kane",
+    "zip_codes": [
+      "60010",
+      "60110",
+      "60118"
+    ],
+    "population": 3156
+  },
+  {
+    "city": "East Galesburg",
+    "county": "Knox",
+    "zip_codes": [
+      "61401",
+      "61430"
+    ],
+    "population": 676
+  },
+  {
+    "city": "East Gillespie",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62033"
+    ],
+    "population": 325
+  },
+  {
+    "city": "East Hazel Crest",
+    "county": "Cook",
+    "zip_codes": [
+      "60429",
+      "60473"
+    ],
+    "population": 1122
+  },
+  {
+    "city": "East Lynn",
+    "county": "Vermilion",
+    "zip_codes": [
+      "60932"
+    ],
+    "population": 394
+  },
+  {
+    "city": "East Moline",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61244",
+      "61257"
+    ],
+    "population": 20837
+  },
+  {
+    "city": "East Peoria",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61571",
+      "61611"
+    ],
+    "population": 22485
+  },
+  {
+    "city": "East St. Louis",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62201",
+      "62203",
+      "62204",
+      "62205",
+      "62207"
+    ],
+    "population": 18278
+  },
+  {
+    "city": "Easton",
+    "county": "Mason",
+    "zip_codes": [
+      "62633"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Eddyville",
+    "county": "Pope",
+    "zip_codes": [
+      "62928"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Edgewood",
+    "county": "Effingham",
+    "zip_codes": [
+      "62426"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Edgington",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61284"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Edinburg",
+    "county": "Christian",
+    "zip_codes": [
+      "62531"
+    ],
+    "population": 1163
+  },
+  {
+    "city": "Edwardsville",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62026",
+      "62048"
+    ],
+    "population": 26543
+  },
+  {
+    "city": "Effingham",
+    "county": "Effingham",
+    "zip_codes": [
+      "62401",
+      "62467"
+    ],
+    "population": 12258
+  },
+  {
+    "city": "El Dara",
+    "county": "Pike",
+    "zip_codes": [
+      "62312",
+      "62356"
+    ],
+    "population": 100
+  },
+  {
+    "city": "El Paso",
+    "county": "Woodford",
+    "zip_codes": [
+      "61738"
+    ],
+    "population": 2871
+  },
+  {
+    "city": "Elburn",
+    "county": "Kane",
+    "zip_codes": [
+      "60119"
+    ],
+    "population": 6054
+  },
+  {
+    "city": "Eldorado",
+    "county": "Saline",
+    "zip_codes": [
+      "62930"
+    ],
+    "population": 3762
+  },
+  {
+    "city": "Eldred",
+    "county": "Greene",
+    "zip_codes": [
+      "62016",
+      "62027"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Elgin",
+    "county": "Kane",
+    "zip_codes": [
+      "60120",
+      "60123",
+      "60124",
+      "60140",
+      "60175"
+    ],
+    "population": 114106
+  },
+  {
+    "city": "Eliza",
+    "county": "Mercer",
+    "zip_codes": [
+      "61272"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Elizabeth",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61028"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Elizabethtown",
+    "county": "Hardin",
+    "zip_codes": [
+      "62931"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Elk Grove Village",
+    "county": "Cook",
+    "zip_codes": [
+      "60007"
+    ],
+    "population": 32132
+  },
+  {
+    "city": "Elkhart",
+    "county": "Logan",
+    "zip_codes": [
+      "62634"
+    ],
+    "population": 442
+  },
+  {
+    "city": "Elkville",
+    "county": "Jackson",
+    "zip_codes": [
+      "62932"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Elliott",
+    "county": "Ford",
+    "zip_codes": [
+      "60933"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Ellis Grove",
+    "county": "Randolph",
+    "zip_codes": [
+      "62241"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Ellisville",
+    "county": "Fulton",
+    "zip_codes": [
+      "61431"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Ellsworth",
+    "county": "McLean",
+    "zip_codes": [
+      "61737"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "zip_codes": [
+      "60126"
+    ],
+    "population": 45538
+  },
+  {
+    "city": "Elmwood",
+    "county": "Peoria",
+    "zip_codes": [
+      "61529"
+    ],
+    "population": 2254
+  },
+  {
+    "city": "Elmwood Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60707"
+    ],
+    "population": 23982
+  },
+  {
+    "city": "Elsah",
+    "county": "Jersey",
+    "zip_codes": [
+      "62028"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Elvaston",
+    "county": "Hancock",
+    "zip_codes": [
+      "62334",
+      "62341",
+      "62379"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Elwin",
+    "county": "Macon",
+    "zip_codes": [
+      "62532"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Elwood",
+    "county": "Will",
+    "zip_codes": [
+      "60410",
+      "60421"
+    ],
+    "population": 2141
+  },
+  {
+    "city": "Emden",
+    "county": "Logan",
+    "zip_codes": [
+      "62635"
+    ],
+    "population": 374
+  },
+  {
+    "city": "Emington",
+    "county": "Livingston",
+    "zip_codes": [
+      "60934"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Energy",
+    "county": "Williamson",
+    "zip_codes": [
+      "62933",
+      "62948"
+    ],
+    "population": 1171
+  },
+  {
+    "city": "Enfield",
+    "county": "White",
+    "zip_codes": [
+      "62835"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Equality",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62934"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Erie",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61250"
+    ],
+    "population": 1658
+  },
+  {
+    "city": "Essex",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60424",
+      "60935"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Eureka",
+    "county": "Woodford",
+    "zip_codes": [
+      "61530"
+    ],
+    "population": 5095
+  },
+  {
+    "city": "Evanston",
+    "county": "Cook",
+    "zip_codes": [
+      "60201",
+      "60202",
+      "60208"
+    ],
+    "population": 76552
+  },
+  {
+    "city": "Evansville",
+    "county": "Randolph",
+    "zip_codes": [
+      "62242"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Evergreen Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60805"
+    ],
+    "population": 19498
+  },
+  {
+    "city": "Ewing",
+    "county": "Franklin",
+    "zip_codes": [
+      "62836"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Exeter",
+    "county": "Scott",
+    "zip_codes": [
+      "62621"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Fairbury",
+    "county": "Livingston",
+    "zip_codes": [
+      "61739"
+    ],
+    "population": 3683
+  },
+  {
+    "city": "Fairfield",
+    "county": "Wayne",
+    "zip_codes": [
+      "62837"
+    ],
+    "population": 4658
+  },
+  {
+    "city": "Fairmont",
+    "county": "Will",
+    "zip_codes": [
+      "60432",
+      "60441"
+    ],
+    "population": 2409
+  },
+  {
+    "city": "Fairmont City",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62040",
+      "62201",
+      "62234"
+    ],
+    "population": 2354
+  },
+  {
+    "city": "Fairmount",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61841"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Fairview",
+    "county": "Fulton",
+    "zip_codes": [
+      "61432"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Fairview Heights",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62208",
+      "62226"
+    ],
+    "population": 16255
+  },
+  {
+    "city": "Fall Creek",
+    "county": "Adams",
+    "zip_codes": [
+      "62360"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Farina",
+    "county": "Fayette",
+    "zip_codes": [
+      "62838",
+      "62854"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Farmer City",
+    "county": "De Witt",
+    "zip_codes": [
+      "61842"
+    ],
+    "population": 2001
+  },
+  {
+    "city": "Farmersville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62533"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Farmington",
+    "county": "Fulton",
+    "zip_codes": [
+      "61531"
+    ],
+    "population": 1990
+  },
+  {
+    "city": "Fayetteville",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62258"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Ferris",
+    "county": "Hancock",
+    "zip_codes": [
+      "62321",
+      "62336"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Fidelity",
+    "county": "Jersey",
+    "zip_codes": [
+      "62030"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Fieldon",
+    "county": "Jersey",
+    "zip_codes": [
+      "62031"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Fillmore",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62032"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Findlay",
+    "county": "Shelby",
+    "zip_codes": [
+      "62534"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Fisher",
+    "county": "Champaign",
+    "zip_codes": [
+      "61843"
+    ],
+    "population": 1600
+  },
+  {
+    "city": "Fithian",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61844"
+    ],
+    "population": 546
+  },
+  {
+    "city": "Flanagan",
+    "county": "Livingston",
+    "zip_codes": [
+      "61740"
+    ],
+    "population": 864
+  },
+  {
+    "city": "Flat Rock",
+    "county": "Crawford",
+    "zip_codes": [
+      "62427"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Flora",
+    "county": "Clay",
+    "zip_codes": [
+      "62839"
+    ],
+    "population": 4860
+  },
+  {
+    "city": "Floraville",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62298"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Florence",
+    "county": "Pike",
+    "zip_codes": [
+      "62363"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Flossmoor",
+    "county": "Cook",
+    "zip_codes": [
+      "60422",
+      "60430"
+    ],
+    "population": 9666
+  },
+  {
+    "city": "Foosland",
+    "county": "Champaign",
+    "zip_codes": [
+      "61845"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Ford Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60411"
+    ],
+    "population": 1587
+  },
+  {
+    "city": "Forest City",
+    "county": "Mason",
+    "zip_codes": [
+      "61532",
+      "61567"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Forest Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60047"
+    ],
+    "population": 1797
+  },
+  {
+    "city": "Forest Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60130",
+      "60546"
+    ],
+    "population": 14000
+  },
+  {
+    "city": "Forest View",
+    "county": "Cook",
+    "zip_codes": [
+      "60402",
+      "60638"
+    ],
+    "population": 1022
+  },
+  {
+    "city": "Forrest",
+    "county": "Livingston",
+    "zip_codes": [
+      "61741"
+    ],
+    "population": 1008
+  },
+  {
+    "city": "Forreston",
+    "county": "Ogle",
+    "zip_codes": [
+      "61030"
+    ],
+    "population": 1148
+  },
+  {
+    "city": "Forsyth",
+    "county": "Macon",
+    "zip_codes": [
+      "62535"
+    ],
+    "population": 3656
+  },
+  {
+    "city": "Fowler",
+    "county": "Adams",
+    "zip_codes": [
+      "62338"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Fox Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60002",
+      "60020",
+      "60041",
+      "60050",
+      "60081"
+    ],
+    "population": 10872
+  },
+  {
+    "city": "Fox Lake Hills",
+    "county": "Lake",
+    "zip_codes": [
+      "60046"
+    ],
+    "population": 2304
+  },
+  {
+    "city": "Fox River Grove",
+    "county": "McHenry",
+    "zip_codes": [
+      "60010",
+      "60021"
+    ],
+    "population": 4501
+  },
+  {
+    "city": "Frankfort",
+    "county": "Will",
+    "zip_codes": [
+      "60423",
+      "60449"
+    ],
+    "population": 20417
+  },
+  {
+    "city": "Frankfort Square",
+    "county": "Will",
+    "zip_codes": [
+      "60423"
+    ],
+    "population": 9777
+  },
+  {
+    "city": "Franklin",
+    "county": "Morgan",
+    "zip_codes": [
+      "62638"
+    ],
+    "population": 554
+  },
+  {
+    "city": "Franklin Grove",
+    "county": "Lee",
+    "zip_codes": [
+      "61031"
+    ],
+    "population": 1086
+  },
+  {
+    "city": "Franklin Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60131",
+      "60160"
+    ],
+    "population": 18233
+  },
+  {
+    "city": "Franklinville",
+    "county": "McHenry",
+    "zip_codes": [
+      "60098"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Freeburg",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62221",
+      "62243"
+    ],
+    "population": 4336
+  },
+  {
+    "city": "Freeman Spur",
+    "county": "Williamson",
+    "zip_codes": [
+      "62841",
+      "62896"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Freeport",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61032"
+    ],
+    "population": 23636
+  },
+  {
+    "city": "Fulton",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61252"
+    ],
+    "population": 3457
+  },
+  {
+    "city": "Fults",
+    "county": "Monroe",
+    "zip_codes": [
+      "62244"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Gages Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60031",
+      "60048"
+    ],
+    "population": 10706
+  },
+  {
+    "city": "Galatia",
+    "county": "Saline",
+    "zip_codes": [
+      "62935"
+    ],
+    "population": 970
+  },
+  {
+    "city": "Galena",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61036"
+    ],
+    "population": 2899
+  },
+  {
+    "city": "Galesburg",
+    "county": "Knox",
+    "zip_codes": [
+      "61401",
+      "61402"
+    ],
+    "population": 29653
+  },
+  {
+    "city": "Galt",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61037",
+      "61081"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Galva",
+    "county": "Henry",
+    "zip_codes": [
+      "61434"
+    ],
+    "population": 2543
+  },
+  {
+    "city": "Garden Prairie",
+    "county": "Boone",
+    "zip_codes": [
+      "61038"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Gardner",
+    "county": "Grundy",
+    "zip_codes": [
+      "60424"
+    ],
+    "population": 1319
+  },
+  {
+    "city": "Garrett",
+    "county": "Douglas",
+    "zip_codes": [
+      "61913"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Gays",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61928"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Geneseo",
+    "county": "Henry",
+    "zip_codes": [
+      "61254"
+    ],
+    "population": 6577
+  },
+  {
+    "city": "Geneva",
+    "county": "Kane",
+    "zip_codes": [
+      "60134",
+      "60510"
+    ],
+    "population": 21299
+  },
+  {
+    "city": "Genoa",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60135"
+    ],
+    "population": 5685
+  },
+  {
+    "city": "Georgetown",
+    "county": "McDonough",
+    "zip_codes": [
+      "61455"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Georgetown",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61846"
+    ],
+    "population": 3105
+  },
+  {
+    "city": "German Valley",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61039"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Germantown",
+    "county": "Clinton",
+    "zip_codes": [
+      "62245"
+    ],
+    "population": 1268
+  },
+  {
+    "city": "Germantown Hills",
+    "county": "Woodford",
+    "zip_codes": [
+      "61548"
+    ],
+    "population": 3425
+  },
+  {
+    "city": "Gibson City",
+    "county": "Ford",
+    "zip_codes": [
+      "60936"
+    ],
+    "population": 3609
+  },
+  {
+    "city": "Gifford",
+    "county": "Champaign",
+    "zip_codes": [
+      "61847"
+    ],
+    "population": 816
+  },
+  {
+    "city": "Gilberts",
+    "county": "Kane",
+    "zip_codes": [
+      "60118",
+      "60136"
+    ],
+    "population": 8389
+  },
+  {
+    "city": "Gillespie",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62033"
+    ],
+    "population": 3118
+  },
+  {
+    "city": "Gilman",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60938"
+    ],
+    "population": 1576
+  },
+  {
+    "city": "Gilson",
+    "county": "Knox",
+    "zip_codes": [
+      "61436"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Girard",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62640"
+    ],
+    "population": 1740
+  },
+  {
+    "city": "Gladstone",
+    "county": "Henderson",
+    "zip_codes": [
+      "61437"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Glasford",
+    "county": "Peoria",
+    "zip_codes": [
+      "61533"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Glasgow",
+    "county": "Scott",
+    "zip_codes": [
+      "62694"
+    ],
+    "population": 146
+  },
+  {
+    "city": "Glen Carbon",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62034"
+    ],
+    "population": 13521
+  },
+  {
+    "city": "Glen Ellyn",
+    "county": "DuPage",
+    "zip_codes": [
+      "60137"
+    ],
+    "population": 28270
+  },
+  {
+    "city": "Glencoe",
+    "county": "Cook",
+    "zip_codes": [
+      "60022",
+      "60062",
+      "60093"
+    ],
+    "population": 8715
+  },
+  {
+    "city": "Glendale Heights",
+    "county": "DuPage",
+    "zip_codes": [
+      "60108",
+      "60139"
+    ],
+    "population": 32864
+  },
+  {
+    "city": "Glenview",
+    "county": "Cook",
+    "zip_codes": [
+      "60025",
+      "60026",
+      "60062"
+    ],
+    "population": 47682
+  },
+  {
+    "city": "Glenwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60411",
+      "60425"
+    ],
+    "population": 8620
+  },
+  {
+    "city": "Godfrey",
+    "county": "Madison",
+    "zip_codes": [
+      "62002",
+      "62012",
+      "62035"
+    ],
+    "population": 17743
+  },
+  {
+    "city": "Godley",
+    "county": "Will",
+    "zip_codes": [
+      "60407"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Golconda",
+    "county": "Pope",
+    "zip_codes": [
+      "62938"
+    ],
+    "population": 755
+  },
+  {
+    "city": "Golden",
+    "county": "Adams",
+    "zip_codes": [
+      "62339"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Golden Gate",
+    "county": "Wayne",
+    "zip_codes": [
+      "62843"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Golf",
+    "county": "Cook",
+    "zip_codes": [
+      "60029"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Good Hope",
+    "county": "McDonough",
+    "zip_codes": [
+      "61438"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Goodenow",
+    "county": "Will",
+    "zip_codes": [
+      "60401"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Goodfield",
+    "county": "Woodford",
+    "zip_codes": [
+      "61742"
+    ],
+    "population": 986
+  },
+  {
+    "city": "Goofy Ridge",
+    "county": "Mason",
+    "zip_codes": [
+      "61567",
+      "62644"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Goreville",
+    "county": "Johnson",
+    "zip_codes": [
+      "62939",
+      "62972"
+    ],
+    "population": 1164
+  },
+  {
+    "city": "Gorham",
+    "county": "Jackson",
+    "zip_codes": [
+      "62940"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Grafton",
+    "county": "Jersey",
+    "zip_codes": [
+      "62037"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Grand Detour",
+    "county": "Ogle",
+    "zip_codes": [
+      "61021"
+    ],
+    "population": 282
+  },
+  {
+    "city": "Grand Ridge",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61325"
+    ],
+    "population": 649
+  },
+  {
+    "city": "Grand Tower",
+    "county": "Jackson",
+    "zip_codes": [
+      "62942"
+    ],
+    "population": 551
+  },
+  {
+    "city": "Grandview",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62702"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "Grandwood Park",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60046"
+    ],
+    "population": 5311
+  },
+  {
+    "city": "Granite City",
+    "county": "Madison",
+    "zip_codes": [
+      "62040",
+      "62048"
+    ],
+    "population": 26670
+  },
+  {
+    "city": "Grant Park",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60940"
+    ],
+    "population": 1547
+  },
+  {
+    "city": "Grantfork",
+    "county": "Madison",
+    "zip_codes": [
+      "62249"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Granville",
+    "county": "Putnam",
+    "zip_codes": [
+      "61326"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Grayslake",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60046"
+    ],
+    "population": 20707
+  },
+  {
+    "city": "Grayville",
+    "county": "White",
+    "zip_codes": [
+      "62844"
+    ],
+    "population": 1515
+  },
+  {
+    "city": "Green Oaks",
+    "county": "Lake",
+    "zip_codes": [
+      "60044",
+      "60045",
+      "60048"
+    ],
+    "population": 4085
+  },
+  {
+    "city": "Green Valley",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61534"
+    ],
+    "population": 700
+  },
+  {
+    "city": "Greenfield",
+    "county": "Greene",
+    "zip_codes": [
+      "62044"
+    ],
+    "population": 1137
+  },
+  {
+    "city": "Greenup",
+    "county": "Cumberland",
+    "zip_codes": [
+      "62428"
+    ],
+    "population": 1678
+  },
+  {
+    "city": "Greenview",
+    "county": "Menard",
+    "zip_codes": [
+      "62642"
+    ],
+    "population": 938
+  },
+  {
+    "city": "Greenville",
+    "county": "Bond",
+    "zip_codes": [
+      "62246"
+    ],
+    "population": 7159
+  },
+  {
+    "city": "Greenwood",
+    "county": "McHenry",
+    "zip_codes": [
+      "60097",
+      "60098"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Gridley",
+    "county": "McLean",
+    "zip_codes": [
+      "61744"
+    ],
+    "population": 1339
+  },
+  {
+    "city": "Griggsville",
+    "county": "Pike",
+    "zip_codes": [
+      "62340"
+    ],
+    "population": 1272
+  },
+  {
+    "city": "Gulfport",
+    "county": "Henderson",
+    "zip_codes": [
+      "61425"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Gurnee",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60048"
+    ],
+    "population": 30486
+  },
+  {
+    "city": "Hainesville",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60073"
+    ],
+    "population": 3524
+  },
+  {
+    "city": "Hamburg",
+    "county": "Calhoun",
+    "zip_codes": [
+      "62045"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Hamel",
+    "county": "Madison",
+    "zip_codes": [
+      "62046",
+      "62097"
+    ],
+    "population": 1004
+  },
+  {
+    "city": "Hamilton",
+    "county": "Hancock",
+    "zip_codes": [
+      "62341",
+      "62379"
+    ],
+    "population": 2738
+  },
+  {
+    "city": "Hamlet",
+    "county": "Mercer",
+    "zip_codes": [
+      "61279"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hammond",
+    "county": "Piatt",
+    "zip_codes": [
+      "61929"
+    ],
+    "population": 602
+  },
+  {
+    "city": "Hampshire",
+    "county": "Kane",
+    "zip_codes": [
+      "60140"
+    ],
+    "population": 8351
+  },
+  {
+    "city": "Hampton",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61256"
+    ],
+    "population": 1946
+  },
+  {
+    "city": "Hanaford",
+    "county": "Franklin",
+    "zip_codes": [
+      "62856",
+      "62890"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Hanna City",
+    "county": "Peoria",
+    "zip_codes": [
+      "61536"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Hanover",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61041"
+    ],
+    "population": 847
+  },
+  {
+    "city": "Hanover Park",
+    "county": "DuPage",
+    "zip_codes": [
+      "60133"
+    ],
+    "population": 36850
+  },
+  {
+    "city": "Hardin",
+    "county": "Calhoun",
+    "zip_codes": [
+      "62047"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Harding",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60518",
+      "60551"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Harmon",
+    "county": "Lee",
+    "zip_codes": [
+      "61042"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Harmony",
+    "county": "McHenry",
+    "zip_codes": [
+      "60142",
+      "60152"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Harrisburg",
+    "county": "Saline",
+    "zip_codes": [
+      "62946"
+    ],
+    "population": 8608
+  },
+  {
+    "city": "Harrison",
+    "county": "Jackson",
+    "zip_codes": [
+      "62966"
+    ],
+    "population": 948
+  },
+  {
+    "city": "Harristown",
+    "county": "Macon",
+    "zip_codes": [
+      "62522",
+      "62537",
+      "62551"
+    ],
+    "population": 1526
+  },
+  {
+    "city": "Hartford",
+    "county": "Madison",
+    "zip_codes": [
+      "62048",
+      "62087"
+    ],
+    "population": 1456
+  },
+  {
+    "city": "Hartland",
+    "county": "McHenry",
+    "zip_codes": [
+      "60098"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Hartsburg",
+    "county": "Logan",
+    "zip_codes": [
+      "62643"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Harvard",
+    "county": "McHenry",
+    "zip_codes": [
+      "60033"
+    ],
+    "population": 9875
+  },
+  {
+    "city": "Harvel",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62538"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Harvey",
+    "county": "Cook",
+    "zip_codes": [
+      "60426"
+    ],
+    "population": 19831
+  },
+  {
+    "city": "Harwood Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60706"
+    ],
+    "population": 8851
+  },
+  {
+    "city": "Havana",
+    "county": "Mason",
+    "zip_codes": [
+      "62644"
+    ],
+    "population": 3176
+  },
+  {
+    "city": "Hawthorn Woods",
+    "county": "Lake",
+    "zip_codes": [
+      "60047",
+      "60060"
+    ],
+    "population": 9145
+  },
+  {
+    "city": "Hazel Crest",
+    "county": "Cook",
+    "zip_codes": [
+      "60429",
+      "60430"
+    ],
+    "population": 13493
+  },
+  {
+    "city": "Hebron",
+    "county": "McHenry",
+    "zip_codes": [
+      "60034"
+    ],
+    "population": 1458
+  },
+  {
+    "city": "Hecker",
+    "county": "Monroe",
+    "zip_codes": [
+      "62248"
+    ],
+    "population": 556
+  },
+  {
+    "city": "Henderson",
+    "county": "Knox",
+    "zip_codes": [
+      "61439",
+      "61488"
+    ],
+    "population": 253
+  },
+  {
+    "city": "Hennepin",
+    "county": "Putnam",
+    "zip_codes": [
+      "61327"
+    ],
+    "population": 790
+  },
+  {
+    "city": "Henning",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61811",
+      "61848",
+      "61865"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Henry",
+    "county": "Marshall",
+    "zip_codes": [
+      "61537"
+    ],
+    "population": 2478
+  },
+  {
+    "city": "Heritage Lake",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61755"
+    ],
+    "population": 1708
+  },
+  {
+    "city": "Herrick",
+    "county": "Shelby",
+    "zip_codes": [
+      "62431"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Herrin",
+    "county": "Williamson",
+    "zip_codes": [
+      "62918",
+      "62933",
+      "62948",
+      "62959"
+    ],
+    "population": 12271
+  },
+  {
+    "city": "Herscher",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60941"
+    ],
+    "population": 1302
+  },
+  {
+    "city": "Hettick",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62649"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Heyworth",
+    "county": "McLean",
+    "zip_codes": [
+      "61745"
+    ],
+    "population": 2818
+  },
+  {
+    "city": "Hickory Hills",
+    "county": "Cook",
+    "zip_codes": [
+      "60457"
+    ],
+    "population": 14718
+  },
+  {
+    "city": "Hidalgo",
+    "county": "Jasper",
+    "zip_codes": [
+      "62432"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Highland",
+    "county": "Madison",
+    "zip_codes": [
+      "62249"
+    ],
+    "population": 10268
+  },
+  {
+    "city": "Highland Park",
+    "county": "Lake",
+    "zip_codes": [
+      "60035"
+    ],
+    "population": 30229
+  },
+  {
+    "city": "Highwood",
+    "county": "Lake",
+    "zip_codes": [
+      "60035",
+      "60040"
+    ],
+    "population": 5243
+  },
+  {
+    "city": "Hillcrest",
+    "county": "Ogle",
+    "zip_codes": [
+      "61068"
+    ],
+    "population": 1679
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62049",
+      "62051",
+      "62075"
+    ],
+    "population": 5693
+  },
+  {
+    "city": "Hillsdale",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61257"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Hillside",
+    "county": "Cook",
+    "zip_codes": [
+      "60162"
+    ],
+    "population": 8133
+  },
+  {
+    "city": "Hillview",
+    "county": "Greene",
+    "zip_codes": [
+      "62050"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Hinckley",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60520"
+    ],
+    "population": 2286
+  },
+  {
+    "city": "Hindsboro",
+    "county": "Douglas",
+    "zip_codes": [
+      "61930"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Hinsdale",
+    "county": "DuPage",
+    "zip_codes": [
+      "60521",
+      "60527",
+      "60558"
+    ],
+    "population": 17155
+  },
+  {
+    "city": "Hodgkins",
+    "county": "Cook",
+    "zip_codes": [
+      "60480",
+      "60525"
+    ],
+    "population": 1766
+  },
+  {
+    "city": "Hoffman",
+    "county": "Clinton",
+    "zip_codes": [
+      "62250"
+    ],
+    "population": 627
+  },
+  {
+    "city": "Hoffman Estates",
+    "county": "Cook",
+    "zip_codes": [
+      "60010",
+      "60120",
+      "60169",
+      "60192"
+    ],
+    "population": 51186
+  },
+  {
+    "city": "Holcomb",
+    "county": "Ogle",
+    "zip_codes": [
+      "61020",
+      "61043"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Holiday Hills",
+    "county": "McHenry",
+    "zip_codes": [
+      "60051"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Holiday Shores",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62097"
+    ],
+    "population": 3162
+  },
+  {
+    "city": "Hollowayville",
+    "county": "Bureau",
+    "zip_codes": [
+      "61356"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Homer",
+    "county": "Champaign",
+    "zip_codes": [
+      "61849"
+    ],
+    "population": 1130
+  },
+  {
+    "city": "Homer Glen",
+    "county": "Will",
+    "zip_codes": [
+      "60448",
+      "60467",
+      "60491"
+    ],
+    "population": 24516
+  },
+  {
+    "city": "Hometown",
+    "county": "Cook",
+    "zip_codes": [
+      "60456"
+    ],
+    "population": 4244
+  },
+  {
+    "city": "Homewood",
+    "county": "Cook",
+    "zip_codes": [
+      "60430"
+    ],
+    "population": 19471
+  },
+  {
+    "city": "Hoopeston",
+    "county": "Vermilion",
+    "zip_codes": [
+      "60942"
+    ],
+    "population": 5039
+  },
+  {
+    "city": "Hooppole",
+    "county": "Henry",
+    "zip_codes": [
+      "61258"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Hopedale",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61747"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Hopewell",
+    "county": "Marshall",
+    "zip_codes": [
+      "61565"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Hopkins Park",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60958"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Hoyleton",
+    "county": "Washington",
+    "zip_codes": [
+      "62803"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Hudson",
+    "county": "McLean",
+    "zip_codes": [
+      "61748"
+    ],
+    "population": 2048
+  },
+  {
+    "city": "Huey",
+    "county": "Clinton",
+    "zip_codes": [
+      "62231"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Hull",
+    "county": "Pike",
+    "zip_codes": [
+      "62343"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Humboldt",
+    "county": "Coles",
+    "zip_codes": [
+      "61931"
+    ],
+    "population": 360
+  },
+  {
+    "city": "Hume",
+    "county": "Edgar",
+    "zip_codes": [
+      "61932"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Huntley",
+    "county": "McHenry",
+    "zip_codes": [
+      "60142"
+    ],
+    "population": 27859
+  },
+  {
+    "city": "Hurst",
+    "county": "Williamson",
+    "zip_codes": [
+      "62949"
+    ],
+    "population": 685
+  },
+  {
+    "city": "Hutsonville",
+    "county": "Crawford",
+    "zip_codes": [
+      "62433"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Illinois City",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61259"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Illiopolis",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62539"
+    ],
+    "population": 854
+  },
+  {
+    "city": "Ina",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62816",
+      "62846"
+    ],
+    "population": 1600
+  },
+  {
+    "city": "Indian Creek",
+    "county": "Lake",
+    "zip_codes": [
+      "60061"
+    ],
+    "population": 892
+  },
+  {
+    "city": "Indian Head Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60525",
+      "60527"
+    ],
+    "population": 3992
+  },
+  {
+    "city": "Indianola",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61850"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Industry",
+    "county": "McDonough",
+    "zip_codes": [
+      "61440"
+    ],
+    "population": 633
+  },
+  {
+    "city": "Ingalls Park",
+    "county": "Will",
+    "zip_codes": [
+      "60433"
+    ],
+    "population": 2970
+  },
+  {
+    "city": "Inverness",
+    "county": "Cook",
+    "zip_codes": [
+      "60010",
+      "60067"
+    ],
+    "population": 7541
+  },
+  {
+    "city": "Iola",
+    "county": "Clay",
+    "zip_codes": [
+      "62838"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Ipava",
+    "county": "Fulton",
+    "zip_codes": [
+      "61441"
+    ],
+    "population": 510
+  },
+  {
+    "city": "Iroquois",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60931",
+      "60945"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Irving",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62051"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Irvington",
+    "county": "Washington",
+    "zip_codes": [
+      "62801",
+      "62848"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Irwin",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Island Lake",
+    "county": "McHenry",
+    "zip_codes": [
+      "60042",
+      "60051",
+      "60084"
+    ],
+    "population": 8023
+  },
+  {
+    "city": "Itasca",
+    "county": "DuPage",
+    "zip_codes": [
+      "60143"
+    ],
+    "population": 9525
+  },
+  {
+    "city": "Iuka",
+    "county": "Marion",
+    "zip_codes": [
+      "62849"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Ivesdale",
+    "county": "Champaign",
+    "zip_codes": [
+      "61851"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Morgan",
+    "zip_codes": [
+      "62650"
+    ],
+    "population": 17490
+  },
+  {
+    "city": "Janesville",
+    "county": "Coles",
+    "zip_codes": [
+      "62440"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Jeffersonville",
+    "county": "Wayne",
+    "zip_codes": [
+      "62842"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Jeisyville",
+    "county": "Christian",
+    "zip_codes": [
+      "62540",
+      "62568"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Jerome",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62704"
+    ],
+    "population": 1910
+  },
+  {
+    "city": "Jerseyville",
+    "county": "Jersey",
+    "zip_codes": [
+      "62052"
+    ],
+    "population": 7432
+  },
+  {
+    "city": "Jewett",
+    "county": "Cumberland",
+    "zip_codes": [
+      "62436"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Johnsburg",
+    "county": "McHenry",
+    "zip_codes": [
+      "60050",
+      "60051",
+      "60072"
+    ],
+    "population": 6374
+  },
+  {
+    "city": "Johnsonville",
+    "county": "Wayne",
+    "zip_codes": [
+      "62823",
+      "62850"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Johnston City",
+    "county": "Williamson",
+    "zip_codes": [
+      "62951"
+    ],
+    "population": 3351
+  },
+  {
+    "city": "Joliet",
+    "county": "Will",
+    "zip_codes": [
+      "60421",
+      "60431",
+      "60432",
+      "60433",
+      "60435",
+      "60436",
+      "60447",
+      "60586"
+    ],
+    "population": 149785
+  },
+  {
+    "city": "Jonesboro",
+    "county": "Union",
+    "zip_codes": [
+      "62906",
+      "62952"
+    ],
+    "population": 1912
+  },
+  {
+    "city": "Joppa",
+    "county": "Massac",
+    "zip_codes": [
+      "62953"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Joslin",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61257"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Joy",
+    "county": "Mercer",
+    "zip_codes": [
+      "61260"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Junction",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62954"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Junction City",
+    "county": "Marion",
+    "zip_codes": [
+      "62882"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Justice",
+    "county": "Cook",
+    "zip_codes": [
+      "60458",
+      "60501"
+    ],
+    "population": 12372
+  },
+  {
+    "city": "Kampsville",
+    "county": "Calhoun",
+    "zip_codes": [
+      "62053"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Kane",
+    "county": "Greene",
+    "zip_codes": [
+      "62054"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Kaneville",
+    "county": "Kane",
+    "zip_codes": [
+      "60119",
+      "60144"
+    ],
+    "population": 615
+  },
+  {
+    "city": "Kangley",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61364"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Kankakee",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901",
+      "60922"
+    ],
+    "population": 24384
+  },
+  {
+    "city": "Kansas",
+    "county": "Edgar",
+    "zip_codes": [
+      "61933"
+    ],
+    "population": 905
+  },
+  {
+    "city": "Kappa",
+    "county": "Woodford",
+    "zip_codes": [
+      "61738"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Karnak",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62956"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Kaskaskia",
+    "county": "Randolph",
+    "zip_codes": [
+      "63673"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Keenes",
+    "county": "Wayne",
+    "zip_codes": [
+      "62851"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Keensburg",
+    "county": "Wabash",
+    "zip_codes": [
+      "62852",
+      "62863"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Keithsburg",
+    "county": "Mercer",
+    "zip_codes": [
+      "61442"
+    ],
+    "population": 520
+  },
+  {
+    "city": "Kell",
+    "county": "Marion",
+    "zip_codes": [
+      "62853"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Kempton",
+    "county": "Ford",
+    "zip_codes": [
+      "60946"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Kenilworth",
+    "county": "Cook",
+    "zip_codes": [
+      "60043"
+    ],
+    "population": 2543
+  },
+  {
+    "city": "Kenney",
+    "county": "De Witt",
+    "zip_codes": [
+      "61749"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Kewanee",
+    "county": "Henry",
+    "zip_codes": [
+      "61443"
+    ],
+    "population": 12280
+  },
+  {
+    "city": "Keyesport",
+    "county": "Bond",
+    "zip_codes": [
+      "62253"
+    ],
+    "population": 614
+  },
+  {
+    "city": "Kilbourne",
+    "county": "Mason",
+    "zip_codes": [
+      "62655"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Kildeer",
+    "county": "Lake",
+    "zip_codes": [
+      "60047"
+    ],
+    "population": 4189
+  },
+  {
+    "city": "Kincaid",
+    "county": "Christian",
+    "zip_codes": [
+      "62540",
+      "62568"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Kinderhook",
+    "county": "Pike",
+    "zip_codes": [
+      "62345"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Kings",
+    "county": "Ogle",
+    "zip_codes": [
+      "61068"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Kingston",
+    "county": "Adams",
+    "zip_codes": [
+      "62347"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Kingston",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60145"
+    ],
+    "population": 1156
+  },
+  {
+    "city": "Kingston Mines",
+    "county": "Peoria",
+    "zip_codes": [
+      "61539",
+      "61547"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Kinmundy",
+    "county": "Marion",
+    "zip_codes": [
+      "62854"
+    ],
+    "population": 831
+  },
+  {
+    "city": "Kinsman",
+    "county": "Grundy",
+    "zip_codes": [
+      "60437"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Kirkland",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60146"
+    ],
+    "population": 1497
+  },
+  {
+    "city": "Kirkwood",
+    "county": "Warren",
+    "zip_codes": [
+      "61447"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Knollwood",
+    "county": "Lake",
+    "zip_codes": [
+      "60044"
+    ],
+    "population": 1907
+  },
+  {
+    "city": "Knoxville",
+    "county": "Knox",
+    "zip_codes": [
+      "61401",
+      "61448"
+    ],
+    "population": 3137
+  },
+  {
+    "city": "La Clede",
+    "county": "Fayette",
+    "zip_codes": [
+      "62426",
+      "62838"
+    ],
+    "population": 151
+  },
+  {
+    "city": "La Fayette",
+    "county": "Stark",
+    "zip_codes": [
+      "61449"
+    ],
+    "population": 148
+  },
+  {
+    "city": "La Grange",
+    "county": "Cook",
+    "zip_codes": [
+      "60525"
+    ],
+    "population": 15999
+  },
+  {
+    "city": "La Grange Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60526"
+    ],
+    "population": 13227
+  },
+  {
+    "city": "La Harpe",
+    "county": "Hancock",
+    "zip_codes": [
+      "61450"
+    ],
+    "population": 1085
+  },
+  {
+    "city": "La Moille",
+    "county": "Bureau",
+    "zip_codes": [
+      "61330"
+    ],
+    "population": 732
+  },
+  {
+    "city": "La Prairie",
+    "county": "Adams",
+    "zip_codes": [
+      "62346"
+    ],
+    "population": 57
+  },
+  {
+    "city": "La Rose",
+    "county": "Marshall",
+    "zip_codes": [
+      "61375",
+      "61541",
+      "61570"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Lacon",
+    "county": "Marshall",
+    "zip_codes": [
+      "61540"
+    ],
+    "population": 1768
+  },
+  {
+    "city": "Ladd",
+    "county": "Bureau",
+    "zip_codes": [
+      "61329",
+      "61362"
+    ],
+    "population": 1393
+  },
+  {
+    "city": "Lake Barrington",
+    "county": "Lake",
+    "zip_codes": [
+      "60010",
+      "60084"
+    ],
+    "population": 5400
+  },
+  {
+    "city": "Lake Bluff",
+    "county": "Lake",
+    "zip_codes": [
+      "60044",
+      "60088"
+    ],
+    "population": 5834
+  },
+  {
+    "city": "Lake Camelot",
+    "county": "Peoria",
+    "zip_codes": [
+      "61547",
+      "61607"
+    ],
+    "population": 1744
+  },
+  {
+    "city": "Lake Carroll",
+    "county": "Carroll",
+    "zip_codes": [
+      "61046",
+      "61078"
+    ],
+    "population": 763
+  },
+  {
+    "city": "Lake Catherine",
+    "county": "Lake",
+    "zip_codes": [
+      "60002"
+    ],
+    "population": 1091
+  },
+  {
+    "city": "Lake City",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61937"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Lake Forest",
+    "county": "Lake",
+    "zip_codes": [
+      "60035",
+      "60045"
+    ],
+    "population": 19190
+  },
+  {
+    "city": "Lake Holiday",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60548",
+      "60552"
+    ],
+    "population": 5402
+  },
+  {
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "zip_codes": [
+      "60013",
+      "60014",
+      "60102",
+      "60142",
+      "60156"
+    ],
+    "population": 28853
+  },
+  {
+    "city": "Lake Ka-Ho",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62069"
+    ],
+    "population": 236
+  },
+  {
+    "city": "Lake of the Woods",
+    "county": "Champaign",
+    "zip_codes": [
+      "61853"
+    ],
+    "population": 1976
+  },
+  {
+    "city": "Lake Petersburg",
+    "county": "Menard",
+    "zip_codes": [
+      "62675"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Lake Summerset",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61019"
+    ],
+    "population": 2240
+  },
+  {
+    "city": "Lake Villa",
+    "county": "Lake",
+    "zip_codes": [
+      "60002",
+      "60046"
+    ],
+    "population": 8707
+  },
+  {
+    "city": "Lake Zurich",
+    "county": "Lake",
+    "zip_codes": [
+      "60010",
+      "60047"
+    ],
+    "population": 19727
+  },
+  {
+    "city": "Lakemoor",
+    "county": "McHenry",
+    "zip_codes": [
+      "60041",
+      "60051",
+      "60073"
+    ],
+    "population": 5878
+  },
+  {
+    "city": "Lakewood",
+    "county": "McHenry",
+    "zip_codes": [
+      "60014",
+      "60098",
+      "60142"
+    ],
+    "population": 4699
+  },
+  {
+    "city": "Lakewood",
+    "county": "Shelby",
+    "zip_codes": [
+      "62438"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Lakewood Shores",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Lanark",
+    "county": "Carroll",
+    "zip_codes": [
+      "61046"
+    ],
+    "population": 1510
+  },
+  {
+    "city": "Lane",
+    "county": "De Witt",
+    "zip_codes": [
+      "61727",
+      "61750"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Langleyville",
+    "county": "Christian",
+    "zip_codes": [
+      "62568"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Lansing",
+    "county": "Cook",
+    "zip_codes": [
+      "60411",
+      "60438"
+    ],
+    "population": 28415
+  },
+  {
+    "city": "LaPlace",
+    "county": "Piatt",
+    "zip_codes": [
+      "61929",
+      "61936"
+    ],
+    "population": 130
+  },
+  {
+    "city": "LaSalle",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61301",
+      "61348",
+      "61373"
+    ],
+    "population": 9471
+  },
+  {
+    "city": "Latham",
+    "county": "Logan",
+    "zip_codes": [
+      "62543"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Lawrence",
+    "county": "McHenry",
+    "zip_codes": [
+      "60033"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Lawrenceville",
+    "county": "Lawrence",
+    "zip_codes": [
+      "62439"
+    ],
+    "population": 4241
+  },
+  {
+    "city": "Le Roy",
+    "county": "McLean",
+    "zip_codes": [
+      "61752"
+    ],
+    "population": 3177
+  },
+  {
+    "city": "Leaf River",
+    "county": "Ogle",
+    "zip_codes": [
+      "61047"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Lebanon",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62254"
+    ],
+    "population": 4431
+  },
+  {
+    "city": "Lee",
+    "county": "Lee",
+    "zip_codes": [
+      "60530"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Lee Center",
+    "county": "Lee",
+    "zip_codes": [
+      "61310",
+      "61331"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Leland",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60531"
+    ],
+    "population": 1102
+  },
+  {
+    "city": "Leland Grove",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62704"
+    ],
+    "population": 1595
+  },
+  {
+    "city": "Lemont",
+    "county": "Cook",
+    "zip_codes": [
+      "60439"
+    ],
+    "population": 17643
+  },
+  {
+    "city": "Lena",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61048"
+    ],
+    "population": 2778
+  },
+  {
+    "city": "Lenzburg",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62255"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Leonore",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61332"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Lerna",
+    "county": "Coles",
+    "zip_codes": [
+      "62440"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Lewistown",
+    "county": "Fulton",
+    "zip_codes": [
+      "61542"
+    ],
+    "population": 1828
+  },
+  {
+    "city": "Lexington",
+    "county": "McLean",
+    "zip_codes": [
+      "61753"
+    ],
+    "population": 2074
+  },
+  {
+    "city": "Liberty",
+    "county": "Adams",
+    "zip_codes": [
+      "62347"
+    ],
+    "population": 423
+  },
+  {
+    "city": "Libertyville",
+    "county": "Lake",
+    "zip_codes": [
+      "60048"
+    ],
+    "population": 20493
+  },
+  {
+    "city": "Lily Lake",
+    "county": "Kane",
+    "zip_codes": [
+      "60151",
+      "60175"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "Lima",
+    "county": "Adams",
+    "zip_codes": [
+      "62348",
+      "62376"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Limestone",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Lincoln",
+    "county": "Logan",
+    "zip_codes": [
+      "62656"
+    ],
+    "population": 13406
+  },
+  {
+    "city": "Lincolnshire",
+    "county": "Lake",
+    "zip_codes": [
+      "60015",
+      "60045",
+      "60069"
+    ],
+    "population": 7937
+  },
+  {
+    "city": "Lincolnwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60712"
+    ],
+    "population": 13179
+  },
+  {
+    "city": "Lindenhurst",
+    "county": "Lake",
+    "zip_codes": [
+      "60046"
+    ],
+    "population": 14365
+  },
+  {
+    "city": "Lisbon",
+    "county": "Kendall",
+    "zip_codes": [
+      "60450",
+      "60541"
+    ],
+    "population": 300
+  },
+  {
+    "city": "Lisle",
+    "county": "DuPage",
+    "zip_codes": [
+      "60532"
+    ],
+    "population": 23413
+  },
+  {
+    "city": "Litchfield",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62015",
+      "62056"
+    ],
+    "population": 6814
+  },
+  {
+    "city": "Literberry",
+    "county": "Morgan",
+    "zip_codes": [
+      "62650"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Little York",
+    "county": "Warren",
+    "zip_codes": [
+      "61453"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Littleton",
+    "county": "Schuyler",
+    "zip_codes": [
+      "61452"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Liverpool",
+    "county": "Fulton",
+    "zip_codes": [
+      "61542",
+      "61543"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Livingston",
+    "county": "Madison",
+    "zip_codes": [
+      "62058",
+      "62074"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Loami",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62661"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Lockport",
+    "county": "Will",
+    "zip_codes": [
+      "60441",
+      "60491"
+    ],
+    "population": 26228
+  },
+  {
+    "city": "Lockport Heights",
+    "county": "Will",
+    "zip_codes": [
+      "60441"
+    ],
+    "population": 984
+  },
+  {
+    "city": "Loda",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60948"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Lomax",
+    "county": "Henderson",
+    "zip_codes": [
+      "61454"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Lombard",
+    "county": "DuPage",
+    "zip_codes": [
+      "60137",
+      "60148"
+    ],
+    "population": 43722
+  },
+  {
+    "city": "London Mills",
+    "county": "Fulton",
+    "zip_codes": [
+      "61544"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Long Creek",
+    "county": "Macon",
+    "zip_codes": [
+      "62521",
+      "62549"
+    ],
+    "population": 1309
+  },
+  {
+    "city": "Long Grove",
+    "county": "Lake",
+    "zip_codes": [
+      "60047",
+      "60060"
+    ],
+    "population": 8266
+  },
+  {
+    "city": "Long Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60041",
+      "60073"
+    ],
+    "population": 3219
+  },
+  {
+    "city": "Long Point",
+    "county": "Livingston",
+    "zip_codes": [
+      "61333"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Longview",
+    "county": "Champaign",
+    "zip_codes": [
+      "61852"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Loraine",
+    "county": "Adams",
+    "zip_codes": [
+      "62349"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Lorenzo",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Lost Nation",
+    "county": "Ogle",
+    "zip_codes": [
+      "61021"
+    ],
+    "population": 727
+  },
+  {
+    "city": "Lostant",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61334"
+    ],
+    "population": 402
+  },
+  {
+    "city": "Louisville",
+    "county": "Clay",
+    "zip_codes": [
+      "62858"
+    ],
+    "population": 1288
+  },
+  {
+    "city": "Loves Park",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61011",
+      "61111",
+      "61114"
+    ],
+    "population": 23185
+  },
+  {
+    "city": "Lovington",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61937"
+    ],
+    "population": 1120
+  },
+  {
+    "city": "Lowpoint",
+    "county": "Woodford",
+    "zip_codes": [
+      "61545"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Ludlow",
+    "county": "Champaign",
+    "zip_codes": [
+      "60949"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Lyndon",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61261"
+    ],
+    "population": 576
+  },
+  {
+    "city": "Lynn Center",
+    "county": "Henry",
+    "zip_codes": [
+      "61262"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Lynnville",
+    "county": "Morgan",
+    "zip_codes": [
+      "62650"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Lynwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60411"
+    ],
+    "population": 9047
+  },
+  {
+    "city": "Lyons",
+    "county": "Cook",
+    "zip_codes": [
+      "60501",
+      "60513",
+      "60525",
+      "60534"
+    ],
+    "population": 10391
+  },
+  {
+    "city": "Macedonia",
+    "county": "Hamilton",
+    "zip_codes": [
+      "62860"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Machesney Park",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61011",
+      "61073",
+      "61103",
+      "61115"
+    ],
+    "population": 22744
+  },
+  {
+    "city": "Mackinaw",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61755"
+    ],
+    "population": 1869
+  },
+  {
+    "city": "Macomb",
+    "county": "McDonough",
+    "zip_codes": [
+      "61455"
+    ],
+    "population": 15006
+  },
+  {
+    "city": "Macon",
+    "county": "Macon",
+    "zip_codes": [
+      "62544"
+    ],
+    "population": 1035
+  },
+  {
+    "city": "Madison",
+    "county": "Madison",
+    "zip_codes": [
+      "62040",
+      "62048",
+      "62060",
+      "62201"
+    ],
+    "population": 2788
+  },
+  {
+    "city": "Maeystown",
+    "county": "Monroe",
+    "zip_codes": [
+      "62244",
+      "62256"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Magnolia",
+    "county": "Putnam",
+    "zip_codes": [
+      "61336"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Mahomet",
+    "county": "Champaign",
+    "zip_codes": [
+      "61822",
+      "61840",
+      "61853",
+      "61875"
+    ],
+    "population": 9755
+  },
+  {
+    "city": "Makanda",
+    "county": "Jackson",
+    "zip_codes": [
+      "62958"
+    ],
+    "population": 550
+  },
+  {
+    "city": "Malden",
+    "county": "Bureau",
+    "zip_codes": [
+      "61337"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Malta",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60150"
+    ],
+    "population": 1507
+  },
+  {
+    "city": "Manchester",
+    "county": "Scott",
+    "zip_codes": [
+      "62082",
+      "62663"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Manhattan",
+    "county": "Will",
+    "zip_codes": [
+      "60442"
+    ],
+    "population": 10315
+  },
+  {
+    "city": "Manito",
+    "county": "Mason",
+    "zip_codes": [
+      "61546"
+    ],
+    "population": 1640
+  },
+  {
+    "city": "Manlius",
+    "county": "Bureau",
+    "zip_codes": [
+      "61338",
+      "61379"
+    ],
+    "population": 308
+  },
+  {
+    "city": "Mansfield",
+    "county": "Piatt",
+    "zip_codes": [
+      "61854"
+    ],
+    "population": 890
+  },
+  {
+    "city": "Manteno",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60950"
+    ],
+    "population": 8942
+  },
+  {
+    "city": "Maple Park",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60151"
+    ],
+    "population": 1939
+  },
+  {
+    "city": "Mapleton",
+    "county": "Peoria",
+    "zip_codes": [
+      "61547",
+      "61607"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Maquon",
+    "county": "Knox",
+    "zip_codes": [
+      "61458"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Marcelline",
+    "county": "Adams",
+    "zip_codes": [
+      "62376"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Marengo",
+    "county": "McHenry",
+    "zip_codes": [
+      "60152"
+    ],
+    "population": 7123
+  },
+  {
+    "city": "Marietta",
+    "county": "Fulton",
+    "zip_codes": [
+      "61459"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Marine",
+    "county": "Madison",
+    "zip_codes": [
+      "62061"
+    ],
+    "population": 1181
+  },
+  {
+    "city": "Marion",
+    "county": "Williamson",
+    "zip_codes": [
+      "62959"
+    ],
+    "population": 16796
+  },
+  {
+    "city": "Marissa",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62257"
+    ],
+    "population": 1133
+  },
+  {
+    "city": "Mark",
+    "county": "Putnam",
+    "zip_codes": [
+      "61326",
+      "61327",
+      "61340"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Markham",
+    "county": "Cook",
+    "zip_codes": [
+      "60426",
+      "60428"
+    ],
+    "population": 11434
+  },
+  {
+    "city": "Marley",
+    "county": "Will",
+    "zip_codes": [
+      "60448"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Maroa",
+    "county": "Macon",
+    "zip_codes": [
+      "61756"
+    ],
+    "population": 1751
+  },
+  {
+    "city": "Marquette Heights",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61554",
+      "61610"
+    ],
+    "population": 2613
+  },
+  {
+    "city": "Marseilles",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61341"
+    ],
+    "population": 4071
+  },
+  {
+    "city": "Marshall",
+    "county": "Clark",
+    "zip_codes": [
+      "62441"
+    ],
+    "population": 3987
+  },
+  {
+    "city": "Martinsville",
+    "county": "Clark",
+    "zip_codes": [
+      "62442"
+    ],
+    "population": 1212
+  },
+  {
+    "city": "Martinton",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60951"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Maryville",
+    "county": "Madison",
+    "zip_codes": [
+      "62062",
+      "62234"
+    ],
+    "population": 8280
+  },
+  {
+    "city": "Mascoutah",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62221",
+      "62258"
+    ],
+    "population": 8743
+  },
+  {
+    "city": "Mason",
+    "county": "Effingham",
+    "zip_codes": [
+      "62443"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Mason City",
+    "county": "Mason",
+    "zip_codes": [
+      "62664"
+    ],
+    "population": 2094
+  },
+  {
+    "city": "Matherville",
+    "county": "Mercer",
+    "zip_codes": [
+      "61263"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Matteson",
+    "county": "Cook",
+    "zip_codes": [
+      "60423",
+      "60443"
+    ],
+    "population": 18681
+  },
+  {
+    "city": "Mattoon",
+    "county": "Coles",
+    "zip_codes": [
+      "61938"
+    ],
+    "population": 16334
+  },
+  {
+    "city": "Maunie",
+    "county": "White",
+    "zip_codes": [
+      "62861"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Maywood",
+    "county": "Cook",
+    "zip_codes": [
+      "60153"
+    ],
+    "population": 23173
+  },
+  {
+    "city": "Mazon",
+    "county": "Grundy",
+    "zip_codes": [
+      "60444"
+    ],
+    "population": 1424
+  },
+  {
+    "city": "McClure",
+    "county": "Alexander",
+    "zip_codes": [
+      "62957"
+    ],
+    "population": 245
+  },
+  {
+    "city": "McCook",
+    "county": "Cook",
+    "zip_codes": [
+      "60501",
+      "60525"
+    ],
+    "population": 299
+  },
+  {
+    "city": "McCullom Lake",
+    "county": "McHenry",
+    "zip_codes": [
+      "60050"
+    ],
+    "population": 1087
+  },
+  {
+    "city": "McHenry",
+    "county": "McHenry",
+    "zip_codes": [
+      "60050",
+      "60051",
+      "60097"
+    ],
+    "population": 27774
+  },
+  {
+    "city": "McLean",
+    "county": "McLean",
+    "zip_codes": [
+      "61754"
+    ],
+    "population": 730
+  },
+  {
+    "city": "McLeansboro",
+    "county": "Hamilton",
+    "zip_codes": [
+      "62859"
+    ],
+    "population": 2750
+  },
+  {
+    "city": "McNabb",
+    "county": "Putnam",
+    "zip_codes": [
+      "61335"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Mechanicsburg",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62545"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Media",
+    "county": "Henderson",
+    "zip_codes": [
+      "61460"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Medora",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62063"
+    ],
+    "population": 295
+  },
+  {
+    "city": "Melrose Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60160",
+      "60163"
+    ],
+    "population": 24513
+  },
+  {
+    "city": "Melvin",
+    "county": "Ford",
+    "zip_codes": [
+      "60952"
+    ],
+    "population": 376
+  },
+  {
+    "city": "Mendon",
+    "county": "Adams",
+    "zip_codes": [
+      "62351"
+    ],
+    "population": 1131
+  },
+  {
+    "city": "Mendota",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61342"
+    ],
+    "population": 6915
+  },
+  {
+    "city": "Menominee",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61025"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Meredosia",
+    "county": "Morgan",
+    "zip_codes": [
+      "62665"
+    ],
+    "population": 937
+  },
+  {
+    "city": "Merrionette Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60803"
+    ],
+    "population": 2144
+  },
+  {
+    "city": "Merritt",
+    "county": "Scott",
+    "zip_codes": [
+      "62650",
+      "62694"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Metamora",
+    "county": "Woodford",
+    "zip_codes": [
+      "61548"
+    ],
+    "population": 4094
+  },
+  {
+    "city": "Metcalf",
+    "county": "Edgar",
+    "zip_codes": [
+      "61940"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Metropolis",
+    "county": "Massac",
+    "zip_codes": [
+      "62960"
+    ],
+    "population": 5898
+  },
+  {
+    "city": "Mettawa",
+    "county": "Lake",
+    "zip_codes": [
+      "60045",
+      "60048"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Meyer",
+    "county": "Adams",
+    "zip_codes": [
+      "62379"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Middletown",
+    "county": "Logan",
+    "zip_codes": [
+      "62666"
+    ],
+    "population": 236
+  },
+  {
+    "city": "Midlothian",
+    "county": "Cook",
+    "zip_codes": [
+      "60445"
+    ],
+    "population": 14024
+  },
+  {
+    "city": "Milan",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61201",
+      "61264",
+      "61265"
+    ],
+    "population": 5037
+  },
+  {
+    "city": "Milford",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60953"
+    ],
+    "population": 1136
+  },
+  {
+    "city": "Mill Creek",
+    "county": "Union",
+    "zip_codes": [
+      "62926",
+      "62961"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Mill Shoals",
+    "county": "White",
+    "zip_codes": [
+      "62809",
+      "62862"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Millbrook",
+    "county": "Kendall",
+    "zip_codes": [
+      "60536",
+      "60541",
+      "60560"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Milledgeville",
+    "county": "Carroll",
+    "zip_codes": [
+      "61051"
+    ],
+    "population": 1199
+  },
+  {
+    "city": "Millersburg",
+    "county": "Mercer",
+    "zip_codes": [
+      "61231",
+      "61260"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Millington",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60537",
+      "60541"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Millstadt",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62260"
+    ],
+    "population": 4013
+  },
+  {
+    "city": "Milton",
+    "county": "Pike",
+    "zip_codes": [
+      "62352"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Mineral",
+    "county": "Bureau",
+    "zip_codes": [
+      "61344"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Minier",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61759"
+    ],
+    "population": 999
+  },
+  {
+    "city": "Minonk",
+    "county": "Woodford",
+    "zip_codes": [
+      "61760"
+    ],
+    "population": 1909
+  },
+  {
+    "city": "Minooka",
+    "county": "Grundy",
+    "zip_codes": [
+      "60447"
+    ],
+    "population": 12632
+  },
+  {
+    "city": "Mitchell",
+    "county": "Madison",
+    "zip_codes": [
+      "62040"
+    ],
+    "population": 847
+  },
+  {
+    "city": "Modesto",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62667"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Mokena",
+    "county": "Will",
+    "zip_codes": [
+      "60448"
+    ],
+    "population": 19906
+  },
+  {
+    "city": "Moline",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61240",
+      "61264",
+      "61265"
+    ],
+    "population": 42235
+  },
+  {
+    "city": "Momence",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60954"
+    ],
+    "population": 3076
+  },
+  {
+    "city": "Monee",
+    "county": "Will",
+    "zip_codes": [
+      "60449"
+    ],
+    "population": 5104
+  },
+  {
+    "city": "Monmouth",
+    "county": "Warren",
+    "zip_codes": [
+      "61462"
+    ],
+    "population": 8794
+  },
+  {
+    "city": "Monroe Center",
+    "county": "Ogle",
+    "zip_codes": [
+      "61052"
+    ],
+    "population": 415
+  },
+  {
+    "city": "Montgomery",
+    "county": "Kendall",
+    "zip_codes": [
+      "60506",
+      "60538",
+      "60543"
+    ],
+    "population": 21205
+  },
+  {
+    "city": "Monticello",
+    "county": "Piatt",
+    "zip_codes": [
+      "61856"
+    ],
+    "population": 6332
+  },
+  {
+    "city": "Montrose",
+    "county": "Effingham",
+    "zip_codes": [
+      "62445"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Moro",
+    "county": "Madison",
+    "zip_codes": [
+      "62067"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Morris",
+    "county": "Grundy",
+    "zip_codes": [
+      "60450"
+    ],
+    "population": 14775
+  },
+  {
+    "city": "Morrison",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61270"
+    ],
+    "population": 3781
+  },
+  {
+    "city": "Morrisonville",
+    "county": "Christian",
+    "zip_codes": [
+      "62546"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Morton",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61550"
+    ],
+    "population": 16503
+  },
+  {
+    "city": "Morton Grove",
+    "county": "Cook",
+    "zip_codes": [
+      "60053"
+    ],
+    "population": 24687
+  },
+  {
+    "city": "Mossville",
+    "county": "Peoria",
+    "zip_codes": [
+      "61552",
+      "61615"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Mound City",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62963"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Mound Station",
+    "county": "Brown",
+    "zip_codes": [
+      "62375"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Mounds",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62964"
+    ],
+    "population": 855
+  },
+  {
+    "city": "Mount Auburn",
+    "county": "Christian",
+    "zip_codes": [
+      "62547"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Mount Carmel",
+    "county": "Wabash",
+    "zip_codes": [
+      "62863"
+    ],
+    "population": 6892
+  },
+  {
+    "city": "Mount Carroll",
+    "county": "Carroll",
+    "zip_codes": [
+      "61053"
+    ],
+    "population": 1515
+  },
+  {
+    "city": "Mount Clare",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62009",
+      "62033"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Mount Erie",
+    "county": "Wayne",
+    "zip_codes": [
+      "62446"
+    ],
+    "population": 133
+  },
+  {
+    "city": "Mount Morris",
+    "county": "Ogle",
+    "zip_codes": [
+      "61054"
+    ],
+    "population": 2679
+  },
+  {
+    "city": "Mount Olive",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62069"
+    ],
+    "population": 1979
+  },
+  {
+    "city": "Mount Prospect",
+    "county": "Cook",
+    "zip_codes": [
+      "60005",
+      "60056"
+    ],
+    "population": 55648
+  },
+  {
+    "city": "Mount Pulaski",
+    "county": "Logan",
+    "zip_codes": [
+      "62548"
+    ],
+    "population": 1513
+  },
+  {
+    "city": "Mount Sterling",
+    "county": "Brown",
+    "zip_codes": [
+      "62353"
+    ],
+    "population": 1949
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62864"
+    ],
+    "population": 14492
+  },
+  {
+    "city": "Mount Zion",
+    "county": "Macon",
+    "zip_codes": [
+      "61925",
+      "62521",
+      "62549"
+    ],
+    "population": 6076
+  },
+  {
+    "city": "Moweaqua",
+    "county": "Shelby",
+    "zip_codes": [
+      "62550"
+    ],
+    "population": 2093
+  },
+  {
+    "city": "Muddy",
+    "county": "Saline",
+    "zip_codes": [
+      "62946",
+      "62965"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Mulberry Grove",
+    "county": "Bond",
+    "zip_codes": [
+      "62262"
+    ],
+    "population": 739
+  },
+  {
+    "city": "Mulkeytown",
+    "county": "Franklin",
+    "zip_codes": [
+      "62865"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Muncie",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61857"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Mundelein",
+    "county": "Lake",
+    "zip_codes": [
+      "60048",
+      "60060"
+    ],
+    "population": 31632
+  },
+  {
+    "city": "Murphysboro",
+    "county": "Jackson",
+    "zip_codes": [
+      "62966"
+    ],
+    "population": 6804
+  },
+  {
+    "city": "Murrayville",
+    "county": "Morgan",
+    "zip_codes": [
+      "62668"
+    ],
+    "population": 671
+  },
+  {
+    "city": "Nachusa",
+    "county": "Lee",
+    "zip_codes": [
+      "61021",
+      "61057"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Naperville",
+    "county": "DuPage",
+    "zip_codes": [
+      "60540",
+      "60563",
+      "60564",
+      "60565"
+    ],
+    "population": 149424
+  },
+  {
+    "city": "Naplate",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61350"
+    ],
+    "population": 461
+  },
+  {
+    "city": "Naples",
+    "county": "Scott",
+    "zip_codes": [
+      "62665"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Nashville",
+    "county": "Washington",
+    "zip_codes": [
+      "62263"
+    ],
+    "population": 2991
+  },
+  {
+    "city": "Nason",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62816"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Nauvoo",
+    "county": "Hancock",
+    "zip_codes": [
+      "62354"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Nebo",
+    "county": "Pike",
+    "zip_codes": [
+      "62355"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Nekoma",
+    "county": "Henry",
+    "zip_codes": [
+      "61490"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Nelson",
+    "county": "Lee",
+    "zip_codes": [
+      "61021",
+      "61071"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Neoga",
+    "county": "Cumberland",
+    "zip_codes": [
+      "62447"
+    ],
+    "population": 1248
+  },
+  {
+    "city": "Neponset",
+    "county": "Bureau",
+    "zip_codes": [
+      "61345"
+    ],
+    "population": 411
+  },
+  {
+    "city": "New Athens",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62264"
+    ],
+    "population": 1937
+  },
+  {
+    "city": "New Baden",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62265"
+    ],
+    "population": 3493
+  },
+  {
+    "city": "New Bedford",
+    "county": "Bureau",
+    "zip_codes": [
+      "61346"
+    ],
+    "population": 48
+  },
+  {
+    "city": "New Berlin",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62670"
+    ],
+    "population": 1366
+  },
+  {
+    "city": "New Boston",
+    "county": "Mercer",
+    "zip_codes": [
+      "61272"
+    ],
+    "population": 632
+  },
+  {
+    "city": "New Burnside",
+    "county": "Johnson",
+    "zip_codes": [
+      "62967"
+    ],
+    "population": 150
+  },
+  {
+    "city": "New Canton",
+    "county": "Pike",
+    "zip_codes": [
+      "62356"
+    ],
+    "population": 209
+  },
+  {
+    "city": "New Douglas",
+    "county": "Madison",
+    "zip_codes": [
+      "62074"
+    ],
+    "population": 320
+  },
+  {
+    "city": "New Grand Chain",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62941"
+    ],
+    "population": 144
+  },
+  {
+    "city": "New Haven",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62867"
+    ],
+    "population": 528
+  },
+  {
+    "city": "New Holland",
+    "county": "Logan",
+    "zip_codes": [
+      "62671"
+    ],
+    "population": 229
+  },
+  {
+    "city": "New Lenox",
+    "county": "Will",
+    "zip_codes": [
+      "60432",
+      "60433",
+      "60441",
+      "60442",
+      "60448",
+      "60451",
+      "60491"
+    ],
+    "population": 27456
+  },
+  {
+    "city": "New Milford",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61109"
+    ],
+    "population": 1183
+  },
+  {
+    "city": "New Minden",
+    "county": "Washington",
+    "zip_codes": [
+      "62263",
+      "62803"
+    ],
+    "population": 227
+  },
+  {
+    "city": "New Salem",
+    "county": "Pike",
+    "zip_codes": [
+      "62357"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Newark",
+    "county": "Kendall",
+    "zip_codes": [
+      "60541"
+    ],
+    "population": 1152
+  },
+  {
+    "city": "Newman",
+    "county": "Douglas",
+    "zip_codes": [
+      "61942"
+    ],
+    "population": 796
+  },
+  {
+    "city": "Newton",
+    "county": "Jasper",
+    "zip_codes": [
+      "62448"
+    ],
+    "population": 2852
+  },
+  {
+    "city": "Niantic",
+    "county": "Macon",
+    "zip_codes": [
+      "62551"
+    ],
+    "population": 734
+  },
+  {
+    "city": "Niles",
+    "county": "Cook",
+    "zip_codes": [
+      "60714"
+    ],
+    "population": 30262
+  },
+  {
+    "city": "Nilwood",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62672"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Niota",
+    "county": "Hancock",
+    "zip_codes": [
+      "62358"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Noble",
+    "county": "Richland",
+    "zip_codes": [
+      "62868"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Nokomis",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62075"
+    ],
+    "population": 2213
+  },
+  {
+    "city": "Nora",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61059",
+      "61087"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Normal",
+    "county": "McLean",
+    "zip_codes": [
+      "61761"
+    ],
+    "population": 52908
+  },
+  {
+    "city": "Norridge",
+    "county": "Cook",
+    "zip_codes": [
+      "60706"
+    ],
+    "population": 15177
+  },
+  {
+    "city": "Norris",
+    "county": "Fulton",
+    "zip_codes": [
+      "61553"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Norris City",
+    "county": "White",
+    "zip_codes": [
+      "62869"
+    ],
+    "population": 1613
+  },
+  {
+    "city": "North Aurora",
+    "county": "Kane",
+    "zip_codes": [
+      "60510",
+      "60542"
+    ],
+    "population": 18375
+  },
+  {
+    "city": "North Barrington",
+    "county": "Lake",
+    "zip_codes": [
+      "60010"
+    ],
+    "population": 3113
+  },
+  {
+    "city": "North Chicago",
+    "county": "Lake",
+    "zip_codes": [
+      "60044",
+      "60064",
+      "60088"
+    ],
+    "population": 30772
+  },
+  {
+    "city": "North City",
+    "county": "Franklin",
+    "zip_codes": [
+      "62812",
+      "62822",
+      "62825",
+      "62865"
+    ],
+    "population": 708
+  },
+  {
+    "city": "North Henderson",
+    "county": "Mercer",
+    "zip_codes": [
+      "61466"
+    ],
+    "population": 204
+  },
+  {
+    "city": "North Pekin",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61554"
+    ],
+    "population": 1647
+  },
+  {
+    "city": "North Riverside",
+    "county": "Cook",
+    "zip_codes": [
+      "60546"
+    ],
+    "population": 7495
+  },
+  {
+    "city": "North Utica",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61348",
+      "61373"
+    ],
+    "population": 1215
+  },
+  {
+    "city": "Northbrook",
+    "county": "Cook",
+    "zip_codes": [
+      "60062"
+    ],
+    "population": 34642
+  },
+  {
+    "city": "Northfield",
+    "county": "Cook",
+    "zip_codes": [
+      "60093"
+    ],
+    "population": 5683
+  },
+  {
+    "city": "Northlake",
+    "county": "Cook",
+    "zip_codes": [
+      "60164"
+    ],
+    "population": 12547
+  },
+  {
+    "city": "Norwood",
+    "county": "Peoria",
+    "zip_codes": [
+      "61604"
+    ],
+    "population": 501
+  },
+  {
+    "city": "O'Fallon",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62208",
+      "62225",
+      "62254",
+      "62269"
+    ],
+    "population": 32139
+  },
+  {
+    "city": "Oak Brook",
+    "county": "DuPage",
+    "zip_codes": [
+      "60523"
+    ],
+    "population": 8028
+  },
+  {
+    "city": "Oak Forest",
+    "county": "Cook",
+    "zip_codes": [
+      "60452",
+      "60477",
+      "60478"
+    ],
+    "population": 26888
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61264"
+    ],
+    "population": 335
+  },
+  {
+    "city": "Oak Lawn",
+    "county": "Cook",
+    "zip_codes": [
+      "60453"
+    ],
+    "population": 57098
+  },
+  {
+    "city": "Oak Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60301",
+      "60302",
+      "60304"
+    ],
+    "population": 53315
+  },
+  {
+    "city": "Oak Run",
+    "county": "Knox",
+    "zip_codes": [
+      "61428",
+      "61485"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Oakbrook Terrace",
+    "county": "DuPage",
+    "zip_codes": [
+      "60181",
+      "60523"
+    ],
+    "population": 2714
+  },
+  {
+    "city": "Oakdale",
+    "county": "Washington",
+    "zip_codes": [
+      "62268"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Oakford",
+    "county": "Menard",
+    "zip_codes": [
+      "62673"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Oakland",
+    "county": "Coles",
+    "zip_codes": [
+      "61943"
+    ],
+    "population": 948
+  },
+  {
+    "city": "Oakwood",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61858"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Oakwood Hills",
+    "county": "McHenry",
+    "zip_codes": [
+      "60013",
+      "60014"
+    ],
+    "population": 2454
+  },
+  {
+    "city": "Oblong",
+    "county": "Crawford",
+    "zip_codes": [
+      "62449"
+    ],
+    "population": 1617
+  },
+  {
+    "city": "Oconee",
+    "county": "Shelby",
+    "zip_codes": [
+      "62553"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Odell",
+    "county": "Livingston",
+    "zip_codes": [
+      "60460"
+    ],
+    "population": 866
+  },
+  {
+    "city": "Odin",
+    "county": "Marion",
+    "zip_codes": [
+      "62870"
+    ],
+    "population": 941
+  },
+  {
+    "city": "Ogden",
+    "county": "Champaign",
+    "zip_codes": [
+      "61859"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Oglesby",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61348"
+    ],
+    "population": 3723
+  },
+  {
+    "city": "Ohio",
+    "county": "Bureau",
+    "zip_codes": [
+      "61349"
+    ],
+    "population": 582
+  },
+  {
+    "city": "Ohlman",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62076"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Okawville",
+    "county": "Washington",
+    "zip_codes": [
+      "62271"
+    ],
+    "population": 1312
+  },
+  {
+    "city": "Old Mill Creek",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60046",
+      "60083"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Old Ripley",
+    "county": "Bond",
+    "zip_codes": [
+      "62275"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Old Shawneetown",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62984"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Olive Branch",
+    "county": "Alexander",
+    "zip_codes": [
+      "62969",
+      "62988",
+      "62990"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Olivet",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61846",
+      "61870"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Olmsted",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62970"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Olney",
+    "county": "Richland",
+    "zip_codes": [
+      "62450"
+    ],
+    "population": 8864
+  },
+  {
+    "city": "Olympia Fields",
+    "county": "Cook",
+    "zip_codes": [
+      "60461"
+    ],
+    "population": 4636
+  },
+  {
+    "city": "Omaha",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62871"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Onarga",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60955"
+    ],
+    "population": 1362
+  },
+  {
+    "city": "Oneida",
+    "county": "Knox",
+    "zip_codes": [
+      "61467"
+    ],
+    "population": 770
+  },
+  {
+    "city": "Opdyke",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62872"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Ophiem",
+    "county": "Henry",
+    "zip_codes": [
+      "61262",
+      "61468"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Oquawka",
+    "county": "Henderson",
+    "zip_codes": [
+      "61469"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Orangeville",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61060"
+    ],
+    "population": 957
+  },
+  {
+    "city": "Oreana",
+    "county": "Macon",
+    "zip_codes": [
+      "62554"
+    ],
+    "population": 1183
+  },
+  {
+    "city": "Oregon",
+    "county": "Ogle",
+    "zip_codes": [
+      "61061"
+    ],
+    "population": 3821
+  },
+  {
+    "city": "Orient",
+    "county": "Franklin",
+    "zip_codes": [
+      "62874"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Orion",
+    "county": "Henry",
+    "zip_codes": [
+      "61273"
+    ],
+    "population": 1849
+  },
+  {
+    "city": "Orland Hills",
+    "county": "Cook",
+    "zip_codes": [
+      "60462",
+      "60467",
+      "60487"
+    ],
+    "population": 6758
+  },
+  {
+    "city": "Orland Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60448",
+      "60462",
+      "60467",
+      "60487"
+    ],
+    "population": 57961
+  },
+  {
+    "city": "Osco",
+    "county": "Henry",
+    "zip_codes": [
+      "61274"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Oswego",
+    "county": "Kendall",
+    "zip_codes": [
+      "60543",
+      "60560"
+    ],
+    "population": 35463
+  },
+  {
+    "city": "Ottawa",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61350"
+    ],
+    "population": 18714
+  },
+  {
+    "city": "Otterville",
+    "county": "Jersey",
+    "zip_codes": [
+      "62052"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Owaneco",
+    "county": "Christian",
+    "zip_codes": [
+      "62555"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Oxville",
+    "county": "Scott",
+    "zip_codes": [
+      "62621"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Paderborn",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62298"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Palatine",
+    "county": "Cook",
+    "zip_codes": [
+      "60067",
+      "60074"
+    ],
+    "population": 66548
+  },
+  {
+    "city": "Palestine",
+    "county": "Crawford",
+    "zip_codes": [
+      "62451"
+    ],
+    "population": 1396
+  },
+  {
+    "city": "Palmer",
+    "county": "Christian",
+    "zip_codes": [
+      "62546",
+      "62556"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Palmyra",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62674"
+    ],
+    "population": 524
+  },
+  {
+    "city": "Paloma",
+    "county": "Adams",
+    "zip_codes": [
+      "62325",
+      "62359"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Palos Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60462",
+      "60463",
+      "60482"
+    ],
+    "population": 11817
+  },
+  {
+    "city": "Palos Hills",
+    "county": "Cook",
+    "zip_codes": [
+      "60465"
+    ],
+    "population": 18139
+  },
+  {
+    "city": "Palos Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60439",
+      "60464"
+    ],
+    "population": 4832
+  },
+  {
+    "city": "Pana",
+    "county": "Christian",
+    "zip_codes": [
+      "62557",
+      "62571"
+    ],
+    "population": 5277
+  },
+  {
+    "city": "Panama",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62077"
+    ],
+    "population": 327
+  },
+  {
+    "city": "Panola",
+    "county": "Woodford",
+    "zip_codes": [
+      "61738"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Papineau",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60956"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Paris",
+    "county": "Edgar",
+    "zip_codes": [
+      "61944"
+    ],
+    "population": 8154
+  },
+  {
+    "city": "Park City",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60085"
+    ],
+    "population": 7631
+  },
+  {
+    "city": "Park Forest",
+    "county": "Cook",
+    "zip_codes": [
+      "60417",
+      "60466"
+    ],
+    "population": 20898
+  },
+  {
+    "city": "Park Ridge",
+    "county": "Cook",
+    "zip_codes": [
+      "60068"
+    ],
+    "population": 39241
+  },
+  {
+    "city": "Parkersburg",
+    "county": "Richland",
+    "zip_codes": [
+      "62452"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Patoka",
+    "county": "Marion",
+    "zip_codes": [
+      "62875"
+    ],
+    "population": 544
+  },
+  {
+    "city": "Paw Paw",
+    "county": "Lee",
+    "zip_codes": [
+      "61353"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Pawnee",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62558"
+    ],
+    "population": 2706
+  },
+  {
+    "city": "Paxton",
+    "county": "Ford",
+    "zip_codes": [
+      "60957"
+    ],
+    "population": 4201
+  },
+  {
+    "city": "Payson",
+    "county": "Adams",
+    "zip_codes": [
+      "62360"
+    ],
+    "population": 1030
+  },
+  {
+    "city": "Pearl",
+    "county": "Pike",
+    "zip_codes": [
+      "62361"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Pearl City",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61062"
+    ],
+    "population": 798
+  },
+  {
+    "city": "Pecatonica",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61063"
+    ],
+    "population": 2178
+  },
+  {
+    "city": "Pekin",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61554",
+      "61607"
+    ],
+    "population": 31812
+  },
+  {
+    "city": "Penfield",
+    "county": "Champaign",
+    "zip_codes": [
+      "61862"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Peoria",
+    "county": "Peoria",
+    "zip_codes": [
+      "61525",
+      "61528",
+      "61602",
+      "61603",
+      "61604",
+      "61605",
+      "61606",
+      "61607",
+      "61614",
+      "61615",
+      "61625"
+    ],
+    "population": 112126
+  },
+  {
+    "city": "Peoria Heights",
+    "county": "Peoria",
+    "zip_codes": [
+      "61616"
+    ],
+    "population": 5834
+  },
+  {
+    "city": "Peotone",
+    "county": "Will",
+    "zip_codes": [
+      "60468"
+    ],
+    "population": 4462
+  },
+  {
+    "city": "Percy",
+    "county": "Randolph",
+    "zip_codes": [
+      "62272"
+    ],
+    "population": 1014
+  },
+  {
+    "city": "Perry",
+    "county": "Pike",
+    "zip_codes": [
+      "62362"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Peru",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61301",
+      "61354"
+    ],
+    "population": 9863
+  },
+  {
+    "city": "Pesotum",
+    "county": "Champaign",
+    "zip_codes": [
+      "61863"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Petersburg",
+    "county": "Menard",
+    "zip_codes": [
+      "62675"
+    ],
+    "population": 2590
+  },
+  {
+    "city": "Phillipstown",
+    "county": "White",
+    "zip_codes": [
+      "62827"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Philo",
+    "county": "Champaign",
+    "zip_codes": [
+      "61864"
+    ],
+    "population": 1461
+  },
+  {
+    "city": "Phoenix",
+    "county": "Cook",
+    "zip_codes": [
+      "60426",
+      "60473"
+    ],
+    "population": 1284
+  },
+  {
+    "city": "Pierron",
+    "county": "Bond",
+    "zip_codes": [
+      "62249",
+      "62273",
+      "62275"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Pinckneyville",
+    "county": "Perry",
+    "zip_codes": [
+      "62274"
+    ],
+    "population": 5055
+  },
+  {
+    "city": "Pingree Grove",
+    "county": "Kane",
+    "zip_codes": [
+      "60140"
+    ],
+    "population": 10576
+  },
+  {
+    "city": "Piper City",
+    "county": "Ford",
+    "zip_codes": [
+      "60959"
+    ],
+    "population": 716
+  },
+  {
+    "city": "Pistakee Highlands",
+    "county": "McHenry",
+    "zip_codes": [
+      "60050",
+      "60051"
+    ],
+    "population": 3214
+  },
+  {
+    "city": "Pittsburg",
+    "county": "Williamson",
+    "zip_codes": [
+      "62959",
+      "62974"
+    ],
+    "population": 515
+  },
+  {
+    "city": "Pittsfield",
+    "county": "Pike",
+    "zip_codes": [
+      "62340",
+      "62363"
+    ],
+    "population": 4422
+  },
+  {
+    "city": "Plainfield",
+    "county": "Will",
+    "zip_codes": [
+      "60543",
+      "60544",
+      "60585",
+      "60586"
+    ],
+    "population": 45705
+  },
+  {
+    "city": "Plainville",
+    "county": "Adams",
+    "zip_codes": [
+      "62365"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Plano",
+    "county": "Kendall",
+    "zip_codes": [
+      "60545"
+    ],
+    "population": 11626
+  },
+  {
+    "city": "Plattville",
+    "county": "Kendall",
+    "zip_codes": [
+      "60447",
+      "60560"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Pleasant Hill",
+    "county": "Pike",
+    "zip_codes": [
+      "62366"
+    ],
+    "population": 985
+  },
+  {
+    "city": "Pleasant Plains",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62677"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Plum Valley",
+    "county": "Will",
+    "zip_codes": [
+      "60417"
+    ],
+    "population": 542
+  },
+  {
+    "city": "Plymouth",
+    "county": "Hancock",
+    "zip_codes": [
+      "62367"
+    ],
+    "population": 512
+  },
+  {
+    "city": "Pocahontas",
+    "county": "Bond",
+    "zip_codes": [
+      "62275"
+    ],
+    "population": 794
+  },
+  {
+    "city": "Polo",
+    "county": "Ogle",
+    "zip_codes": [
+      "61064"
+    ],
+    "population": 2495
+  },
+  {
+    "city": "Pontiac",
+    "county": "Livingston",
+    "zip_codes": [
+      "61764"
+    ],
+    "population": 11483
+  },
+  {
+    "city": "Pontoon Beach",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62040",
+      "62234"
+    ],
+    "population": 6131
+  },
+  {
+    "city": "Pontoosuc",
+    "county": "Hancock",
+    "zip_codes": [
+      "62330",
+      "62358"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Poplar Grove",
+    "county": "Boone",
+    "zip_codes": [
+      "61011",
+      "61065"
+    ],
+    "population": 4202
+  },
+  {
+    "city": "Port Barrington",
+    "county": "Lake",
+    "zip_codes": [
+      "60010",
+      "60084"
+    ],
+    "population": 1574
+  },
+  {
+    "city": "Port Byron",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61275"
+    ],
+    "population": 1959
+  },
+  {
+    "city": "Posen",
+    "county": "Cook",
+    "zip_codes": [
+      "60406",
+      "60426",
+      "60469"
+    ],
+    "population": 5331
+  },
+  {
+    "city": "Potomac",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61865"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Prairie City",
+    "county": "McDonough",
+    "zip_codes": [
+      "61470"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Prairie du Rocher",
+    "county": "Randolph",
+    "zip_codes": [
+      "62277"
+    ],
+    "population": 432
+  },
+  {
+    "city": "Prairie Grove",
+    "county": "McHenry",
+    "zip_codes": [
+      "60012",
+      "60014",
+      "60050"
+    ],
+    "population": 1992
+  },
+  {
+    "city": "Prairietown",
+    "county": "Madison",
+    "zip_codes": [
+      "62021",
+      "62097"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Preemption",
+    "county": "Mercer",
+    "zip_codes": [
+      "61231",
+      "61264",
+      "61276",
+      "61281"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Prestbury",
+    "county": "Kane",
+    "zip_codes": [
+      "60554"
+    ],
+    "population": 2174
+  },
+  {
+    "city": "Preston Heights",
+    "county": "Will",
+    "zip_codes": [
+      "60433",
+      "60436"
+    ],
+    "population": 2318
+  },
+  {
+    "city": "Princeton",
+    "county": "Bureau",
+    "zip_codes": [
+      "61356"
+    ],
+    "population": 7829
+  },
+  {
+    "city": "Princeville",
+    "county": "Peoria",
+    "zip_codes": [
+      "61559"
+    ],
+    "population": 1932
+  },
+  {
+    "city": "Prophetstown",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61277"
+    ],
+    "population": 1828
+  },
+  {
+    "city": "Prospect Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60004",
+      "60062",
+      "60070"
+    ],
+    "population": 15681
+  },
+  {
+    "city": "Pulaski",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62976"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Quincy",
+    "county": "Adams",
+    "zip_codes": [
+      "62301",
+      "62305"
+    ],
+    "population": 39188
+  },
+  {
+    "city": "Radom",
+    "county": "Washington",
+    "zip_codes": [
+      "62876"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Raleigh",
+    "county": "Saline",
+    "zip_codes": [
+      "62977"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Ramsey",
+    "county": "Fayette",
+    "zip_codes": [
+      "62080"
+    ],
+    "population": 998
+  },
+  {
+    "city": "Rankin",
+    "county": "Vermilion",
+    "zip_codes": [
+      "60960"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Ransom",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60470"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Rantoul",
+    "county": "Champaign",
+    "zip_codes": [
+      "61866"
+    ],
+    "population": 12515
+  },
+  {
+    "city": "Rapids City",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61275",
+      "61278"
+    ],
+    "population": 1012
+  },
+  {
+    "city": "Raritan",
+    "county": "Henderson",
+    "zip_codes": [
+      "61471"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Raymond",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62560"
+    ],
+    "population": 1065
+  },
+  {
+    "city": "Red Bud",
+    "county": "Randolph",
+    "zip_codes": [
+      "62278"
+    ],
+    "population": 3789
+  },
+  {
+    "city": "Reddick",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60961"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Redmon",
+    "county": "Edgar",
+    "zip_codes": [
+      "61949"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Rentchler",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62221"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Rest Haven",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Reynolds",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61264",
+      "61279"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Richfield",
+    "county": "Adams",
+    "zip_codes": [
+      "62347",
+      "62365"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Richmond",
+    "county": "McHenry",
+    "zip_codes": [
+      "60071"
+    ],
+    "population": 2530
+  },
+  {
+    "city": "Richton Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60443",
+      "60471"
+    ],
+    "population": 12576
+  },
+  {
+    "city": "Richview",
+    "county": "Washington",
+    "zip_codes": [
+      "62877"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Ridge Farm",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61870"
+    ],
+    "population": 887
+  },
+  {
+    "city": "Ridgefield",
+    "county": "McHenry",
+    "zip_codes": [
+      "60012",
+      "60098"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Ridgewood",
+    "county": "Will",
+    "zip_codes": [
+      "60432"
+    ],
+    "population": 2997
+  },
+  {
+    "city": "Ridgway",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62979"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Ridott",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61067"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Riggston",
+    "county": "Scott",
+    "zip_codes": [
+      "62694"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Riley",
+    "county": "McHenry",
+    "zip_codes": [
+      "60152"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ringwood",
+    "county": "McHenry",
+    "zip_codes": [
+      "60072",
+      "60097"
+    ],
+    "population": 778
+  },
+  {
+    "city": "Rio",
+    "county": "Knox",
+    "zip_codes": [
+      "61472"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Ripley",
+    "county": "Brown",
+    "zip_codes": [
+      "62353"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Ritchie",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 125
+  },
+  {
+    "city": "River Forest",
+    "county": "Cook",
+    "zip_codes": [
+      "60305"
+    ],
+    "population": 11489
+  },
+  {
+    "city": "River Grove",
+    "county": "Cook",
+    "zip_codes": [
+      "60160",
+      "60171"
+    ],
+    "population": 10482
+  },
+  {
+    "city": "Riverdale",
+    "county": "Cook",
+    "zip_codes": [
+      "60406",
+      "60827"
+    ],
+    "population": 10515
+  },
+  {
+    "city": "Riverside",
+    "county": "Cook",
+    "zip_codes": [
+      "60546"
+    ],
+    "population": 9079
+  },
+  {
+    "city": "Riverton",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62561",
+      "62707"
+    ],
+    "population": 3506
+  },
+  {
+    "city": "Riverwoods",
+    "county": "Lake",
+    "zip_codes": [
+      "60015"
+    ],
+    "population": 3988
+  },
+  {
+    "city": "Roanoke",
+    "county": "Woodford",
+    "zip_codes": [
+      "61561"
+    ],
+    "population": 1987
+  },
+  {
+    "city": "Robbins",
+    "county": "Cook",
+    "zip_codes": [
+      "60472"
+    ],
+    "population": 4956
+  },
+  {
+    "city": "Roberts",
+    "county": "Ford",
+    "zip_codes": [
+      "60962"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Robinson",
+    "county": "Crawford",
+    "zip_codes": [
+      "62454"
+    ],
+    "population": 7005
+  },
+  {
+    "city": "Rochelle",
+    "county": "Ogle",
+    "zip_codes": [
+      "61068"
+    ],
+    "population": 9477
+  },
+  {
+    "city": "Rochester",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62563"
+    ],
+    "population": 3784
+  },
+  {
+    "city": "Rock City",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61070"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Rock Falls",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61071"
+    ],
+    "population": 8683
+  },
+  {
+    "city": "Rock Island",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61201",
+      "61264"
+    ],
+    "population": 36758
+  },
+  {
+    "city": "Rock Island Arsenal",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61201"
+    ],
+    "population": 372
+  },
+  {
+    "city": "Rockbridge",
+    "county": "Greene",
+    "zip_codes": [
+      "62081"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Rockdale",
+    "county": "Will",
+    "zip_codes": [
+      "60436"
+    ],
+    "population": 2598
+  },
+  {
+    "city": "Rockford",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61020",
+      "61101",
+      "61102",
+      "61103",
+      "61104",
+      "61107",
+      "61108",
+      "61109",
+      "61114"
+    ],
+    "population": 147649
+  },
+  {
+    "city": "Rockport",
+    "county": "Pike",
+    "zip_codes": [
+      "62370"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Rockton",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61072"
+    ],
+    "population": 8238
+  },
+  {
+    "city": "Rockwood",
+    "county": "Randolph",
+    "zip_codes": [
+      "62280"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Rolling Meadows",
+    "county": "Cook",
+    "zip_codes": [
+      "60008",
+      "60067"
+    ],
+    "population": 23981
+  },
+  {
+    "city": "Rome",
+    "county": "Peoria",
+    "zip_codes": [
+      "61523",
+      "61562"
+    ],
+    "population": 1628
+  },
+  {
+    "city": "Romeoville",
+    "county": "Will",
+    "zip_codes": [
+      "60441",
+      "60446"
+    ],
+    "population": 40996
+  },
+  {
+    "city": "Roodhouse",
+    "county": "Greene",
+    "zip_codes": [
+      "62082"
+    ],
+    "population": 1662
+  },
+  {
+    "city": "Roscoe",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61072",
+      "61073",
+      "61080"
+    ],
+    "population": 10881
+  },
+  {
+    "city": "Rose Hill",
+    "county": "Jasper",
+    "zip_codes": [
+      "62432"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Roselle",
+    "county": "DuPage",
+    "zip_codes": [
+      "60133",
+      "60157",
+      "60172"
+    ],
+    "population": 22731
+  },
+  {
+    "city": "Rosemont",
+    "county": "Cook",
+    "zip_codes": [
+      "60018"
+    ],
+    "population": 4145
+  },
+  {
+    "city": "Roseville",
+    "county": "Warren",
+    "zip_codes": [
+      "61473"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Rosewood Heights",
+    "county": "Madison",
+    "zip_codes": [
+      "62018",
+      "62024"
+    ],
+    "population": 4047
+  },
+  {
+    "city": "Rosiclare",
+    "county": "Hardin",
+    "zip_codes": [
+      "62982"
+    ],
+    "population": 921
+  },
+  {
+    "city": "Rossville",
+    "county": "Vermilion",
+    "zip_codes": [
+      "60942",
+      "60963"
+    ],
+    "population": 1246
+  },
+  {
+    "city": "Round Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60073"
+    ],
+    "population": 18588
+  },
+  {
+    "city": "Round Lake Beach",
+    "county": "Lake",
+    "zip_codes": [
+      "60046",
+      "60073"
+    ],
+    "population": 27081
+  },
+  {
+    "city": "Round Lake Heights",
+    "county": "Lake",
+    "zip_codes": [
+      "60073"
+    ],
+    "population": 2585
+  },
+  {
+    "city": "Round Lake Park",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60073"
+    ],
+    "population": 7833
+  },
+  {
+    "city": "Roxana",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62084",
+      "62087",
+      "62095"
+    ],
+    "population": 1626
+  },
+  {
+    "city": "Royal",
+    "county": "Champaign",
+    "zip_codes": [
+      "61871"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Royal Lakes",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62685"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Royalton",
+    "county": "Franklin",
+    "zip_codes": [
+      "62983"
+    ],
+    "population": 1076
+  },
+  {
+    "city": "Ruma",
+    "county": "Randolph",
+    "zip_codes": [
+      "62278"
+    ],
+    "population": 438
+  },
+  {
+    "city": "Rushville",
+    "county": "Schuyler",
+    "zip_codes": [
+      "62681"
+    ],
+    "population": 2668
+  },
+  {
+    "city": "Russellville",
+    "county": "Lawrence",
+    "zip_codes": [
+      "62439"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Rutland",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61358"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Sadorus",
+    "county": "Champaign",
+    "zip_codes": [
+      "61872"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Sailor Springs",
+    "county": "Clay",
+    "zip_codes": [
+      "62824",
+      "62879"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Salem",
+    "county": "Marion",
+    "zip_codes": [
+      "62881"
+    ],
+    "population": 7341
+  },
+  {
+    "city": "Sammons Point",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60901",
+      "60922"
+    ],
+    "population": 191
+  },
+  {
+    "city": "San Jose",
+    "county": "Mason",
+    "zip_codes": [
+      "62682"
+    ],
+    "population": 604
+  },
+  {
+    "city": "Sandoval",
+    "county": "Marion",
+    "zip_codes": [
+      "62882"
+    ],
+    "population": 883
+  },
+  {
+    "city": "Sandwich",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60545",
+      "60548",
+      "60552"
+    ],
+    "population": 7121
+  },
+  {
+    "city": "Sauget",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62201",
+      "62206"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Sauk Village",
+    "county": "Cook",
+    "zip_codes": [
+      "60411"
+    ],
+    "population": 9724
+  },
+  {
+    "city": "Saunemin",
+    "county": "Livingston",
+    "zip_codes": [
+      "61769"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Savanna",
+    "county": "Carroll",
+    "zip_codes": [
+      "61074"
+    ],
+    "population": 2851
+  },
+  {
+    "city": "Savoy",
+    "county": "Champaign",
+    "zip_codes": [
+      "61822",
+      "61874"
+    ],
+    "population": 8807
+  },
+  {
+    "city": "Sawyerville",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62009",
+      "62085"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Saybrook",
+    "county": "McLean",
+    "zip_codes": [
+      "61770"
+    ],
+    "population": 714
+  },
+  {
+    "city": "Scales Mound",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61075"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Schaumburg",
+    "county": "Cook",
+    "zip_codes": [
+      "60007",
+      "60172",
+      "60173",
+      "60193",
+      "60194",
+      "60195"
+    ],
+    "population": 76780
+  },
+  {
+    "city": "Schiller Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60018",
+      "60176",
+      "60634"
+    ],
+    "population": 11454
+  },
+  {
+    "city": "Schram City",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62049"
+    ],
+    "population": 720
+  },
+  {
+    "city": "Sciota",
+    "county": "McDonough",
+    "zip_codes": [
+      "61475"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Scott AFB",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62225"
+    ],
+    "population": 4195
+  },
+  {
+    "city": "Scottville",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62674"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Seaton",
+    "county": "Mercer",
+    "zip_codes": [
+      "61476"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Seatonville",
+    "county": "Bureau",
+    "zip_codes": [
+      "61359",
+      "61362"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Secor",
+    "county": "Woodford",
+    "zip_codes": [
+      "61771"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Seneca",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60450",
+      "61341",
+      "61360"
+    ],
+    "population": 2525
+  },
+  {
+    "city": "Serena",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60549"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Sesser",
+    "county": "Franklin",
+    "zip_codes": [
+      "62884"
+    ],
+    "population": 1919
+  },
+  {
+    "city": "Seymour",
+    "county": "Champaign",
+    "zip_codes": [
+      "61875"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Shabbona",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60550"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Shannon",
+    "county": "Carroll",
+    "zip_codes": [
+      "61078"
+    ],
+    "population": 772
+  },
+  {
+    "city": "Shawneetown",
+    "county": "Gallatin",
+    "zip_codes": [
+      "62984"
+    ],
+    "population": 1167
+  },
+  {
+    "city": "Sheffield",
+    "county": "Bureau",
+    "zip_codes": [
+      "61361"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Shelbyville",
+    "county": "Shelby",
+    "zip_codes": [
+      "62565"
+    ],
+    "population": 4248
+  },
+  {
+    "city": "Sheldon",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60966"
+    ],
+    "population": 1309
+  },
+  {
+    "city": "Sheridan",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60551"
+    ],
+    "population": 2610
+  },
+  {
+    "city": "Sherman",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62684",
+      "62707"
+    ],
+    "population": 4211
+  },
+  {
+    "city": "Sherrard",
+    "county": "Mercer",
+    "zip_codes": [
+      "61281"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Shiloh",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62221",
+      "62225",
+      "62226",
+      "62269"
+    ],
+    "population": 14109
+  },
+  {
+    "city": "Shipman",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62685"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Shirley",
+    "county": "McLean",
+    "zip_codes": [
+      "61772"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Shorewood",
+    "county": "Will",
+    "zip_codes": [
+      "60404"
+    ],
+    "population": 18218
+  },
+  {
+    "city": "Shumway",
+    "county": "Effingham",
+    "zip_codes": [
+      "62461"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Sibley",
+    "county": "Ford",
+    "zip_codes": [
+      "61773"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Sidell",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61876"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Sidney",
+    "county": "Champaign",
+    "zip_codes": [
+      "61877"
+    ],
+    "population": 849
+  },
+  {
+    "city": "Sigel",
+    "county": "Shelby",
+    "zip_codes": [
+      "62462"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Silvis",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61244",
+      "61282"
+    ],
+    "population": 7939
+  },
+  {
+    "city": "Simpson",
+    "county": "Johnson",
+    "zip_codes": [
+      "62985"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Sims",
+    "county": "Wayne",
+    "zip_codes": [
+      "62886"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Skokie",
+    "county": "Cook",
+    "zip_codes": [
+      "60076",
+      "60077",
+      "60203"
+    ],
+    "population": 66427
+  },
+  {
+    "city": "Sleepy Hollow",
+    "county": "Kane",
+    "zip_codes": [
+      "60118",
+      "60124"
+    ],
+    "population": 3165
+  },
+  {
+    "city": "Smithboro",
+    "county": "Bond",
+    "zip_codes": [
+      "62246",
+      "62284"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Smithfield",
+    "county": "Fulton",
+    "zip_codes": [
+      "61477"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Smithton",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62220",
+      "62243",
+      "62285"
+    ],
+    "population": 3512
+  },
+  {
+    "city": "Smithville",
+    "county": "Peoria",
+    "zip_codes": [
+      "61536"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Solon Mills",
+    "county": "McHenry",
+    "zip_codes": [
+      "60071"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Somonauk",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60548",
+      "60552"
+    ],
+    "population": 1592
+  },
+  {
+    "city": "Sorento",
+    "county": "Bond",
+    "zip_codes": [
+      "62086"
+    ],
+    "population": 503
+  },
+  {
+    "city": "South Barrington",
+    "county": "Cook",
+    "zip_codes": [
+      "60010"
+    ],
+    "population": 5004
+  },
+  {
+    "city": "South Beloit",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61072",
+      "61073",
+      "61080"
+    ],
+    "population": 7930
+  },
+  {
+    "city": "South Chicago Heights",
+    "county": "Cook",
+    "zip_codes": [
+      "60411",
+      "60475"
+    ],
+    "population": 3934
+  },
+  {
+    "city": "South Elgin",
+    "county": "Kane",
+    "zip_codes": [
+      "60177"
+    ],
+    "population": 23984
+  },
+  {
+    "city": "South Holland",
+    "county": "Cook",
+    "zip_codes": [
+      "60473"
+    ],
+    "population": 21016
+  },
+  {
+    "city": "South Jacksonville",
+    "county": "Morgan",
+    "zip_codes": [
+      "62650"
+    ],
+    "population": 3255
+  },
+  {
+    "city": "South Pekin",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61554",
+      "61564"
+    ],
+    "population": 949
+  },
+  {
+    "city": "South Roxana",
+    "county": "Madison",
+    "zip_codes": [
+      "62025",
+      "62048",
+      "62087"
+    ],
+    "population": 2180
+  },
+  {
+    "city": "South Wilmington",
+    "county": "Grundy",
+    "zip_codes": [
+      "60474"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Southern View",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62703"
+    ],
+    "population": 1838
+  },
+  {
+    "city": "Sparland",
+    "county": "Marshall",
+    "zip_codes": [
+      "61565"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Sparta",
+    "county": "Randolph",
+    "zip_codes": [
+      "62217",
+      "62286"
+    ],
+    "population": 4070
+  },
+  {
+    "city": "Spaulding",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62561",
+      "62684"
+    ],
+    "population": 916
+  },
+  {
+    "city": "Spillertown",
+    "county": "Williamson",
+    "zip_codes": [
+      "62959"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Spring Bay",
+    "county": "Woodford",
+    "zip_codes": [
+      "61611"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Spring Grove",
+    "county": "McHenry",
+    "zip_codes": [
+      "60051",
+      "60071",
+      "60081"
+    ],
+    "population": 5866
+  },
+  {
+    "city": "Spring Valley",
+    "county": "Bureau",
+    "zip_codes": [
+      "61362"
+    ],
+    "population": 5508
+  },
+  {
+    "city": "Springerton",
+    "county": "White",
+    "zip_codes": [
+      "62887"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Springfield",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62629",
+      "62701",
+      "62702",
+      "62703",
+      "62704",
+      "62706",
+      "62707",
+      "62711",
+      "62712"
+    ],
+    "population": 113714
+  },
+  {
+    "city": "St. Anne",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60964"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "St. Augustine",
+    "county": "Knox",
+    "zip_codes": [
+      "61474"
+    ],
+    "population": 123
+  },
+  {
+    "city": "St. Charles",
+    "county": "Kane",
+    "zip_codes": [
+      "60174",
+      "60175",
+      "60185"
+    ],
+    "population": 32733
+  },
+  {
+    "city": "St. David",
+    "county": "Fulton",
+    "zip_codes": [
+      "61563"
+    ],
+    "population": 548
+  },
+  {
+    "city": "St. Elmo",
+    "county": "Fayette",
+    "zip_codes": [
+      "62458"
+    ],
+    "population": 1401
+  },
+  {
+    "city": "St. Francisville",
+    "county": "Lawrence",
+    "zip_codes": [
+      "62460"
+    ],
+    "population": 578
+  },
+  {
+    "city": "St. Jacob",
+    "county": "Madison",
+    "zip_codes": [
+      "62249",
+      "62281"
+    ],
+    "population": 1617
+  },
+  {
+    "city": "St. Johns",
+    "county": "Perry",
+    "zip_codes": [
+      "62832"
+    ],
+    "population": 134
+  },
+  {
+    "city": "St. Joseph",
+    "county": "Champaign",
+    "zip_codes": [
+      "61873"
+    ],
+    "population": 3833
+  },
+  {
+    "city": "St. Libory",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62257",
+      "62282"
+    ],
+    "population": 612
+  },
+  {
+    "city": "St. Peter",
+    "county": "Fayette",
+    "zip_codes": [
+      "62880"
+    ],
+    "population": 256
+  },
+  {
+    "city": "St. Rose",
+    "county": "Clinton",
+    "zip_codes": [
+      "62230"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Standard",
+    "county": "Putnam",
+    "zip_codes": [
+      "61326",
+      "61363"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Standard City",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62640"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Stanford",
+    "county": "McLean",
+    "zip_codes": [
+      "61774"
+    ],
+    "population": 469
+  },
+  {
+    "city": "Staunton",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62088"
+    ],
+    "population": 4307
+  },
+  {
+    "city": "Ste. Marie",
+    "county": "Jasper",
+    "zip_codes": [
+      "62459"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Steeleville",
+    "county": "Randolph",
+    "zip_codes": [
+      "62288"
+    ],
+    "population": 1732
+  },
+  {
+    "city": "Steger",
+    "county": "Cook",
+    "zip_codes": [
+      "60411",
+      "60475"
+    ],
+    "population": 9449
+  },
+  {
+    "city": "Sterling",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61081"
+    ],
+    "population": 14670
+  },
+  {
+    "city": "Steward",
+    "county": "Lee",
+    "zip_codes": [
+      "60553"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Stewardson",
+    "county": "Shelby",
+    "zip_codes": [
+      "62463"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Stickney",
+    "county": "Cook",
+    "zip_codes": [
+      "60402",
+      "60804"
+    ],
+    "population": 6957
+  },
+  {
+    "city": "Stillman Valley",
+    "county": "Ogle",
+    "zip_codes": [
+      "61084"
+    ],
+    "population": 1261
+  },
+  {
+    "city": "Stockton",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61085"
+    ],
+    "population": 1867
+  },
+  {
+    "city": "Stone Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60165"
+    ],
+    "population": 4504
+  },
+  {
+    "city": "Stonefort",
+    "county": "Saline",
+    "zip_codes": [
+      "62987"
+    ],
+    "population": 389
+  },
+  {
+    "city": "Stonington",
+    "county": "Christian",
+    "zip_codes": [
+      "62567"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Stoy",
+    "county": "Crawford",
+    "zip_codes": [
+      "62454",
+      "62464"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Strasburg",
+    "county": "Shelby",
+    "zip_codes": [
+      "62465"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Strawn",
+    "county": "Livingston",
+    "zip_codes": [
+      "61775"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Streamwood",
+    "county": "Cook",
+    "zip_codes": [
+      "60103",
+      "60107"
+    ],
+    "population": 39055
+  },
+  {
+    "city": "Streator",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61319",
+      "61364"
+    ],
+    "population": 12274
+  },
+  {
+    "city": "Stronghurst",
+    "county": "Henderson",
+    "zip_codes": [
+      "61480"
+    ],
+    "population": 1106
+  },
+  {
+    "city": "Sublette",
+    "county": "Lee",
+    "zip_codes": [
+      "61367"
+    ],
+    "population": 374
+  },
+  {
+    "city": "Sugar Grove",
+    "county": "Kane",
+    "zip_codes": [
+      "60506",
+      "60511",
+      "60554"
+    ],
+    "population": 9233
+  },
+  {
+    "city": "Sullivan",
+    "county": "Moultrie",
+    "zip_codes": [
+      "61951"
+    ],
+    "population": 4253
+  },
+  {
+    "city": "Summerfield",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62289",
+      "62293"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Summit",
+    "county": "Cook",
+    "zip_codes": [
+      "60501"
+    ],
+    "population": 10896
+  },
+  {
+    "city": "Sumner",
+    "county": "Lawrence",
+    "zip_codes": [
+      "62466"
+    ],
+    "population": 2229
+  },
+  {
+    "city": "Sun River Terrace",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60964"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Sunnyland",
+    "county": "Will",
+    "zip_codes": [
+      "60435"
+    ],
+    "population": 829
+  },
+  {
+    "city": "Swansea",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62223",
+      "62226",
+      "62269"
+    ],
+    "population": 14603
+  },
+  {
+    "city": "Swedona",
+    "county": "Mercer",
+    "zip_codes": [
+      "61262"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Sycamore",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60178"
+    ],
+    "population": 18243
+  },
+  {
+    "city": "Symerton",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Table Grove",
+    "county": "Fulton",
+    "zip_codes": [
+      "61482"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Tallula",
+    "county": "Menard",
+    "zip_codes": [
+      "62688"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Tamaroa",
+    "county": "Perry",
+    "zip_codes": [
+      "62888"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Tamms",
+    "county": "Alexander",
+    "zip_codes": [
+      "62988"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Tampico",
+    "county": "Whiteside",
+    "zip_codes": [
+      "61283"
+    ],
+    "population": 607
+  },
+  {
+    "city": "Taylor Ridge",
+    "county": "Rock Island",
+    "zip_codes": [
+      "61284"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Taylor Springs",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62049",
+      "62089"
+    ],
+    "population": 691
+  },
+  {
+    "city": "Taylorville",
+    "county": "Christian",
+    "zip_codes": [
+      "62555",
+      "62568"
+    ],
+    "population": 11149
+  },
+  {
+    "city": "Tennessee",
+    "county": "McDonough",
+    "zip_codes": [
+      "62374"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Teutopolis",
+    "county": "Effingham",
+    "zip_codes": [
+      "62467"
+    ],
+    "population": 1693
+  },
+  {
+    "city": "Thawville",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60968"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Thayer",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62615",
+      "62689"
+    ],
+    "population": 638
+  },
+  {
+    "city": "The Galena Territory",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61036"
+    ],
+    "population": 1644
+  },
+  {
+    "city": "Thebes",
+    "county": "Alexander",
+    "zip_codes": [
+      "62990"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Third Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "60030",
+      "60046"
+    ],
+    "population": 1203
+  },
+  {
+    "city": "Thomasboro",
+    "county": "Champaign",
+    "zip_codes": [
+      "61878"
+    ],
+    "population": 966
+  },
+  {
+    "city": "Thompsonville",
+    "county": "Franklin",
+    "zip_codes": [
+      "62890"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Thomson",
+    "county": "Carroll",
+    "zip_codes": [
+      "61285"
+    ],
+    "population": 1526
+  },
+  {
+    "city": "Thornton",
+    "county": "Cook",
+    "zip_codes": [
+      "60425",
+      "60430",
+      "60473",
+      "60476"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Tilden",
+    "county": "Randolph",
+    "zip_codes": [
+      "62292"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Tilton",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61832",
+      "61833",
+      "61834"
+    ],
+    "population": 2537
+  },
+  {
+    "city": "Timberlane",
+    "county": "Boone",
+    "zip_codes": [
+      "61008",
+      "61011",
+      "61065"
+    ],
+    "population": 1291
+  },
+  {
+    "city": "Tinley Park",
+    "county": "Cook",
+    "zip_codes": [
+      "60477",
+      "60487"
+    ],
+    "population": 55007
+  },
+  {
+    "city": "Tiskilwa",
+    "county": "Bureau",
+    "zip_codes": [
+      "61368"
+    ],
+    "population": 762
+  },
+  {
+    "city": "Toledo",
+    "county": "Cumberland",
+    "zip_codes": [
+      "62468"
+    ],
+    "population": 1209
+  },
+  {
+    "city": "Tolono",
+    "county": "Champaign",
+    "zip_codes": [
+      "61880"
+    ],
+    "population": 3546
+  },
+  {
+    "city": "Toluca",
+    "county": "Marshall",
+    "zip_codes": [
+      "61369"
+    ],
+    "population": 1313
+  },
+  {
+    "city": "Tonica",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61370"
+    ],
+    "population": 732
+  },
+  {
+    "city": "Topeka",
+    "county": "Mason",
+    "zip_codes": [
+      "61567"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Toulon",
+    "county": "Stark",
+    "zip_codes": [
+      "61483"
+    ],
+    "population": 1390
+  },
+  {
+    "city": "Tovey",
+    "county": "Christian",
+    "zip_codes": [
+      "62570"
+    ],
+    "population": 707
+  },
+  {
+    "city": "Towanda",
+    "county": "McLean",
+    "zip_codes": [
+      "61776"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Tower Hill",
+    "county": "Shelby",
+    "zip_codes": [
+      "62571"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Tower Lakes",
+    "county": "Lake",
+    "zip_codes": [
+      "60010"
+    ],
+    "population": 1148
+  },
+  {
+    "city": "Tremont",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61568"
+    ],
+    "population": 2300
+  },
+  {
+    "city": "Trenton",
+    "county": "Clinton",
+    "zip_codes": [
+      "62293"
+    ],
+    "population": 2673
+  },
+  {
+    "city": "Trilla",
+    "county": "Coles",
+    "zip_codes": [
+      "62469"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Triumph",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61371"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Trivoli",
+    "county": "Peoria",
+    "zip_codes": [
+      "61569"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Trout Valley",
+    "county": "McHenry",
+    "zip_codes": [
+      "60013"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Troy",
+    "county": "Madison",
+    "zip_codes": [
+      "62034",
+      "62234",
+      "62294"
+    ],
+    "population": 10889
+  },
+  {
+    "city": "Troy Grove",
+    "county": "LaSalle",
+    "zip_codes": [
+      "61372",
+      "61373"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Tuscola",
+    "county": "Douglas",
+    "zip_codes": [
+      "61953"
+    ],
+    "population": 4675
+  },
+  {
+    "city": "Twin Grove",
+    "county": "McLean",
+    "zip_codes": [
+      "61705"
+    ],
+    "population": 1554
+  },
+  {
+    "city": "Ullin",
+    "county": "Pulaski",
+    "zip_codes": [
+      "62992"
+    ],
+    "population": 533
+  },
+  {
+    "city": "Union",
+    "county": "McHenry",
+    "zip_codes": [
+      "60180"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Union Hill",
+    "county": "Kankakee",
+    "zip_codes": [
+      "60969"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Unity",
+    "county": "Alexander",
+    "zip_codes": [
+      "62988"
+    ],
+    "population": 153
+  },
+  {
+    "city": "University Park",
+    "county": "Will",
+    "zip_codes": [
+      "60449",
+      "60471",
+      "60484"
+    ],
+    "population": 7109
+  },
+  {
+    "city": "Urbana",
+    "county": "Champaign",
+    "zip_codes": [
+      "61801",
+      "61802"
+    ],
+    "population": 38447
+  },
+  {
+    "city": "Ursa",
+    "county": "Adams",
+    "zip_codes": [
+      "62376"
+    ],
+    "population": 596
+  },
+  {
+    "city": "Valier",
+    "county": "Franklin",
+    "zip_codes": [
+      "62812",
+      "62891"
+    ],
+    "population": 596
+  },
+  {
+    "city": "Valley City",
+    "county": "Pike",
+    "zip_codes": [
+      "62340"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Valmeyer",
+    "county": "Monroe",
+    "zip_codes": [
+      "62295"
+    ],
+    "population": 1109
+  },
+  {
+    "city": "Vandalia",
+    "county": "Fayette",
+    "zip_codes": [
+      "62471"
+    ],
+    "population": 6041
+  },
+  {
+    "city": "Varna",
+    "county": "Marshall",
+    "zip_codes": [
+      "61375"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Venedy",
+    "county": "Washington",
+    "zip_codes": [
+      "62214"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Venetian Village",
+    "county": "Lake",
+    "zip_codes": [
+      "60046"
+    ],
+    "population": 2704
+  },
+  {
+    "city": "Venice",
+    "county": "Madison",
+    "zip_codes": [
+      "62040",
+      "62060",
+      "62090"
+    ],
+    "population": 1682
+  },
+  {
+    "city": "Vergennes",
+    "county": "Jackson",
+    "zip_codes": [
+      "62994"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Vermilion",
+    "county": "Edgar",
+    "zip_codes": [
+      "61944",
+      "61955"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Vermont",
+    "county": "Fulton",
+    "zip_codes": [
+      "61484"
+    ],
+    "population": 629
+  },
+  {
+    "city": "Vernon",
+    "county": "Marion",
+    "zip_codes": [
+      "62892"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Vernon Hills",
+    "county": "Lake",
+    "zip_codes": [
+      "60061"
+    ],
+    "population": 26772
+  },
+  {
+    "city": "Verona",
+    "county": "Grundy",
+    "zip_codes": [
+      "60479"
+    ],
+    "population": 267
+  },
+  {
+    "city": "Versailles",
+    "county": "Brown",
+    "zip_codes": [
+      "62378"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Victoria",
+    "county": "Knox",
+    "zip_codes": [
+      "61485"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Vienna",
+    "county": "Johnson",
+    "zip_codes": [
+      "62995"
+    ],
+    "population": 2115
+  },
+  {
+    "city": "Villa Grove",
+    "county": "Douglas",
+    "zip_codes": [
+      "61956"
+    ],
+    "population": 2375
+  },
+  {
+    "city": "Villa Park",
+    "county": "DuPage",
+    "zip_codes": [
+      "60126",
+      "60181"
+    ],
+    "population": 22456
+  },
+  {
+    "city": "Viola",
+    "county": "Mercer",
+    "zip_codes": [
+      "61486"
+    ],
+    "population": 942
+  },
+  {
+    "city": "Virden",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62690"
+    ],
+    "population": 3165
+  },
+  {
+    "city": "Virgil",
+    "county": "Kane",
+    "zip_codes": [
+      "60151"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Virginia",
+    "county": "Cass",
+    "zip_codes": [
+      "62691"
+    ],
+    "population": 1491
+  },
+  {
+    "city": "Volo",
+    "county": "Lake",
+    "zip_codes": [
+      "60020",
+      "60041",
+      "60051",
+      "60073"
+    ],
+    "population": 6398
+  },
+  {
+    "city": "Wadsworth",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60083",
+      "60099"
+    ],
+    "population": 3535
+  },
+  {
+    "city": "Waggoner",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62572"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Walnut",
+    "county": "Bureau",
+    "zip_codes": [
+      "61376"
+    ],
+    "population": 1402
+  },
+  {
+    "city": "Walnut Hill",
+    "county": "Marion",
+    "zip_codes": [
+      "62893"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Walshville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62091"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Waltonville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62894"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Wamac",
+    "county": "Washington",
+    "zip_codes": [
+      "62801"
+    ],
+    "population": 794
+  },
+  {
+    "city": "Wapella",
+    "county": "De Witt",
+    "zip_codes": [
+      "61777"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Warren",
+    "county": "Jo Daviess",
+    "zip_codes": [
+      "61087"
+    ],
+    "population": 1439
+  },
+  {
+    "city": "Warrensburg",
+    "county": "Macon",
+    "zip_codes": [
+      "62573"
+    ],
+    "population": 1076
+  },
+  {
+    "city": "Warrenville",
+    "county": "DuPage",
+    "zip_codes": [
+      "60555",
+      "60563"
+    ],
+    "population": 14232
+  },
+  {
+    "city": "Warsaw",
+    "county": "Hancock",
+    "zip_codes": [
+      "62379"
+    ],
+    "population": 1511
+  },
+  {
+    "city": "Washburn",
+    "county": "Woodford",
+    "zip_codes": [
+      "61570"
+    ],
+    "population": 1026
+  },
+  {
+    "city": "Washington",
+    "county": "Tazewell",
+    "zip_codes": [
+      "61571"
+    ],
+    "population": 15946
+  },
+  {
+    "city": "Washington Park",
+    "county": "St. Clair",
+    "zip_codes": [
+      "62203",
+      "62204"
+    ],
+    "population": 1728
+  },
+  {
+    "city": "Wataga",
+    "county": "Knox",
+    "zip_codes": [
+      "61467",
+      "61488"
+    ],
+    "population": 782
+  },
+  {
+    "city": "Waterloo",
+    "county": "Monroe",
+    "zip_codes": [
+      "62298"
+    ],
+    "population": 11055
+  },
+  {
+    "city": "Waterman",
+    "county": "DeKalb",
+    "zip_codes": [
+      "60556"
+    ],
+    "population": 1419
+  },
+  {
+    "city": "Watseka",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60970"
+    ],
+    "population": 4630
+  },
+  {
+    "city": "Watson",
+    "county": "Effingham",
+    "zip_codes": [
+      "62473"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Wauconda",
+    "county": "Lake",
+    "zip_codes": [
+      "60084"
+    ],
+    "population": 14010
+  },
+  {
+    "city": "Waukegan",
+    "county": "Lake",
+    "zip_codes": [
+      "60031",
+      "60048",
+      "60083",
+      "60085",
+      "60087"
+    ],
+    "population": 88919
+  },
+  {
+    "city": "Waverly",
+    "county": "Morgan",
+    "zip_codes": [
+      "62692"
+    ],
+    "population": 1456
+  },
+  {
+    "city": "Wayne",
+    "county": "DuPage",
+    "zip_codes": [
+      "60120",
+      "60184"
+    ],
+    "population": 2284
+  },
+  {
+    "city": "Wayne City",
+    "county": "Wayne",
+    "zip_codes": [
+      "62895"
+    ],
+    "population": 1050
+  },
+  {
+    "city": "Waynesville",
+    "county": "De Witt",
+    "zip_codes": [
+      "61778"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Wedron",
+    "county": "LaSalle",
+    "zip_codes": [
+      "60557",
+      "61350"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Weldon",
+    "county": "De Witt",
+    "zip_codes": [
+      "61882"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Wellington",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60973"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Wenona",
+    "county": "Marshall",
+    "zip_codes": [
+      "61358",
+      "61377"
+    ],
+    "population": 1006
+  },
+  {
+    "city": "Wenonah",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62075"
+    ],
+    "population": 30
+  },
+  {
+    "city": "West Brooklyn",
+    "county": "Lee",
+    "zip_codes": [
+      "61378"
+    ],
+    "population": 169
+  },
+  {
+    "city": "West Chicago",
+    "county": "DuPage",
+    "zip_codes": [
+      "60185"
+    ],
+    "population": 25434
+  },
+  {
+    "city": "West City",
+    "county": "Franklin",
+    "zip_codes": [
+      "62812"
+    ],
+    "population": 612
+  },
+  {
+    "city": "West Dundee",
+    "county": "Kane",
+    "zip_codes": [
+      "60118"
+    ],
+    "population": 7867
+  },
+  {
+    "city": "West Frankfort",
+    "county": "Franklin",
+    "zip_codes": [
+      "62896"
+    ],
+    "population": 7156
+  },
+  {
+    "city": "West Liberty",
+    "county": "Jasper",
+    "zip_codes": [
+      "62475"
+    ],
+    "population": 37
+  },
+  {
+    "city": "West Peoria",
+    "county": "Peoria",
+    "zip_codes": [
+      "61604"
+    ],
+    "population": 4246
+  },
+  {
+    "city": "West Point",
+    "county": "Hancock",
+    "zip_codes": [
+      "62380"
+    ],
+    "population": 244
+  },
+  {
+    "city": "West Salem",
+    "county": "Edwards",
+    "zip_codes": [
+      "62476"
+    ],
+    "population": 769
+  },
+  {
+    "city": "West Union",
+    "county": "Clark",
+    "zip_codes": [
+      "62477"
+    ],
+    "population": 164
+  },
+  {
+    "city": "West York",
+    "county": "Crawford",
+    "zip_codes": [
+      "62478"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Westchester",
+    "county": "Cook",
+    "zip_codes": [
+      "60154"
+    ],
+    "population": 16524
+  },
+  {
+    "city": "Western Springs",
+    "county": "Cook",
+    "zip_codes": [
+      "60558"
+    ],
+    "population": 13353
+  },
+  {
+    "city": "Westervelt",
+    "county": "Shelby",
+    "zip_codes": [
+      "62565"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Westfield",
+    "county": "Clark",
+    "zip_codes": [
+      "62474"
+    ],
+    "population": 418
+  },
+  {
+    "city": "Westlake Village",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61088"
+    ],
+    "population": 1282
+  },
+  {
+    "city": "Westmont",
+    "county": "DuPage",
+    "zip_codes": [
+      "60516",
+      "60523",
+      "60527",
+      "60559"
+    ],
+    "population": 24201
+  },
+  {
+    "city": "Westville",
+    "county": "Vermilion",
+    "zip_codes": [
+      "61883"
+    ],
+    "population": 3442
+  },
+  {
+    "city": "Wheaton",
+    "county": "DuPage",
+    "zip_codes": [
+      "60187",
+      "60189"
+    ],
+    "population": 53453
+  },
+  {
+    "city": "Wheeler",
+    "county": "Jasper",
+    "zip_codes": [
+      "62479"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Wheeling",
+    "county": "Cook",
+    "zip_codes": [
+      "60090"
+    ],
+    "population": 38495
+  },
+  {
+    "city": "White City",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62069"
+    ],
+    "population": 289
+  },
+  {
+    "city": "White Hall",
+    "county": "Greene",
+    "zip_codes": [
+      "62092"
+    ],
+    "population": 2354
+  },
+  {
+    "city": "White Heath",
+    "county": "Piatt",
+    "zip_codes": [
+      "61884"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Whiteash",
+    "county": "Williamson",
+    "zip_codes": [
+      "62959"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Williamsfield",
+    "county": "Knox",
+    "zip_codes": [
+      "61489"
+    ],
+    "population": 500
+  },
+  {
+    "city": "Williamson",
+    "county": "Madison",
+    "zip_codes": [
+      "62088"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Williamsville",
+    "county": "Sangamon",
+    "zip_codes": [
+      "62684",
+      "62693"
+    ],
+    "population": 1519
+  },
+  {
+    "city": "Willisville",
+    "county": "Perry",
+    "zip_codes": [
+      "62997"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Willow Hill",
+    "county": "Jasper",
+    "zip_codes": [
+      "62480"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Willow Lake",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61032"
+    ],
+    "population": 838
+  },
+  {
+    "city": "Willow Springs",
+    "county": "Cook",
+    "zip_codes": [
+      "60439",
+      "60458",
+      "60480",
+      "60501",
+      "60525"
+    ],
+    "population": 5871
+  },
+  {
+    "city": "Willowbrook",
+    "county": "DuPage",
+    "zip_codes": [
+      "60514",
+      "60527"
+    ],
+    "population": 9138
+  },
+  {
+    "city": "Willowbrook",
+    "county": "Will",
+    "zip_codes": [
+      "60417"
+    ],
+    "population": 2432
+  },
+  {
+    "city": "Wilmette",
+    "county": "Cook",
+    "zip_codes": [
+      "60091",
+      "60093"
+    ],
+    "population": 27550
+  },
+  {
+    "city": "Wilmington",
+    "county": "Greene",
+    "zip_codes": [
+      "62078",
+      "62082"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Wilmington",
+    "county": "Will",
+    "zip_codes": [
+      "60481"
+    ],
+    "population": 5507
+  },
+  {
+    "city": "Wilsonville",
+    "county": "Macoupin",
+    "zip_codes": [
+      "62033",
+      "62093"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Wilton Center",
+    "county": "Will",
+    "zip_codes": [
+      "60442"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Winchester",
+    "county": "Scott",
+    "zip_codes": [
+      "62694"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Windsor",
+    "county": "Mercer",
+    "zip_codes": [
+      "61465"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Windsor",
+    "county": "Shelby",
+    "zip_codes": [
+      "61957"
+    ],
+    "population": 982
+  },
+  {
+    "city": "Winfield",
+    "county": "DuPage",
+    "zip_codes": [
+      "60185",
+      "60188",
+      "60190"
+    ],
+    "population": 9982
+  },
+  {
+    "city": "Winnebago",
+    "county": "Winnebago",
+    "zip_codes": [
+      "61088"
+    ],
+    "population": 2896
+  },
+  {
+    "city": "Winnetka",
+    "county": "Cook",
+    "zip_codes": [
+      "60093"
+    ],
+    "population": 12508
+  },
+  {
+    "city": "Winslow",
+    "county": "Stephenson",
+    "zip_codes": [
+      "61089"
+    ],
+    "population": 376
+  },
+  {
+    "city": "Winthrop Harbor",
+    "county": "Lake",
+    "zip_codes": [
+      "60096",
+      "60099"
+    ],
+    "population": 6663
+  },
+  {
+    "city": "Witt",
+    "county": "Montgomery",
+    "zip_codes": [
+      "62094"
+    ],
+    "population": 844
+  },
+  {
+    "city": "Wonder Lake",
+    "county": "McHenry",
+    "zip_codes": [
+      "60072",
+      "60097"
+    ],
+    "population": 4141
+  },
+  {
+    "city": "Wood Dale",
+    "county": "DuPage",
+    "zip_codes": [
+      "60106",
+      "60143",
+      "60191"
+    ],
+    "population": 13926
+  },
+  {
+    "city": "Wood River",
+    "county": "Madison",
+    "zip_codes": [
+      "62024",
+      "62025",
+      "62084",
+      "62095"
+    ],
+    "population": 10315
+  },
+  {
+    "city": "Woodhull",
+    "county": "Henry",
+    "zip_codes": [
+      "61490"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Woodland",
+    "county": "Iroquois",
+    "zip_codes": [
+      "60970",
+      "60974"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Jefferson",
+    "zip_codes": [
+      "62898"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Woodridge",
+    "county": "DuPage",
+    "zip_codes": [
+      "60439",
+      "60517",
+      "60565"
+    ],
+    "population": 33889
+  },
+  {
+    "city": "Woodson",
+    "county": "Morgan",
+    "zip_codes": [
+      "62650",
+      "62695"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Woodstock",
+    "county": "McHenry",
+    "zip_codes": [
+      "60098"
+    ],
+    "population": 26316
+  },
+  {
+    "city": "Worden",
+    "county": "Madison",
+    "zip_codes": [
+      "62097"
+    ],
+    "population": 983
+  },
+  {
+    "city": "Worth",
+    "county": "Cook",
+    "zip_codes": [
+      "60482",
+      "60803"
+    ],
+    "population": 10731
+  },
+  {
+    "city": "Wyanet",
+    "county": "Bureau",
+    "zip_codes": [
+      "61379"
+    ],
+    "population": 970
+  },
+  {
+    "city": "Wyoming",
+    "county": "Stark",
+    "zip_codes": [
+      "61491"
+    ],
+    "population": 1532
+  },
+  {
+    "city": "Xenia",
+    "county": "Clay",
+    "zip_codes": [
+      "62899"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Yale",
+    "county": "Jasper",
+    "zip_codes": [
+      "62481"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Yates City",
+    "county": "Knox",
+    "zip_codes": [
+      "61572"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Yorkville",
+    "county": "Kendall",
+    "zip_codes": [
+      "60512",
+      "60541",
+      "60545",
+      "60554",
+      "60560"
+    ],
+    "population": 22350
+  },
+  {
+    "city": "Zeigler",
+    "county": "Franklin",
+    "zip_codes": [
+      "62865",
+      "62999"
+    ],
+    "population": 1325
+  },
+  {
+    "city": "Zion",
+    "county": "Lake",
+    "zip_codes": [
+      "60099"
+    ],
+    "population": 24466
+  }
+]

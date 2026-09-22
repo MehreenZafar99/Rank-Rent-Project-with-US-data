@@ -1,0 +1,1188 @@
+[
+  {
+    "city": "Alamo",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89001",
+      "89017"
+    ],
+    "population": 822
+  },
+  {
+    "city": "Amargosa Valley",
+    "county": "Nye",
+    "zip_codes": [
+      "89020"
+    ],
+    "population": 1408
+  },
+  {
+    "city": "Austin",
+    "county": "Lander",
+    "zip_codes": [
+      "89310"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Baker",
+    "county": "White Pine",
+    "zip_codes": [
+      "89311"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Battle Mountain",
+    "county": "Lander",
+    "zip_codes": [
+      "89820"
+    ],
+    "population": 3957
+  },
+  {
+    "city": "Beatty",
+    "county": "Nye",
+    "zip_codes": [
+      "89003"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Beaverdam",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89008"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bennett Springs",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89008"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Blue Diamond",
+    "county": "Clark",
+    "zip_codes": [
+      "89004",
+      "89161"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Boulder City",
+    "county": "Clark",
+    "zip_codes": [
+      "89005",
+      "89044"
+    ],
+    "population": 14888
+  },
+  {
+    "city": "Bunkerville",
+    "county": "Clark",
+    "zip_codes": [
+      "89007"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Cal-Nev-Ari",
+    "county": "Clark",
+    "zip_codes": [
+      "89039"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Caliente",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89008"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Carlin",
+    "county": "Elko",
+    "zip_codes": [
+      "89822"
+    ],
+    "population": 2164
+  },
+  {
+    "city": "Carson",
+    "county": "Carson City",
+    "zip_codes": [
+      "89701",
+      "89703",
+      "89706"
+    ],
+    "population": 58364
+  },
+  {
+    "city": "Carter Springs",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410"
+    ],
+    "population": 456
+  },
+  {
+    "city": "Cold Springs",
+    "county": "Washoe",
+    "zip_codes": [
+      "89508"
+    ],
+    "population": 11223
+  },
+  {
+    "city": "Crescent Valley",
+    "county": "Eureka",
+    "zip_codes": [
+      "89821"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Crystal Bay",
+    "county": "Washoe",
+    "zip_codes": [
+      "89402",
+      "89451"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Dayton",
+    "county": "Lyon",
+    "zip_codes": [
+      "89403",
+      "89428"
+    ],
+    "population": 15873
+  },
+  {
+    "city": "Denio",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89404"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Double Spring",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Dry Valley",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89043"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Dyer",
+    "county": "Esmeralda",
+    "zip_codes": [
+      "89010"
+    ],
+    "population": 303
+  },
+  {
+    "city": "East Valley",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410",
+      "89423"
+    ],
+    "population": 1341
+  },
+  {
+    "city": "Elko",
+    "county": "Elko",
+    "zip_codes": [
+      "89801"
+    ],
+    "population": 20624
+  },
+  {
+    "city": "Ely",
+    "county": "White Pine",
+    "zip_codes": [
+      "89301"
+    ],
+    "population": 3941
+  },
+  {
+    "city": "Empire",
+    "county": "Washoe",
+    "zip_codes": [
+      "89405"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Enterprise",
+    "county": "Clark",
+    "zip_codes": [
+      "89113",
+      "89118",
+      "89119",
+      "89123",
+      "89139",
+      "89141",
+      "89148",
+      "89178",
+      "89179",
+      "89183"
+    ],
+    "population": 232043
+  },
+  {
+    "city": "Eureka",
+    "county": "Eureka",
+    "zip_codes": [
+      "89316"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Fallon",
+    "county": "Churchill",
+    "zip_codes": [
+      "89406"
+    ],
+    "population": 9371
+  },
+  {
+    "city": "Fallon Station",
+    "county": "Churchill",
+    "zip_codes": [
+      "89406"
+    ],
+    "population": 1250
+  },
+  {
+    "city": "Fernley",
+    "county": "Lyon",
+    "zip_codes": [
+      "89406",
+      "89408",
+      "89429"
+    ],
+    "population": 23631
+  },
+  {
+    "city": "Fish Springs",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410"
+    ],
+    "population": 622
+  },
+  {
+    "city": "Fort McDermitt",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89421"
+    ],
+    "population": 326
+  },
+  {
+    "city": "Gabbs",
+    "county": "Nye",
+    "zip_codes": [
+      "89409"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Gardnerville",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410",
+      "89423"
+    ],
+    "population": 5811
+  },
+  {
+    "city": "Gardnerville Ranchos",
+    "county": "Douglas",
+    "zip_codes": [
+      "89460"
+    ],
+    "population": 12185
+  },
+  {
+    "city": "Genoa",
+    "county": "Douglas",
+    "zip_codes": [
+      "89411",
+      "89423"
+    ],
+    "population": 1231
+  },
+  {
+    "city": "Gerlach",
+    "county": "Washoe",
+    "zip_codes": [
+      "89412"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Glenbrook",
+    "county": "Douglas",
+    "zip_codes": [
+      "89413"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Golconda",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89414"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Golden Valley",
+    "county": "Washoe",
+    "zip_codes": [
+      "89506"
+    ],
+    "population": 1184
+  },
+  {
+    "city": "Goldfield",
+    "county": "Esmeralda",
+    "zip_codes": [
+      "89013"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Goodsprings",
+    "county": "Clark",
+    "zip_codes": [
+      "89019"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Grass Valley",
+    "county": "Pershing",
+    "zip_codes": [
+      "89445"
+    ],
+    "population": 1216
+  },
+  {
+    "city": "Hawthorne",
+    "county": "Mineral",
+    "zip_codes": [
+      "89415"
+    ],
+    "population": 2876
+  },
+  {
+    "city": "Henderson",
+    "county": "Clark",
+    "zip_codes": [
+      "89002",
+      "89005",
+      "89011",
+      "89012",
+      "89014",
+      "89015",
+      "89044",
+      "89052",
+      "89054",
+      "89074",
+      "89122"
+    ],
+    "population": 324523
+  },
+  {
+    "city": "Hiko",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89017"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Humboldt River Ranch",
+    "county": "Pershing",
+    "zip_codes": [
+      "89419"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Imlay",
+    "county": "Pershing",
+    "zip_codes": [
+      "89418"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Incline Village",
+    "county": "Washoe",
+    "zip_codes": [
+      "89450",
+      "89451"
+    ],
+    "population": 9152
+  },
+  {
+    "city": "Indian Hills",
+    "county": "Douglas",
+    "zip_codes": [
+      "89423",
+      "89705"
+    ],
+    "population": 5772
+  },
+  {
+    "city": "Indian Springs",
+    "county": "Clark",
+    "zip_codes": [
+      "89018",
+      "89124"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Jackpot",
+    "county": "Elko",
+    "zip_codes": [
+      "89825"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Johnson Lane",
+    "county": "Douglas",
+    "zip_codes": [
+      "89423"
+    ],
+    "population": 6405
+  },
+  {
+    "city": "Kingsbury",
+    "county": "Douglas",
+    "zip_codes": [
+      "89411",
+      "89449",
+      "89460"
+    ],
+    "population": 2165
+  },
+  {
+    "city": "Kingston",
+    "county": "Lander",
+    "zip_codes": [
+      "89310"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Lakeridge",
+    "county": "Douglas",
+    "zip_codes": [
+      "89413"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Lamoille",
+    "county": "Elko",
+    "zip_codes": [
+      "89828"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Las Vegas",
+    "county": "Clark",
+    "zip_codes": [
+      "89101",
+      "89102",
+      "89104",
+      "89106",
+      "89107",
+      "89108",
+      "89110",
+      "89117",
+      "89124",
+      "89128",
+      "89129",
+      "89130",
+      "89131",
+      "89134",
+      "89138",
+      "89143",
+      "89144",
+      "89145",
+      "89146",
+      "89149",
+      "89166"
+    ],
+    "population": 650873
+  },
+  {
+    "city": "Laughlin",
+    "county": "Clark",
+    "zip_codes": [
+      "89029"
+    ],
+    "population": 8643
+  },
+  {
+    "city": "Lemmon Valley",
+    "county": "Washoe",
+    "zip_codes": [
+      "89506"
+    ],
+    "population": 4385
+  },
+  {
+    "city": "Logan Creek",
+    "county": "Douglas",
+    "zip_codes": [
+      "89413"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Lovelock",
+    "county": "Pershing",
+    "zip_codes": [
+      "89419"
+    ],
+    "population": 1611
+  },
+  {
+    "city": "Lund",
+    "county": "White Pine",
+    "zip_codes": [
+      "89317"
+    ],
+    "population": 99
+  },
+  {
+    "city": "McDermitt",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89421"
+    ],
+    "population": 42
+  },
+  {
+    "city": "McGill",
+    "county": "White Pine",
+    "zip_codes": [
+      "89301",
+      "89318"
+    ],
+    "population": 1043
+  },
+  {
+    "city": "Mesquite",
+    "county": "Clark",
+    "zip_codes": [
+      "89007",
+      "89027",
+      "89034"
+    ],
+    "population": 21314
+  },
+  {
+    "city": "Mina",
+    "county": "Mineral",
+    "zip_codes": [
+      "89422"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Minden",
+    "county": "Douglas",
+    "zip_codes": [
+      "89423"
+    ],
+    "population": 3309
+  },
+  {
+    "city": "Moapa Town",
+    "county": "Clark",
+    "zip_codes": [
+      "89025"
+    ],
+    "population": 967
+  },
+  {
+    "city": "Moapa Valley",
+    "county": "Clark",
+    "zip_codes": [
+      "89021",
+      "89040"
+    ],
+    "population": 6699
+  },
+  {
+    "city": "Mogul",
+    "county": "Washoe",
+    "zip_codes": [
+      "89523"
+    ],
+    "population": 1068
+  },
+  {
+    "city": "Montello",
+    "county": "Elko",
+    "zip_codes": [
+      "89830"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Mount Charleston",
+    "county": "Clark",
+    "zip_codes": [
+      "89124"
+    ],
+    "population": 518
+  },
+  {
+    "city": "Mount Wilson",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89043"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Mountain City",
+    "county": "Elko",
+    "zip_codes": [
+      "89831"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Nellis AFB",
+    "county": "Clark",
+    "zip_codes": [
+      "89115",
+      "89191"
+    ],
+    "population": 4755
+  },
+  {
+    "city": "Nelson",
+    "county": "Clark",
+    "zip_codes": [
+      "89046"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Nixon",
+    "county": "Washoe",
+    "zip_codes": [
+      "89424"
+    ],
+    "population": 313
+  },
+  {
+    "city": "North Las Vegas",
+    "county": "Clark",
+    "zip_codes": [
+      "89030",
+      "89031",
+      "89032",
+      "89081",
+      "89084",
+      "89085",
+      "89086",
+      "89115"
+    ],
+    "population": 270773
+  },
+  {
+    "city": "Oasis",
+    "county": "Elko",
+    "zip_codes": [
+      "89835"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Orovada",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89425"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Osino",
+    "county": "Elko",
+    "zip_codes": [
+      "89801"
+    ],
+    "population": 1067
+  },
+  {
+    "city": "Owyhee",
+    "county": "Elko",
+    "zip_codes": [
+      "89832"
+    ],
+    "population": 760
+  },
+  {
+    "city": "Pahrump",
+    "county": "Nye",
+    "zip_codes": [
+      "89048",
+      "89060",
+      "89061"
+    ],
+    "population": 45811
+  },
+  {
+    "city": "Panaca",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89042"
+    ],
+    "population": 1272
+  },
+  {
+    "city": "Paradise",
+    "county": "Clark",
+    "zip_codes": [
+      "89074",
+      "89102",
+      "89103",
+      "89109",
+      "89118",
+      "89119",
+      "89120",
+      "89121",
+      "89123",
+      "89158",
+      "89169"
+    ],
+    "population": 186178
+  },
+  {
+    "city": "Paradise Valley",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89426"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Pioche",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89043"
+    ],
+    "population": 1213
+  },
+  {
+    "city": "Preston",
+    "county": "White Pine",
+    "zip_codes": [
+      "89317"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Rachel",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89001"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Reno",
+    "county": "Washoe",
+    "zip_codes": [
+      "89439",
+      "89501",
+      "89502",
+      "89503",
+      "89506",
+      "89508",
+      "89509",
+      "89511",
+      "89512",
+      "89519",
+      "89521",
+      "89523",
+      "89557"
+    ],
+    "population": 268959
+  },
+  {
+    "city": "Round Hill Village",
+    "county": "Douglas",
+    "zip_codes": [
+      "89448"
+    ],
+    "population": 1069
+  },
+  {
+    "city": "Ruhenstroth",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410"
+    ],
+    "population": 1605
+  },
+  {
+    "city": "Ruth",
+    "county": "White Pine",
+    "zip_codes": [
+      "89301",
+      "89319"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Sandy Valley",
+    "county": "Clark",
+    "zip_codes": [
+      "89019"
+    ],
+    "population": 1752
+  },
+  {
+    "city": "Schurz",
+    "county": "Mineral",
+    "zip_codes": [
+      "89427"
+    ],
+    "population": 812
+  },
+  {
+    "city": "Searchlight",
+    "county": "Clark",
+    "zip_codes": [
+      "89046"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Silver City",
+    "county": "Lyon",
+    "zip_codes": [
+      "89428"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Silver Peak",
+    "county": "Esmeralda",
+    "zip_codes": [
+      "89047"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Silver Springs",
+    "county": "Lyon",
+    "zip_codes": [
+      "89429"
+    ],
+    "population": 5523
+  },
+  {
+    "city": "Skyland",
+    "county": "Douglas",
+    "zip_codes": [
+      "89448"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Smith Valley",
+    "county": "Lyon",
+    "zip_codes": [
+      "89430",
+      "89444"
+    ],
+    "population": 1618
+  },
+  {
+    "city": "Spanish Springs",
+    "county": "Washoe",
+    "zip_codes": [
+      "89436",
+      "89441",
+      "89510"
+    ],
+    "population": 17512
+  },
+  {
+    "city": "Sparks",
+    "county": "Washoe",
+    "zip_codes": [
+      "89431",
+      "89434",
+      "89436",
+      "89502"
+    ],
+    "population": 109106
+  },
+  {
+    "city": "Spring Creek",
+    "county": "Elko",
+    "zip_codes": [
+      "89815"
+    ],
+    "population": 14967
+  },
+  {
+    "city": "Spring Valley",
+    "county": "Clark",
+    "zip_codes": [
+      "89103",
+      "89113",
+      "89117",
+      "89118",
+      "89146",
+      "89147",
+      "89148",
+      "89178"
+    ],
+    "population": 219913
+  },
+  {
+    "city": "Stagecoach",
+    "county": "Lyon",
+    "zip_codes": [
+      "89429"
+    ],
+    "population": 1933
+  },
+  {
+    "city": "Stateline",
+    "county": "Douglas",
+    "zip_codes": [
+      "89449"
+    ],
+    "population": 653
+  },
+  {
+    "city": "Summerlin South",
+    "county": "Clark",
+    "zip_codes": [
+      "89135",
+      "89147"
+    ],
+    "population": 30075
+  },
+  {
+    "city": "Sun Valley",
+    "county": "Washoe",
+    "zip_codes": [
+      "89433",
+      "89436"
+    ],
+    "population": 22697
+  },
+  {
+    "city": "Sunrise Manor",
+    "county": "Clark",
+    "zip_codes": [
+      "89104",
+      "89110",
+      "89115",
+      "89121",
+      "89122",
+      "89142",
+      "89156"
+    ],
+    "population": 199099
+  },
+  {
+    "city": "Sutcliffe",
+    "county": "Washoe",
+    "zip_codes": [
+      "89424",
+      "89510"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Tonopah",
+    "county": "Nye",
+    "zip_codes": [
+      "89049"
+    ],
+    "population": 1938
+  },
+  {
+    "city": "Topaz Lake",
+    "county": "Douglas",
+    "zip_codes": [
+      "89410"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Topaz Ranch Estates",
+    "county": "Douglas",
+    "zip_codes": [
+      "89444"
+    ],
+    "population": 1646
+  },
+  {
+    "city": "Unionville",
+    "county": "Pershing",
+    "zip_codes": [
+      "89418"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ursine",
+    "county": "Lincoln",
+    "zip_codes": [
+      "89043"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Valmy",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89438"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Verdi",
+    "county": "Washoe",
+    "zip_codes": [
+      "89439",
+      "89523"
+    ],
+    "population": 1046
+  },
+  {
+    "city": "Virginia City",
+    "county": "Storey",
+    "zip_codes": [
+      "89440",
+      "89521"
+    ],
+    "population": 721
+  },
+  {
+    "city": "Wadsworth",
+    "county": "Washoe",
+    "zip_codes": [
+      "89442"
+    ],
+    "population": 723
+  },
+  {
+    "city": "Walker Lake",
+    "county": "Mineral",
+    "zip_codes": [
+      "89415"
+    ],
+    "population": 402
+  },
+  {
+    "city": "Washoe Valley",
+    "county": "Washoe",
+    "zip_codes": [
+      "89704"
+    ],
+    "population": 3404
+  },
+  {
+    "city": "Wells",
+    "county": "Elko",
+    "zip_codes": [
+      "89835"
+    ],
+    "population": 1184
+  },
+  {
+    "city": "West Wendover",
+    "county": "Elko",
+    "zip_codes": [
+      "89883"
+    ],
+    "population": 4507
+  },
+  {
+    "city": "Whitney",
+    "county": "Clark",
+    "zip_codes": [
+      "89011",
+      "89122"
+    ],
+    "population": 46268
+  },
+  {
+    "city": "Winchester",
+    "county": "Clark",
+    "zip_codes": [
+      "89102",
+      "89104",
+      "89109",
+      "89121",
+      "89169"
+    ],
+    "population": 37774
+  },
+  {
+    "city": "Winnemucca",
+    "county": "Humboldt",
+    "zip_codes": [
+      "89445"
+    ],
+    "population": 8391
+  },
+  {
+    "city": "Yerington",
+    "county": "Lyon",
+    "zip_codes": [
+      "89447"
+    ],
+    "population": 3139
+  },
+  {
+    "city": "Zephyr Cove",
+    "county": "Douglas",
+    "zip_codes": [
+      "89448"
+    ],
+    "population": 574
+  }
+]

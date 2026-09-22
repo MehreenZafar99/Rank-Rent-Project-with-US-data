@@ -1,0 +1,6095 @@
+[
+  {
+    "city": "Abbyville",
+    "county": "Reno",
+    "zip_codes": [
+      "67510"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Abilene",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67410"
+    ],
+    "population": 6449
+  },
+  {
+    "city": "Ada",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67467"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Admire",
+    "county": "Lyon",
+    "zip_codes": [
+      "66830"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Agenda",
+    "county": "Republic",
+    "zip_codes": [
+      "66930"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Agra",
+    "county": "Phillips",
+    "zip_codes": [
+      "67621"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Albert",
+    "county": "Barton",
+    "zip_codes": [
+      "67511"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Alden",
+    "county": "Rice",
+    "zip_codes": [
+      "67512"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Alexander",
+    "county": "Rush",
+    "zip_codes": [
+      "67513"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Allen",
+    "county": "Lyon",
+    "zip_codes": [
+      "66833"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Alma",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66401"
+    ],
+    "population": 965
+  },
+  {
+    "city": "Almena",
+    "county": "Norton",
+    "zip_codes": [
+      "67622"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Alta Vista",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66834"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Altamont",
+    "county": "Labette",
+    "zip_codes": [
+      "67330"
+    ],
+    "population": 996
+  },
+  {
+    "city": "Alton",
+    "county": "Osborne",
+    "zip_codes": [
+      "67623"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Altoona",
+    "county": "Wilson",
+    "zip_codes": [
+      "66710"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Americus",
+    "county": "Lyon",
+    "zip_codes": [
+      "66835"
+    ],
+    "population": 1147
+  },
+  {
+    "city": "Ames",
+    "county": "Cloud",
+    "zip_codes": [
+      "66901"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Andale",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67001"
+    ],
+    "population": 1259
+  },
+  {
+    "city": "Andover",
+    "county": "Butler",
+    "zip_codes": [
+      "67002",
+      "67133"
+    ],
+    "population": 15508
+  },
+  {
+    "city": "Anthony",
+    "county": "Harper",
+    "zip_codes": [
+      "67003",
+      "67058"
+    ],
+    "population": 2228
+  },
+  {
+    "city": "Arcadia",
+    "county": "Crawford",
+    "zip_codes": [
+      "66711"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Argonia",
+    "county": "Sumner",
+    "zip_codes": [
+      "67004"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Arkansas City",
+    "county": "Cowley",
+    "zip_codes": [
+      "67005"
+    ],
+    "population": 11909
+  },
+  {
+    "city": "Arlington",
+    "county": "Reno",
+    "zip_codes": [
+      "67514"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Arma",
+    "county": "Crawford",
+    "zip_codes": [
+      "66712"
+    ],
+    "population": 1131
+  },
+  {
+    "city": "Asherville",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67420"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ashland",
+    "county": "Clark",
+    "zip_codes": [
+      "67831"
+    ],
+    "population": 807
+  },
+  {
+    "city": "Assaria",
+    "county": "Saline",
+    "zip_codes": [
+      "67416"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Atchison",
+    "county": "Atchison",
+    "zip_codes": [
+      "66002"
+    ],
+    "population": 10795
+  },
+  {
+    "city": "Athol",
+    "county": "Smith",
+    "zip_codes": [
+      "66932"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Atlanta",
+    "county": "Cowley",
+    "zip_codes": [
+      "67008"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Attica",
+    "county": "Harper",
+    "zip_codes": [
+      "67009"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Atwood",
+    "county": "Rawlins",
+    "zip_codes": [
+      "67730"
+    ],
+    "population": 1388
+  },
+  {
+    "city": "Auburn",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66402"
+    ],
+    "population": 1185
+  },
+  {
+    "city": "Augusta",
+    "county": "Butler",
+    "zip_codes": [
+      "67002",
+      "67010"
+    ],
+    "population": 9252
+  },
+  {
+    "city": "Aurora",
+    "county": "Cloud",
+    "zip_codes": [
+      "67417"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Axtell",
+    "county": "Marshall",
+    "zip_codes": [
+      "66403"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Baileyville",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66404"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Bala",
+    "county": "Riley",
+    "zip_codes": [
+      "66531"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Baldwin City",
+    "county": "Douglas",
+    "zip_codes": [
+      "66006"
+    ],
+    "population": 4881
+  },
+  {
+    "city": "Barnard",
+    "county": "Lincoln",
+    "zip_codes": [
+      "67418"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Barnes",
+    "county": "Washington",
+    "zip_codes": [
+      "66933"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Bartlett",
+    "county": "Labette",
+    "zip_codes": [
+      "67332"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Basehor",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66007"
+    ],
+    "population": 7229
+  },
+  {
+    "city": "Bassett",
+    "county": "Allen",
+    "zip_codes": [
+      "66749"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Bavaria",
+    "county": "Saline",
+    "zip_codes": [
+      "67401"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Baxter Springs",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66713"
+    ],
+    "population": 3863
+  },
+  {
+    "city": "Bazine",
+    "county": "Ness",
+    "zip_codes": [
+      "67516"
+    ],
+    "population": 454
+  },
+  {
+    "city": "Beattie",
+    "county": "Marshall",
+    "zip_codes": [
+      "66406"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Beaumont",
+    "county": "Butler",
+    "zip_codes": [
+      "67012"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Beaver",
+    "county": "Barton",
+    "zip_codes": [
+      "67525",
+      "67544"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Bel Aire",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67067",
+      "67220",
+      "67226"
+    ],
+    "population": 8654
+  },
+  {
+    "city": "Belle Plaine",
+    "county": "Sumner",
+    "zip_codes": [
+      "67013"
+    ],
+    "population": 1486
+  },
+  {
+    "city": "Belleville",
+    "county": "Republic",
+    "zip_codes": [
+      "66935"
+    ],
+    "population": 2036
+  },
+  {
+    "city": "Beloit",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67420"
+    ],
+    "population": 3141
+  },
+  {
+    "city": "Belpre",
+    "county": "Edwards",
+    "zip_codes": [
+      "67519"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Belvue",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66407"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Bendena",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66008"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Benedict",
+    "county": "Wilson",
+    "zip_codes": [
+      "66714"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Bennington",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67422"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Bentley",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67016"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Benton",
+    "county": "Butler",
+    "zip_codes": [
+      "67017"
+    ],
+    "population": 896
+  },
+  {
+    "city": "Bern",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66408"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Beverly",
+    "county": "Lincoln",
+    "zip_codes": [
+      "67423"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Big Bow",
+    "county": "Stanton",
+    "zip_codes": [
+      "67855"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Bird City",
+    "county": "Cheyenne",
+    "zip_codes": [
+      "67731"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Bison",
+    "county": "Rush",
+    "zip_codes": [
+      "67520"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Blue Mound",
+    "county": "Linn",
+    "zip_codes": [
+      "66010"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Blue Rapids",
+    "county": "Marshall",
+    "zip_codes": [
+      "66411"
+    ],
+    "population": 918
+  },
+  {
+    "city": "Bluff City",
+    "county": "Harper",
+    "zip_codes": [
+      "67018"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Bogue",
+    "county": "Graham",
+    "zip_codes": [
+      "67625"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Bonner Springs",
+    "county": "Wyandotte",
+    "zip_codes": [
+      "66012",
+      "66111",
+      "66226"
+    ],
+    "population": 7735
+  },
+  {
+    "city": "Bremen",
+    "county": "Marshall",
+    "zip_codes": [
+      "66412"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Brewster",
+    "county": "Thomas",
+    "zip_codes": [
+      "67732"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Saline",
+    "zip_codes": [
+      "67416"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Bronson",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66716"
+    ],
+    "population": 573
+  },
+  {
+    "city": "Brookville",
+    "county": "Saline",
+    "zip_codes": [
+      "67425"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Brownell",
+    "county": "Ness",
+    "zip_codes": [
+      "67521"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Bucklin",
+    "county": "Ford",
+    "zip_codes": [
+      "67834"
+    ],
+    "population": 627
+  },
+  {
+    "city": "Bucyrus",
+    "county": "Miami",
+    "zip_codes": [
+      "66013"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Buffalo",
+    "county": "Wilson",
+    "zip_codes": [
+      "66717"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Buhler",
+    "county": "Reno",
+    "zip_codes": [
+      "67522"
+    ],
+    "population": 1311
+  },
+  {
+    "city": "Bunker Hill",
+    "county": "Russell",
+    "zip_codes": [
+      "67626"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Burden",
+    "county": "Cowley",
+    "zip_codes": [
+      "67019"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Burdett",
+    "county": "Pawnee",
+    "zip_codes": [
+      "67523"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Burdick",
+    "county": "Morris",
+    "zip_codes": [
+      "66838"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Burlingame",
+    "county": "Osage",
+    "zip_codes": [
+      "66413"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Burlington",
+    "county": "Coffey",
+    "zip_codes": [
+      "66839"
+    ],
+    "population": 2615
+  },
+  {
+    "city": "Burns",
+    "county": "Marion",
+    "zip_codes": [
+      "66840"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Burr Oak",
+    "county": "Jewell",
+    "zip_codes": [
+      "66936"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Burrton",
+    "county": "Harvey",
+    "zip_codes": [
+      "67020"
+    ],
+    "population": 874
+  },
+  {
+    "city": "Bushong",
+    "county": "Lyon",
+    "zip_codes": [
+      "66833"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Bushton",
+    "county": "Rice",
+    "zip_codes": [
+      "67427"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Byers",
+    "county": "Pratt",
+    "zip_codes": [
+      "67021"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Caldwell",
+    "county": "Sumner",
+    "zip_codes": [
+      "67022"
+    ],
+    "population": 1091
+  },
+  {
+    "city": "Cambridge",
+    "county": "Cowley",
+    "zip_codes": [
+      "67023"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Caney",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67333"
+    ],
+    "population": 1450
+  },
+  {
+    "city": "Canton",
+    "county": "McPherson",
+    "zip_codes": [
+      "67428"
+    ],
+    "population": 626
+  },
+  {
+    "city": "Carbondale",
+    "county": "Osage",
+    "zip_codes": [
+      "66414"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Carlton",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67448"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Cassoday",
+    "county": "Butler",
+    "zip_codes": [
+      "66842"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Catharine",
+    "county": "Ellis",
+    "zip_codes": [
+      "67601",
+      "67627"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Cawker City",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67430"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Cedar",
+    "county": "Smith",
+    "zip_codes": [
+      "67628"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Cedar Point",
+    "county": "Chase",
+    "zip_codes": [
+      "66843"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Cedar Vale",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67024"
+    ],
+    "population": 618
+  },
+  {
+    "city": "Centerville",
+    "county": "Linn",
+    "zip_codes": [
+      "66014"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Centralia",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66415"
+    ],
+    "population": 496
+  },
+  {
+    "city": "Centropolis",
+    "county": "Franklin",
+    "zip_codes": [
+      "66067"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Chanute",
+    "county": "Neosho",
+    "zip_codes": [
+      "66720"
+    ],
+    "population": 8629
+  },
+  {
+    "city": "Chapman",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67431"
+    ],
+    "population": 1244
+  },
+  {
+    "city": "Chase",
+    "county": "Rice",
+    "zip_codes": [
+      "67524"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Chautauqua",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67334"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Cheney",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67025"
+    ],
+    "population": 2386
+  },
+  {
+    "city": "Cherokee",
+    "county": "Crawford",
+    "zip_codes": [
+      "66724"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Cherryvale",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67335"
+    ],
+    "population": 2125
+  },
+  {
+    "city": "Chetopa",
+    "county": "Labette",
+    "zip_codes": [
+      "67336"
+    ],
+    "population": 995
+  },
+  {
+    "city": "Chicopee",
+    "county": "Crawford",
+    "zip_codes": [
+      "66762"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Cimarron",
+    "county": "Gray",
+    "zip_codes": [
+      "67835"
+    ],
+    "population": 1942
+  },
+  {
+    "city": "Circleville",
+    "county": "Jackson",
+    "zip_codes": [
+      "66416"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Claflin",
+    "county": "Barton",
+    "zip_codes": [
+      "67525"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Clay Center",
+    "county": "Clay",
+    "zip_codes": [
+      "67432"
+    ],
+    "population": 4148
+  },
+  {
+    "city": "Clayton",
+    "county": "Norton",
+    "zip_codes": [
+      "67629"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Clearwater",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67026"
+    ],
+    "population": 2536
+  },
+  {
+    "city": "Clifton",
+    "county": "Washington",
+    "zip_codes": [
+      "66937"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Climax",
+    "county": "Greenwood",
+    "zip_codes": [
+      "67137"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Clyde",
+    "county": "Cloud",
+    "zip_codes": [
+      "66938"
+    ],
+    "population": 823
+  },
+  {
+    "city": "Coats",
+    "county": "Pratt",
+    "zip_codes": [
+      "67028"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Codell",
+    "county": "Rooks",
+    "zip_codes": [
+      "67651",
+      "67663"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Coffeyville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67337",
+      "67351"
+    ],
+    "population": 8752
+  },
+  {
+    "city": "Colby",
+    "county": "Thomas",
+    "zip_codes": [
+      "67701"
+    ],
+    "population": 5389
+  },
+  {
+    "city": "Coldwater",
+    "county": "Comanche",
+    "zip_codes": [
+      "67029"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Collyer",
+    "county": "Trego",
+    "zip_codes": [
+      "67631"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Colony",
+    "county": "Anderson",
+    "zip_codes": [
+      "66015"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Columbus",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66725"
+    ],
+    "population": 2902
+  },
+  {
+    "city": "Colwich",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67030"
+    ],
+    "population": 1616
+  },
+  {
+    "city": "Concordia",
+    "county": "Cloud",
+    "zip_codes": [
+      "66901"
+    ],
+    "population": 5067
+  },
+  {
+    "city": "Conway Springs",
+    "county": "Sumner",
+    "zip_codes": [
+      "67031"
+    ],
+    "population": 1597
+  },
+  {
+    "city": "Coolidge",
+    "county": "Hamilton",
+    "zip_codes": [
+      "67836"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Copeland",
+    "county": "Gray",
+    "zip_codes": [
+      "67837"
+    ],
+    "population": 350
+  },
+  {
+    "city": "Corning",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66417"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Cottonwood Falls",
+    "county": "Chase",
+    "zip_codes": [
+      "66845"
+    ],
+    "population": 944
+  },
+  {
+    "city": "Council Grove",
+    "county": "Morris",
+    "zip_codes": [
+      "66846"
+    ],
+    "population": 2487
+  },
+  {
+    "city": "Courtland",
+    "county": "Republic",
+    "zip_codes": [
+      "66939"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Coyville",
+    "county": "Wilson",
+    "zip_codes": [
+      "66736"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Crestline",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66725",
+      "66739"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Croweburg",
+    "county": "Crawford",
+    "zip_codes": [
+      "66756"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Cuba",
+    "county": "Republic",
+    "zip_codes": [
+      "66940"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Cullison",
+    "county": "Pratt",
+    "zip_codes": [
+      "67124"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Culver",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67484"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Cunningham",
+    "county": "Kingman",
+    "zip_codes": [
+      "67035"
+    ],
+    "population": 457
+  },
+  {
+    "city": "Damar",
+    "county": "Rooks",
+    "zip_codes": [
+      "67632"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Danville",
+    "county": "Harper",
+    "zip_codes": [
+      "67036"
+    ],
+    "population": 29
+  },
+  {
+    "city": "De Soto",
+    "county": "Johnson",
+    "zip_codes": [
+      "66018",
+      "66025"
+    ],
+    "population": 6333
+  },
+  {
+    "city": "Dearing",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67337",
+      "67340"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Deerfield",
+    "county": "Kearny",
+    "zip_codes": [
+      "67838"
+    ],
+    "population": 760
+  },
+  {
+    "city": "Delia",
+    "county": "Jackson",
+    "zip_codes": [
+      "66418"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Delphos",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67436"
+    ],
+    "population": 314
+  },
+  {
+    "city": "Denison",
+    "county": "Jackson",
+    "zip_codes": [
+      "66419"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Dennis",
+    "county": "Labette",
+    "zip_codes": [
+      "67341"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Denton",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66017"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Derby",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67037"
+    ],
+    "population": 25801
+  },
+  {
+    "city": "Detroit",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67410"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Devon",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66701"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Dexter",
+    "county": "Cowley",
+    "zip_codes": [
+      "67038"
+    ],
+    "population": 508
+  },
+  {
+    "city": "Dighton",
+    "county": "Lane",
+    "zip_codes": [
+      "67839"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Dodge City",
+    "county": "Ford",
+    "zip_codes": [
+      "67801"
+    ],
+    "population": 27652
+  },
+  {
+    "city": "Dorrance",
+    "county": "Russell",
+    "zip_codes": [
+      "67634"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Douglass",
+    "county": "Butler",
+    "zip_codes": [
+      "67039"
+    ],
+    "population": 1523
+  },
+  {
+    "city": "Downs",
+    "county": "Osborne",
+    "zip_codes": [
+      "67437"
+    ],
+    "population": 663
+  },
+  {
+    "city": "Dresden",
+    "county": "Decatur",
+    "zip_codes": [
+      "67635"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Dunlap",
+    "county": "Morris",
+    "zip_codes": [
+      "66846"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Durham",
+    "county": "Marion",
+    "zip_codes": [
+      "67438"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Dwight",
+    "county": "Morris",
+    "zip_codes": [
+      "66849"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Earlton",
+    "county": "Neosho",
+    "zip_codes": [
+      "66720"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Eastborough",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67206",
+      "67207",
+      "67208"
+    ],
+    "population": 767
+  },
+  {
+    "city": "Easton",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66020"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Eastshore",
+    "county": "Marion",
+    "zip_codes": [
+      "66861"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Edgerton",
+    "county": "Johnson",
+    "zip_codes": [
+      "66021",
+      "66030"
+    ],
+    "population": 1787
+  },
+  {
+    "city": "Edmond",
+    "county": "Norton",
+    "zip_codes": [
+      "67645"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Edna",
+    "county": "Labette",
+    "zip_codes": [
+      "67342"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Edson",
+    "county": "Sherman",
+    "zip_codes": [
+      "67733"
+    ],
+    "population": 4
+  },
+  {
+    "city": "Edwardsville",
+    "county": "Wyandotte",
+    "zip_codes": [
+      "66111"
+    ],
+    "population": 4721
+  },
+  {
+    "city": "Effingham",
+    "county": "Atchison",
+    "zip_codes": [
+      "66023"
+    ],
+    "population": 644
+  },
+  {
+    "city": "El Dorado",
+    "county": "Butler",
+    "zip_codes": [
+      "67042"
+    ],
+    "population": 12882
+  },
+  {
+    "city": "Elbing",
+    "county": "Butler",
+    "zip_codes": [
+      "67041",
+      "67114"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Elgin",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67361"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Elk City",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67344"
+    ],
+    "population": 281
+  },
+  {
+    "city": "Elk Falls",
+    "county": "Elk",
+    "zip_codes": [
+      "67345"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Elkhart",
+    "county": "Morton",
+    "zip_codes": [
+      "67950"
+    ],
+    "population": 1732
+  },
+  {
+    "city": "Ellinwood",
+    "county": "Barton",
+    "zip_codes": [
+      "67526"
+    ],
+    "population": 2117
+  },
+  {
+    "city": "Ellis",
+    "county": "Ellis",
+    "zip_codes": [
+      "67637"
+    ],
+    "population": 2145
+  },
+  {
+    "city": "Ellsworth",
+    "county": "Ellsworth",
+    "zip_codes": [
+      "67439"
+    ],
+    "population": 3098
+  },
+  {
+    "city": "Elmdale",
+    "county": "Chase",
+    "zip_codes": [
+      "66850"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Elsmore",
+    "county": "Allen",
+    "zip_codes": [
+      "66732"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Elwood",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66024",
+      "66090"
+    ],
+    "population": 1169
+  },
+  {
+    "city": "Elyria",
+    "county": "McPherson",
+    "zip_codes": [
+      "67460"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Emmett",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66422"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Emporia",
+    "county": "Lyon",
+    "zip_codes": [
+      "66801"
+    ],
+    "population": 24098
+  },
+  {
+    "city": "Englewood",
+    "county": "Clark",
+    "zip_codes": [
+      "67840"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Ensign",
+    "county": "Gray",
+    "zip_codes": [
+      "67841"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Enterprise",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67441"
+    ],
+    "population": 831
+  },
+  {
+    "city": "Erie",
+    "county": "Neosho",
+    "zip_codes": [
+      "66733"
+    ],
+    "population": 1318
+  },
+  {
+    "city": "Esbon",
+    "county": "Jewell",
+    "zip_codes": [
+      "66941"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Eskridge",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66423"
+    ],
+    "population": 388
+  },
+  {
+    "city": "Eudora",
+    "county": "Douglas",
+    "zip_codes": [
+      "66025"
+    ],
+    "population": 6036
+  },
+  {
+    "city": "Eureka",
+    "county": "Greenwood",
+    "zip_codes": [
+      "67045"
+    ],
+    "population": 2271
+  },
+  {
+    "city": "Everest",
+    "county": "Brown",
+    "zip_codes": [
+      "66424"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Fairview",
+    "county": "Brown",
+    "zip_codes": [
+      "66425"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Fairway",
+    "county": "Johnson",
+    "zip_codes": [
+      "66205"
+    ],
+    "population": 4177
+  },
+  {
+    "city": "Fall River",
+    "county": "Greenwood",
+    "zip_codes": [
+      "67047"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Falun",
+    "county": "Saline",
+    "zip_codes": [
+      "67442"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Farlington",
+    "county": "Crawford",
+    "zip_codes": [
+      "66734"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Florence",
+    "county": "Marion",
+    "zip_codes": [
+      "66851"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Fontana",
+    "county": "Miami",
+    "zip_codes": [
+      "66026"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Ford",
+    "county": "Ford",
+    "zip_codes": [
+      "67842"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Formoso",
+    "county": "Jewell",
+    "zip_codes": [
+      "66942"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Fort Dodge",
+    "county": "Ford",
+    "zip_codes": [
+      "67801",
+      "67843"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Fort Riley",
+    "county": "Riley",
+    "zip_codes": [
+      "66442"
+    ],
+    "population": 8595
+  },
+  {
+    "city": "Fort Scott",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66701"
+    ],
+    "population": 7551
+  },
+  {
+    "city": "Fowler",
+    "county": "Meade",
+    "zip_codes": [
+      "67844"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Frankfort",
+    "county": "Marshall",
+    "zip_codes": [
+      "66427"
+    ],
+    "population": 731
+  },
+  {
+    "city": "Franklin",
+    "county": "Crawford",
+    "zip_codes": [
+      "66735"
+    ],
+    "population": 763
+  },
+  {
+    "city": "Frederick",
+    "county": "Rice",
+    "zip_codes": [
+      "67444"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Fredonia",
+    "county": "Wilson",
+    "zip_codes": [
+      "66736"
+    ],
+    "population": 2113
+  },
+  {
+    "city": "Frontenac",
+    "county": "Crawford",
+    "zip_codes": [
+      "66762",
+      "66763"
+    ],
+    "population": 3381
+  },
+  {
+    "city": "Fulton",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66738"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Furley",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67147"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Galatia",
+    "county": "Barton",
+    "zip_codes": [
+      "67564",
+      "67565"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Galena",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66739"
+    ],
+    "population": 2752
+  },
+  {
+    "city": "Galesburg",
+    "county": "Neosho",
+    "zip_codes": [
+      "66740"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Galva",
+    "county": "McPherson",
+    "zip_codes": [
+      "67443"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Garden City",
+    "county": "Finney",
+    "zip_codes": [
+      "67846"
+    ],
+    "population": 27781
+  },
+  {
+    "city": "Garden Plain",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67050"
+    ],
+    "population": 1055
+  },
+  {
+    "city": "Gardner",
+    "county": "Johnson",
+    "zip_codes": [
+      "66030",
+      "66031"
+    ],
+    "population": 24020
+  },
+  {
+    "city": "Garfield",
+    "county": "Pawnee",
+    "zip_codes": [
+      "67529"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Garland",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66741"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Garnett",
+    "county": "Anderson",
+    "zip_codes": [
+      "66032"
+    ],
+    "population": 3200
+  },
+  {
+    "city": "Gas",
+    "county": "Allen",
+    "zip_codes": [
+      "66742",
+      "66749"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Gaylord",
+    "county": "Smith",
+    "zip_codes": [
+      "67638"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Gem",
+    "county": "Thomas",
+    "zip_codes": [
+      "67734"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Geneseo",
+    "county": "Rice",
+    "zip_codes": [
+      "67444"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Geuda Springs",
+    "county": "Sumner",
+    "zip_codes": [
+      "67051"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Girard",
+    "county": "Crawford",
+    "zip_codes": [
+      "66743"
+    ],
+    "population": 2706
+  },
+  {
+    "city": "Glade",
+    "county": "Phillips",
+    "zip_codes": [
+      "67639"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Glasco",
+    "county": "Cloud",
+    "zip_codes": [
+      "67445"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Glen Elder",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67446"
+    ],
+    "population": 520
+  },
+  {
+    "city": "Goddard",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67052"
+    ],
+    "population": 5361
+  },
+  {
+    "city": "Goessel",
+    "county": "Marion",
+    "zip_codes": [
+      "67053"
+    ],
+    "population": 541
+  },
+  {
+    "city": "Goff",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66428"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Goodland",
+    "county": "Sherman",
+    "zip_codes": [
+      "67735"
+    ],
+    "population": 3878
+  },
+  {
+    "city": "Gorham",
+    "county": "Russell",
+    "zip_codes": [
+      "67640"
+    ],
+    "population": 355
+  },
+  {
+    "city": "Gove City",
+    "county": "Gove",
+    "zip_codes": [
+      "67736"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Grainfield",
+    "county": "Gove",
+    "zip_codes": [
+      "67737"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Grandview Plaza",
+    "county": "Geary",
+    "zip_codes": [
+      "66441"
+    ],
+    "population": 1801
+  },
+  {
+    "city": "Grantville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66429",
+      "66617"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Great Bend",
+    "county": "Barton",
+    "zip_codes": [
+      "67530"
+    ],
+    "population": 14596
+  },
+  {
+    "city": "Greeley",
+    "county": "Anderson",
+    "zip_codes": [
+      "66033"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Greeley County",
+    "county": "Greeley",
+    "zip_codes": [
+      "67762",
+      "67879"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Green",
+    "county": "Clay",
+    "zip_codes": [
+      "67447"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Greenleaf",
+    "county": "Washington",
+    "zip_codes": [
+      "66943"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Greensburg",
+    "county": "Kiowa",
+    "zip_codes": [
+      "67054"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Greenwich",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67055"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Grenola",
+    "county": "Elk",
+    "zip_codes": [
+      "67346"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Gridley",
+    "county": "Coffey",
+    "zip_codes": [
+      "66852"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Grinnell",
+    "county": "Gove",
+    "zip_codes": [
+      "67738"
+    ],
+    "population": 376
+  },
+  {
+    "city": "Gypsum",
+    "county": "Saline",
+    "zip_codes": [
+      "67448"
+    ],
+    "population": 385
+  },
+  {
+    "city": "Haddam",
+    "county": "Washington",
+    "zip_codes": [
+      "66944"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Hallowell",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66725"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Halstead",
+    "county": "Harvey",
+    "zip_codes": [
+      "67056"
+    ],
+    "population": 2435
+  },
+  {
+    "city": "Hamilton",
+    "county": "Greenwood",
+    "zip_codes": [
+      "66853"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Hamlin",
+    "county": "Brown",
+    "zip_codes": [
+      "66434"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Hanover",
+    "county": "Washington",
+    "zip_codes": [
+      "66945"
+    ],
+    "population": 831
+  },
+  {
+    "city": "Hanston",
+    "county": "Hodgeman",
+    "zip_codes": [
+      "67849"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Hardtner",
+    "county": "Barber",
+    "zip_codes": [
+      "67057"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Harper",
+    "county": "Harper",
+    "zip_codes": [
+      "67058"
+    ],
+    "population": 1191
+  },
+  {
+    "city": "Harris",
+    "county": "Anderson",
+    "zip_codes": [
+      "66032"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Hartford",
+    "county": "Lyon",
+    "zip_codes": [
+      "66854"
+    ],
+    "population": 442
+  },
+  {
+    "city": "Harveyville",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66431"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Havana",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67347"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Haven",
+    "county": "Reno",
+    "zip_codes": [
+      "67543"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Havensville",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66432"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Haviland",
+    "county": "Kiowa",
+    "zip_codes": [
+      "67059"
+    ],
+    "population": 615
+  },
+  {
+    "city": "Hays",
+    "county": "Ellis",
+    "zip_codes": [
+      "67601"
+    ],
+    "population": 21078
+  },
+  {
+    "city": "Haysville",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67060",
+      "67217"
+    ],
+    "population": 11117
+  },
+  {
+    "city": "Hazelton",
+    "county": "Barber",
+    "zip_codes": [
+      "67061"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Healy",
+    "county": "Lane",
+    "zip_codes": [
+      "67850"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Hepler",
+    "county": "Crawford",
+    "zip_codes": [
+      "66746"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Herington",
+    "county": "Morris",
+    "zip_codes": [
+      "67449"
+    ],
+    "population": 2105
+  },
+  {
+    "city": "Herkimer",
+    "county": "Marshall",
+    "zip_codes": [
+      "66508"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Herndon",
+    "county": "Rawlins",
+    "zip_codes": [
+      "67739"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Hesston",
+    "county": "Harvey",
+    "zip_codes": [
+      "67062"
+    ],
+    "population": 3747
+  },
+  {
+    "city": "Hiawatha",
+    "county": "Brown",
+    "zip_codes": [
+      "66434"
+    ],
+    "population": 3223
+  },
+  {
+    "city": "Highland",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66035"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Hill City",
+    "county": "Graham",
+    "zip_codes": [
+      "67642"
+    ],
+    "population": 1536
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Marion",
+    "zip_codes": [
+      "67063"
+    ],
+    "population": 2716
+  },
+  {
+    "city": "Hillsdale",
+    "county": "Miami",
+    "zip_codes": [
+      "66071"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Hoisington",
+    "county": "Barton",
+    "zip_codes": [
+      "67544"
+    ],
+    "population": 2660
+  },
+  {
+    "city": "Holcomb",
+    "county": "Finney",
+    "zip_codes": [
+      "67851"
+    ],
+    "population": 2582
+  },
+  {
+    "city": "Hollenberg",
+    "county": "Washington",
+    "zip_codes": [
+      "66946"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Holton",
+    "county": "Jackson",
+    "zip_codes": [
+      "66436"
+    ],
+    "population": 3384
+  },
+  {
+    "city": "Holyrood",
+    "county": "Ellsworth",
+    "zip_codes": [
+      "67450"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Home",
+    "county": "Marshall",
+    "zip_codes": [
+      "66438"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Hope",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67451"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Horace",
+    "county": "Greeley",
+    "zip_codes": [
+      "67879"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Horton",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 1708
+  },
+  {
+    "city": "Howard",
+    "county": "Elk",
+    "zip_codes": [
+      "67349"
+    ],
+    "population": 553
+  },
+  {
+    "city": "Hoxie",
+    "county": "Sheridan",
+    "zip_codes": [
+      "67740"
+    ],
+    "population": 1191
+  },
+  {
+    "city": "Hoyt",
+    "county": "Jackson",
+    "zip_codes": [
+      "66440"
+    ],
+    "population": 759
+  },
+  {
+    "city": "Hudson",
+    "county": "Stafford",
+    "zip_codes": [
+      "67545"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Hugoton",
+    "county": "Stevens",
+    "zip_codes": [
+      "67951"
+    ],
+    "population": 4065
+  },
+  {
+    "city": "Humboldt",
+    "county": "Allen",
+    "zip_codes": [
+      "66748"
+    ],
+    "population": 1956
+  },
+  {
+    "city": "Hunnewell",
+    "county": "Sumner",
+    "zip_codes": [
+      "67140"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Hunter",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67452"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Huron",
+    "county": "Atchison",
+    "zip_codes": [
+      "66041"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Hutchinson",
+    "county": "Reno",
+    "zip_codes": [
+      "67501",
+      "67502"
+    ],
+    "population": 39837
+  },
+  {
+    "city": "Idana",
+    "county": "Clay",
+    "zip_codes": [
+      "67432"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Independence",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67301"
+    ],
+    "population": 8469
+  },
+  {
+    "city": "Ingalls",
+    "county": "Gray",
+    "zip_codes": [
+      "67853"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Inman",
+    "county": "McPherson",
+    "zip_codes": [
+      "67546"
+    ],
+    "population": 1425
+  },
+  {
+    "city": "Iola",
+    "county": "Allen",
+    "zip_codes": [
+      "66749"
+    ],
+    "population": 5368
+  },
+  {
+    "city": "Ionia",
+    "county": "Jewell",
+    "zip_codes": [
+      "66949"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Isabel",
+    "county": "Barber",
+    "zip_codes": [
+      "67065"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Iuka",
+    "county": "Pratt",
+    "zip_codes": [
+      "67066",
+      "67124"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Jamestown",
+    "county": "Cloud",
+    "zip_codes": [
+      "66948"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Jennings",
+    "county": "Decatur",
+    "zip_codes": [
+      "67643"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Jetmore",
+    "county": "Hodgeman",
+    "zip_codes": [
+      "67854"
+    ],
+    "population": 678
+  },
+  {
+    "city": "Jewell",
+    "county": "Jewell",
+    "zip_codes": [
+      "66949"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Johnson City",
+    "county": "Stanton",
+    "zip_codes": [
+      "67855"
+    ],
+    "population": 1244
+  },
+  {
+    "city": "Junction City",
+    "county": "Geary",
+    "zip_codes": [
+      "66441",
+      "66514"
+    ],
+    "population": 22431
+  },
+  {
+    "city": "Kanopolis",
+    "county": "Ellsworth",
+    "zip_codes": [
+      "67454"
+    ],
+    "population": 567
+  },
+  {
+    "city": "Kanorado",
+    "county": "Sherman",
+    "zip_codes": [
+      "67741"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Kansas City",
+    "county": "Wyandotte",
+    "zip_codes": [
+      "66101",
+      "66102",
+      "66103",
+      "66104",
+      "66105",
+      "66106",
+      "66109",
+      "66111",
+      "66112",
+      "66115",
+      "66118",
+      "66160"
+    ],
+    "population": 154776
+  },
+  {
+    "city": "Keats",
+    "county": "Riley",
+    "zip_codes": [
+      "66503"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Kechi",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67067",
+      "67147",
+      "67219"
+    ],
+    "population": 2935
+  },
+  {
+    "city": "Kelly",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66538"
+    ],
+    "population": 1
+  },
+  {
+    "city": "Kensington",
+    "county": "Smith",
+    "zip_codes": [
+      "66951"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Kickapoo Site 1",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Kickapoo Site 2",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Kickapoo Site 5",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Kickapoo Site 6",
+    "county": "Brown",
+    "zip_codes": [
+      "66527"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Kickapoo Site 7",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Kickapoo Tribal Center",
+    "county": "Brown",
+    "zip_codes": [
+      "66439"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Kincaid",
+    "county": "Anderson",
+    "zip_codes": [
+      "66039"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Kingman",
+    "county": "Kingman",
+    "zip_codes": [
+      "67068"
+    ],
+    "population": 3003
+  },
+  {
+    "city": "Kinsley",
+    "county": "Edwards",
+    "zip_codes": [
+      "67547"
+    ],
+    "population": 1342
+  },
+  {
+    "city": "Kiowa",
+    "county": "Barber",
+    "zip_codes": [
+      "67070"
+    ],
+    "population": 780
+  },
+  {
+    "city": "Kipp",
+    "county": "Saline",
+    "zip_codes": [
+      "67401"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Kirwin",
+    "county": "Phillips",
+    "zip_codes": [
+      "67644"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Kismet",
+    "county": "Seward",
+    "zip_codes": [
+      "67859"
+    ],
+    "population": 476
+  },
+  {
+    "city": "La Crosse",
+    "county": "Rush",
+    "zip_codes": [
+      "67548"
+    ],
+    "population": 1081
+  },
+  {
+    "city": "La Cygne",
+    "county": "Linn",
+    "zip_codes": [
+      "66040"
+    ],
+    "population": 1368
+  },
+  {
+    "city": "La Harpe",
+    "county": "Allen",
+    "zip_codes": [
+      "66751"
+    ],
+    "population": 424
+  },
+  {
+    "city": "Labette",
+    "county": "Labette",
+    "zip_codes": [
+      "67356"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Lafontaine",
+    "county": "Wilson",
+    "zip_codes": [
+      "66736"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Lake City",
+    "county": "Barber",
+    "zip_codes": [
+      "67071"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lake Quivira",
+    "county": "Johnson",
+    "zip_codes": [
+      "66106",
+      "66217"
+    ],
+    "population": 942
+  },
+  {
+    "city": "Lakin",
+    "county": "Kearny",
+    "zip_codes": [
+      "67860"
+    ],
+    "population": 2069
+  },
+  {
+    "city": "Lancaster",
+    "county": "Atchison",
+    "zip_codes": [
+      "66041"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Lane",
+    "county": "Franklin",
+    "zip_codes": [
+      "66042"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Langdon",
+    "county": "Reno",
+    "zip_codes": [
+      "67583"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Lansing",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66043",
+      "66048"
+    ],
+    "population": 11229
+  },
+  {
+    "city": "Larned",
+    "county": "Pawnee",
+    "zip_codes": [
+      "67550"
+    ],
+    "population": 3328
+  },
+  {
+    "city": "Latham",
+    "county": "Butler",
+    "zip_codes": [
+      "67072"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Latimer",
+    "county": "Morris",
+    "zip_codes": [
+      "67449"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Lawrence",
+    "county": "Douglas",
+    "zip_codes": [
+      "66044",
+      "66045",
+      "66046",
+      "66047",
+      "66049"
+    ],
+    "population": 95459
+  },
+  {
+    "city": "Leavenworth",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66027",
+      "66048"
+    ],
+    "population": 37176
+  },
+  {
+    "city": "Leawood",
+    "county": "Johnson",
+    "zip_codes": [
+      "66206",
+      "66209",
+      "66211",
+      "66224"
+    ],
+    "population": 33844
+  },
+  {
+    "city": "Lebanon",
+    "county": "Smith",
+    "zip_codes": [
+      "66952"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Lebo",
+    "county": "Coffey",
+    "zip_codes": [
+      "66856"
+    ],
+    "population": 806
+  },
+  {
+    "city": "Lecompton",
+    "county": "Douglas",
+    "zip_codes": [
+      "66050"
+    ],
+    "population": 762
+  },
+  {
+    "city": "Lehigh",
+    "county": "Marion",
+    "zip_codes": [
+      "67073"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Lenexa",
+    "county": "Johnson",
+    "zip_codes": [
+      "66214",
+      "66215",
+      "66216",
+      "66217",
+      "66219",
+      "66220",
+      "66227"
+    ],
+    "population": 57986
+  },
+  {
+    "city": "Lenora",
+    "county": "Norton",
+    "zip_codes": [
+      "67645"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Leon",
+    "county": "Butler",
+    "zip_codes": [
+      "67074"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Leona",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66532"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Leonardville",
+    "county": "Riley",
+    "zip_codes": [
+      "66449"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Leoti",
+    "county": "Wichita",
+    "zip_codes": [
+      "67861"
+    ],
+    "population": 1461
+  },
+  {
+    "city": "LeRoy",
+    "county": "Coffey",
+    "zip_codes": [
+      "66857"
+    ],
+    "population": 461
+  },
+  {
+    "city": "Levant",
+    "county": "Thomas",
+    "zip_codes": [
+      "67701",
+      "67743"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Lewis",
+    "county": "Edwards",
+    "zip_codes": [
+      "67552"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Liberal",
+    "county": "Seward",
+    "zip_codes": [
+      "67901"
+    ],
+    "population": 19107
+  },
+  {
+    "city": "Liberty",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67351"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Liebenthal",
+    "county": "Rush",
+    "zip_codes": [
+      "67553"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Lincoln Center",
+    "county": "Lincoln",
+    "zip_codes": [
+      "67455"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "Lincolnville",
+    "county": "Marion",
+    "zip_codes": [
+      "66858"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Lindsborg",
+    "county": "McPherson",
+    "zip_codes": [
+      "67456"
+    ],
+    "population": 3773
+  },
+  {
+    "city": "Linn",
+    "county": "Washington",
+    "zip_codes": [
+      "66953"
+    ],
+    "population": 478
+  },
+  {
+    "city": "Linn Valley",
+    "county": "Linn",
+    "zip_codes": [
+      "66040"
+    ],
+    "population": 944
+  },
+  {
+    "city": "Linwood",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66052"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Little River",
+    "county": "Rice",
+    "zip_codes": [
+      "67457"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Logan",
+    "county": "Phillips",
+    "zip_codes": [
+      "67646"
+    ],
+    "population": 626
+  },
+  {
+    "city": "Lone Elm",
+    "county": "Anderson",
+    "zip_codes": [
+      "66039"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Long Island",
+    "county": "Phillips",
+    "zip_codes": [
+      "67647"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Longford",
+    "county": "Clay",
+    "zip_codes": [
+      "67458"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Longton",
+    "county": "Elk",
+    "zip_codes": [
+      "67352"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Lorraine",
+    "county": "Ellsworth",
+    "zip_codes": [
+      "67459"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Lost Springs",
+    "county": "Marion",
+    "zip_codes": [
+      "66859"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Louisburg",
+    "county": "Miami",
+    "zip_codes": [
+      "66053"
+    ],
+    "population": 5034
+  },
+  {
+    "city": "Louisville",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66547"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Lowell",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66713"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Lucas",
+    "county": "Russell",
+    "zip_codes": [
+      "67648"
+    ],
+    "population": 449
+  },
+  {
+    "city": "Ludell",
+    "county": "Rawlins",
+    "zip_codes": [
+      "67744"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Luray",
+    "county": "Russell",
+    "zip_codes": [
+      "67649"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Lyndon",
+    "county": "Osage",
+    "zip_codes": [
+      "66451"
+    ],
+    "population": 1184
+  },
+  {
+    "city": "Lyons",
+    "county": "Rice",
+    "zip_codes": [
+      "67554"
+    ],
+    "population": 3562
+  },
+  {
+    "city": "Macksville",
+    "county": "Stafford",
+    "zip_codes": [
+      "67557"
+    ],
+    "population": 585
+  },
+  {
+    "city": "Madison",
+    "county": "Greenwood",
+    "zip_codes": [
+      "66860"
+    ],
+    "population": 943
+  },
+  {
+    "city": "Mahaska",
+    "county": "Washington",
+    "zip_codes": [
+      "66955"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Maize",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67101",
+      "67205",
+      "67223"
+    ],
+    "population": 5990
+  },
+  {
+    "city": "Manchester",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67410"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Manhattan",
+    "county": "Riley",
+    "zip_codes": [
+      "66502",
+      "66503",
+      "66506"
+    ],
+    "population": 53951
+  },
+  {
+    "city": "Mankato",
+    "county": "Jewell",
+    "zip_codes": [
+      "66956"
+    ],
+    "population": 801
+  },
+  {
+    "city": "Manter",
+    "county": "Stanton",
+    "zip_codes": [
+      "67862"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Maple Hill",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66507"
+    ],
+    "population": 768
+  },
+  {
+    "city": "Mapleton",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66754"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Marienthal",
+    "county": "Wichita",
+    "zip_codes": [
+      "67863"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Marion",
+    "county": "Marion",
+    "zip_codes": [
+      "66861"
+    ],
+    "population": 2010
+  },
+  {
+    "city": "Marquette",
+    "county": "McPherson",
+    "zip_codes": [
+      "67464"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Marysville",
+    "county": "Marshall",
+    "zip_codes": [
+      "66508"
+    ],
+    "population": 3423
+  },
+  {
+    "city": "Matfield Green",
+    "county": "Chase",
+    "zip_codes": [
+      "66862"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Mayetta",
+    "county": "Jackson",
+    "zip_codes": [
+      "66509"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Mayfield",
+    "county": "Sumner",
+    "zip_codes": [
+      "67103"
+    ],
+    "population": 74
+  },
+  {
+    "city": "McConnell AFB",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67210",
+      "67221"
+    ],
+    "population": 1952
+  },
+  {
+    "city": "McCracken",
+    "county": "Rush",
+    "zip_codes": [
+      "67556"
+    ],
+    "population": 120
+  },
+  {
+    "city": "McCune",
+    "county": "Crawford",
+    "zip_codes": [
+      "66753"
+    ],
+    "population": 268
+  },
+  {
+    "city": "McDonald",
+    "county": "Rawlins",
+    "zip_codes": [
+      "67745"
+    ],
+    "population": 190
+  },
+  {
+    "city": "McFarland",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66501"
+    ],
+    "population": 356
+  },
+  {
+    "city": "McLouth",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66054"
+    ],
+    "population": 891
+  },
+  {
+    "city": "McPherson",
+    "county": "McPherson",
+    "zip_codes": [
+      "67460"
+    ],
+    "population": 13956
+  },
+  {
+    "city": "Meade",
+    "county": "Meade",
+    "zip_codes": [
+      "67864"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Medicine Lodge",
+    "county": "Barber",
+    "zip_codes": [
+      "67104"
+    ],
+    "population": 1518
+  },
+  {
+    "city": "Melvern",
+    "county": "Osage",
+    "zip_codes": [
+      "66510"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Menlo",
+    "county": "Thomas",
+    "zip_codes": [
+      "67753"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Mentor",
+    "county": "Saline",
+    "zip_codes": [
+      "67401",
+      "67416"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Meriden",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66512"
+    ],
+    "population": 798
+  },
+  {
+    "city": "Merriam",
+    "county": "Johnson",
+    "zip_codes": [
+      "66202",
+      "66203",
+      "66204"
+    ],
+    "population": 11036
+  },
+  {
+    "city": "Milan",
+    "county": "Sumner",
+    "zip_codes": [
+      "67105"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Mildred",
+    "county": "Allen",
+    "zip_codes": [
+      "66755"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Milford",
+    "county": "Geary",
+    "zip_codes": [
+      "66514"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Milton",
+    "county": "Sumner",
+    "zip_codes": [
+      "67106"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Miltonvale",
+    "county": "Cloud",
+    "zip_codes": [
+      "67466"
+    ],
+    "population": 422
+  },
+  {
+    "city": "Minneapolis",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67467"
+    ],
+    "population": 2101
+  },
+  {
+    "city": "Minneola",
+    "county": "Clark",
+    "zip_codes": [
+      "67865"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Mission",
+    "county": "Johnson",
+    "zip_codes": [
+      "66202",
+      "66203",
+      "66205"
+    ],
+    "population": 9928
+  },
+  {
+    "city": "Mission Hills",
+    "county": "Johnson",
+    "zip_codes": [
+      "66205",
+      "66208"
+    ],
+    "population": 3556
+  },
+  {
+    "city": "Mission Woods",
+    "county": "Johnson",
+    "zip_codes": [
+      "66205"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Moline",
+    "county": "Elk",
+    "zip_codes": [
+      "67353"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Mont Ida",
+    "county": "Anderson",
+    "zip_codes": [
+      "66091"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Montezuma",
+    "county": "Gray",
+    "zip_codes": [
+      "67867"
+    ],
+    "population": 878
+  },
+  {
+    "city": "Monument",
+    "county": "Logan",
+    "zip_codes": [
+      "67747"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Moran",
+    "county": "Allen",
+    "zip_codes": [
+      "66755"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Morganville",
+    "county": "Clay",
+    "zip_codes": [
+      "67468"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Morland",
+    "county": "Graham",
+    "zip_codes": [
+      "67650"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Morrill",
+    "county": "Brown",
+    "zip_codes": [
+      "66515"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Morrowville",
+    "county": "Washington",
+    "zip_codes": [
+      "66958"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Moscow",
+    "county": "Stevens",
+    "zip_codes": [
+      "67952"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Mound City",
+    "county": "Linn",
+    "zip_codes": [
+      "66056"
+    ],
+    "population": 866
+  },
+  {
+    "city": "Mound Valley",
+    "county": "Labette",
+    "zip_codes": [
+      "67354"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Moundridge",
+    "county": "McPherson",
+    "zip_codes": [
+      "67107"
+    ],
+    "population": 1654
+  },
+  {
+    "city": "Mount Hope",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67108"
+    ],
+    "population": 754
+  },
+  {
+    "city": "Mulberry",
+    "county": "Crawford",
+    "zip_codes": [
+      "66756"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Mullinville",
+    "county": "Kiowa",
+    "zip_codes": [
+      "67109"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Mulvane",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67110",
+      "67120"
+    ],
+    "population": 5829
+  },
+  {
+    "city": "Munden",
+    "county": "Republic",
+    "zip_codes": [
+      "66959"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Munjor",
+    "county": "Ellis",
+    "zip_codes": [
+      "67601"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Murdock",
+    "county": "Kingman",
+    "zip_codes": [
+      "67111"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Muscotah",
+    "county": "Atchison",
+    "zip_codes": [
+      "66058"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Narka",
+    "county": "Republic",
+    "zip_codes": [
+      "66960"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Nashville",
+    "county": "Kingman",
+    "zip_codes": [
+      "67112"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Natoma",
+    "county": "Osborne",
+    "zip_codes": [
+      "67651"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Navarre",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67451"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Neal",
+    "county": "Greenwood",
+    "zip_codes": [
+      "66863"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Neodesha",
+    "county": "Wilson",
+    "zip_codes": [
+      "66757"
+    ],
+    "population": 2311
+  },
+  {
+    "city": "Neosho Falls",
+    "county": "Woodson",
+    "zip_codes": [
+      "66758"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Neosho Rapids",
+    "county": "Lyon",
+    "zip_codes": [
+      "66864"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Ness City",
+    "county": "Ness",
+    "zip_codes": [
+      "67560"
+    ],
+    "population": 1136
+  },
+  {
+    "city": "Netawaka",
+    "county": "Jackson",
+    "zip_codes": [
+      "66516"
+    ],
+    "population": 158
+  },
+  {
+    "city": "New Albany",
+    "county": "Wilson",
+    "zip_codes": [
+      "66736"
+    ],
+    "population": 66
+  },
+  {
+    "city": "New Cambria",
+    "county": "Saline",
+    "zip_codes": [
+      "67470"
+    ],
+    "population": 131
+  },
+  {
+    "city": "New Salem",
+    "county": "Cowley",
+    "zip_codes": [
+      "67156"
+    ],
+    "population": 24
+  },
+  {
+    "city": "New Strawn",
+    "county": "Coffey",
+    "zip_codes": [
+      "66839"
+    ],
+    "population": 408
+  },
+  {
+    "city": "Newbury",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66526"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Newton",
+    "county": "Harvey",
+    "zip_codes": [
+      "67056",
+      "67114",
+      "67117"
+    ],
+    "population": 18443
+  },
+  {
+    "city": "Nickerson",
+    "county": "Reno",
+    "zip_codes": [
+      "67561"
+    ],
+    "population": 1088
+  },
+  {
+    "city": "Nicodemus",
+    "county": "Graham",
+    "zip_codes": [
+      "67625"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Niles",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67480"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Niotaze",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67355"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Norcatur",
+    "county": "Decatur",
+    "zip_codes": [
+      "67653"
+    ],
+    "population": 202
+  },
+  {
+    "city": "North Newton",
+    "county": "Harvey",
+    "zip_codes": [
+      "67114",
+      "67117"
+    ],
+    "population": 2150
+  },
+  {
+    "city": "Norton",
+    "county": "Norton",
+    "zip_codes": [
+      "67654"
+    ],
+    "population": 2704
+  },
+  {
+    "city": "Nortonville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66060"
+    ],
+    "population": 797
+  },
+  {
+    "city": "Norway",
+    "county": "Republic",
+    "zip_codes": [
+      "66961",
+      "66966"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Norwich",
+    "county": "Kingman",
+    "zip_codes": [
+      "67118"
+    ],
+    "population": 483
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Clay",
+    "zip_codes": [
+      "67432"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Oaklawn-Sunview",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67216"
+    ],
+    "population": 2952
+  },
+  {
+    "city": "Oakley",
+    "county": "Logan",
+    "zip_codes": [
+      "67748"
+    ],
+    "population": 2049
+  },
+  {
+    "city": "Oberlin",
+    "county": "Decatur",
+    "zip_codes": [
+      "67749"
+    ],
+    "population": 1763
+  },
+  {
+    "city": "Odin",
+    "county": "Barton",
+    "zip_codes": [
+      "67525"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Offerle",
+    "county": "Edwards",
+    "zip_codes": [
+      "67563"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Ogallah",
+    "county": "Trego",
+    "zip_codes": [
+      "67656"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Ogden",
+    "county": "Riley",
+    "zip_codes": [
+      "66502",
+      "66517"
+    ],
+    "population": 1628
+  },
+  {
+    "city": "Oketo",
+    "county": "Marshall",
+    "zip_codes": [
+      "66518"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Olathe",
+    "county": "Johnson",
+    "zip_codes": [
+      "66061",
+      "66062"
+    ],
+    "population": 143720
+  },
+  {
+    "city": "Olivet",
+    "county": "Osage",
+    "zip_codes": [
+      "66856"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Olmitz",
+    "county": "Barton",
+    "zip_codes": [
+      "67564"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Olpe",
+    "county": "Lyon",
+    "zip_codes": [
+      "66865"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Olsburg",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66520"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Onaga",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66521"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Oneida",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66522",
+      "66538"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Opolis",
+    "county": "Crawford",
+    "zip_codes": [
+      "66760"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Osage City",
+    "county": "Osage",
+    "zip_codes": [
+      "66523"
+    ],
+    "population": 2837
+  },
+  {
+    "city": "Osawatomie",
+    "county": "Miami",
+    "zip_codes": [
+      "66064",
+      "66071"
+    ],
+    "population": 4244
+  },
+  {
+    "city": "Osborne",
+    "county": "Osborne",
+    "zip_codes": [
+      "67473"
+    ],
+    "population": 1496
+  },
+  {
+    "city": "Oskaloosa",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66066"
+    ],
+    "population": 1172
+  },
+  {
+    "city": "Oswego",
+    "county": "Labette",
+    "zip_codes": [
+      "66725",
+      "67356"
+    ],
+    "population": 1770
+  },
+  {
+    "city": "Otis",
+    "county": "Rush",
+    "zip_codes": [
+      "67565"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Ottawa",
+    "county": "Franklin",
+    "zip_codes": [
+      "66067"
+    ],
+    "population": 12632
+  },
+  {
+    "city": "Overbrook",
+    "county": "Osage",
+    "zip_codes": [
+      "66524"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "Overland Park",
+    "county": "Johnson",
+    "zip_codes": [
+      "66013",
+      "66062",
+      "66085",
+      "66202",
+      "66204",
+      "66206",
+      "66207",
+      "66209",
+      "66210",
+      "66211",
+      "66212",
+      "66213",
+      "66214",
+      "66215",
+      "66221",
+      "66223",
+      "66224",
+      "66251"
+    ],
+    "population": 197199
+  },
+  {
+    "city": "Oxford",
+    "county": "Sumner",
+    "zip_codes": [
+      "67119"
+    ],
+    "population": 892
+  },
+  {
+    "city": "Ozawkie",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66070",
+      "66512"
+    ],
+    "population": 599
+  },
+  {
+    "city": "Palco",
+    "county": "Rooks",
+    "zip_codes": [
+      "67657"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Palmer",
+    "county": "Washington",
+    "zip_codes": [
+      "66962"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Paola",
+    "county": "Miami",
+    "zip_codes": [
+      "66071"
+    ],
+    "population": 5757
+  },
+  {
+    "city": "Paradise",
+    "county": "Russell",
+    "zip_codes": [
+      "67658"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Park",
+    "county": "Gove",
+    "zip_codes": [
+      "67751"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Park City",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67147",
+      "67204",
+      "67219"
+    ],
+    "population": 7726
+  },
+  {
+    "city": "Parker",
+    "county": "Linn",
+    "zip_codes": [
+      "66072"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Parkerfield",
+    "county": "Cowley",
+    "zip_codes": [
+      "67005"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Parkerville",
+    "county": "Morris",
+    "zip_codes": [
+      "66846",
+      "66872"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Parsons",
+    "county": "Labette",
+    "zip_codes": [
+      "67335",
+      "67357"
+    ],
+    "population": 9482
+  },
+  {
+    "city": "Partridge",
+    "county": "Reno",
+    "zip_codes": [
+      "67566"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Pawnee Rock",
+    "county": "Barton",
+    "zip_codes": [
+      "67567"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Paxico",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66526"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Peabody",
+    "county": "Marion",
+    "zip_codes": [
+      "66866"
+    ],
+    "population": 1152
+  },
+  {
+    "city": "Peck",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67120"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Penalosa",
+    "county": "Kingman",
+    "zip_codes": [
+      "67035"
+    ],
+    "population": 3
+  },
+  {
+    "city": "Perry",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66073"
+    ],
+    "population": 1085
+  },
+  {
+    "city": "Peru",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67360"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Phillipsburg",
+    "county": "Phillips",
+    "zip_codes": [
+      "67661"
+    ],
+    "population": 2132
+  },
+  {
+    "city": "Piedmont",
+    "county": "Greenwood",
+    "zip_codes": [
+      "67122"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Pierceville",
+    "county": "Finney",
+    "zip_codes": [
+      "67846",
+      "67868"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pilsen",
+    "county": "Marion",
+    "zip_codes": [
+      "66861"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Piqua",
+    "county": "Woodson",
+    "zip_codes": [
+      "66761"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Pittsburg",
+    "county": "Crawford",
+    "zip_codes": [
+      "66762"
+    ],
+    "population": 20606
+  },
+  {
+    "city": "Plains",
+    "county": "Meade",
+    "zip_codes": [
+      "67869"
+    ],
+    "population": 1308
+  },
+  {
+    "city": "Plainville",
+    "county": "Rooks",
+    "zip_codes": [
+      "67663"
+    ],
+    "population": 1766
+  },
+  {
+    "city": "Pleasanton",
+    "county": "Linn",
+    "zip_codes": [
+      "66075"
+    ],
+    "population": 1434
+  },
+  {
+    "city": "Plevna",
+    "county": "Reno",
+    "zip_codes": [
+      "67568"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Pomona",
+    "county": "Franklin",
+    "zip_codes": [
+      "66076"
+    ],
+    "population": 1210
+  },
+  {
+    "city": "Portis",
+    "county": "Osborne",
+    "zip_codes": [
+      "67474"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Potwin",
+    "county": "Butler",
+    "zip_codes": [
+      "67123"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Powhattan",
+    "county": "Brown",
+    "zip_codes": [
+      "66527"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Prairie View",
+    "county": "Phillips",
+    "zip_codes": [
+      "67664"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Prairie Village",
+    "county": "Johnson",
+    "zip_codes": [
+      "66206",
+      "66207",
+      "66208"
+    ],
+    "population": 22937
+  },
+  {
+    "city": "Pratt",
+    "county": "Pratt",
+    "zip_codes": [
+      "67124"
+    ],
+    "population": 6559
+  },
+  {
+    "city": "Prescott",
+    "county": "Linn",
+    "zip_codes": [
+      "66767"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Preston",
+    "county": "Pratt",
+    "zip_codes": [
+      "67583"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Pretty Prairie",
+    "county": "Reno",
+    "zip_codes": [
+      "67570"
+    ],
+    "population": 553
+  },
+  {
+    "city": "Princeton",
+    "county": "Franklin",
+    "zip_codes": [
+      "66078"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Protection",
+    "county": "Comanche",
+    "zip_codes": [
+      "67127"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Quenemo",
+    "county": "Osage",
+    "zip_codes": [
+      "66528"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Quinter",
+    "county": "Gove",
+    "zip_codes": [
+      "67752"
+    ],
+    "population": 951
+  },
+  {
+    "city": "Radium",
+    "county": "Stafford",
+    "zip_codes": [
+      "67550"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Radley",
+    "county": "Crawford",
+    "zip_codes": [
+      "66743",
+      "66762"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Ramona",
+    "county": "Marion",
+    "zip_codes": [
+      "67475"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Randall",
+    "county": "Jewell",
+    "zip_codes": [
+      "66963"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Randolph",
+    "county": "Riley",
+    "zip_codes": [
+      "66554"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Ransom",
+    "county": "Ness",
+    "zip_codes": [
+      "67572"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Rantoul",
+    "county": "Franklin",
+    "zip_codes": [
+      "66079"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Raymond",
+    "county": "Rice",
+    "zip_codes": [
+      "67573"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Reading",
+    "county": "Lyon",
+    "zip_codes": [
+      "66868"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Redfield",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66769"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Republic",
+    "county": "Republic",
+    "zip_codes": [
+      "66964"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Reserve",
+    "county": "Brown",
+    "zip_codes": [
+      "66434"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Rexford",
+    "county": "Thomas",
+    "zip_codes": [
+      "67753"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Richfield",
+    "county": "Morton",
+    "zip_codes": [
+      "67953"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Richmond",
+    "county": "Franklin",
+    "zip_codes": [
+      "66080"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Riley",
+    "county": "Riley",
+    "zip_codes": [
+      "66531"
+    ],
+    "population": 826
+  },
+  {
+    "city": "Ringo",
+    "county": "Crawford",
+    "zip_codes": [
+      "66743"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Riverton",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66770"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Robinson",
+    "county": "Brown",
+    "zip_codes": [
+      "66532"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Rock",
+    "county": "Cowley",
+    "zip_codes": [
+      "67131"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Roeland Park",
+    "county": "Johnson",
+    "zip_codes": [
+      "66202",
+      "66205"
+    ],
+    "population": 6800
+  },
+  {
+    "city": "Rolla",
+    "county": "Morton",
+    "zip_codes": [
+      "67954"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Rosalia",
+    "county": "Butler",
+    "zip_codes": [
+      "67132"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Rose Hill",
+    "county": "Butler",
+    "zip_codes": [
+      "67133"
+    ],
+    "population": 4353
+  },
+  {
+    "city": "Roseland",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66773"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Rossville",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66533"
+    ],
+    "population": 1183
+  },
+  {
+    "city": "Roxbury",
+    "county": "McPherson",
+    "zip_codes": [
+      "67448",
+      "67476"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Rozel",
+    "county": "Pawnee",
+    "zip_codes": [
+      "67574"
+    ],
+    "population": 111
+  },
+  {
+    "city": "Rush Center",
+    "county": "Rush",
+    "zip_codes": [
+      "67575"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Russell",
+    "county": "Russell",
+    "zip_codes": [
+      "67665"
+    ],
+    "population": 4258
+  },
+  {
+    "city": "Russell Springs",
+    "county": "Logan",
+    "zip_codes": [
+      "67764"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Sabetha",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66534"
+    ],
+    "population": 2326
+  },
+  {
+    "city": "Salina",
+    "county": "Saline",
+    "zip_codes": [
+      "67401"
+    ],
+    "population": 46432
+  },
+  {
+    "city": "Satanta",
+    "county": "Haskell",
+    "zip_codes": [
+      "67870"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Savonburg",
+    "county": "Allen",
+    "zip_codes": [
+      "66772"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Sawyer",
+    "county": "Pratt",
+    "zip_codes": [
+      "67134"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Scammon",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66773"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Scandia",
+    "county": "Republic",
+    "zip_codes": [
+      "66966"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Schoenchen",
+    "county": "Ellis",
+    "zip_codes": [
+      "67667"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Scott City",
+    "county": "Scott",
+    "zip_codes": [
+      "67871"
+    ],
+    "population": 3955
+  },
+  {
+    "city": "Scottsville",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67420"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Scranton",
+    "county": "Osage",
+    "zip_codes": [
+      "66537"
+    ],
+    "population": 891
+  },
+  {
+    "city": "Sedan",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "67361"
+    ],
+    "population": 1066
+  },
+  {
+    "city": "Sedgwick",
+    "county": "Harvey",
+    "zip_codes": [
+      "67135"
+    ],
+    "population": 1702
+  },
+  {
+    "city": "Selden",
+    "county": "Sheridan",
+    "zip_codes": [
+      "67757"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Seneca",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66538"
+    ],
+    "population": 2139
+  },
+  {
+    "city": "Severance",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66087"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Severy",
+    "county": "Greenwood",
+    "zip_codes": [
+      "67137"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Seward",
+    "county": "Stafford",
+    "zip_codes": [
+      "67576"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Shallow Water",
+    "county": "Scott",
+    "zip_codes": [
+      "67871"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sharon",
+    "county": "Barber",
+    "zip_codes": [
+      "67138"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Sharon Springs",
+    "county": "Wallace",
+    "zip_codes": [
+      "67758"
+    ],
+    "population": 837
+  },
+  {
+    "city": "Shawnee",
+    "county": "Johnson",
+    "zip_codes": [
+      "66203",
+      "66214",
+      "66216",
+      "66217",
+      "66218",
+      "66226",
+      "66227"
+    ],
+    "population": 68175
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66539"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Silverdale",
+    "county": "Cowley",
+    "zip_codes": [
+      "67005"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Simpson",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67420",
+      "67478"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Smith Center",
+    "county": "Smith",
+    "zip_codes": [
+      "66967"
+    ],
+    "population": 1585
+  },
+  {
+    "city": "Smolan",
+    "county": "Saline",
+    "zip_codes": [
+      "67456"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Soldier",
+    "county": "Jackson",
+    "zip_codes": [
+      "66540"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Solomon",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67480"
+    ],
+    "population": 945
+  },
+  {
+    "city": "Somerset",
+    "county": "Miami",
+    "zip_codes": [
+      "66071"
+    ],
+    "population": 43
+  },
+  {
+    "city": "South Haven",
+    "county": "Sumner",
+    "zip_codes": [
+      "67140"
+    ],
+    "population": 327
+  },
+  {
+    "city": "South Hutchinson",
+    "county": "Reno",
+    "zip_codes": [
+      "67501",
+      "67505"
+    ],
+    "population": 2826
+  },
+  {
+    "city": "South Mound",
+    "county": "Neosho",
+    "zip_codes": [
+      "67357"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Spearville",
+    "county": "Ford",
+    "zip_codes": [
+      "67876"
+    ],
+    "population": 1054
+  },
+  {
+    "city": "Speed",
+    "county": "Phillips",
+    "zip_codes": [
+      "67661"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Spivey",
+    "county": "Kingman",
+    "zip_codes": [
+      "67142"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Spring Hill",
+    "county": "Johnson",
+    "zip_codes": [
+      "66083"
+    ],
+    "population": 8691
+  },
+  {
+    "city": "St. Benedict",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66538"
+    ],
+    "population": 59
+  },
+  {
+    "city": "St. Francis",
+    "county": "Cheyenne",
+    "zip_codes": [
+      "67756"
+    ],
+    "population": 1268
+  },
+  {
+    "city": "St. George",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66535"
+    ],
+    "population": 1115
+  },
+  {
+    "city": "St. John",
+    "county": "Stafford",
+    "zip_codes": [
+      "67576"
+    ],
+    "population": 1247
+  },
+  {
+    "city": "St. Marks",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67030"
+    ],
+    "population": 87
+  },
+  {
+    "city": "St. Marys",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66536"
+    ],
+    "population": 2795
+  },
+  {
+    "city": "St. Paul",
+    "county": "Neosho",
+    "zip_codes": [
+      "66771"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Stafford",
+    "county": "Stafford",
+    "zip_codes": [
+      "67578"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Stark",
+    "county": "Neosho",
+    "zip_codes": [
+      "66775"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Sterling",
+    "county": "Rice",
+    "zip_codes": [
+      "67579"
+    ],
+    "population": 2396
+  },
+  {
+    "city": "Stockton",
+    "county": "Rooks",
+    "zip_codes": [
+      "67669"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "Strong City",
+    "county": "Chase",
+    "zip_codes": [
+      "66869"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Stuttgart",
+    "county": "Phillips",
+    "zip_codes": [
+      "67661",
+      "67664"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Sublette",
+    "county": "Haskell",
+    "zip_codes": [
+      "67877"
+    ],
+    "population": 1397
+  },
+  {
+    "city": "Summerfield",
+    "county": "Marshall",
+    "zip_codes": [
+      "66541"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Sun City",
+    "county": "Barber",
+    "zip_codes": [
+      "67143"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Susank",
+    "county": "Barton",
+    "zip_codes": [
+      "67544"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Sycamore",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67301",
+      "67363"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Sylvan Grove",
+    "county": "Lincoln",
+    "zip_codes": [
+      "67481"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Sylvia",
+    "county": "Reno",
+    "zip_codes": [
+      "67581"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Syracuse",
+    "county": "Hamilton",
+    "zip_codes": [
+      "67878"
+    ],
+    "population": 1706
+  },
+  {
+    "city": "Talmage",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67482"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Tampa",
+    "county": "Marion",
+    "zip_codes": [
+      "67483"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Tecumseh",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66542",
+      "66607"
+    ],
+    "population": 339
+  },
+  {
+    "city": "Tescott",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67484"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Thayer",
+    "county": "Neosho",
+    "zip_codes": [
+      "66776"
+    ],
+    "population": 454
+  },
+  {
+    "city": "The Highlands",
+    "county": "Reno",
+    "zip_codes": [
+      "67502"
+    ],
+    "population": 474
+  },
+  {
+    "city": "Timken",
+    "county": "Rush",
+    "zip_codes": [
+      "67575"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Tipton",
+    "county": "Mitchell",
+    "zip_codes": [
+      "67485"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Tonganoxie",
+    "county": "Leavenworth",
+    "zip_codes": [
+      "66086"
+    ],
+    "population": 5693
+  },
+  {
+    "city": "Topeka",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66546",
+      "66603",
+      "66604",
+      "66605",
+      "66606",
+      "66607",
+      "66608",
+      "66609",
+      "66610",
+      "66611",
+      "66612",
+      "66614",
+      "66615",
+      "66616",
+      "66617",
+      "66618",
+      "66619",
+      "66621",
+      "66622"
+    ],
+    "population": 126103
+  },
+  {
+    "city": "Toronto",
+    "county": "Woodson",
+    "zip_codes": [
+      "66777"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Towanda",
+    "county": "Butler",
+    "zip_codes": [
+      "67144"
+    ],
+    "population": 1748
+  },
+  {
+    "city": "Tribune",
+    "county": "Greeley",
+    "zip_codes": [
+      "67879"
+    ],
+    "population": 799
+  },
+  {
+    "city": "Troy",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66087"
+    ],
+    "population": 794
+  },
+  {
+    "city": "Turon",
+    "county": "Reno",
+    "zip_codes": [
+      "67583"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Tyro",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67333",
+      "67364"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Udall",
+    "county": "Cowley",
+    "zip_codes": [
+      "67146"
+    ],
+    "population": 641
+  },
+  {
+    "city": "Ulysses",
+    "county": "Grant",
+    "zip_codes": [
+      "67880"
+    ],
+    "population": 5812
+  },
+  {
+    "city": "Uniontown",
+    "county": "Bourbon",
+    "zip_codes": [
+      "66779"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Urbana",
+    "county": "Neosho",
+    "zip_codes": [
+      "66720"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Utica",
+    "county": "Ness",
+    "zip_codes": [
+      "67584"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Valley Center",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67147",
+      "67204"
+    ],
+    "population": 8937
+  },
+  {
+    "city": "Valley Falls",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66088"
+    ],
+    "population": 1305
+  },
+  {
+    "city": "Vassar",
+    "county": "Osage",
+    "zip_codes": [
+      "66451",
+      "66543"
+    ],
+    "population": 870
+  },
+  {
+    "city": "Vermillion",
+    "county": "Marshall",
+    "zip_codes": [
+      "66544"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Victoria",
+    "county": "Ellis",
+    "zip_codes": [
+      "67671"
+    ],
+    "population": 994
+  },
+  {
+    "city": "Vining",
+    "county": "Washington",
+    "zip_codes": [
+      "66937"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Viola",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67149"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Virgil",
+    "county": "Greenwood",
+    "zip_codes": [
+      "66870"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Wabaunsee",
+    "county": "Wabaunsee",
+    "zip_codes": [
+      "66547"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Wakarusa",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66546"
+    ],
+    "population": 207
+  },
+  {
+    "city": "WaKeeney",
+    "county": "Trego",
+    "zip_codes": [
+      "67672"
+    ],
+    "population": 1838
+  },
+  {
+    "city": "Wakefield",
+    "county": "Clay",
+    "zip_codes": [
+      "67487"
+    ],
+    "population": 1031
+  },
+  {
+    "city": "Waldo",
+    "county": "Russell",
+    "zip_codes": [
+      "67673"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Waldron",
+    "county": "Harper",
+    "zip_codes": [
+      "67150"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Wallace",
+    "county": "Wallace",
+    "zip_codes": [
+      "67761"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Walnut",
+    "county": "Crawford",
+    "zip_codes": [
+      "66780"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Walton",
+    "county": "Harvey",
+    "zip_codes": [
+      "67151"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Wamego",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66547"
+    ],
+    "population": 4205
+  },
+  {
+    "city": "Washington",
+    "county": "Washington",
+    "zip_codes": [
+      "66968"
+    ],
+    "population": 1199
+  },
+  {
+    "city": "Waterville",
+    "county": "Marshall",
+    "zip_codes": [
+      "66548"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Wathena",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66090"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Waverly",
+    "county": "Coffey",
+    "zip_codes": [
+      "66871"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Wayside",
+    "county": "Montgomery",
+    "zip_codes": [
+      "67301"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Webber",
+    "county": "Jewell",
+    "zip_codes": [
+      "66970"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Weir",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66781"
+    ],
+    "population": 910
+  },
+  {
+    "city": "Welda",
+    "county": "Anderson",
+    "zip_codes": [
+      "66091"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Wellington",
+    "county": "Sumner",
+    "zip_codes": [
+      "67103",
+      "67152"
+    ],
+    "population": 7643
+  },
+  {
+    "city": "Wells",
+    "county": "Ottawa",
+    "zip_codes": [
+      "67467"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Wellsville",
+    "county": "Franklin",
+    "zip_codes": [
+      "66092"
+    ],
+    "population": 2003
+  },
+  {
+    "city": "Weskan",
+    "county": "Wallace",
+    "zip_codes": [
+      "67762"
+    ],
+    "population": 163
+  },
+  {
+    "city": "West Mineral",
+    "county": "Cherokee",
+    "zip_codes": [
+      "66753",
+      "66773",
+      "66782"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Westmoreland",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66549"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Westphalia",
+    "county": "Anderson",
+    "zip_codes": [
+      "66093"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Westwood",
+    "county": "Johnson",
+    "zip_codes": [
+      "66205"
+    ],
+    "population": 1851
+  },
+  {
+    "city": "Westwood Hills",
+    "county": "Johnson",
+    "zip_codes": [
+      "66205"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Wetmore",
+    "county": "Nemaha",
+    "zip_codes": [
+      "66550"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Wheaton",
+    "county": "Pottawatomie",
+    "zip_codes": [
+      "66521"
+    ],
+    "population": 83
+  },
+  {
+    "city": "White City",
+    "county": "Morris",
+    "zip_codes": [
+      "66872"
+    ],
+    "population": 439
+  },
+  {
+    "city": "White Cloud",
+    "county": "Doniphan",
+    "zip_codes": [
+      "66094"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Whitewater",
+    "county": "Butler",
+    "zip_codes": [
+      "67154"
+    ],
+    "population": 900
+  },
+  {
+    "city": "Whiting",
+    "county": "Jackson",
+    "zip_codes": [
+      "66552"
+    ],
+    "population": 316
+  },
+  {
+    "city": "Wichita",
+    "county": "Sedgwick",
+    "zip_codes": [
+      "67202",
+      "67203",
+      "67204",
+      "67205",
+      "67206",
+      "67207",
+      "67208",
+      "67209",
+      "67210",
+      "67211",
+      "67212",
+      "67213",
+      "67214",
+      "67215",
+      "67216",
+      "67217",
+      "67218",
+      "67219",
+      "67220",
+      "67221",
+      "67223",
+      "67226",
+      "67228",
+      "67230",
+      "67232",
+      "67235",
+      "67260"
+    ],
+    "population": 396488
+  },
+  {
+    "city": "Willard",
+    "county": "Shawnee",
+    "zip_codes": [
+      "66615"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Williamsburg",
+    "county": "Franklin",
+    "zip_codes": [
+      "66076",
+      "66095"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Williamstown",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66073"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Willis",
+    "county": "Brown",
+    "zip_codes": [
+      "66434"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Willowbrook",
+    "county": "Reno",
+    "zip_codes": [
+      "67502"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Wilmore",
+    "county": "Comanche",
+    "zip_codes": [
+      "67155"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Wilroads Gardens",
+    "county": "Ford",
+    "zip_codes": [
+      "67801"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Wilsey",
+    "county": "Morris",
+    "zip_codes": [
+      "66873"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Wilson",
+    "county": "Ellsworth",
+    "zip_codes": [
+      "67490"
+    ],
+    "population": 824
+  },
+  {
+    "city": "Winchester",
+    "county": "Jefferson",
+    "zip_codes": [
+      "66097"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Windom",
+    "county": "McPherson",
+    "zip_codes": [
+      "67491"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Winfield",
+    "county": "Cowley",
+    "zip_codes": [
+      "67019",
+      "67156"
+    ],
+    "population": 11731
+  },
+  {
+    "city": "Winona",
+    "county": "Logan",
+    "zip_codes": [
+      "67764"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Woodbine",
+    "county": "Dickinson",
+    "zip_codes": [
+      "67492"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Woodruff",
+    "county": "Phillips",
+    "zip_codes": [
+      "67661"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Woodston",
+    "county": "Rooks",
+    "zip_codes": [
+      "67675"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Wright",
+    "county": "Ford",
+    "zip_codes": [
+      "67882"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Yale",
+    "county": "Crawford",
+    "zip_codes": [
+      "66762"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Yates Center",
+    "county": "Woodson",
+    "zip_codes": [
+      "66783"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "Yoder",
+    "county": "Reno",
+    "zip_codes": [
+      "67501",
+      "67543"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Zeandale",
+    "county": "Riley",
+    "zip_codes": [
+      "66502"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Zenda",
+    "county": "Kingman",
+    "zip_codes": [
+      "67159"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Zurich",
+    "county": "Rooks",
+    "zip_codes": [
+      "67663"
+    ],
+    "population": 70
+  }
+]

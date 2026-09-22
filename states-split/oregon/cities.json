@@ -1,0 +1,3587 @@
+[
+  {
+    "city": "Adair Village",
+    "county": "Benton",
+    "zip_codes": [
+      "97330"
+    ],
+    "population": 1140
+  },
+  {
+    "city": "Adams",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97810"
+    ],
+    "population": 360
+  },
+  {
+    "city": "Adrian",
+    "county": "Malheur",
+    "zip_codes": [
+      "97901"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Albany",
+    "county": "Linn",
+    "zip_codes": [
+      "97321",
+      "97322",
+      "97389"
+    ],
+    "population": 56773
+  },
+  {
+    "city": "Aloha",
+    "county": "Washington",
+    "zip_codes": [
+      "97003",
+      "97007",
+      "97078"
+    ],
+    "population": 53362
+  },
+  {
+    "city": "Alpine",
+    "county": "Benton",
+    "zip_codes": [
+      "97456"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Alsea",
+    "county": "Benton",
+    "zip_codes": [
+      "97324"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Altamont",
+    "county": "Klamath",
+    "zip_codes": [
+      "97603"
+    ],
+    "population": 19844
+  },
+  {
+    "city": "Amity",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97101"
+    ],
+    "population": 1972
+  },
+  {
+    "city": "Annex",
+    "county": "Malheur",
+    "zip_codes": [
+      "97914"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Antelope",
+    "county": "Wasco",
+    "zip_codes": [
+      "97001"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Arlington",
+    "county": "Gilliam",
+    "zip_codes": [
+      "97812"
+    ],
+    "population": 720
+  },
+  {
+    "city": "Ashland",
+    "county": "Jackson",
+    "zip_codes": [
+      "97520"
+    ],
+    "population": 21343
+  },
+  {
+    "city": "Astoria",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97103"
+    ],
+    "population": 10162
+  },
+  {
+    "city": "Athena",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97813"
+    ],
+    "population": 1206
+  },
+  {
+    "city": "Aumsville",
+    "county": "Marion",
+    "zip_codes": [
+      "97317",
+      "97325"
+    ],
+    "population": 4220
+  },
+  {
+    "city": "Aurora",
+    "county": "Marion",
+    "zip_codes": [
+      "97002"
+    ],
+    "population": 1104
+  },
+  {
+    "city": "Baker City",
+    "county": "Baker",
+    "zip_codes": [
+      "97814"
+    ],
+    "population": 10177
+  },
+  {
+    "city": "Bandon",
+    "county": "Coos",
+    "zip_codes": [
+      "97411"
+    ],
+    "population": 3323
+  },
+  {
+    "city": "Banks",
+    "county": "Washington",
+    "zip_codes": [
+      "97106"
+    ],
+    "population": 2092
+  },
+  {
+    "city": "Barlow",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97002",
+      "97013"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Barnesdale",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97131"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Barview",
+    "county": "Coos",
+    "zip_codes": [
+      "97420"
+    ],
+    "population": 1645
+  },
+  {
+    "city": "Bay City",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97107"
+    ],
+    "population": 2022
+  },
+  {
+    "city": "Bayshore",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97394"
+    ],
+    "population": 743
+  },
+  {
+    "city": "Bayside Gardens",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97130",
+      "97131"
+    ],
+    "population": 1194
+  },
+  {
+    "city": "Beatty",
+    "county": "Klamath",
+    "zip_codes": [
+      "97621"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Beaver",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97108",
+      "97112"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Beaver Marsh",
+    "county": "Klamath",
+    "zip_codes": [
+      "97731"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Beavercreek",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97004",
+      "97045"
+    ],
+    "population": 4577
+  },
+  {
+    "city": "Beaverton",
+    "county": "Washington",
+    "zip_codes": [
+      "97003",
+      "97005",
+      "97006",
+      "97007",
+      "97008",
+      "97223",
+      "97225",
+      "97229"
+    ],
+    "population": 97502
+  },
+  {
+    "city": "Bellfountain",
+    "county": "Benton",
+    "zip_codes": [
+      "97456"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Bend",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97701",
+      "97702",
+      "97703"
+    ],
+    "population": 101472
+  },
+  {
+    "city": "Bethany",
+    "county": "Washington",
+    "zip_codes": [
+      "97229",
+      "97231"
+    ],
+    "population": 31700
+  },
+  {
+    "city": "Biggs Junction",
+    "county": "Sherman",
+    "zip_codes": [
+      "97065"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Black Butte Ranch",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97759"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Blodgett",
+    "county": "Benton",
+    "zip_codes": [
+      "97326"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bly",
+    "county": "Klamath",
+    "zip_codes": [
+      "97622"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Boardman",
+    "county": "Morrow",
+    "zip_codes": [
+      "97818"
+    ],
+    "population": 3955
+  },
+  {
+    "city": "Bonanza",
+    "county": "Klamath",
+    "zip_codes": [
+      "97623"
+    ],
+    "population": 550
+  },
+  {
+    "city": "Boring",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97009",
+      "97089"
+    ],
+    "population": 1616
+  },
+  {
+    "city": "Brogan",
+    "county": "Malheur",
+    "zip_codes": [
+      "97903"
+    ],
+    "population": 22
+  },
+  {
+    "city": "Brookings",
+    "county": "Curry",
+    "zip_codes": [
+      "97415"
+    ],
+    "population": 6733
+  },
+  {
+    "city": "Brooks",
+    "county": "Marion",
+    "zip_codes": [
+      "97303",
+      "97305"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Brownsville",
+    "county": "Linn",
+    "zip_codes": [
+      "97327"
+    ],
+    "population": 1949
+  },
+  {
+    "city": "Bull Mountain",
+    "county": "Washington",
+    "zip_codes": [
+      "97140",
+      "97223",
+      "97224"
+    ],
+    "population": 9465
+  },
+  {
+    "city": "Bunker Hill",
+    "county": "Coos",
+    "zip_codes": [
+      "97420"
+    ],
+    "population": 1694
+  },
+  {
+    "city": "Burns",
+    "county": "Harney",
+    "zip_codes": [
+      "97720"
+    ],
+    "population": 2736
+  },
+  {
+    "city": "Butte Falls",
+    "county": "Jackson",
+    "zip_codes": [
+      "97522",
+      "97524"
+    ],
+    "population": 445
+  },
+  {
+    "city": "Butteville",
+    "county": "Marion",
+    "zip_codes": [
+      "97002"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Camp Sherman",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97730"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Canby",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97013"
+    ],
+    "population": 18103
+  },
+  {
+    "city": "Cannon Beach",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97110",
+      "97145"
+    ],
+    "population": 1368
+  },
+  {
+    "city": "Canyon City",
+    "county": "Grant",
+    "zip_codes": [
+      "97820",
+      "97845"
+    ],
+    "population": 920
+  },
+  {
+    "city": "Canyonville",
+    "county": "Douglas",
+    "zip_codes": [
+      "97417"
+    ],
+    "population": 1917
+  },
+  {
+    "city": "Cape Meares",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Carlton",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97111"
+    ],
+    "population": 2378
+  },
+  {
+    "city": "Cascade Locks",
+    "county": "Hood River",
+    "zip_codes": [
+      "97014"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "Cascadia",
+    "county": "Linn",
+    "zip_codes": [
+      "97345"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Cave Junction",
+    "county": "Josephine",
+    "zip_codes": [
+      "97523"
+    ],
+    "population": 1701
+  },
+  {
+    "city": "Cayuse",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Cedar Hills",
+    "county": "Washington",
+    "zip_codes": [
+      "97005",
+      "97225"
+    ],
+    "population": 8515
+  },
+  {
+    "city": "Cedar Mill",
+    "county": "Washington",
+    "zip_codes": [
+      "97229"
+    ],
+    "population": 19482
+  },
+  {
+    "city": "Central Point",
+    "county": "Jackson",
+    "zip_codes": [
+      "97502",
+      "97504"
+    ],
+    "population": 19183
+  },
+  {
+    "city": "Chemult",
+    "county": "Klamath",
+    "zip_codes": [
+      "97731"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Chenoweth",
+    "county": "Wasco",
+    "zip_codes": [
+      "97058"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Cherry Grove",
+    "county": "Washington",
+    "zip_codes": [
+      "97119"
+    ],
+    "population": 365
+  },
+  {
+    "city": "Cheshire",
+    "county": "Lane",
+    "zip_codes": [
+      "97419",
+      "97448"
+    ],
+    "population": 287
+  },
+  {
+    "city": "Chiloquin",
+    "county": "Klamath",
+    "zip_codes": [
+      "97624"
+    ],
+    "population": 459
+  },
+  {
+    "city": "Clatskanie",
+    "county": "Columbia",
+    "zip_codes": [
+      "97016"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Cloverdale",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97112"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Coburg",
+    "county": "Lane",
+    "zip_codes": [
+      "97408"
+    ],
+    "population": 1541
+  },
+  {
+    "city": "Columbia City",
+    "county": "Columbia",
+    "zip_codes": [
+      "97018",
+      "97051"
+    ],
+    "population": 1806
+  },
+  {
+    "city": "Condon",
+    "county": "Gilliam",
+    "zip_codes": [
+      "97823"
+    ],
+    "population": 621
+  },
+  {
+    "city": "Coos Bay",
+    "county": "Coos",
+    "zip_codes": [
+      "97420",
+      "97459"
+    ],
+    "population": 15867
+  },
+  {
+    "city": "Coquille",
+    "county": "Coos",
+    "zip_codes": [
+      "97423"
+    ],
+    "population": 4019
+  },
+  {
+    "city": "Cornelius",
+    "county": "Washington",
+    "zip_codes": [
+      "97113",
+      "97123",
+      "97124"
+    ],
+    "population": 13700
+  },
+  {
+    "city": "Corvallis",
+    "county": "Benton",
+    "zip_codes": [
+      "97330",
+      "97331",
+      "97333"
+    ],
+    "population": 60424
+  },
+  {
+    "city": "Cottage Grove",
+    "county": "Lane",
+    "zip_codes": [
+      "97424"
+    ],
+    "population": 10630
+  },
+  {
+    "city": "Cove",
+    "county": "Union",
+    "zip_codes": [
+      "97824"
+    ],
+    "population": 638
+  },
+  {
+    "city": "Crabtree",
+    "county": "Linn",
+    "zip_codes": [
+      "97335",
+      "97355",
+      "97374"
+    ],
+    "population": 717
+  },
+  {
+    "city": "Crane",
+    "county": "Harney",
+    "zip_codes": [
+      "97720",
+      "97732"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Crawfordsville",
+    "county": "Linn",
+    "zip_codes": [
+      "97327",
+      "97336",
+      "97386"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Crescent",
+    "county": "Klamath",
+    "zip_codes": [
+      "97733"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Crescent Lake",
+    "county": "Klamath",
+    "zip_codes": [
+      "97733"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Creswell",
+    "county": "Lane",
+    "zip_codes": [
+      "97426"
+    ],
+    "population": 5625
+  },
+  {
+    "city": "Crooked River Ranch",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97760"
+    ],
+    "population": 4681
+  },
+  {
+    "city": "Culver",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97734"
+    ],
+    "population": 2211
+  },
+  {
+    "city": "Dallas",
+    "county": "Polk",
+    "zip_codes": [
+      "97338"
+    ],
+    "population": 17214
+  },
+  {
+    "city": "Damascus",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97089"
+    ],
+    "population": 10888
+  },
+  {
+    "city": "Days Creek",
+    "county": "Douglas",
+    "zip_codes": [
+      "97417",
+      "97429"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Dayton",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97114"
+    ],
+    "population": 2668
+  },
+  {
+    "city": "Dayville",
+    "county": "Grant",
+    "zip_codes": [
+      "97825"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Deer Island",
+    "county": "Columbia",
+    "zip_codes": [
+      "97054"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Depoe Bay",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97341"
+    ],
+    "population": 2025
+  },
+  {
+    "city": "Deschutes River Woods",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97702"
+    ],
+    "population": 5755
+  },
+  {
+    "city": "Detroit",
+    "county": "Marion",
+    "zip_codes": [
+      "97342"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Dexter",
+    "county": "Lane",
+    "zip_codes": [
+      "97431"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Dillard",
+    "county": "Douglas",
+    "zip_codes": [
+      "97432",
+      "97457",
+      "97496"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Dilley",
+    "county": "Washington",
+    "zip_codes": [
+      "97116"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Donald",
+    "county": "Marion",
+    "zip_codes": [
+      "97020"
+    ],
+    "population": 1242
+  },
+  {
+    "city": "Drain",
+    "county": "Douglas",
+    "zip_codes": [
+      "97435"
+    ],
+    "population": 975
+  },
+  {
+    "city": "Dufur",
+    "county": "Wasco",
+    "zip_codes": [
+      "97021"
+    ],
+    "population": 841
+  },
+  {
+    "city": "Dundee",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97115"
+    ],
+    "population": 3215
+  },
+  {
+    "city": "Dunes City",
+    "county": "Lane",
+    "zip_codes": [
+      "97439",
+      "97493"
+    ],
+    "population": 1358
+  },
+  {
+    "city": "Dunthorpe",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97034",
+      "97219"
+    ],
+    "population": 1984
+  },
+  {
+    "city": "Durham",
+    "county": "Washington",
+    "zip_codes": [
+      "97224"
+    ],
+    "population": 1909
+  },
+  {
+    "city": "Eagle Crest",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97756"
+    ],
+    "population": 2890
+  },
+  {
+    "city": "Eagle Point",
+    "county": "Jackson",
+    "zip_codes": [
+      "97524"
+    ],
+    "population": 9783
+  },
+  {
+    "city": "Echo",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97826"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Elgin",
+    "county": "Union",
+    "zip_codes": [
+      "97827"
+    ],
+    "population": 1592
+  },
+  {
+    "city": "Elkton",
+    "county": "Douglas",
+    "zip_codes": [
+      "97436"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Elmira",
+    "county": "Lane",
+    "zip_codes": [
+      "97437"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Enterprise",
+    "county": "Wallowa",
+    "zip_codes": [
+      "97828"
+    ],
+    "population": 2145
+  },
+  {
+    "city": "Eola",
+    "county": "Polk",
+    "zip_codes": [
+      "97304"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Estacada",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97023"
+    ],
+    "population": 4878
+  },
+  {
+    "city": "Eugene",
+    "county": "Lane",
+    "zip_codes": [
+      "97401",
+      "97402",
+      "97403",
+      "97404",
+      "97405",
+      "97408"
+    ],
+    "population": 177520
+  },
+  {
+    "city": "Fair Oaks",
+    "county": "Douglas",
+    "zip_codes": [
+      "97462",
+      "97479"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Fairview",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97024"
+    ],
+    "population": 10627
+  },
+  {
+    "city": "Fairview",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 523
+  },
+  {
+    "city": "Falcon Heights",
+    "county": "Klamath",
+    "zip_codes": [
+      "97603"
+    ],
+    "population": 758
+  },
+  {
+    "city": "Falls City",
+    "county": "Polk",
+    "zip_codes": [
+      "97344"
+    ],
+    "population": 1222
+  },
+  {
+    "city": "Florence",
+    "county": "Lane",
+    "zip_codes": [
+      "97439"
+    ],
+    "population": 9483
+  },
+  {
+    "city": "Foots Creek",
+    "county": "Jackson",
+    "zip_codes": [
+      "97525"
+    ],
+    "population": 1095
+  },
+  {
+    "city": "Forest Grove",
+    "county": "Washington",
+    "zip_codes": [
+      "97116"
+    ],
+    "population": 26406
+  },
+  {
+    "city": "Fort Hill",
+    "county": "Polk",
+    "zip_codes": [
+      "97347",
+      "97396"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Fort Klamath",
+    "county": "Klamath",
+    "zip_codes": [
+      "97626"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Fossil",
+    "county": "Wheeler",
+    "zip_codes": [
+      "97830"
+    ],
+    "population": 448
+  },
+  {
+    "city": "Four Corners",
+    "county": "Marion",
+    "zip_codes": [
+      "97301",
+      "97305",
+      "97317"
+    ],
+    "population": 16168
+  },
+  {
+    "city": "Garden Home-Whitford",
+    "county": "Washington",
+    "zip_codes": [
+      "97008",
+      "97223"
+    ],
+    "population": 6970
+  },
+  {
+    "city": "Gardiner",
+    "county": "Douglas",
+    "zip_codes": [
+      "97441"
+    ],
+    "population": 351
+  },
+  {
+    "city": "Garibaldi",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97107",
+      "97118"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Gaston",
+    "county": "Washington",
+    "zip_codes": [
+      "97119"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Gates",
+    "county": "Marion",
+    "zip_codes": [
+      "97346"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Gearhart",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97138"
+    ],
+    "population": 1959
+  },
+  {
+    "city": "Gervais",
+    "county": "Marion",
+    "zip_codes": [
+      "97026"
+    ],
+    "population": 2588
+  },
+  {
+    "city": "Gilchrist",
+    "county": "Klamath",
+    "zip_codes": [
+      "97737"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Gladstone",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97027"
+    ],
+    "population": 11986
+  },
+  {
+    "city": "Glasgow",
+    "county": "Coos",
+    "zip_codes": [
+      "97459"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Glendale",
+    "county": "Douglas",
+    "zip_codes": [
+      "97442"
+    ],
+    "population": 719
+  },
+  {
+    "city": "Glide",
+    "county": "Douglas",
+    "zip_codes": [
+      "97443",
+      "97447",
+      "97470"
+    ],
+    "population": 1481
+  },
+  {
+    "city": "Gold Beach",
+    "county": "Curry",
+    "zip_codes": [
+      "97444"
+    ],
+    "population": 2455
+  },
+  {
+    "city": "Gold Hill",
+    "county": "Jackson",
+    "zip_codes": [
+      "97525"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "Gopher Flats",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Government Camp",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97028"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Grand Ronde",
+    "county": "Polk",
+    "zip_codes": [
+      "97347"
+    ],
+    "population": 1443
+  },
+  {
+    "city": "Granite",
+    "county": "Grant",
+    "zip_codes": [
+      "97877"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Grants Pass",
+    "county": "Josephine",
+    "zip_codes": [
+      "97526",
+      "97527"
+    ],
+    "population": 39183
+  },
+  {
+    "city": "Grass Valley",
+    "county": "Sherman",
+    "zip_codes": [
+      "97029"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Green",
+    "county": "Douglas",
+    "zip_codes": [
+      "97471"
+    ],
+    "population": 7916
+  },
+  {
+    "city": "Green Meadows",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Greenhorn",
+    "county": "Baker",
+    "zip_codes": [
+      "97817",
+      "97877"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Gresham",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97024",
+      "97030",
+      "97080",
+      "97230",
+      "97233",
+      "97236"
+    ],
+    "population": 112818
+  },
+  {
+    "city": "Haines",
+    "county": "Baker",
+    "zip_codes": [
+      "97833"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Halfway",
+    "county": "Baker",
+    "zip_codes": [
+      "97834"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Halsey",
+    "county": "Linn",
+    "zip_codes": [
+      "97348"
+    ],
+    "population": 1637
+  },
+  {
+    "city": "Happy Valley",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97015",
+      "97086",
+      "97089"
+    ],
+    "population": 25572
+  },
+  {
+    "city": "Harbor",
+    "county": "Curry",
+    "zip_codes": [
+      "97415"
+    ],
+    "population": 2154
+  },
+  {
+    "city": "Harper",
+    "county": "Malheur",
+    "zip_codes": [
+      "97906"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Harrisburg",
+    "county": "Linn",
+    "zip_codes": [
+      "97446"
+    ],
+    "population": 3675
+  },
+  {
+    "city": "Hayesville",
+    "county": "Marion",
+    "zip_codes": [
+      "97305"
+    ],
+    "population": 22309
+  },
+  {
+    "city": "Hebo",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97112",
+      "97122"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Heceta Beach",
+    "county": "Lane",
+    "zip_codes": [
+      "97439"
+    ],
+    "population": 2220
+  },
+  {
+    "city": "Helix",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97835"
+    ],
+    "population": 415
+  },
+  {
+    "city": "Heppner",
+    "county": "Morrow",
+    "zip_codes": [
+      "97836"
+    ],
+    "population": 1420
+  },
+  {
+    "city": "Hermiston",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97838"
+    ],
+    "population": 19406
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Washington",
+    "zip_codes": [
+      "97006",
+      "97123",
+      "97124"
+    ],
+    "population": 107050
+  },
+  {
+    "city": "Hines",
+    "county": "Harney",
+    "zip_codes": [
+      "97738"
+    ],
+    "population": 1629
+  },
+  {
+    "city": "Holley",
+    "county": "Linn",
+    "zip_codes": [
+      "97386"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Hood River",
+    "county": "Hood River",
+    "zip_codes": [
+      "97031"
+    ],
+    "population": 8360
+  },
+  {
+    "city": "Hubbard",
+    "county": "Marion",
+    "zip_codes": [
+      "97032"
+    ],
+    "population": 3421
+  },
+  {
+    "city": "Huntington",
+    "county": "Baker",
+    "zip_codes": [
+      "97907"
+    ],
+    "population": 690
+  },
+  {
+    "city": "Idanha",
+    "county": "Marion",
+    "zip_codes": [
+      "97350"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Idaville",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Imbler",
+    "county": "Union",
+    "zip_codes": [
+      "97841"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Independence",
+    "county": "Polk",
+    "zip_codes": [
+      "97351"
+    ],
+    "population": 10088
+  },
+  {
+    "city": "Ione",
+    "county": "Morrow",
+    "zip_codes": [
+      "97843"
+    ],
+    "population": 372
+  },
+  {
+    "city": "Irrigon",
+    "county": "Morrow",
+    "zip_codes": [
+      "97844"
+    ],
+    "population": 1922
+  },
+  {
+    "city": "Island City",
+    "county": "Union",
+    "zip_codes": [
+      "97850"
+    ],
+    "population": 1165
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Jackson",
+    "zip_codes": [
+      "97530"
+    ],
+    "population": 2991
+  },
+  {
+    "city": "Jasper",
+    "county": "Lane",
+    "zip_codes": [
+      "97438",
+      "97455",
+      "97478"
+    ],
+    "population": 658
+  },
+  {
+    "city": "Jeffers Gardens",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97103"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Jefferson",
+    "county": "Marion",
+    "zip_codes": [
+      "97352"
+    ],
+    "population": 3316
+  },
+  {
+    "city": "Jennings Lodge",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97267"
+    ],
+    "population": 7732
+  },
+  {
+    "city": "John Day",
+    "county": "Grant",
+    "zip_codes": [
+      "97845"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Johnson City",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97267"
+    ],
+    "population": 481
+  },
+  {
+    "city": "Jordan Valley",
+    "county": "Malheur",
+    "zip_codes": [
+      "97910"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Joseph",
+    "county": "Wallowa",
+    "zip_codes": [
+      "97846"
+    ],
+    "population": 1090
+  },
+  {
+    "city": "Junction City",
+    "county": "Lane",
+    "zip_codes": [
+      "97448"
+    ],
+    "population": 6926
+  },
+  {
+    "city": "Juniper Canyon",
+    "county": "Crook",
+    "zip_codes": [
+      "97754"
+    ],
+    "population": 3133
+  },
+  {
+    "city": "Juntura",
+    "county": "Malheur",
+    "zip_codes": [
+      "97911"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Keizer",
+    "county": "Marion",
+    "zip_codes": [
+      "97303"
+    ],
+    "population": 39013
+  },
+  {
+    "city": "Keno",
+    "county": "Klamath",
+    "zip_codes": [
+      "97601",
+      "97603",
+      "97627"
+    ],
+    "population": 1853
+  },
+  {
+    "city": "Kerby",
+    "county": "Josephine",
+    "zip_codes": [
+      "97531"
+    ],
+    "population": 98
+  },
+  {
+    "city": "King City",
+    "county": "Washington",
+    "zip_codes": [
+      "97224"
+    ],
+    "population": 5078
+  },
+  {
+    "city": "Kings Valley",
+    "county": "Benton",
+    "zip_codes": [
+      "97361",
+      "97370"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Kirkpatrick",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Klamath Falls",
+    "county": "Klamath",
+    "zip_codes": [
+      "97601",
+      "97603"
+    ],
+    "population": 21879
+  },
+  {
+    "city": "Knappa",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97103"
+    ],
+    "population": 922
+  },
+  {
+    "city": "La Grande",
+    "county": "Union",
+    "zip_codes": [
+      "97850"
+    ],
+    "population": 13059
+  },
+  {
+    "city": "La Pine",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97739"
+    ],
+    "population": 2510
+  },
+  {
+    "city": "Labish Village",
+    "county": "Marion",
+    "zip_codes": [
+      "97305"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Lacomb",
+    "county": "Linn",
+    "zip_codes": [
+      "97355"
+    ],
+    "population": 816
+  },
+  {
+    "city": "Lafayette",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97127",
+      "97128"
+    ],
+    "population": 4428
+  },
+  {
+    "city": "Lake Oswego",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97034",
+      "97035",
+      "97219"
+    ],
+    "population": 40367
+  },
+  {
+    "city": "Lakeside",
+    "county": "Coos",
+    "zip_codes": [
+      "97449"
+    ],
+    "population": 1839
+  },
+  {
+    "city": "Lakeview",
+    "county": "Lake",
+    "zip_codes": [
+      "97630"
+    ],
+    "population": 3043
+  },
+  {
+    "city": "Langlois",
+    "county": "Curry",
+    "zip_codes": [
+      "97450"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Lebanon",
+    "county": "Linn",
+    "zip_codes": [
+      "97355"
+    ],
+    "population": 18978
+  },
+  {
+    "city": "Lexington",
+    "county": "Morrow",
+    "zip_codes": [
+      "97839"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Lincoln Beach",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97341",
+      "97367",
+      "97388"
+    ],
+    "population": 2657
+  },
+  {
+    "city": "Lincoln City",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97364",
+      "97367"
+    ],
+    "population": 9890
+  },
+  {
+    "city": "Lonerock",
+    "county": "Gilliam",
+    "zip_codes": [
+      "97823"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Long Creek",
+    "county": "Grant",
+    "zip_codes": [
+      "97856"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Lookingglass",
+    "county": "Douglas",
+    "zip_codes": [
+      "97471"
+    ],
+    "population": 994
+  },
+  {
+    "city": "Lostine",
+    "county": "Wallowa",
+    "zip_codes": [
+      "97857"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Lowell",
+    "county": "Lane",
+    "zip_codes": [
+      "97452"
+    ],
+    "population": 1221
+  },
+  {
+    "city": "Lyons",
+    "county": "Linn",
+    "zip_codes": [
+      "97358"
+    ],
+    "population": 1322
+  },
+  {
+    "city": "Madras",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97741"
+    ],
+    "population": 7596
+  },
+  {
+    "city": "Malin",
+    "county": "Klamath",
+    "zip_codes": [
+      "97632"
+    ],
+    "population": 739
+  },
+  {
+    "city": "Manzanita",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97130"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Mapleton",
+    "county": "Lane",
+    "zip_codes": [
+      "97453"
+    ],
+    "population": 527
+  },
+  {
+    "city": "Marcola",
+    "county": "Lane",
+    "zip_codes": [
+      "97454",
+      "97478"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Marion",
+    "county": "Marion",
+    "zip_codes": [
+      "97392"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Marlene Village",
+    "county": "Washington",
+    "zip_codes": [
+      "97005",
+      "97006",
+      "97229"
+    ],
+    "population": 5391
+  },
+  {
+    "city": "Maupin",
+    "county": "Wasco",
+    "zip_codes": [
+      "97037"
+    ],
+    "population": 423
+  },
+  {
+    "city": "Maywood Park",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97220"
+    ],
+    "population": 1144
+  },
+  {
+    "city": "McKay",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97868"
+    ],
+    "population": 87
+  },
+  {
+    "city": "McMinnville",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97128"
+    ],
+    "population": 34493
+  },
+  {
+    "city": "Meacham",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97859"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Medford",
+    "county": "Jackson",
+    "zip_codes": [
+      "97501",
+      "97502",
+      "97504"
+    ],
+    "population": 85794
+  },
+  {
+    "city": "Mehama",
+    "county": "Marion",
+    "zip_codes": [
+      "97383",
+      "97384"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Melrose",
+    "county": "Douglas",
+    "zip_codes": [
+      "97471"
+    ],
+    "population": 1150
+  },
+  {
+    "city": "Merlin",
+    "county": "Josephine",
+    "zip_codes": [
+      "97526",
+      "97532"
+    ],
+    "population": 1355
+  },
+  {
+    "city": "Merrill",
+    "county": "Klamath",
+    "zip_codes": [
+      "97633"
+    ],
+    "population": 985
+  },
+  {
+    "city": "Metolius",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97741"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Metzger",
+    "county": "Washington",
+    "zip_codes": [
+      "97223"
+    ],
+    "population": 3926
+  },
+  {
+    "city": "Mill City",
+    "county": "Linn",
+    "zip_codes": [
+      "97360"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Millersburg",
+    "county": "Linn",
+    "zip_codes": [
+      "97321"
+    ],
+    "population": 3096
+  },
+  {
+    "city": "Milton-Freewater",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97862"
+    ],
+    "population": 7096
+  },
+  {
+    "city": "Milwaukie",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97206",
+      "97222"
+    ],
+    "population": 21256
+  },
+  {
+    "city": "Mission",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 938
+  },
+  {
+    "city": "Mitchell",
+    "county": "Wheeler",
+    "zip_codes": [
+      "97750"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Molalla",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97038"
+    ],
+    "population": 10168
+  },
+  {
+    "city": "Monmouth",
+    "county": "Polk",
+    "zip_codes": [
+      "97361"
+    ],
+    "population": 11176
+  },
+  {
+    "city": "Monroe",
+    "county": "Benton",
+    "zip_codes": [
+      "97456"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Monument",
+    "county": "Grant",
+    "zip_codes": [
+      "97864"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Moro",
+    "county": "Sherman",
+    "zip_codes": [
+      "97039"
+    ],
+    "population": 422
+  },
+  {
+    "city": "Mosier",
+    "county": "Wasco",
+    "zip_codes": [
+      "97040"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Mount Angel",
+    "county": "Marion",
+    "zip_codes": [
+      "97362"
+    ],
+    "population": 3405
+  },
+  {
+    "city": "Mount Hood",
+    "county": "Hood River",
+    "zip_codes": [
+      "97041"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Mount Hood Villages",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97011",
+      "97049",
+      "97055",
+      "97067"
+    ],
+    "population": 5139
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Grant",
+    "zip_codes": [
+      "97865"
+    ],
+    "population": 429
+  },
+  {
+    "city": "Mulino",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97013",
+      "97042",
+      "97045"
+    ],
+    "population": 2146
+  },
+  {
+    "city": "Myrtle Creek",
+    "county": "Douglas",
+    "zip_codes": [
+      "97457"
+    ],
+    "population": 3495
+  },
+  {
+    "city": "Myrtle Point",
+    "county": "Coos",
+    "zip_codes": [
+      "97458"
+    ],
+    "population": 2689
+  },
+  {
+    "city": "Neahkahnie",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97130",
+      "97131"
+    ],
+    "population": 300
+  },
+  {
+    "city": "Nehalem",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97131"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Neotsu",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97364",
+      "97368"
+    ],
+    "population": 751
+  },
+  {
+    "city": "Nesika Beach",
+    "county": "Curry",
+    "zip_codes": [
+      "97444"
+    ],
+    "population": 496
+  },
+  {
+    "city": "Neskowin",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97149"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Netarts",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 805
+  },
+  {
+    "city": "New Hope",
+    "county": "Josephine",
+    "zip_codes": [
+      "97527"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "New Pine Creek",
+    "county": "Lake",
+    "zip_codes": [
+      "97635"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Newberg",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97132"
+    ],
+    "population": 25622
+  },
+  {
+    "city": "Newport",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97365",
+      "97366"
+    ],
+    "population": 10393
+  },
+  {
+    "city": "North Bend",
+    "county": "Coos",
+    "zip_codes": [
+      "97459"
+    ],
+    "population": 10231
+  },
+  {
+    "city": "North Plains",
+    "county": "Washington",
+    "zip_codes": [
+      "97133"
+    ],
+    "population": 3393
+  },
+  {
+    "city": "North Powder",
+    "county": "Union",
+    "zip_codes": [
+      "97867"
+    ],
+    "population": 669
+  },
+  {
+    "city": "Nyssa",
+    "county": "Malheur",
+    "zip_codes": [
+      "97913"
+    ],
+    "population": 3220
+  },
+  {
+    "city": "O'Brien",
+    "county": "Josephine",
+    "zip_codes": [
+      "97534"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97222",
+      "97267"
+    ],
+    "population": 17408
+  },
+  {
+    "city": "Oak Hills",
+    "county": "Washington",
+    "zip_codes": [
+      "97006",
+      "97229"
+    ],
+    "population": 11464
+  },
+  {
+    "city": "Oakland",
+    "county": "Douglas",
+    "zip_codes": [
+      "97462"
+    ],
+    "population": 1237
+  },
+  {
+    "city": "Oakridge",
+    "county": "Lane",
+    "zip_codes": [
+      "97463"
+    ],
+    "population": 3197
+  },
+  {
+    "city": "Oatfield",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97015",
+      "97027",
+      "97222",
+      "97267"
+    ],
+    "population": 12709
+  },
+  {
+    "city": "Oceanside",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97134",
+      "97141"
+    ],
+    "population": 423
+  },
+  {
+    "city": "Ochoco West",
+    "county": "Crook",
+    "zip_codes": [
+      "97754"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Odell",
+    "county": "Hood River",
+    "zip_codes": [
+      "97031"
+    ],
+    "population": 2666
+  },
+  {
+    "city": "Ontario",
+    "county": "Malheur",
+    "zip_codes": [
+      "97914"
+    ],
+    "population": 11728
+  },
+  {
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97045"
+    ],
+    "population": 37482
+  },
+  {
+    "city": "Oregon Shores",
+    "county": "Klamath",
+    "zip_codes": [
+      "97624"
+    ],
+    "population": 623
+  },
+  {
+    "city": "Orient",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97080"
+    ],
+    "population": 435
+  },
+  {
+    "city": "Pacific City",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97112",
+      "97135"
+    ],
+    "population": 1638
+  },
+  {
+    "city": "Paisley",
+    "county": "Lake",
+    "zip_codes": [
+      "97636"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Parkdale",
+    "county": "Hood River",
+    "zip_codes": [
+      "97041"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Pendleton",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 17070
+  },
+  {
+    "city": "Peoria",
+    "county": "Linn",
+    "zip_codes": [
+      "97348",
+      "97377"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Philomath",
+    "county": "Benton",
+    "zip_codes": [
+      "97370"
+    ],
+    "population": 5537
+  },
+  {
+    "city": "Phoenix",
+    "county": "Jackson",
+    "zip_codes": [
+      "97535"
+    ],
+    "population": 4383
+  },
+  {
+    "city": "Pilot Rock",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97868"
+    ],
+    "population": 1220
+  },
+  {
+    "city": "Pine Grove",
+    "county": "Wasco",
+    "zip_codes": [
+      "97037"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Pine Hollow",
+    "county": "Wasco",
+    "zip_codes": [
+      "97063"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Pistol River",
+    "county": "Curry",
+    "zip_codes": [
+      "97444"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 589
+  },
+  {
+    "city": "Plush",
+    "county": "Lake",
+    "zip_codes": [
+      "97637"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Port Orford",
+    "county": "Curry",
+    "zip_codes": [
+      "97465"
+    ],
+    "population": 983
+  },
+  {
+    "city": "Portland",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97201",
+      "97202",
+      "97203",
+      "97204",
+      "97205",
+      "97206",
+      "97208",
+      "97209",
+      "97210",
+      "97211",
+      "97212",
+      "97213",
+      "97214",
+      "97215",
+      "97216",
+      "97217",
+      "97218",
+      "97219",
+      "97220",
+      "97221",
+      "97227",
+      "97229",
+      "97230",
+      "97231",
+      "97232",
+      "97233",
+      "97236",
+      "97239",
+      "97258",
+      "97266"
+    ],
+    "population": 642715
+  },
+  {
+    "city": "Powers",
+    "county": "Coos",
+    "zip_codes": [
+      "97466"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Prairie City",
+    "county": "Grant",
+    "zip_codes": [
+      "97869"
+    ],
+    "population": 739
+  },
+  {
+    "city": "Prescott",
+    "county": "Columbia",
+    "zip_codes": [
+      "97048"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Prineville",
+    "county": "Crook",
+    "zip_codes": [
+      "97753",
+      "97754"
+    ],
+    "population": 11187
+  },
+  {
+    "city": "Prineville Lake Acres",
+    "county": "Crook",
+    "zip_codes": [
+      "97754"
+    ],
+    "population": 1589
+  },
+  {
+    "city": "Pronghorn",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97701"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Prospect",
+    "county": "Jackson",
+    "zip_codes": [
+      "97536"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Rainier",
+    "county": "Columbia",
+    "zip_codes": [
+      "97048"
+    ],
+    "population": 1859
+  },
+  {
+    "city": "Raleigh Hills",
+    "county": "Washington",
+    "zip_codes": [
+      "97223",
+      "97225"
+    ],
+    "population": 6669
+  },
+  {
+    "city": "Redmond",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97756"
+    ],
+    "population": 35161
+  },
+  {
+    "city": "Redwood",
+    "county": "Josephine",
+    "zip_codes": [
+      "97527"
+    ],
+    "population": 3150
+  },
+  {
+    "city": "Reedsport",
+    "county": "Douglas",
+    "zip_codes": [
+      "97467"
+    ],
+    "population": 4317
+  },
+  {
+    "city": "Rhododendron",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97049"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Richland",
+    "county": "Baker",
+    "zip_codes": [
+      "97870"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Rickreall",
+    "county": "Polk",
+    "zip_codes": [
+      "97338",
+      "97371"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Riddle",
+    "county": "Douglas",
+    "zip_codes": [
+      "97469"
+    ],
+    "population": 1161
+  },
+  {
+    "city": "River Point",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97103"
+    ],
+    "population": 308
+  },
+  {
+    "city": "River Road",
+    "county": "Lane",
+    "zip_codes": [
+      "97404"
+    ],
+    "population": 8462
+  },
+  {
+    "city": "Rivergrove",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97035"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Riverside",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Rockaway Beach",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97136"
+    ],
+    "population": 1577
+  },
+  {
+    "city": "Rockcreek",
+    "county": "Washington",
+    "zip_codes": [
+      "97229"
+    ],
+    "population": 9463
+  },
+  {
+    "city": "Rocky Point",
+    "county": "Klamath",
+    "zip_codes": [
+      "97601"
+    ],
+    "population": 326
+  },
+  {
+    "city": "Rogue River",
+    "county": "Jackson",
+    "zip_codes": [
+      "97525",
+      "97526",
+      "97527",
+      "97537"
+    ],
+    "population": 2092
+  },
+  {
+    "city": "Rose Lodge",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97368"
+    ],
+    "population": 1186
+  },
+  {
+    "city": "Roseburg",
+    "county": "Douglas",
+    "zip_codes": [
+      "97470",
+      "97471"
+    ],
+    "population": 23773
+  },
+  {
+    "city": "Roseburg North",
+    "county": "Douglas",
+    "zip_codes": [
+      "97470",
+      "97495"
+    ],
+    "population": 4400
+  },
+  {
+    "city": "Rowena",
+    "county": "Wasco",
+    "zip_codes": [
+      "97058"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Ruch",
+    "county": "Jackson",
+    "zip_codes": [
+      "97530"
+    ],
+    "population": 1475
+  },
+  {
+    "city": "Rufus",
+    "county": "Sherman",
+    "zip_codes": [
+      "97050"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Running Y Ranch",
+    "county": "Klamath",
+    "zip_codes": [
+      "97601"
+    ],
+    "population": 841
+  },
+  {
+    "city": "Salem",
+    "county": "Marion",
+    "zip_codes": [
+      "97301",
+      "97302",
+      "97304",
+      "97305",
+      "97306",
+      "97310",
+      "97317"
+    ],
+    "population": 176666
+  },
+  {
+    "city": "San Marine",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97498"
+    ],
+    "population": 611
+  },
+  {
+    "city": "Sandy",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97009",
+      "97055"
+    ],
+    "population": 12738
+  },
+  {
+    "city": "Santa Clara",
+    "county": "Lane",
+    "zip_codes": [
+      "97402",
+      "97404",
+      "97448"
+    ],
+    "population": 10623
+  },
+  {
+    "city": "Saunders Lake",
+    "county": "Coos",
+    "zip_codes": [
+      "97459"
+    ],
+    "population": 1495
+  },
+  {
+    "city": "Scappoose",
+    "county": "Columbia",
+    "zip_codes": [
+      "97056"
+    ],
+    "population": 8099
+  },
+  {
+    "city": "Scio",
+    "county": "Linn",
+    "zip_codes": [
+      "97374"
+    ],
+    "population": 1075
+  },
+  {
+    "city": "Scotts Mills",
+    "county": "Marion",
+    "zip_codes": [
+      "97375"
+    ],
+    "population": 376
+  },
+  {
+    "city": "Seaside",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97138"
+    ],
+    "population": 7210
+  },
+  {
+    "city": "Selma",
+    "county": "Josephine",
+    "zip_codes": [
+      "97538"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Seneca",
+    "county": "Grant",
+    "zip_codes": [
+      "97873"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Seventh Mountain",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97702"
+    ],
+    "population": 530
+  },
+  {
+    "city": "Shady Cove",
+    "county": "Jackson",
+    "zip_codes": [
+      "97539"
+    ],
+    "population": 3083
+  },
+  {
+    "city": "Shaniko",
+    "county": "Wasco",
+    "zip_codes": [
+      "97037",
+      "97057"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Shedd",
+    "county": "Linn",
+    "zip_codes": [
+      "97377"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Sheridan",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97378"
+    ],
+    "population": 6462
+  },
+  {
+    "city": "Sherwood",
+    "county": "Washington",
+    "zip_codes": [
+      "97140"
+    ],
+    "population": 20227
+  },
+  {
+    "city": "Siletz",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97380"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Lake",
+    "zip_codes": [
+      "97638"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Silverton",
+    "county": "Marion",
+    "zip_codes": [
+      "97381"
+    ],
+    "population": 10445
+  },
+  {
+    "city": "Sisters",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97759"
+    ],
+    "population": 3018
+  },
+  {
+    "city": "Sodaville",
+    "county": "Linn",
+    "zip_codes": [
+      "97355"
+    ],
+    "population": 363
+  },
+  {
+    "city": "South Lebanon",
+    "county": "Linn",
+    "zip_codes": [
+      "97355"
+    ],
+    "population": 1044
+  },
+  {
+    "city": "Sportsmans Park",
+    "county": "Wasco",
+    "zip_codes": [
+      "97063"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Sprague River",
+    "county": "Klamath",
+    "zip_codes": [
+      "97624",
+      "97639"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Spray",
+    "county": "Wheeler",
+    "zip_codes": [
+      "97874"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Springfield",
+    "county": "Lane",
+    "zip_codes": [
+      "97403",
+      "97477",
+      "97478"
+    ],
+    "population": 61642
+  },
+  {
+    "city": "St. Helens",
+    "county": "Columbia",
+    "zip_codes": [
+      "97051",
+      "97053"
+    ],
+    "population": 14152
+  },
+  {
+    "city": "St. Paul",
+    "county": "Marion",
+    "zip_codes": [
+      "97137"
+    ],
+    "population": 450
+  },
+  {
+    "city": "Stafford",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97034",
+      "97062",
+      "97068"
+    ],
+    "population": 1572
+  },
+  {
+    "city": "Stanfield",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97875"
+    ],
+    "population": 1956
+  },
+  {
+    "city": "Stayton",
+    "county": "Marion",
+    "zip_codes": [
+      "97383",
+      "97385"
+    ],
+    "population": 8223
+  },
+  {
+    "city": "Sublimity",
+    "county": "Marion",
+    "zip_codes": [
+      "97385"
+    ],
+    "population": 2951
+  },
+  {
+    "city": "Summerville",
+    "county": "Union",
+    "zip_codes": [
+      "97876"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Summit",
+    "county": "Benton",
+    "zip_codes": [
+      "97326"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Sumpter",
+    "county": "Baker",
+    "zip_codes": [
+      "97877"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Sunriver",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97707"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Sutherlin",
+    "county": "Douglas",
+    "zip_codes": [
+      "97462",
+      "97479"
+    ],
+    "population": 8574
+  },
+  {
+    "city": "Svensen",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97103"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Sweet Home",
+    "county": "Linn",
+    "zip_codes": [
+      "97345",
+      "97386"
+    ],
+    "population": 9977
+  },
+  {
+    "city": "Takilma",
+    "county": "Josephine",
+    "zip_codes": [
+      "97523"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Talent",
+    "county": "Jackson",
+    "zip_codes": [
+      "97540"
+    ],
+    "population": 6271
+  },
+  {
+    "city": "Tangent",
+    "county": "Linn",
+    "zip_codes": [
+      "97389"
+    ],
+    "population": 1303
+  },
+  {
+    "city": "Terrebonne",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97760"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Tetherow",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97702"
+    ],
+    "population": 750
+  },
+  {
+    "city": "The Dalles",
+    "county": "Wasco",
+    "zip_codes": [
+      "97058"
+    ],
+    "population": 15973
+  },
+  {
+    "city": "Three Rivers",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97707"
+    ],
+    "population": 3966
+  },
+  {
+    "city": "Tigard",
+    "county": "Washington",
+    "zip_codes": [
+      "97007",
+      "97223",
+      "97224"
+    ],
+    "population": 55395
+  },
+  {
+    "city": "Tillamook",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97141"
+    ],
+    "population": 5229
+  },
+  {
+    "city": "Toledo",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97391"
+    ],
+    "population": 3547
+  },
+  {
+    "city": "Trail",
+    "county": "Jackson",
+    "zip_codes": [
+      "97539",
+      "97541"
+    ],
+    "population": 652
+  },
+  {
+    "city": "Trent",
+    "county": "Lane",
+    "zip_codes": [
+      "97431"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Tri-City",
+    "county": "Douglas",
+    "zip_codes": [
+      "97457"
+    ],
+    "population": 4362
+  },
+  {
+    "city": "Troutdale",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97030",
+      "97060"
+    ],
+    "population": 16000
+  },
+  {
+    "city": "Tualatin",
+    "county": "Washington",
+    "zip_codes": [
+      "97035",
+      "97062",
+      "97224"
+    ],
+    "population": 27710
+  },
+  {
+    "city": "Tumalo",
+    "county": "Deschutes",
+    "zip_codes": [
+      "97703"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Turner",
+    "county": "Marion",
+    "zip_codes": [
+      "97392"
+    ],
+    "population": 3107
+  },
+  {
+    "city": "Tutuilla",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97801"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Tygh Valley",
+    "county": "Wasco",
+    "zip_codes": [
+      "97063"
+    ],
+    "population": 133
+  },
+  {
+    "city": "Ukiah",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97880"
+    ],
+    "population": 294
+  },
+  {
+    "city": "Umapine",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97862"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Umatilla",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97838",
+      "97882"
+    ],
+    "population": 7531
+  },
+  {
+    "city": "Union",
+    "county": "Union",
+    "zip_codes": [
+      "97883"
+    ],
+    "population": 2401
+  },
+  {
+    "city": "Unity",
+    "county": "Baker",
+    "zip_codes": [
+      "97884"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Vale",
+    "county": "Malheur",
+    "zip_codes": [
+      "97918"
+    ],
+    "population": 2259
+  },
+  {
+    "city": "Veneta",
+    "county": "Lane",
+    "zip_codes": [
+      "97487"
+    ],
+    "population": 5191
+  },
+  {
+    "city": "Vernonia",
+    "county": "Columbia",
+    "zip_codes": [
+      "97064"
+    ],
+    "population": 2716
+  },
+  {
+    "city": "Waldport",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97394"
+    ],
+    "population": 2025
+  },
+  {
+    "city": "Wallowa",
+    "county": "Wallowa",
+    "zip_codes": [
+      "97885"
+    ],
+    "population": 609
+  },
+  {
+    "city": "Wallowa Lake",
+    "county": "Wallowa",
+    "zip_codes": [
+      "97846"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Wamic",
+    "county": "Wasco",
+    "zip_codes": [
+      "97063"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Warm Springs",
+    "county": "Jefferson",
+    "zip_codes": [
+      "97761"
+    ],
+    "population": 2446
+  },
+  {
+    "city": "Warren",
+    "county": "Columbia",
+    "zip_codes": [
+      "97053",
+      "97056"
+    ],
+    "population": 1459
+  },
+  {
+    "city": "Warrenton",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97121",
+      "97146"
+    ],
+    "population": 6297
+  },
+  {
+    "city": "Wasco",
+    "county": "Sherman",
+    "zip_codes": [
+      "97065"
+    ],
+    "population": 523
+  },
+  {
+    "city": "Waterloo",
+    "county": "Linn",
+    "zip_codes": [
+      "97355"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Wedderburn",
+    "county": "Curry",
+    "zip_codes": [
+      "97444"
+    ],
+    "population": 261
+  },
+  {
+    "city": "West Haven-Sylvan",
+    "county": "Washington",
+    "zip_codes": [
+      "97221",
+      "97225",
+      "97229"
+    ],
+    "population": 8265
+  },
+  {
+    "city": "West Linn",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97068"
+    ],
+    "population": 27065
+  },
+  {
+    "city": "West Scio",
+    "county": "Linn",
+    "zip_codes": [
+      "97374"
+    ],
+    "population": 51
+  },
+  {
+    "city": "West Slope",
+    "county": "Washington",
+    "zip_codes": [
+      "97005",
+      "97225"
+    ],
+    "population": 6985
+  },
+  {
+    "city": "Westfir",
+    "county": "Lane",
+    "zip_codes": [
+      "97492"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Weston",
+    "county": "Umatilla",
+    "zip_codes": [
+      "97886"
+    ],
+    "population": 445
+  },
+  {
+    "city": "Westport",
+    "county": "Clatsop",
+    "zip_codes": [
+      "97016"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Wheeler",
+    "county": "Tillamook",
+    "zip_codes": [
+      "97131",
+      "97147"
+    ],
+    "population": 469
+  },
+  {
+    "city": "White City",
+    "county": "Jackson",
+    "zip_codes": [
+      "97503"
+    ],
+    "population": 10913
+  },
+  {
+    "city": "Willamina",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97378",
+      "97396"
+    ],
+    "population": 2216
+  },
+  {
+    "city": "Williams",
+    "county": "Josephine",
+    "zip_codes": [
+      "97544"
+    ],
+    "population": 1030
+  },
+  {
+    "city": "Wilsonville",
+    "county": "Clackamas",
+    "zip_codes": [
+      "97070",
+      "97140"
+    ],
+    "population": 26183
+  },
+  {
+    "city": "Wimer",
+    "county": "Jackson",
+    "zip_codes": [
+      "97537"
+    ],
+    "population": 449
+  },
+  {
+    "city": "Winchester Bay",
+    "county": "Douglas",
+    "zip_codes": [
+      "97467"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Winston",
+    "county": "Douglas",
+    "zip_codes": [
+      "97496"
+    ],
+    "population": 5663
+  },
+  {
+    "city": "Wood Village",
+    "county": "Multnomah",
+    "zip_codes": [
+      "97060"
+    ],
+    "population": 4611
+  },
+  {
+    "city": "Woodburn",
+    "county": "Marion",
+    "zip_codes": [
+      "97071"
+    ],
+    "population": 26845
+  },
+  {
+    "city": "Yachats",
+    "county": "Lincoln",
+    "zip_codes": [
+      "97498"
+    ],
+    "population": 881
+  },
+  {
+    "city": "Yamhill",
+    "county": "Yamhill",
+    "zip_codes": [
+      "97148"
+    ],
+    "population": 1179
+  },
+  {
+    "city": "Yoncalla",
+    "county": "Douglas",
+    "zip_codes": [
+      "97499"
+    ],
+    "population": 1106
+  }
+]

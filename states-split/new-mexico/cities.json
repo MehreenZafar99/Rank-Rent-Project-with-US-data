@@ -1,0 +1,4381 @@
+[
+  {
+    "city": "Abeytas",
+    "county": "Socorro",
+    "zip_codes": [
+      "87006"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Abiquiu",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87510",
+      "87537"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Acomita Lake",
+    "county": "Cibola",
+    "zip_codes": [
+      "87034",
+      "87049"
+    ],
+    "population": 649
+  },
+  {
+    "city": "Adelino",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 892
+  },
+  {
+    "city": "Agua Fria",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87507"
+    ],
+    "population": 2842
+  },
+  {
+    "city": "Alamillo",
+    "county": "Socorro",
+    "zip_codes": [
+      "87831"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Alamo",
+    "county": "Socorro",
+    "zip_codes": [
+      "87825"
+    ],
+    "population": 1242
+  },
+  {
+    "city": "Alamogordo",
+    "county": "Otero",
+    "zip_codes": [
+      "88310"
+    ],
+    "population": 31063
+  },
+  {
+    "city": "Albuquerque",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87101",
+      "87102",
+      "87104",
+      "87105",
+      "87106",
+      "87107",
+      "87108",
+      "87109",
+      "87110",
+      "87111",
+      "87112",
+      "87113",
+      "87114",
+      "87116",
+      "87120",
+      "87121",
+      "87122",
+      "87123"
+    ],
+    "population": 562488
+  },
+  {
+    "city": "Alcalde",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87511"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Algodones",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87001",
+      "87004"
+    ],
+    "population": 1198
+  },
+  {
+    "city": "Alma",
+    "county": "Catron",
+    "zip_codes": [
+      "88039"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Angel Fire",
+    "county": "Colfax",
+    "zip_codes": [
+      "87710"
+    ],
+    "population": 1089
+  },
+  {
+    "city": "Angustura",
+    "county": "San Juan",
+    "zip_codes": [
+      "87413"
+    ],
+    "population": 2024
+  },
+  {
+    "city": "Animas",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88020"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Anthony",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88021"
+    ],
+    "population": 8701
+  },
+  {
+    "city": "Anton Chico",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "87711"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Anzac Village",
+    "county": "Cibola",
+    "zip_codes": [
+      "87034"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Apache Creek",
+    "county": "Catron",
+    "zip_codes": [
+      "87820",
+      "87830"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Aragon",
+    "county": "Catron",
+    "zip_codes": [
+      "87820",
+      "87821"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Arenas Valley",
+    "county": "Grant",
+    "zip_codes": [
+      "88022",
+      "88061"
+    ],
+    "population": 915
+  },
+  {
+    "city": "Arrey",
+    "county": "Sierra",
+    "zip_codes": [
+      "87930"
+    ],
+    "population": 429
+  },
+  {
+    "city": "Arroyo Hondo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Arroyo Hondo",
+    "county": "Taos",
+    "zip_codes": [
+      "87513"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Arroyo Seco",
+    "county": "Taos",
+    "zip_codes": [
+      "87514",
+      "87529"
+    ],
+    "population": 2107
+  },
+  {
+    "city": "Artesia",
+    "county": "Eddy",
+    "zip_codes": [
+      "88210"
+    ],
+    "population": 12555
+  },
+  {
+    "city": "Atoka",
+    "county": "Eddy",
+    "zip_codes": [
+      "88210"
+    ],
+    "population": 1038
+  },
+  {
+    "city": "Aztec",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410",
+      "87413"
+    ],
+    "population": 6177
+  },
+  {
+    "city": "Barton",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87015",
+      "87059"
+    ],
+    "population": 1601
+  },
+  {
+    "city": "Bayard",
+    "county": "Grant",
+    "zip_codes": [
+      "88023",
+      "88043"
+    ],
+    "population": 2370
+  },
+  {
+    "city": "Becenti",
+    "county": "McKinley",
+    "zip_codes": [
+      "87313"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Beclabito",
+    "county": "San Juan",
+    "zip_codes": [
+      "87420"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Belen",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002",
+      "87031"
+    ],
+    "population": 7427
+  },
+  {
+    "city": "Bent",
+    "county": "Otero",
+    "zip_codes": [
+      "88314"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Berino",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88021",
+      "88024",
+      "88048"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Bernalillo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87004",
+      "87043",
+      "87144"
+    ],
+    "population": 9068
+  },
+  {
+    "city": "Bibo",
+    "county": "Cibola",
+    "zip_codes": [
+      "87014"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Black Hat",
+    "county": "McKinley",
+    "zip_codes": [
+      "86515"
+    ],
+    "population": 1
+  },
+  {
+    "city": "Black Rock",
+    "county": "McKinley",
+    "zip_codes": [
+      "87327"
+    ],
+    "population": 1108
+  },
+  {
+    "city": "Blanco",
+    "county": "San Juan",
+    "zip_codes": [
+      "87412",
+      "87413"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Bloomfield",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410",
+      "87413"
+    ],
+    "population": 7391
+  },
+  {
+    "city": "Bluewater",
+    "county": "McKinley",
+    "zip_codes": [
+      "87323"
+    ],
+    "population": 241
+  },
+  {
+    "city": "Bluewater Village",
+    "county": "Cibola",
+    "zip_codes": [
+      "87005",
+      "87020"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Boles Acres",
+    "county": "Otero",
+    "zip_codes": [
+      "88310",
+      "88311"
+    ],
+    "population": 1967
+  },
+  {
+    "city": "Borrego Pass",
+    "county": "McKinley",
+    "zip_codes": [
+      "87045",
+      "87323"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Bosque Farms",
+    "county": "Valencia",
+    "zip_codes": [
+      "87068"
+    ],
+    "population": 4042
+  },
+  {
+    "city": "Brazos",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87551"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Brimhall Nizhoni",
+    "county": "McKinley",
+    "zip_codes": [
+      "87310"
+    ],
+    "population": 497
+  },
+  {
+    "city": "Broadview",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020",
+      "87021"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Buckhorn",
+    "county": "Grant",
+    "zip_codes": [
+      "88025"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Butterfield Park",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88011"
+    ],
+    "population": 826
+  },
+  {
+    "city": "CaÃƒÂ±ada de los Alamos",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87505"
+    ],
+    "population": 487
+  },
+  {
+    "city": "CaÃƒÂ±on",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87024"
+    ],
+    "population": 424
+  },
+  {
+    "city": "CaÃƒÂ±oncito",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87505",
+      "87508"
+    ],
+    "population": 946
+  },
+  {
+    "city": "CaÃƒÂ±ones",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87516"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Caballo",
+    "county": "Sierra",
+    "zip_codes": [
+      "87931"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Candy Kitchen",
+    "county": "Cibola",
+    "zip_codes": [
+      "87321"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Canjilon",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87515"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Cannon AFB",
+    "county": "Curry",
+    "zip_codes": [
+      "88101",
+      "88103"
+    ],
+    "population": 2876
+  },
+  {
+    "city": "Canova",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87582"
+    ],
+    "population": 454
+  },
+  {
+    "city": "Capitan",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88316"
+    ],
+    "population": 1262
+  },
+  {
+    "city": "Capulin",
+    "county": "Union",
+    "zip_codes": [
+      "88414",
+      "88418"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Carlsbad",
+    "county": "Eddy",
+    "zip_codes": [
+      "88220"
+    ],
+    "population": 31813
+  },
+  {
+    "city": "Carnuel",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87123"
+    ],
+    "population": 842
+  },
+  {
+    "city": "Carrizozo",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88301"
+    ],
+    "population": 959
+  },
+  {
+    "city": "Casa Colorada",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Casas Adobes",
+    "county": "Grant",
+    "zip_codes": [
+      "88041",
+      "88049"
+    ],
+    "population": 133
+  },
+  {
+    "city": "Catalpa Canyon",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87305"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Causey",
+    "county": "Roosevelt",
+    "zip_codes": [
+      "88113",
+      "88132"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Cedar Crest",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87008",
+      "87059"
+    ],
+    "population": 746
+  },
+  {
+    "city": "Cedar Grove",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87015",
+      "87056"
+    ],
+    "population": 849
+  },
+  {
+    "city": "Cedar Hill",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410"
+    ],
+    "population": 835
+  },
+  {
+    "city": "Cedro",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87059"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Center Point",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410"
+    ],
+    "population": 2366
+  },
+  {
+    "city": "Chama",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87520"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Chamberino",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88021",
+      "88027"
+    ],
+    "population": 601
+  },
+  {
+    "city": "Chamisal",
+    "county": "Taos",
+    "zip_codes": [
+      "87521"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Chamita",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87566"
+    ],
+    "population": 829
+  },
+  {
+    "city": "Chamizal",
+    "county": "Socorro",
+    "zip_codes": [
+      "87828"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Chaparral",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88081"
+    ],
+    "population": 16642
+  },
+  {
+    "city": "Chical",
+    "county": "Valencia",
+    "zip_codes": [
+      "87068"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Chili",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87537"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Chilili",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87059"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Chimayo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87522"
+    ],
+    "population": 2726
+  },
+  {
+    "city": "Chupadero",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Church Rock",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87311"
+    ],
+    "population": 1413
+  },
+  {
+    "city": "Cimarron",
+    "county": "Colfax",
+    "zip_codes": [
+      "87714"
+    ],
+    "population": 717
+  },
+  {
+    "city": "City of the Sun",
+    "county": "Luna",
+    "zip_codes": [
+      "88029"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Clayton",
+    "county": "Union",
+    "zip_codes": [
+      "88415"
+    ],
+    "population": 2680
+  },
+  {
+    "city": "Cliff",
+    "county": "Grant",
+    "zip_codes": [
+      "88028"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Cloudcroft",
+    "county": "Otero",
+    "zip_codes": [
+      "88317"
+    ],
+    "population": 1275
+  },
+  {
+    "city": "Clovis",
+    "county": "Curry",
+    "zip_codes": [
+      "88101"
+    ],
+    "population": 38153
+  },
+  {
+    "city": "Cobre",
+    "county": "Grant",
+    "zip_codes": [
+      "88023"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Cochiti",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87072"
+    ],
+    "population": 481
+  },
+  {
+    "city": "Cochiti Lake",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87083"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Columbus",
+    "county": "Luna",
+    "zip_codes": [
+      "88029"
+    ],
+    "population": 1147
+  },
+  {
+    "city": "Conchas Dam",
+    "county": "San Miguel",
+    "zip_codes": [
+      "88416"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Conejo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Continental Divide",
+    "county": "McKinley",
+    "zip_codes": [
+      "87312"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Cordova",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87523"
+    ],
+    "population": 418
+  },
+  {
+    "city": "Corona",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88318"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Corrales",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87048"
+    ],
+    "population": 8557
+  },
+  {
+    "city": "Costilla",
+    "county": "Taos",
+    "zip_codes": [
+      "87524"
+    ],
+    "population": 498
+  },
+  {
+    "city": "Cotton City",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88020"
+    ],
+    "population": 236
+  },
+  {
+    "city": "Coyote",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87012",
+      "87064"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Crestview",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87319"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Crouch Mesa",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87410"
+    ],
+    "population": 4419
+  },
+  {
+    "city": "Crownpoint",
+    "county": "McKinley",
+    "zip_codes": [
+      "87313"
+    ],
+    "population": 2924
+  },
+  {
+    "city": "Cruzville",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Crystal",
+    "county": "San Juan",
+    "zip_codes": [
+      "87328"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Cuartelez",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87567"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Cuba",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87013"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Cubero",
+    "county": "Cibola",
+    "zip_codes": [
+      "87014"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Cundiyo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87522"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Cuyamungue",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Cuyamungue Grant",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 331
+  },
+  {
+    "city": "Datil",
+    "county": "Catron",
+    "zip_codes": [
+      "87821"
+    ],
+    "population": 16
+  },
+  {
+    "city": "Deer Canyon",
+    "county": "Torrance",
+    "zip_codes": [
+      "87036"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Deming",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 14735
+  },
+  {
+    "city": "Des Moines",
+    "county": "Union",
+    "zip_codes": [
+      "88418"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Dexter",
+    "county": "Chaves",
+    "zip_codes": [
+      "88230"
+    ],
+    "population": 1144
+  },
+  {
+    "city": "Dixon",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87527",
+      "87531"
+    ],
+    "population": 1551
+  },
+  {
+    "city": "DoÃƒÂ±a Ana",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88007"
+    ],
+    "population": 1154
+  },
+  {
+    "city": "Dora",
+    "county": "Roosevelt",
+    "zip_codes": [
+      "88115",
+      "88130"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Dulce",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87528"
+    ],
+    "population": 2782
+  },
+  {
+    "city": "Duran",
+    "county": "Torrance",
+    "zip_codes": [
+      "88318"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Eagle Nest",
+    "county": "Colfax",
+    "zip_codes": [
+      "87718"
+    ],
+    "population": 270
+  },
+  {
+    "city": "East Pecos",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87552"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Edgewood",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87015",
+      "87047"
+    ],
+    "population": 6122
+  },
+  {
+    "city": "Edith Enclave",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87113"
+    ],
+    "population": 203
+  },
+  {
+    "city": "El Cerro",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 3093
+  },
+  {
+    "city": "El Cerro Mission",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 5101
+  },
+  {
+    "city": "El Duende",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87537"
+    ],
+    "population": 730
+  },
+  {
+    "city": "El Morro Valley",
+    "county": "Cibola",
+    "zip_codes": [
+      "87321"
+    ],
+    "population": 49
+  },
+  {
+    "city": "El Rancho",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "El Rito",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87530"
+    ],
+    "population": 961
+  },
+  {
+    "city": "El Valle de Arroyo Seco",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87532"
+    ],
+    "population": 1602
+  },
+  {
+    "city": "Eldorado at Santa Fe",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508",
+      "87540"
+    ],
+    "population": 5746
+  },
+  {
+    "city": "Elephant Butte",
+    "county": "Sierra",
+    "zip_codes": [
+      "87901",
+      "87935"
+    ],
+    "population": 1586
+  },
+  {
+    "city": "Elida",
+    "county": "Roosevelt",
+    "zip_codes": [
+      "88116"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Encantado",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Encinal",
+    "county": "Cibola",
+    "zip_codes": [
+      "87007",
+      "87038"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Encino",
+    "county": "Torrance",
+    "zip_codes": [
+      "88321"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Ensenada",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87575"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Escondida",
+    "county": "Socorro",
+    "zip_codes": [
+      "87801"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Escudilla Bonita",
+    "county": "Catron",
+    "zip_codes": [
+      "87829"
+    ],
+    "population": 53
+  },
+  {
+    "city": "EspaÃƒÂ±ola",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87532",
+      "87567"
+    ],
+    "population": 10472
+  },
+  {
+    "city": "Estancia",
+    "county": "Torrance",
+    "zip_codes": [
+      "87016"
+    ],
+    "population": 1399
+  },
+  {
+    "city": "Eunice",
+    "county": "Lea",
+    "zip_codes": [
+      "88231"
+    ],
+    "population": 2989
+  },
+  {
+    "city": "Fairacres",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88005",
+      "88007"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Farmington",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87402",
+      "87415"
+    ],
+    "population": 46339
+  },
+  {
+    "city": "Faywood",
+    "county": "Grant",
+    "zip_codes": [
+      "88034"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fence Lake",
+    "county": "Cibola",
+    "zip_codes": [
+      "87315"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Flora Vista",
+    "county": "San Juan",
+    "zip_codes": [
+      "87402",
+      "87410",
+      "87415"
+    ],
+    "population": 2215
+  },
+  {
+    "city": "Floyd",
+    "county": "Roosevelt",
+    "zip_codes": [
+      "88118",
+      "88130"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Folsom",
+    "county": "Union",
+    "zip_codes": [
+      "88419"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Fort Sumner",
+    "county": "De Baca",
+    "zip_codes": [
+      "88119"
+    ],
+    "population": 958
+  },
+  {
+    "city": "Fort Wingate",
+    "county": "McKinley",
+    "zip_codes": [
+      "87316"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Fruitland",
+    "county": "San Juan",
+    "zip_codes": [
+      "87416",
+      "87417"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Galisteo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87540"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Gallina",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87017"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Gallup",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87311",
+      "87322"
+    ],
+    "population": 21333
+  },
+  {
+    "city": "Gamerco",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87317"
+    ],
+    "population": 1583
+  },
+  {
+    "city": "Garfield",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87936"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Gila",
+    "county": "Grant",
+    "zip_codes": [
+      "88028",
+      "88038"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Gila Hot Springs",
+    "county": "Grant",
+    "zip_codes": [
+      "88049"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Glen Acres",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88045"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Glenwood",
+    "county": "Catron",
+    "zip_codes": [
+      "88039"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Glorieta",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87535"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Golden",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87047"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Golden Acres",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Grady",
+    "county": "Curry",
+    "zip_codes": [
+      "88120"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Grants",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020",
+      "87021"
+    ],
+    "population": 9106
+  },
+  {
+    "city": "Grenville",
+    "county": "Union",
+    "zip_codes": [
+      "88424"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Hachita",
+    "county": "Grant",
+    "zip_codes": [
+      "88040"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Hagerman",
+    "county": "Chaves",
+    "zip_codes": [
+      "88232"
+    ],
+    "population": 599
+  },
+  {
+    "city": "Hanover",
+    "county": "Grant",
+    "zip_codes": [
+      "88041"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Happy Valley",
+    "county": "Eddy",
+    "zip_codes": [
+      "88220"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Hatch",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87937",
+      "87940",
+      "87941"
+    ],
+    "population": 1663
+  },
+  {
+    "city": "Haystack",
+    "county": "McKinley",
+    "zip_codes": [
+      "87045"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Hernandez",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87537"
+    ],
+    "population": 802
+  },
+  {
+    "city": "High Rolls",
+    "county": "Otero",
+    "zip_codes": [
+      "88325"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Highland Meadows",
+    "county": "Valencia",
+    "zip_codes": [
+      "87026"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Sierra",
+    "zip_codes": [
+      "88042"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Hobbs",
+    "county": "Lea",
+    "zip_codes": [
+      "88240",
+      "88242",
+      "88244"
+    ],
+    "population": 39887
+  },
+  {
+    "city": "Holloman AFB",
+    "county": "Otero",
+    "zip_codes": [
+      "88330"
+    ],
+    "population": 4052
+  },
+  {
+    "city": "Homer C Jones",
+    "county": "McKinley",
+    "zip_codes": [
+      "87045"
+    ],
+    "population": 480
+  },
+  {
+    "city": "Homestead",
+    "county": "Catron",
+    "zip_codes": [
+      "87821"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Hope",
+    "county": "Eddy",
+    "zip_codes": [
+      "88250"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Hot Springs Landing",
+    "county": "Sierra",
+    "zip_codes": [
+      "87935"
+    ],
+    "population": 60
+  },
+  {
+    "city": "House",
+    "county": "Quay",
+    "zip_codes": [
+      "88121"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Hurley",
+    "county": "Grant",
+    "zip_codes": [
+      "88043"
+    ],
+    "population": 1137
+  },
+  {
+    "city": "Hyde Park",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87501"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Indian Hills",
+    "county": "Torrance",
+    "zip_codes": [
+      "87035"
+    ],
+    "population": 778
+  },
+  {
+    "city": "Isleta",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87022",
+      "87105"
+    ],
+    "population": 909
+  },
+  {
+    "city": "Iyanbito",
+    "county": "McKinley",
+    "zip_codes": [
+      "87311",
+      "87316"
+    ],
+    "population": 1213
+  },
+  {
+    "city": "Jacona",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Jaconita",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Jal",
+    "county": "Lea",
+    "zip_codes": [
+      "88252"
+    ],
+    "population": 2069
+  },
+  {
+    "city": "Jamestown",
+    "county": "McKinley",
+    "zip_codes": [
+      "87347"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Jarales",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002",
+      "87023"
+    ],
+    "population": 1939
+  },
+  {
+    "city": "Jemez Pueblo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87024"
+    ],
+    "population": 2273
+  },
+  {
+    "city": "Jemez Springs",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87025"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Keeler Farm",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 1450
+  },
+  {
+    "city": "Kingston",
+    "county": "Sierra",
+    "zip_codes": [
+      "88042"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Kirtland",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87417"
+    ],
+    "population": 575
+  },
+  {
+    "city": "Kirtland AFB",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87116"
+    ],
+    "population": 3421
+  },
+  {
+    "city": "La Bajada",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87507"
+    ],
+    "population": 15
+  },
+  {
+    "city": "La Boca",
+    "county": "San Juan",
+    "zip_codes": [
+      "87419"
+    ],
+    "population": 79
+  },
+  {
+    "city": "La Cienega",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87507"
+    ],
+    "population": 3780
+  },
+  {
+    "city": "La Cueva",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87025"
+    ],
+    "population": 82
+  },
+  {
+    "city": "La Cueva",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87535"
+    ],
+    "population": 724
+  },
+  {
+    "city": "La Hacienda",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 799
+  },
+  {
+    "city": "La Huerta",
+    "county": "Eddy",
+    "zip_codes": [
+      "88220"
+    ],
+    "population": 1673
+  },
+  {
+    "city": "La Jara",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87013",
+      "87027"
+    ],
+    "population": 163
+  },
+  {
+    "city": "La Joya",
+    "county": "Socorro",
+    "zip_codes": [
+      "87028"
+    ],
+    "population": 139
+  },
+  {
+    "city": "La Luz",
+    "county": "Otero",
+    "zip_codes": [
+      "88310",
+      "88337"
+    ],
+    "population": 1683
+  },
+  {
+    "city": "La Madera",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87539"
+    ],
+    "population": 168
+  },
+  {
+    "city": "La Madera",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87047"
+    ],
+    "population": 459
+  },
+  {
+    "city": "La Mesa",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88044"
+    ],
+    "population": 548
+  },
+  {
+    "city": "La Mesilla",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87532"
+    ],
+    "population": 2531
+  },
+  {
+    "city": "La Plata",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87418"
+    ],
+    "population": 2185
+  },
+  {
+    "city": "La Puebla",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87532",
+      "87567"
+    ],
+    "population": 844
+  },
+  {
+    "city": "La Tierra",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 329
+  },
+  {
+    "city": "La Union",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88021"
+    ],
+    "population": 917
+  },
+  {
+    "city": "La Villita",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87511"
+    ],
+    "population": 1440
+  },
+  {
+    "city": "Laguna",
+    "county": "Cibola",
+    "zip_codes": [
+      "87026",
+      "87038"
+    ],
+    "population": 786
+  },
+  {
+    "city": "Lake Arthur",
+    "county": "Chaves",
+    "zip_codes": [
+      "88253"
+    ],
+    "population": 438
+  },
+  {
+    "city": "Lake Roberts",
+    "county": "Grant",
+    "zip_codes": [
+      "88049"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lake Roberts Heights",
+    "county": "Grant",
+    "zip_codes": [
+      "88049"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lake Sumner",
+    "county": "De Baca",
+    "zip_codes": [
+      "88119"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Lake Valley",
+    "county": "San Juan",
+    "zip_codes": [
+      "87499"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Lamy",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87540"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Las Campanas",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 1792
+  },
+  {
+    "city": "Las Cruces",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88001",
+      "88005",
+      "88007",
+      "88011",
+      "88012"
+    ],
+    "population": 112612
+  },
+  {
+    "city": "Las Maravillas",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 1776
+  },
+  {
+    "city": "Las Nutrias",
+    "county": "Socorro",
+    "zip_codes": [
+      "87062"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Las Palomas",
+    "county": "Sierra",
+    "zip_codes": [
+      "87942"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Las Tusas",
+    "county": "Cibola",
+    "zip_codes": [
+      "87323"
+    ],
+    "population": 716
+  },
+  {
+    "city": "Las Vegas",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87701"
+    ],
+    "population": 13120
+  },
+  {
+    "city": "Lee Acres",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87413"
+    ],
+    "population": 4463
+  },
+  {
+    "city": "Lemitar",
+    "county": "Socorro",
+    "zip_codes": [
+      "87801",
+      "87823"
+    ],
+    "population": 432
+  },
+  {
+    "city": "Lindrith",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87029"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Little Walnut Village",
+    "county": "Grant",
+    "zip_codes": [
+      "88061"
+    ],
+    "population": 1520
+  },
+  {
+    "city": "Livingston Wheeler",
+    "county": "Eddy",
+    "zip_codes": [
+      "88220"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Llano del Medio",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "87711",
+      "87724"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Lobo Canyon",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Loco Hills",
+    "county": "Eddy",
+    "zip_codes": [
+      "88255"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Logan",
+    "county": "Quay",
+    "zip_codes": [
+      "88426"
+    ],
+    "population": 858
+  },
+  {
+    "city": "Lordsburg",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88045"
+    ],
+    "population": 2139
+  },
+  {
+    "city": "Los Alamos",
+    "county": "Los Alamos",
+    "zip_codes": [
+      "87544"
+    ],
+    "population": 13471
+  },
+  {
+    "city": "Los Cerrillos",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87010"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Los Chaves",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002",
+      "87031"
+    ],
+    "population": 4641
+  },
+  {
+    "city": "Los Luceros",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87511"
+    ],
+    "population": 757
+  },
+  {
+    "city": "Los Lunas",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 17932
+  },
+  {
+    "city": "Los Ojos",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87551"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Los Ranchos de Albuquerque",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87107",
+      "87114"
+    ],
+    "population": 5869
+  },
+  {
+    "city": "Loving",
+    "county": "Eddy",
+    "zip_codes": [
+      "88256"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Lovington",
+    "county": "Lea",
+    "zip_codes": [
+      "88260"
+    ],
+    "population": 11444
+  },
+  {
+    "city": "Lower Frisco",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Luis Lopez",
+    "county": "Socorro",
+    "zip_codes": [
+      "87801"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Lumberton",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87528"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Luna",
+    "county": "Catron",
+    "zip_codes": [
+      "87824"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Lybrook",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87018",
+      "87037"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Lyden",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87582"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Madrid",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87010"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Madrone",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Magdalena",
+    "county": "Socorro",
+    "zip_codes": [
+      "87825"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Malaga",
+    "county": "Eddy",
+    "zip_codes": [
+      "88263"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Manuelito",
+    "county": "McKinley",
+    "zip_codes": [
+      "87319"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Manzano",
+    "county": "Torrance",
+    "zip_codes": [
+      "87036",
+      "87061"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Manzano Springs",
+    "county": "Torrance",
+    "zip_codes": [
+      "87015"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Maxwell",
+    "county": "Colfax",
+    "zip_codes": [
+      "87728"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Mayhill",
+    "county": "Otero",
+    "zip_codes": [
+      "88339"
+    ],
+    "population": 9
+  },
+  {
+    "city": "McCartys Village",
+    "county": "Cibola",
+    "zip_codes": [
+      "87034"
+    ],
+    "population": 670
+  },
+  {
+    "city": "McGaffey",
+    "county": "McKinley",
+    "zip_codes": [
+      "87316"
+    ],
+    "population": 0
+  },
+  {
+    "city": "McIntosh",
+    "county": "Torrance",
+    "zip_codes": [
+      "87016",
+      "87032",
+      "87035"
+    ],
+    "population": 1310
+  },
+  {
+    "city": "Meadow Lake",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 3959
+  },
+  {
+    "city": "Medanales",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87510",
+      "87548"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Melrose",
+    "county": "Curry",
+    "zip_codes": [
+      "88124"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Mescalero",
+    "county": "Otero",
+    "zip_codes": [
+      "88340"
+    ],
+    "population": 814
+  },
+  {
+    "city": "Mesilla",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88005",
+      "88046"
+    ],
+    "population": 1850
+  },
+  {
+    "city": "Mesita",
+    "county": "Cibola",
+    "zip_codes": [
+      "87026"
+    ],
+    "population": 823
+  },
+  {
+    "city": "Mesquite",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88048"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Middle Frisco",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Middle Mesa",
+    "county": "San Juan",
+    "zip_codes": [
+      "81137"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Midway",
+    "county": "Chaves",
+    "zip_codes": [
+      "88203",
+      "88230"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Milan",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020",
+      "87021"
+    ],
+    "population": 2473
+  },
+  {
+    "city": "Mimbres",
+    "county": "Grant",
+    "zip_codes": [
+      "88041",
+      "88049"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Mogollon",
+    "county": "Catron",
+    "zip_codes": [
+      "88039"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Monterey Park",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 814
+  },
+  {
+    "city": "Monument",
+    "county": "Lea",
+    "zip_codes": [
+      "88265"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Moquino",
+    "county": "Cibola",
+    "zip_codes": [
+      "87014"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Mora",
+    "county": "Mora",
+    "zip_codes": [
+      "87715",
+      "87732"
+    ],
+    "population": 518
+  },
+  {
+    "city": "Moriarty",
+    "county": "Torrance",
+    "zip_codes": [
+      "87035"
+    ],
+    "population": 2074
+  },
+  {
+    "city": "Morningside",
+    "county": "Eddy",
+    "zip_codes": [
+      "88210"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Mosquero",
+    "county": "Harding",
+    "zip_codes": [
+      "87733",
+      "87746"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Mount Taylor",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020"
+    ],
+    "population": 482
+  },
+  {
+    "city": "Mountain View",
+    "county": "Cibola",
+    "zip_codes": [
+      "87321"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Mountain View",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Mountainair",
+    "county": "Torrance",
+    "zip_codes": [
+      "87036"
+    ],
+    "population": 1308
+  },
+  {
+    "city": "Nadine",
+    "county": "Lea",
+    "zip_codes": [
+      "88240"
+    ],
+    "population": 146
+  },
+  {
+    "city": "Nageezi",
+    "county": "San Juan",
+    "zip_codes": [
+      "87037"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Nakaibito",
+    "county": "McKinley",
+    "zip_codes": [
+      "87320"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Nambe",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 2045
+  },
+  {
+    "city": "Napi Headquarters",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401"
+    ],
+    "population": 691
+  },
+  {
+    "city": "Nara Visa",
+    "county": "Quay",
+    "zip_codes": [
+      "88426",
+      "88430"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Naschitti",
+    "county": "San Juan",
+    "zip_codes": [
+      "87325",
+      "87364"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Navajo",
+    "county": "McKinley",
+    "zip_codes": [
+      "87328"
+    ],
+    "population": 2133
+  },
+  {
+    "city": "Navajo Dam",
+    "county": "San Juan",
+    "zip_codes": [
+      "87412",
+      "87419"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Nenahnezad",
+    "county": "San Juan",
+    "zip_codes": [
+      "87416"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Newcomb",
+    "county": "San Juan",
+    "zip_codes": [
+      "87455"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Newkirk",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "88417"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Nogal",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88341"
+    ],
+    "population": 156
+  },
+  {
+    "city": "North Acomita Village",
+    "county": "Cibola",
+    "zip_codes": [
+      "87014",
+      "87034"
+    ],
+    "population": 338
+  },
+  {
+    "city": "North Hobbs",
+    "county": "Lea",
+    "zip_codes": [
+      "88240",
+      "88242"
+    ],
+    "population": 6099
+  },
+  {
+    "city": "North Hurley",
+    "county": "Grant",
+    "zip_codes": [
+      "88043"
+    ],
+    "population": 81
+  },
+  {
+    "city": "North Light Plant",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410"
+    ],
+    "population": 573
+  },
+  {
+    "city": "North San Ysidro",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87538"
+    ],
+    "population": 323
+  },
+  {
+    "city": "North Valley",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87107",
+      "87113",
+      "87114"
+    ],
+    "population": 11474
+  },
+  {
+    "city": "Oasis",
+    "county": "Sierra",
+    "zip_codes": [
+      "87931"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Ohkay Owingeh",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87566"
+    ],
+    "population": 1178
+  },
+  {
+    "city": "Ojo Amarillo",
+    "county": "San Juan",
+    "zip_codes": [
+      "87416"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Ojo Caliente",
+    "county": "Taos",
+    "zip_codes": [
+      "87549"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Ojo Encino",
+    "county": "McKinley",
+    "zip_codes": [
+      "87013"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Ojo Sarco",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87521",
+      "87527"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Old Town",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Organ",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88052"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Orogrande",
+    "county": "Otero",
+    "zip_codes": [
+      "88342"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Paa-Ko",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87047"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Paguate",
+    "county": "Cibola",
+    "zip_codes": [
+      "87040"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Pajarito Mesa",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87121"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Paradise Hills",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87114"
+    ],
+    "population": 4662
+  },
+  {
+    "city": "Paraje",
+    "county": "Cibola",
+    "zip_codes": [
+      "87007"
+    ],
+    "population": 1405
+  },
+  {
+    "city": "Pastura",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "88435"
+    ],
+    "population": 7
+  },
+  {
+    "city": "PeÃƒÂ±a Blanca",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87041"
+    ],
+    "population": 701
+  },
+  {
+    "city": "PeÃƒÂ±asco",
+    "county": "Taos",
+    "zip_codes": [
+      "87553"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Peak Place",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 483
+  },
+  {
+    "city": "Pecan Park",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Pecos",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87552"
+    ],
+    "population": 1145
+  },
+  {
+    "city": "Peralta",
+    "county": "Valencia",
+    "zip_codes": [
+      "87042"
+    ],
+    "population": 3385
+  },
+  {
+    "city": "Picacho Hills",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88007"
+    ],
+    "population": 1995
+  },
+  {
+    "city": "Picuris Pueblo",
+    "county": "Taos",
+    "zip_codes": [
+      "87553"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Pie Town",
+    "county": "Catron",
+    "zip_codes": [
+      "87827"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Pinedale",
+    "county": "McKinley",
+    "zip_codes": [
+      "87311"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Pinehaven",
+    "county": "McKinley",
+    "zip_codes": [
+      "87305",
+      "87326"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Pinehill",
+    "county": "Cibola",
+    "zip_codes": [
+      "87321",
+      "87357"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Pinon",
+    "county": "Otero",
+    "zip_codes": [
+      "88344"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pinos Altos",
+    "county": "Grant",
+    "zip_codes": [
+      "88053"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Placitas",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87937"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Placitas",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87043"
+    ],
+    "population": 4375
+  },
+  {
+    "city": "Playas",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88009"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Pleasanton",
+    "county": "Catron",
+    "zip_codes": [
+      "88039"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Pojoaque",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 2274
+  },
+  {
+    "city": "Polvadera",
+    "county": "Socorro",
+    "zip_codes": [
+      "87828"
+    ],
+    "population": 730
+  },
+  {
+    "city": "Ponderosa",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87024",
+      "87044"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Ponderosa Pine",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87059"
+    ],
+    "population": 1091
+  },
+  {
+    "city": "Portales",
+    "county": "Roosevelt",
+    "zip_codes": [
+      "88130"
+    ],
+    "population": 12023
+  },
+  {
+    "city": "Prewitt",
+    "county": "McKinley",
+    "zip_codes": [
+      "87045"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Pueblito",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87566"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Pueblitos",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002"
+    ],
+    "population": 534
+  },
+  {
+    "city": "Pueblo",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87560"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Pueblo of Sandia Village",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87004",
+      "87043"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Pueblo Pintado",
+    "county": "McKinley",
+    "zip_codes": [
+      "87013"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Puerto de Luna",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "88435"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Pulpotio Bareas",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 133
+  },
+  {
+    "city": "Punta de Agua",
+    "county": "Torrance",
+    "zip_codes": [
+      "87036"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Purty Rock",
+    "county": "McKinley",
+    "zip_codes": [
+      "87319"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Quemado",
+    "county": "Catron",
+    "zip_codes": [
+      "87829"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Questa",
+    "county": "Taos",
+    "zip_codes": [
+      "87556"
+    ],
+    "population": 2112
+  },
+  {
+    "city": "Radium Springs",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88007"
+    ],
+    "population": 1661
+  },
+  {
+    "city": "Ramah",
+    "county": "McKinley",
+    "zip_codes": [
+      "87321"
+    ],
+    "population": 458
+  },
+  {
+    "city": "Rancho Grande",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Ranchos de Taos",
+    "county": "Taos",
+    "zip_codes": [
+      "87557",
+      "87571"
+    ],
+    "population": 2348
+  },
+  {
+    "city": "Raton",
+    "county": "Colfax",
+    "zip_codes": [
+      "87740"
+    ],
+    "population": 6013
+  },
+  {
+    "city": "Red River",
+    "county": "Taos",
+    "zip_codes": [
+      "87556",
+      "87558"
+    ],
+    "population": 456
+  },
+  {
+    "city": "Red Rock Ranch",
+    "county": "McKinley",
+    "zip_codes": [
+      "87045"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Redrock",
+    "county": "Grant",
+    "zip_codes": [
+      "88055"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Regina",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87046"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Reserve",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Ribera",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87560"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Rincon",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87940"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Rio Chiquito",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87522"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Rio Communities",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002"
+    ],
+    "population": 4924
+  },
+  {
+    "city": "Rio en Medio",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Rio Lucio",
+    "county": "Taos",
+    "zip_codes": [
+      "87553"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Rio Rancho",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87114",
+      "87121",
+      "87124",
+      "87144"
+    ],
+    "population": 106533
+  },
+  {
+    "city": "Rio Rancho Estates",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87124",
+      "87144"
+    ],
+    "population": 1626
+  },
+  {
+    "city": "Rivers",
+    "county": "Catron",
+    "zip_codes": [
+      "87830"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Rock Springs",
+    "county": "McKinley",
+    "zip_codes": [
+      "87375"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Rodeo",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88056"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Rodey",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87937"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Rosedale",
+    "county": "Grant",
+    "zip_codes": [
+      "88061"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Roswell",
+    "county": "Chaves",
+    "zip_codes": [
+      "88201",
+      "88203"
+    ],
+    "population": 47823
+  },
+  {
+    "city": "Rowe",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87562"
+    ],
+    "population": 555
+  },
+  {
+    "city": "Roy",
+    "county": "Harding",
+    "zip_codes": [
+      "87743"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Ruidoso",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88312",
+      "88338",
+      "88345",
+      "88355"
+    ],
+    "population": 7701
+  },
+  {
+    "city": "Ruidoso Downs",
+    "county": "Lincoln",
+    "zip_codes": [
+      "88346"
+    ],
+    "population": 2629
+  },
+  {
+    "city": "Sacramento",
+    "county": "Otero",
+    "zip_codes": [
+      "88347"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sagar",
+    "county": "McKinley",
+    "zip_codes": [
+      "87326"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Salem",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "87941"
+    ],
+    "population": 834
+  },
+  {
+    "city": "San Acacia",
+    "county": "Socorro",
+    "zip_codes": [
+      "87831"
+    ],
+    "population": 43
+  },
+  {
+    "city": "San Antonio",
+    "county": "Socorro",
+    "zip_codes": [
+      "87801",
+      "87832"
+    ],
+    "population": 65
+  },
+  {
+    "city": "San Antonito",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87008",
+      "87047"
+    ],
+    "population": 706
+  },
+  {
+    "city": "San Antonito",
+    "county": "Socorro",
+    "zip_codes": [
+      "87832"
+    ],
+    "population": 0
+  },
+  {
+    "city": "San Cristobal",
+    "county": "Taos",
+    "zip_codes": [
+      "87564"
+    ],
+    "population": 116
+  },
+  {
+    "city": "San Felipe Pueblo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87001"
+    ],
+    "population": 1420
+  },
+  {
+    "city": "San Fidel",
+    "county": "Cibola",
+    "zip_codes": [
+      "87049"
+    ],
+    "population": 4
+  },
+  {
+    "city": "San Ildefonso Pueblo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 670
+  },
+  {
+    "city": "San Jon",
+    "county": "Quay",
+    "zip_codes": [
+      "88434"
+    ],
+    "population": 136
+  },
+  {
+    "city": "San Jose",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87532",
+      "87537"
+    ],
+    "population": 739
+  },
+  {
+    "city": "San Jose",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87565"
+    ],
+    "population": 52
+  },
+  {
+    "city": "San Lorenzo",
+    "county": "Grant",
+    "zip_codes": [
+      "88041"
+    ],
+    "population": 308
+  },
+  {
+    "city": "San Luis",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87053"
+    ],
+    "population": 0
+  },
+  {
+    "city": "San Mateo",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020"
+    ],
+    "population": 726
+  },
+  {
+    "city": "San Miguel",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88044"
+    ],
+    "population": 707
+  },
+  {
+    "city": "San Pablo",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88005"
+    ],
+    "population": 729
+  },
+  {
+    "city": "San Pedro",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87047"
+    ],
+    "population": 331
+  },
+  {
+    "city": "San Rafael",
+    "county": "Cibola",
+    "zip_codes": [
+      "87020",
+      "87051"
+    ],
+    "population": 620
+  },
+  {
+    "city": "San Ysidro",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88007"
+    ],
+    "population": 2179
+  },
+  {
+    "city": "San Ysidro",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87053"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Sandia Heights",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87122"
+    ],
+    "population": 3083
+  },
+  {
+    "city": "Sandia Knolls",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87047"
+    ],
+    "population": 1436
+  },
+  {
+    "city": "Sandia Park",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87008",
+      "87047"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Sanostee",
+    "county": "San Juan",
+    "zip_codes": [
+      "87461"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Santa Ana Pueblo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87001",
+      "87004",
+      "87043"
+    ],
+    "population": 1028
+  },
+  {
+    "city": "Santa Clara",
+    "county": "Grant",
+    "zip_codes": [
+      "88022",
+      "88026",
+      "88041"
+    ],
+    "population": 1751
+  },
+  {
+    "city": "Santa Clara Pueblo",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87532"
+    ],
+    "population": 1002
+  },
+  {
+    "city": "Santa Cruz",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87532",
+      "87567"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Santa Fe",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87501",
+      "87505",
+      "87506",
+      "87507"
+    ],
+    "population": 88224
+  },
+  {
+    "city": "Santa Fe Foothills",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87505"
+    ],
+    "population": 710
+  },
+  {
+    "city": "Santa Rosa",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "88435"
+    ],
+    "population": 2447
+  },
+  {
+    "city": "Santa Teresa",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88008",
+      "88021"
+    ],
+    "population": 5973
+  },
+  {
+    "city": "Santo Domingo Pueblo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87052"
+    ],
+    "population": 2162
+  },
+  {
+    "city": "Sausal",
+    "county": "Valencia",
+    "zip_codes": [
+      "87002"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Seama",
+    "county": "Cibola",
+    "zip_codes": [
+      "87007"
+    ],
+    "population": 686
+  },
+  {
+    "city": "Seboyeta",
+    "county": "Cibola",
+    "zip_codes": [
+      "87014"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Sedillo",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87059"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Sena",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87560"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Seton Village",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Sheep Springs",
+    "county": "San Juan",
+    "zip_codes": [
+      "87364"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Shiprock",
+    "county": "San Juan",
+    "zip_codes": [
+      "87420"
+    ],
+    "population": 8339
+  },
+  {
+    "city": "Silver City",
+    "county": "Grant",
+    "zip_codes": [
+      "88061"
+    ],
+    "population": 9574
+  },
+  {
+    "city": "Skyline-Ganipa",
+    "county": "Cibola",
+    "zip_codes": [
+      "87034"
+    ],
+    "population": 937
+  },
+  {
+    "city": "Socorro",
+    "county": "Socorro",
+    "zip_codes": [
+      "87801"
+    ],
+    "population": 8540
+  },
+  {
+    "city": "Soham",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87565"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Sombrillo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87532"
+    ],
+    "population": 136
+  },
+  {
+    "city": "South Acomita Village",
+    "county": "Cibola",
+    "zip_codes": [
+      "87034"
+    ],
+    "population": 214
+  },
+  {
+    "city": "South River",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410"
+    ],
+    "population": 1594
+  },
+  {
+    "city": "South Valley",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87105",
+      "87121"
+    ],
+    "population": 36605
+  },
+  {
+    "city": "Spencerville",
+    "county": "San Juan",
+    "zip_codes": [
+      "87410",
+      "87415"
+    ],
+    "population": 1100
+  },
+  {
+    "city": "Springer",
+    "county": "Colfax",
+    "zip_codes": [
+      "87747"
+    ],
+    "population": 1098
+  },
+  {
+    "city": "Stanley",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87056"
+    ],
+    "population": 31
+  },
+  {
+    "city": "Stoneridge",
+    "county": "Cibola",
+    "zip_codes": [
+      "87045"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sundance",
+    "county": "McKinley",
+    "zip_codes": [
+      "87311",
+      "87322"
+    ],
+    "population": 527
+  },
+  {
+    "city": "Sunland Park",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "79922",
+      "88008",
+      "88021",
+      "88063"
+    ],
+    "population": 17085
+  },
+  {
+    "city": "Sunlit Hills",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Sunshine",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Tajique",
+    "county": "Torrance",
+    "zip_codes": [
+      "87016",
+      "87061"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Talpa",
+    "county": "Taos",
+    "zip_codes": [
+      "87557"
+    ],
+    "population": 1126
+  },
+  {
+    "city": "Tano Road",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 1581
+  },
+  {
+    "city": "Taos",
+    "county": "Taos",
+    "zip_codes": [
+      "87571"
+    ],
+    "population": 6468
+  },
+  {
+    "city": "Taos Pueblo",
+    "county": "Taos",
+    "zip_codes": [
+      "87571"
+    ],
+    "population": 1294
+  },
+  {
+    "city": "Taos Ski Valley",
+    "county": "Taos",
+    "zip_codes": [
+      "87525"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Tatum",
+    "county": "Lea",
+    "zip_codes": [
+      "88267"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Tecolote",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87701"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Tecolotito",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87711"
+    ],
+    "population": 432
+  },
+  {
+    "city": "Tesuque",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87501",
+      "87506"
+    ],
+    "population": 1087
+  },
+  {
+    "city": "Tesuque Pueblo",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Texico",
+    "county": "Curry",
+    "zip_codes": [
+      "88135"
+    ],
+    "population": 858
+  },
+  {
+    "city": "Thoreau",
+    "county": "McKinley",
+    "zip_codes": [
+      "87312",
+      "87323"
+    ],
+    "population": 1795
+  },
+  {
+    "city": "Thunder Mountain",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87015"
+    ],
+    "population": 1456
+  },
+  {
+    "city": "Tierra Amarilla",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87575"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Tijeras",
+    "county": "Bernalillo",
+    "zip_codes": [
+      "87059"
+    ],
+    "population": 483
+  },
+  {
+    "city": "Timberlake",
+    "county": "McKinley",
+    "zip_codes": [
+      "87321"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Timberon",
+    "county": "Otero",
+    "zip_codes": [
+      "88350"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Tohatchi",
+    "county": "McKinley",
+    "zip_codes": [
+      "87325"
+    ],
+    "population": 695
+  },
+  {
+    "city": "Tome",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031",
+      "87060"
+    ],
+    "population": 1525
+  },
+  {
+    "city": "Torreon",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87013"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Torreon",
+    "county": "Torrance",
+    "zip_codes": [
+      "87016",
+      "87061"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Tortugas",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88001"
+    ],
+    "population": 642
+  },
+  {
+    "city": "Totah Vista",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Tres Arroyos",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87506",
+      "87507"
+    ],
+    "population": 1870
+  },
+  {
+    "city": "Trout Valley",
+    "county": "Grant",
+    "zip_codes": [
+      "88049"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Truchas",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87578"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Truth or Consequences",
+    "county": "Sierra",
+    "zip_codes": [
+      "87901",
+      "87935"
+    ],
+    "population": 6026
+  },
+  {
+    "city": "Tse Bonito",
+    "county": "McKinley",
+    "zip_codes": [
+      "86515"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Tucumcari",
+    "county": "Quay",
+    "zip_codes": [
+      "88401"
+    ],
+    "population": 5197
+  },
+  {
+    "city": "Tularosa",
+    "county": "Otero",
+    "zip_codes": [
+      "88352"
+    ],
+    "population": 2584
+  },
+  {
+    "city": "Turley",
+    "county": "San Juan",
+    "zip_codes": [
+      "87412"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Twin Forks",
+    "county": "Otero",
+    "zip_codes": [
+      "88317",
+      "88339"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Twin Lakes",
+    "county": "McKinley",
+    "zip_codes": [
+      "87375"
+    ],
+    "population": 961
+  },
+  {
+    "city": "Tyrone",
+    "county": "Grant",
+    "zip_codes": [
+      "88065"
+    ],
+    "population": 664
+  },
+  {
+    "city": "University Park",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88001",
+      "88003"
+    ],
+    "population": 2699
+  },
+  {
+    "city": "Upper Fruitland",
+    "county": "San Juan",
+    "zip_codes": [
+      "87401",
+      "87416"
+    ],
+    "population": 1496
+  },
+  {
+    "city": "Ute Park",
+    "county": "Colfax",
+    "zip_codes": [
+      "87749"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Vadito",
+    "county": "Taos",
+    "zip_codes": [
+      "87579"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Vado",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88048",
+      "88072"
+    ],
+    "population": 3185
+  },
+  {
+    "city": "Valencia",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87535"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Valencia",
+    "county": "Valencia",
+    "zip_codes": [
+      "87031"
+    ],
+    "population": 2219
+  },
+  {
+    "city": "Valle Vista",
+    "county": "Santa Fe",
+    "zip_codes": [
+      "87508"
+    ],
+    "population": 759
+  },
+  {
+    "city": "Vanderwagen",
+    "county": "McKinley",
+    "zip_codes": [
+      "87326"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Vaughn",
+    "county": "Guadalupe",
+    "zip_codes": [
+      "88353"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Veguita",
+    "county": "Socorro",
+    "zip_codes": [
+      "87062"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Velarde",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87582"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Ventura",
+    "county": "Luna",
+    "zip_codes": [
+      "88030"
+    ],
+    "population": 826
+  },
+  {
+    "city": "Villanueva",
+    "county": "San Miguel",
+    "zip_codes": [
+      "87560",
+      "87583"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Virden",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88045"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Wagon Mound",
+    "county": "Mora",
+    "zip_codes": [
+      "87752"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Waterflow",
+    "county": "San Juan",
+    "zip_codes": [
+      "87416",
+      "87421"
+    ],
+    "population": 1215
+  },
+  {
+    "city": "Watrous",
+    "county": "Mora",
+    "zip_codes": [
+      "87753"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Weed",
+    "county": "Otero",
+    "zip_codes": [
+      "88347",
+      "88354"
+    ],
+    "population": 90
+  },
+  {
+    "city": "West Hammond",
+    "county": "San Juan",
+    "zip_codes": [
+      "87413"
+    ],
+    "population": 2519
+  },
+  {
+    "city": "White Cliffs",
+    "county": "McKinley",
+    "zip_codes": [
+      "87311"
+    ],
+    "population": 610
+  },
+  {
+    "city": "White Rock",
+    "county": "Los Alamos",
+    "zip_codes": [
+      "87544",
+      "87547"
+    ],
+    "population": 5568
+  },
+  {
+    "city": "White Sands",
+    "county": "DoÃ±a Ana",
+    "zip_codes": [
+      "88002"
+    ],
+    "population": 1577
+  },
+  {
+    "city": "White Signal",
+    "county": "Grant",
+    "zip_codes": [
+      "88061"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Whites City",
+    "county": "Eddy",
+    "zip_codes": [
+      "88220",
+      "88268"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Willard",
+    "county": "Torrance",
+    "zip_codes": [
+      "87063"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Williams Acres",
+    "county": "McKinley",
+    "zip_codes": [
+      "87301",
+      "87319"
+    ],
+    "population": 1069
+  },
+  {
+    "city": "Williamsburg",
+    "county": "Sierra",
+    "zip_codes": [
+      "87901",
+      "87942"
+    ],
+    "population": 599
+  },
+  {
+    "city": "Windmill",
+    "county": "Hidalgo",
+    "zip_codes": [
+      "88020"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Winston",
+    "county": "Sierra",
+    "zip_codes": [
+      "87943"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Yah-ta-hey",
+    "county": "McKinley",
+    "zip_codes": [
+      "87375"
+    ],
+    "population": 480
+  },
+  {
+    "city": "Youngsville",
+    "county": "Rio Arriba",
+    "zip_codes": [
+      "87064"
+    ],
+    "population": 45
+  },
+  {
+    "city": "Zia Pueblo",
+    "county": "Sandoval",
+    "zip_codes": [
+      "87053"
+    ],
+    "population": 793
+  },
+  {
+    "city": "Zuni Pueblo",
+    "county": "McKinley",
+    "zip_codes": [
+      "87327"
+    ],
+    "population": 6132
+  }
+]

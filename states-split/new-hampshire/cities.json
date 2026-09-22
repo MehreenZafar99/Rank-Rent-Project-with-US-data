@@ -1,0 +1,822 @@
+[
+  {
+    "city": "Alton",
+    "county": "Belknap",
+    "zip_codes": [
+      "03809",
+      "03810"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Amherst",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03031"
+    ],
+    "population": 756
+  },
+  {
+    "city": "Antrim",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03440"
+    ],
+    "population": 1293
+  },
+  {
+    "city": "Ashland",
+    "county": "Grafton",
+    "zip_codes": [
+      "03217"
+    ],
+    "population": 1417
+  },
+  {
+    "city": "Bartlett",
+    "county": "Carroll",
+    "zip_codes": [
+      "03812"
+    ],
+    "population": 217
+  },
+  {
+    "city": "Belmont",
+    "county": "Belknap",
+    "zip_codes": [
+      "03220"
+    ],
+    "population": 1257
+  },
+  {
+    "city": "Bennington",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03442"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Berlin",
+    "county": "Coos",
+    "zip_codes": [
+      "03570"
+    ],
+    "population": 9473
+  },
+  {
+    "city": "Bethlehem",
+    "county": "Grafton",
+    "zip_codes": [
+      "03574"
+    ],
+    "population": 1097
+  },
+  {
+    "city": "Blodgett Landing",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03255"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Bradford",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03221"
+    ],
+    "population": 399
+  },
+  {
+    "city": "Bristol",
+    "county": "Grafton",
+    "zip_codes": [
+      "03222"
+    ],
+    "population": 2157
+  },
+  {
+    "city": "Canaan",
+    "county": "Grafton",
+    "zip_codes": [
+      "03741"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Center Ossipee",
+    "county": "Carroll",
+    "zip_codes": [
+      "03814"
+    ],
+    "population": 500
+  },
+  {
+    "city": "Center Sandwich",
+    "county": "Carroll",
+    "zip_codes": [
+      "03227"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Charlestown",
+    "county": "Sullivan",
+    "zip_codes": [
+      "03603"
+    ],
+    "population": 879
+  },
+  {
+    "city": "Claremont",
+    "county": "Sullivan",
+    "zip_codes": [
+      "03743"
+    ],
+    "population": 13054
+  },
+  {
+    "city": "Colebrook",
+    "county": "Coos",
+    "zip_codes": [
+      "03576"
+    ],
+    "population": 1143
+  },
+  {
+    "city": "Concord",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03301",
+      "03303"
+    ],
+    "population": 44219
+  },
+  {
+    "city": "Contoocook",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03229"
+    ],
+    "population": 1370
+  },
+  {
+    "city": "Conway",
+    "county": "Carroll",
+    "zip_codes": [
+      "03813",
+      "03818",
+      "03860"
+    ],
+    "population": 3833
+  },
+  {
+    "city": "Derry",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03038"
+    ],
+    "population": 21668
+  },
+  {
+    "city": "Dover",
+    "county": "Strafford",
+    "zip_codes": [
+      "03820"
+    ],
+    "population": 33070
+  },
+  {
+    "city": "Durham",
+    "county": "Strafford",
+    "zip_codes": [
+      "03824"
+    ],
+    "population": 10577
+  },
+  {
+    "city": "East Merrimack",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03054"
+    ],
+    "population": 4872
+  },
+  {
+    "city": "Enfield",
+    "county": "Grafton",
+    "zip_codes": [
+      "03748"
+    ],
+    "population": 1917
+  },
+  {
+    "city": "Epping",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03042"
+    ],
+    "population": 2808
+  },
+  {
+    "city": "Exeter",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03833"
+    ],
+    "population": 10138
+  },
+  {
+    "city": "Farmington",
+    "county": "Strafford",
+    "zip_codes": [
+      "03835"
+    ],
+    "population": 3753
+  },
+  {
+    "city": "Francestown",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03043"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Franklin",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03235"
+    ],
+    "population": 8757
+  },
+  {
+    "city": "Goffstown",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03045"
+    ],
+    "population": 3127
+  },
+  {
+    "city": "Gorham",
+    "county": "Coos",
+    "zip_codes": [
+      "03581"
+    ],
+    "population": 2044
+  },
+  {
+    "city": "Greenville",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03048"
+    ],
+    "population": 1102
+  },
+  {
+    "city": "Groveton",
+    "county": "Coos",
+    "zip_codes": [
+      "03582"
+    ],
+    "population": 871
+  },
+  {
+    "city": "Hampton",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03842"
+    ],
+    "population": 9960
+  },
+  {
+    "city": "Hampton Beach",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03842"
+    ],
+    "population": 2585
+  },
+  {
+    "city": "Hancock",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03449"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Hanover",
+    "county": "Grafton",
+    "zip_codes": [
+      "03755"
+    ],
+    "population": 8520
+  },
+  {
+    "city": "Henniker",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03242"
+    ],
+    "population": 2880
+  },
+  {
+    "city": "Hillsborough",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03244"
+    ],
+    "population": 1582
+  },
+  {
+    "city": "Hinsdale",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03451"
+    ],
+    "population": 1382
+  },
+  {
+    "city": "Hooksett",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03106"
+    ],
+    "population": 5362
+  },
+  {
+    "city": "Hudson",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03051"
+    ],
+    "population": 7105
+  },
+  {
+    "city": "Jaffrey",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03452"
+    ],
+    "population": 2885
+  },
+  {
+    "city": "Keene",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03431"
+    ],
+    "population": 22923
+  },
+  {
+    "city": "Klondike Corner",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03070"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Laconia",
+    "county": "Belknap",
+    "zip_codes": [
+      "03246"
+    ],
+    "population": 16982
+  },
+  {
+    "city": "Lancaster",
+    "county": "Coos",
+    "zip_codes": [
+      "03584"
+    ],
+    "population": 2264
+  },
+  {
+    "city": "Lebanon",
+    "county": "Grafton",
+    "zip_codes": [
+      "03766",
+      "03784"
+    ],
+    "population": 14759
+  },
+  {
+    "city": "Lincoln",
+    "county": "Grafton",
+    "zip_codes": [
+      "03251"
+    ],
+    "population": 938
+  },
+  {
+    "city": "Lisbon",
+    "county": "Grafton",
+    "zip_codes": [
+      "03585"
+    ],
+    "population": 832
+  },
+  {
+    "city": "Littleton",
+    "county": "Grafton",
+    "zip_codes": [
+      "03561"
+    ],
+    "population": 4211
+  },
+  {
+    "city": "Londonderry",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03053"
+    ],
+    "population": 12307
+  },
+  {
+    "city": "Loudon",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03307"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Manchester",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03101",
+      "03102",
+      "03103",
+      "03104",
+      "03109"
+    ],
+    "population": 115415
+  },
+  {
+    "city": "Marlborough",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03455"
+    ],
+    "population": 925
+  },
+  {
+    "city": "Melvin Village",
+    "county": "Carroll",
+    "zip_codes": [
+      "03850"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Meredith",
+    "county": "Belknap",
+    "zip_codes": [
+      "03253"
+    ],
+    "population": 2887
+  },
+  {
+    "city": "Milford",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03055"
+    ],
+    "population": 8857
+  },
+  {
+    "city": "Milton",
+    "county": "Strafford",
+    "zip_codes": [
+      "03851"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Milton Mills",
+    "county": "Strafford",
+    "zip_codes": [
+      "03852"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Mountain Lakes",
+    "county": "Grafton",
+    "zip_codes": [
+      "03740",
+      "03774",
+      "03785"
+    ],
+    "population": 500
+  },
+  {
+    "city": "Nashua",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03060",
+      "03062",
+      "03063",
+      "03064"
+    ],
+    "population": 91131
+  },
+  {
+    "city": "New Boston",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03070"
+    ],
+    "population": 197
+  },
+  {
+    "city": "New Hampton",
+    "county": "Belknap",
+    "zip_codes": [
+      "03256"
+    ],
+    "population": 285
+  },
+  {
+    "city": "New London",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03257"
+    ],
+    "population": 1398
+  },
+  {
+    "city": "Newfields",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03856"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Newmarket",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03857"
+    ],
+    "population": 5730
+  },
+  {
+    "city": "Newport",
+    "county": "Sullivan",
+    "zip_codes": [
+      "03773"
+    ],
+    "population": 5185
+  },
+  {
+    "city": "North Conway",
+    "county": "Carroll",
+    "zip_codes": [
+      "03813",
+      "03847",
+      "03860"
+    ],
+    "population": 2286
+  },
+  {
+    "city": "North Haverhill",
+    "county": "Grafton",
+    "zip_codes": [
+      "03774"
+    ],
+    "population": 740
+  },
+  {
+    "city": "North Walpole",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03609"
+    ],
+    "population": 608
+  },
+  {
+    "city": "North Woodstock",
+    "county": "Grafton",
+    "zip_codes": [
+      "03262"
+    ],
+    "population": 515
+  },
+  {
+    "city": "Peterborough",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03458"
+    ],
+    "population": 2343
+  },
+  {
+    "city": "Pinardville",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03045",
+      "03102"
+    ],
+    "population": 4586
+  },
+  {
+    "city": "Pittsfield",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03263"
+    ],
+    "population": 1882
+  },
+  {
+    "city": "Plainfield",
+    "county": "Sullivan",
+    "zip_codes": [
+      "03781"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Plymouth",
+    "county": "Grafton",
+    "zip_codes": [
+      "03264"
+    ],
+    "population": 4877
+  },
+  {
+    "city": "Portsmouth",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03801"
+    ],
+    "population": 22332
+  },
+  {
+    "city": "Raymond",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03077"
+    ],
+    "population": 3881
+  },
+  {
+    "city": "Rochester",
+    "county": "Strafford",
+    "zip_codes": [
+      "03839",
+      "03867",
+      "03868"
+    ],
+    "population": 32866
+  },
+  {
+    "city": "Sanbornville",
+    "county": "Carroll",
+    "zip_codes": [
+      "03872"
+    ],
+    "population": 1225
+  },
+  {
+    "city": "Seabrook Beach",
+    "county": "Rockingham",
+    "zip_codes": [
+      "03874"
+    ],
+    "population": 909
+  },
+  {
+    "city": "Somersworth",
+    "county": "Strafford",
+    "zip_codes": [
+      "03878"
+    ],
+    "population": 12060
+  },
+  {
+    "city": "South Hooksett",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03106"
+    ],
+    "population": 5806
+  },
+  {
+    "city": "Suissevale",
+    "county": "Carroll",
+    "zip_codes": [
+      "03254"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Suncook",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03275"
+    ],
+    "population": 5075
+  },
+  {
+    "city": "Tilton Northfield",
+    "county": "Belknap",
+    "zip_codes": [
+      "03276"
+    ],
+    "population": 3169
+  },
+  {
+    "city": "Troy",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03465"
+    ],
+    "population": 1086
+  },
+  {
+    "city": "Union",
+    "county": "Carroll",
+    "zip_codes": [
+      "03887"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Walpole",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03608"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Warner",
+    "county": "Merrimack",
+    "zip_codes": [
+      "03278"
+    ],
+    "population": 340
+  },
+  {
+    "city": "West Stewartstown",
+    "county": "Coos",
+    "zip_codes": [
+      "03597"
+    ],
+    "population": 368
+  },
+  {
+    "city": "West Swanzey",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03446"
+    ],
+    "population": 1227
+  },
+  {
+    "city": "Whitefield",
+    "county": "Coos",
+    "zip_codes": [
+      "03598"
+    ],
+    "population": 1438
+  },
+  {
+    "city": "Wilton",
+    "county": "Hillsborough",
+    "zip_codes": [
+      "03055",
+      "03086"
+    ],
+    "population": 1444
+  },
+  {
+    "city": "Winchester",
+    "county": "Cheshire",
+    "zip_codes": [
+      "03470"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Wolfeboro",
+    "county": "Carroll",
+    "zip_codes": [
+      "03894"
+    ],
+    "population": 2420
+  },
+  {
+    "city": "Woodsville",
+    "county": "Grafton",
+    "zip_codes": [
+      "03785"
+    ],
+    "population": 1387
+  }
+]

@@ -1,0 +1,6766 @@
+[
+  {
+    "city": "Aberdeen",
+    "county": "Moore",
+    "zip_codes": [
+      "28315",
+      "28387"
+    ],
+    "population": 8969
+  },
+  {
+    "city": "Advance",
+    "county": "Davie",
+    "zip_codes": [
+      "27006"
+    ],
+    "population": 1544
+  },
+  {
+    "city": "Ahoskie",
+    "county": "Hertford",
+    "zip_codes": [
+      "27805",
+      "27910"
+    ],
+    "population": 4798
+  },
+  {
+    "city": "Alamance",
+    "county": "Alamance",
+    "zip_codes": [
+      "27201",
+      "27215"
+    ],
+    "population": 1358
+  },
+  {
+    "city": "Albemarle",
+    "county": "Stanly",
+    "zip_codes": [
+      "28001",
+      "28127"
+    ],
+    "population": 16527
+  },
+  {
+    "city": "Alexis",
+    "county": "Gaston",
+    "zip_codes": [
+      "28006",
+      "28034",
+      "28080"
+    ],
+    "population": 635
+  },
+  {
+    "city": "Alliance",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28509",
+      "28515",
+      "28529"
+    ],
+    "population": 812
+  },
+  {
+    "city": "Altamahaw",
+    "county": "Alamance",
+    "zip_codes": [
+      "27202",
+      "27244"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Anderson Creek",
+    "county": "Harnett",
+    "zip_codes": [
+      "27546",
+      "28323",
+      "28390"
+    ],
+    "population": 14021
+  },
+  {
+    "city": "Andrews",
+    "county": "Cherokee",
+    "zip_codes": [
+      "28901"
+    ],
+    "population": 1976
+  },
+  {
+    "city": "Angier",
+    "county": "Harnett",
+    "zip_codes": [
+      "27501",
+      "27526"
+    ],
+    "population": 5746
+  },
+  {
+    "city": "Ansonville",
+    "county": "Anson",
+    "zip_codes": [
+      "28007",
+      "28170"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Apex",
+    "county": "Wake",
+    "zip_codes": [
+      "27502",
+      "27523",
+      "27539",
+      "27562"
+    ],
+    "population": 67765
+  },
+  {
+    "city": "Aquadale",
+    "county": "Stanly",
+    "zip_codes": [
+      "28128"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Arapahoe",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28510",
+      "28529"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Archdale",
+    "county": "Randolph",
+    "zip_codes": [
+      "27263",
+      "27370"
+    ],
+    "population": 11992
+  },
+  {
+    "city": "Archer Lodge",
+    "county": "Johnston",
+    "zip_codes": [
+      "27527",
+      "27591"
+    ],
+    "population": 5036
+  },
+  {
+    "city": "Arrowhead Beach",
+    "county": "Chowan",
+    "zip_codes": [
+      "27932"
+    ],
+    "population": 1277
+  },
+  {
+    "city": "Asheboro",
+    "county": "Randolph",
+    "zip_codes": [
+      "27203",
+      "27205",
+      "27317"
+    ],
+    "population": 27353
+  },
+  {
+    "city": "Asheville",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28704",
+      "28715",
+      "28732",
+      "28801",
+      "28803",
+      "28804",
+      "28805",
+      "28806"
+    ],
+    "population": 94369
+  },
+  {
+    "city": "Ashley Heights",
+    "county": "Hoke",
+    "zip_codes": [
+      "28315"
+    ],
+    "population": 301
+  },
+  {
+    "city": "Askewville",
+    "county": "Bertie",
+    "zip_codes": [
+      "27983"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Atkinson",
+    "county": "Pender",
+    "zip_codes": [
+      "28421"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Atlantic",
+    "county": "Carteret",
+    "zip_codes": [
+      "28511"
+    ],
+    "population": 541
+  },
+  {
+    "city": "Atlantic Beach",
+    "county": "Carteret",
+    "zip_codes": [
+      "28512"
+    ],
+    "population": 1705
+  },
+  {
+    "city": "Aulander",
+    "county": "Bertie",
+    "zip_codes": [
+      "27805"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Aurora",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27806"
+    ],
+    "population": 620
+  },
+  {
+    "city": "Autryville",
+    "county": "Sampson",
+    "zip_codes": [
+      "28318"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Avery Creek",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28704"
+    ],
+    "population": 2998
+  },
+  {
+    "city": "Avon",
+    "county": "Dare",
+    "zip_codes": [
+      "27915"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Ayden",
+    "county": "Pitt",
+    "zip_codes": [
+      "28513"
+    ],
+    "population": 5035
+  },
+  {
+    "city": "Badin",
+    "county": "Stanly",
+    "zip_codes": [
+      "28001",
+      "28009",
+      "28127"
+    ],
+    "population": 2163
+  },
+  {
+    "city": "Bailey",
+    "county": "Nash",
+    "zip_codes": [
+      "27807"
+    ],
+    "population": 504
+  },
+  {
+    "city": "Bakersville",
+    "county": "Mitchell",
+    "zip_codes": [
+      "28705"
+    ],
+    "population": 718
+  },
+  {
+    "city": "Bald Head Island",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28461"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Balfour",
+    "county": "Henderson",
+    "zip_codes": [
+      "28791",
+      "28792"
+    ],
+    "population": 1132
+  },
+  {
+    "city": "Banner Elk",
+    "county": "Avery",
+    "zip_codes": [
+      "28604"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Barbecue",
+    "county": "Harnett",
+    "zip_codes": [
+      "27332"
+    ],
+    "population": 5933
+  },
+  {
+    "city": "Barker Heights",
+    "county": "Henderson",
+    "zip_codes": [
+      "28792"
+    ],
+    "population": 1025
+  },
+  {
+    "city": "Barker Ten Mile",
+    "county": "Robeson",
+    "zip_codes": [
+      "28358"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Barnardsville",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28709"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Bath",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27808"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Bayboro",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28515"
+    ],
+    "population": 1282
+  },
+  {
+    "city": "Bayshore",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28411"
+    ],
+    "population": 2870
+  },
+  {
+    "city": "Bayview",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27808"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Bear Grass",
+    "county": "Martin",
+    "zip_codes": [
+      "27892"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Beaufort",
+    "county": "Carteret",
+    "zip_codes": [
+      "28516"
+    ],
+    "population": 4613
+  },
+  {
+    "city": "Beech Mountain",
+    "county": "Watauga",
+    "zip_codes": [
+      "28604"
+    ],
+    "population": 831
+  },
+  {
+    "city": "Belhaven",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27810"
+    ],
+    "population": 1421
+  },
+  {
+    "city": "Bell Arthur",
+    "county": "Pitt",
+    "zip_codes": [
+      "27828",
+      "27834"
+    ],
+    "population": 649
+  },
+  {
+    "city": "Belmont",
+    "county": "Gaston",
+    "zip_codes": [
+      "28012"
+    ],
+    "population": 15140
+  },
+  {
+    "city": "Belville",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28451"
+    ],
+    "population": 3183
+  },
+  {
+    "city": "Belvoir",
+    "county": "Pitt",
+    "zip_codes": [
+      "27834"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Belwood",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28090"
+    ],
+    "population": 928
+  },
+  {
+    "city": "Bennett",
+    "county": "Chatham",
+    "zip_codes": [
+      "27208"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Benson",
+    "county": "Johnston",
+    "zip_codes": [
+      "27504"
+    ],
+    "population": 4144
+  },
+  {
+    "city": "Bent Creek",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28806"
+    ],
+    "population": 1854
+  },
+  {
+    "city": "Bermuda Run",
+    "county": "Davie",
+    "zip_codes": [
+      "27006"
+    ],
+    "population": 3166
+  },
+  {
+    "city": "Bessemer City",
+    "county": "Gaston",
+    "zip_codes": [
+      "28016"
+    ],
+    "population": 5508
+  },
+  {
+    "city": "Bethania",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27040",
+      "27106"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Bethel",
+    "county": "Pitt",
+    "zip_codes": [
+      "27812"
+    ],
+    "population": 1528
+  },
+  {
+    "city": "Bethlehem",
+    "county": "Alexander",
+    "zip_codes": [
+      "28601",
+      "28681"
+    ],
+    "population": 3928
+  },
+  {
+    "city": "Beulaville",
+    "county": "Duplin",
+    "zip_codes": [
+      "28518"
+    ],
+    "population": 1438
+  },
+  {
+    "city": "Biltmore Forest",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28803"
+    ],
+    "population": 1536
+  },
+  {
+    "city": "Biscoe",
+    "county": "Montgomery",
+    "zip_codes": [
+      "27209"
+    ],
+    "population": 2259
+  },
+  {
+    "city": "Black Creek",
+    "county": "Wilson",
+    "zip_codes": [
+      "27813",
+      "27893"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Black Mountain",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28711"
+    ],
+    "population": 8462
+  },
+  {
+    "city": "Bladenboro",
+    "county": "Bladen",
+    "zip_codes": [
+      "28320"
+    ],
+    "population": 2181
+  },
+  {
+    "city": "Blowing Rock",
+    "county": "Watauga",
+    "zip_codes": [
+      "28605"
+    ],
+    "population": 848
+  },
+  {
+    "city": "Blue Clay Farms",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28405",
+      "28429"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Boardman",
+    "county": "Columbus",
+    "zip_codes": [
+      "28438"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Bogue",
+    "county": "Carteret",
+    "zip_codes": [
+      "28570",
+      "28584"
+    ],
+    "population": 800
+  },
+  {
+    "city": "Boiling Spring Lakes",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28422",
+      "28461",
+      "28479"
+    ],
+    "population": 6206
+  },
+  {
+    "city": "Boiling Springs",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28017",
+      "28152"
+    ],
+    "population": 4625
+  },
+  {
+    "city": "Bolivia",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28422"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Bolton",
+    "county": "Columbus",
+    "zip_codes": [
+      "28423"
+    ],
+    "population": 469
+  },
+  {
+    "city": "Bonnetsville",
+    "county": "Sampson",
+    "zip_codes": [
+      "28328"
+    ],
+    "population": 1368
+  },
+  {
+    "city": "Boone",
+    "county": "Watauga",
+    "zip_codes": [
+      "28607"
+    ],
+    "population": 19534
+  },
+  {
+    "city": "Boonville",
+    "county": "Yadkin",
+    "zip_codes": [
+      "27011"
+    ],
+    "population": 1502
+  },
+  {
+    "city": "Bostic",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28018",
+      "28043"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Bowdens",
+    "county": "Duplin",
+    "zip_codes": [
+      "28398"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Bowmore",
+    "county": "Hoke",
+    "zip_codes": [
+      "28376"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Brandywine Bay",
+    "county": "Carteret",
+    "zip_codes": [
+      "28557"
+    ],
+    "population": 1404
+  },
+  {
+    "city": "Brevard",
+    "county": "Transylvania",
+    "zip_codes": [
+      "28712",
+      "28768"
+    ],
+    "population": 7795
+  },
+  {
+    "city": "Briar Chapel",
+    "county": "Chatham",
+    "zip_codes": [
+      "27312",
+      "27516"
+    ],
+    "population": 6084
+  },
+  {
+    "city": "Brices Creek",
+    "county": "Craven",
+    "zip_codes": [
+      "28562",
+      "28573"
+    ],
+    "population": 3592
+  },
+  {
+    "city": "Bridgeton",
+    "county": "Craven",
+    "zip_codes": [
+      "28519",
+      "28560"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Broad Creek",
+    "county": "Carteret",
+    "zip_codes": [
+      "28570"
+    ],
+    "population": 1963
+  },
+  {
+    "city": "Broadway",
+    "county": "Lee",
+    "zip_codes": [
+      "27505"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Brogden",
+    "county": "Wayne",
+    "zip_codes": [
+      "28333"
+    ],
+    "population": 2712
+  },
+  {
+    "city": "Brookford",
+    "county": "Catawba",
+    "zip_codes": [
+      "28602"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Brunswick",
+    "county": "Columbus",
+    "zip_codes": [
+      "28424",
+      "28472"
+    ],
+    "population": 981
+  },
+  {
+    "city": "Bryson City",
+    "county": "Swain",
+    "zip_codes": [
+      "28713"
+    ],
+    "population": 1676
+  },
+  {
+    "city": "Buies Creek",
+    "county": "Harnett",
+    "zip_codes": [
+      "27506",
+      "27546"
+    ],
+    "population": 3613
+  },
+  {
+    "city": "Bunn",
+    "county": "Franklin",
+    "zip_codes": [
+      "27508"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Bunnlevel",
+    "county": "Harnett",
+    "zip_codes": [
+      "28323"
+    ],
+    "population": 806
+  },
+  {
+    "city": "Burgaw",
+    "county": "Pender",
+    "zip_codes": [
+      "28425"
+    ],
+    "population": 3249
+  },
+  {
+    "city": "Burlington",
+    "county": "Alamance",
+    "zip_codes": [
+      "27215",
+      "27217",
+      "27253",
+      "27377"
+    ],
+    "population": 58599
+  },
+  {
+    "city": "Burnsville",
+    "county": "Yancey",
+    "zip_codes": [
+      "28714"
+    ],
+    "population": 2143
+  },
+  {
+    "city": "Butner",
+    "county": "Granville",
+    "zip_codes": [
+      "27509",
+      "27522",
+      "27581"
+    ],
+    "population": 7996
+  },
+  {
+    "city": "Butters",
+    "county": "Bladen",
+    "zip_codes": [
+      "28320"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Buxton",
+    "county": "Dare",
+    "zip_codes": [
+      "27920"
+    ],
+    "population": 1451
+  },
+  {
+    "city": "Cajah's Mountain",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28638",
+      "28645"
+    ],
+    "population": 2696
+  },
+  {
+    "city": "Calabash",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28467",
+      "28468"
+    ],
+    "population": 2397
+  },
+  {
+    "city": "Calypso",
+    "county": "Duplin",
+    "zip_codes": [
+      "28325",
+      "28365"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Camden",
+    "county": "Camden",
+    "zip_codes": [
+      "27921"
+    ],
+    "population": 1072
+  },
+  {
+    "city": "Cameron",
+    "county": "Moore",
+    "zip_codes": [
+      "28326"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Candor",
+    "county": "Montgomery",
+    "zip_codes": [
+      "27209",
+      "27229"
+    ],
+    "population": 1284
+  },
+  {
+    "city": "Canton",
+    "county": "Haywood",
+    "zip_codes": [
+      "28716"
+    ],
+    "population": 4417
+  },
+  {
+    "city": "Cape Carteret",
+    "county": "Carteret",
+    "zip_codes": [
+      "28584"
+    ],
+    "population": 2598
+  },
+  {
+    "city": "Cape Colony",
+    "county": "Chowan",
+    "zip_codes": [
+      "27932"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Caroleen",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28019",
+      "28040",
+      "28114"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Carolina Beach",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28428"
+    ],
+    "population": 6665
+  },
+  {
+    "city": "Carolina Meadows",
+    "county": "Chatham",
+    "zip_codes": [
+      "27517"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Carolina Shores",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28467"
+    ],
+    "population": 4843
+  },
+  {
+    "city": "Carrboro",
+    "county": "Orange",
+    "zip_codes": [
+      "27510",
+      "27516"
+    ],
+    "population": 21170
+  },
+  {
+    "city": "Carthage",
+    "county": "Moore",
+    "zip_codes": [
+      "28326",
+      "28327"
+    ],
+    "population": 2840
+  },
+  {
+    "city": "Cary",
+    "county": "Wake",
+    "zip_codes": [
+      "27511",
+      "27513",
+      "27518",
+      "27519",
+      "27523",
+      "27539",
+      "27560",
+      "27607"
+    ],
+    "population": 176686
+  },
+  {
+    "city": "Casar",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28020"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Cashiers",
+    "county": "Jackson",
+    "zip_codes": [
+      "28717"
+    ],
+    "population": 825
+  },
+  {
+    "city": "Castalia",
+    "county": "Nash",
+    "zip_codes": [
+      "27816"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Castle Hayne",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28429"
+    ],
+    "population": 978
+  },
+  {
+    "city": "Caswell Beach",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28465"
+    ],
+    "population": 486
+  },
+  {
+    "city": "Catawba",
+    "county": "Catawba",
+    "zip_codes": [
+      "28609",
+      "28610"
+    ],
+    "population": 632
+  },
+  {
+    "city": "Cedar Point",
+    "county": "Carteret",
+    "zip_codes": [
+      "28584"
+    ],
+    "population": 2005
+  },
+  {
+    "city": "Cedar Rock",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28645"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Centerville",
+    "county": "Franklin",
+    "zip_codes": [
+      "27549"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Cerro Gordo",
+    "county": "Columbus",
+    "zip_codes": [
+      "28430"
+    ],
+    "population": 335
+  },
+  {
+    "city": "Chadbourn",
+    "county": "Columbus",
+    "zip_codes": [
+      "28431"
+    ],
+    "population": 1347
+  },
+  {
+    "city": "Chapel Hill",
+    "county": "Orange",
+    "zip_codes": [
+      "27514",
+      "27516",
+      "27517",
+      "27599",
+      "27707"
+    ],
+    "population": 59889
+  },
+  {
+    "city": "Charlotte",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28105",
+      "28134",
+      "28202",
+      "28203",
+      "28204",
+      "28205",
+      "28206",
+      "28207",
+      "28208",
+      "28209",
+      "28210",
+      "28211",
+      "28212",
+      "28213",
+      "28214",
+      "28215",
+      "28216",
+      "28217",
+      "28223",
+      "28226",
+      "28227",
+      "28244",
+      "28262",
+      "28269",
+      "28270",
+      "28273",
+      "28274",
+      "28277",
+      "28278",
+      "28280",
+      "28282"
+    ],
+    "population": 886283
+  },
+  {
+    "city": "Cherokee",
+    "county": "Swain",
+    "zip_codes": [
+      "28719",
+      "28789"
+    ],
+    "population": 1631
+  },
+  {
+    "city": "Cherry Branch",
+    "county": "Craven",
+    "zip_codes": [
+      "28532"
+    ],
+    "population": 1406
+  },
+  {
+    "city": "Cherryville",
+    "county": "Gaston",
+    "zip_codes": [
+      "28021"
+    ],
+    "population": 6154
+  },
+  {
+    "city": "Chimney Rock Village",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28711",
+      "28720",
+      "28746"
+    ],
+    "population": 131
+  },
+  {
+    "city": "China Grove",
+    "county": "Rowan",
+    "zip_codes": [
+      "28023"
+    ],
+    "population": 4487
+  },
+  {
+    "city": "Chinquapin",
+    "county": "Duplin",
+    "zip_codes": [
+      "28518",
+      "28521"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Chocowinity",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27817"
+    ],
+    "population": 1090
+  },
+  {
+    "city": "Chowan Beach",
+    "county": "Chowan",
+    "zip_codes": [
+      "27932"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Claremont",
+    "county": "Catawba",
+    "zip_codes": [
+      "28610",
+      "28613"
+    ],
+    "population": 2051
+  },
+  {
+    "city": "Clarkton",
+    "county": "Bladen",
+    "zip_codes": [
+      "28433"
+    ],
+    "population": 875
+  },
+  {
+    "city": "Clayton",
+    "county": "Johnston",
+    "zip_codes": [
+      "27520",
+      "27527"
+    ],
+    "population": 28043
+  },
+  {
+    "city": "Clemmons",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27012",
+      "27103"
+    ],
+    "population": 21574
+  },
+  {
+    "city": "Cleveland",
+    "county": "Rowan",
+    "zip_codes": [
+      "27013"
+    ],
+    "population": 1053
+  },
+  {
+    "city": "Cliffside",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28024",
+      "28114"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Clinton",
+    "county": "Sampson",
+    "zip_codes": [
+      "28328"
+    ],
+    "population": 8336
+  },
+  {
+    "city": "Clyde",
+    "county": "Haywood",
+    "zip_codes": [
+      "28721"
+    ],
+    "population": 1522
+  },
+  {
+    "city": "Coats",
+    "county": "Harnett",
+    "zip_codes": [
+      "27521"
+    ],
+    "population": 2029
+  },
+  {
+    "city": "Cofield",
+    "county": "Hertford",
+    "zip_codes": [
+      "27922"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Coinjock",
+    "county": "Currituck",
+    "zip_codes": [
+      "27917",
+      "27923"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Colerain",
+    "county": "Bertie",
+    "zip_codes": [
+      "27924"
+    ],
+    "population": 291
+  },
+  {
+    "city": "Columbia",
+    "county": "Tyrrell",
+    "zip_codes": [
+      "27925"
+    ],
+    "population": 674
+  },
+  {
+    "city": "Columbus",
+    "county": "Polk",
+    "zip_codes": [
+      "28722",
+      "28756"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Como",
+    "county": "Hertford",
+    "zip_codes": [
+      "27818"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Concord",
+    "county": "Cabarrus",
+    "zip_codes": [
+      "28025",
+      "28027",
+      "28269"
+    ],
+    "population": 106518
+  },
+  {
+    "city": "Conetoe",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27819",
+      "27886"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Connelly Springs",
+    "county": "Burke",
+    "zip_codes": [
+      "28612"
+    ],
+    "population": 2342
+  },
+  {
+    "city": "Conover",
+    "county": "Catawba",
+    "zip_codes": [
+      "28601",
+      "28613"
+    ],
+    "population": 8491
+  },
+  {
+    "city": "Conway",
+    "county": "Northampton",
+    "zip_codes": [
+      "27820"
+    ],
+    "population": 730
+  },
+  {
+    "city": "Cooleemee",
+    "county": "Davie",
+    "zip_codes": [
+      "27014",
+      "27028"
+    ],
+    "population": 984
+  },
+  {
+    "city": "Cordova",
+    "county": "Richmond",
+    "zip_codes": [
+      "28330",
+      "28379"
+    ],
+    "population": 1343
+  },
+  {
+    "city": "Cornelius",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28031",
+      "28078"
+    ],
+    "population": 32009
+  },
+  {
+    "city": "Cove City",
+    "county": "Craven",
+    "zip_codes": [
+      "28523"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Cove Creek",
+    "county": "Watauga",
+    "zip_codes": [
+      "28679",
+      "28692",
+      "28698"
+    ],
+    "population": 1533
+  },
+  {
+    "city": "Cramerton",
+    "county": "Gaston",
+    "zip_codes": [
+      "28012",
+      "28032",
+      "28056"
+    ],
+    "population": 5376
+  },
+  {
+    "city": "Creedmoor",
+    "county": "Granville",
+    "zip_codes": [
+      "27522"
+    ],
+    "population": 4957
+  },
+  {
+    "city": "Creswell",
+    "county": "Washington",
+    "zip_codes": [
+      "27928"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Cricket",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28659",
+      "28697"
+    ],
+    "population": 2512
+  },
+  {
+    "city": "Crossnore",
+    "county": "Avery",
+    "zip_codes": [
+      "28616"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Crouse",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28033",
+      "28092"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Cullowhee",
+    "county": "Jackson",
+    "zip_codes": [
+      "28723",
+      "28779"
+    ],
+    "population": 7300
+  },
+  {
+    "city": "Cypress Landing",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27817"
+    ],
+    "population": 1037
+  },
+  {
+    "city": "Dallas",
+    "county": "Gaston",
+    "zip_codes": [
+      "28034"
+    ],
+    "population": 6012
+  },
+  {
+    "city": "Dana",
+    "county": "Henderson",
+    "zip_codes": [
+      "28731",
+      "28792"
+    ],
+    "population": 3824
+  },
+  {
+    "city": "Danbury",
+    "county": "Stokes",
+    "zip_codes": [
+      "27016"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Davidson",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28036",
+      "28115"
+    ],
+    "population": 14852
+  },
+  {
+    "city": "Davis",
+    "county": "Carteret",
+    "zip_codes": [
+      "28524"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Deep Run",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28525"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Deercroft",
+    "county": "Scotland",
+    "zip_codes": [
+      "28396"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Delco",
+    "county": "Columbus",
+    "zip_codes": [
+      "28436"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Dellview",
+    "county": "Gaston",
+    "zip_codes": [
+      "28021"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Delway",
+    "county": "Sampson",
+    "zip_codes": [
+      "28453",
+      "28458"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Denton",
+    "county": "Davidson",
+    "zip_codes": [
+      "27239",
+      "27292"
+    ],
+    "population": 1271
+  },
+  {
+    "city": "Denver",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28037"
+    ],
+    "population": 2483
+  },
+  {
+    "city": "Dillsboro",
+    "county": "Jackson",
+    "zip_codes": [
+      "28725",
+      "28779"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Dobbins Heights",
+    "county": "Richmond",
+    "zip_codes": [
+      "28345"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Dobson",
+    "county": "Surry",
+    "zip_codes": [
+      "27017"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "Dortches",
+    "county": "Nash",
+    "zip_codes": [
+      "27804",
+      "27809"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Dover",
+    "county": "Craven",
+    "zip_codes": [
+      "28526"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Drexel",
+    "county": "Burke",
+    "zip_codes": [
+      "28619",
+      "28655"
+    ],
+    "population": 1862
+  },
+  {
+    "city": "Dublin",
+    "county": "Bladen",
+    "zip_codes": [
+      "28332"
+    ],
+    "population": 482
+  },
+  {
+    "city": "Duck",
+    "county": "Dare",
+    "zip_codes": [
+      "27949"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Dudley",
+    "county": "Wayne",
+    "zip_codes": [
+      "28333"
+    ],
+    "population": 2320
+  },
+  {
+    "city": "Dundarrach",
+    "county": "Hoke",
+    "zip_codes": [
+      "28357",
+      "28376",
+      "28386"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Dunn",
+    "county": "Harnett",
+    "zip_codes": [
+      "28334",
+      "28339"
+    ],
+    "population": 8512
+  },
+  {
+    "city": "Durham",
+    "county": "Durham",
+    "zip_codes": [
+      "27517",
+      "27560",
+      "27701",
+      "27703",
+      "27704",
+      "27705",
+      "27707",
+      "27708",
+      "27712",
+      "27713"
+    ],
+    "population": 288465
+  },
+  {
+    "city": "Earl",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28073",
+      "28152"
+    ],
+    "population": 367
+  },
+  {
+    "city": "East Arcadia",
+    "county": "Bladen",
+    "zip_codes": [
+      "28456"
+    ],
+    "population": 313
+  },
+  {
+    "city": "East Bend",
+    "county": "Yadkin",
+    "zip_codes": [
+      "27018"
+    ],
+    "population": 765
+  },
+  {
+    "city": "East Flat Rock",
+    "county": "Henderson",
+    "zip_codes": [
+      "28726",
+      "28731",
+      "28790",
+      "28792"
+    ],
+    "population": 6468
+  },
+  {
+    "city": "East Laurinburg",
+    "county": "Scotland",
+    "zip_codes": [
+      "28352"
+    ],
+    "population": 315
+  },
+  {
+    "city": "East Rockingham",
+    "county": "Richmond",
+    "zip_codes": [
+      "28379"
+    ],
+    "population": 3177
+  },
+  {
+    "city": "East Spencer",
+    "county": "Rowan",
+    "zip_codes": [
+      "28039",
+      "28144",
+      "28146"
+    ],
+    "population": 1309
+  },
+  {
+    "city": "Eastover",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28312",
+      "28395"
+    ],
+    "population": 3666
+  },
+  {
+    "city": "Eden",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27288"
+    ],
+    "population": 15353
+  },
+  {
+    "city": "Edenton",
+    "county": "Chowan",
+    "zip_codes": [
+      "27932"
+    ],
+    "population": 4480
+  },
+  {
+    "city": "Edneyville",
+    "county": "Henderson",
+    "zip_codes": [
+      "28792"
+    ],
+    "population": 2698
+  },
+  {
+    "city": "Efland",
+    "county": "Orange",
+    "zip_codes": [
+      "27243"
+    ],
+    "population": 1064
+  },
+  {
+    "city": "Elizabeth City",
+    "county": "Pasquotank",
+    "zip_codes": [
+      "27909"
+    ],
+    "population": 18740
+  },
+  {
+    "city": "Elizabethtown",
+    "county": "Bladen",
+    "zip_codes": [
+      "28337"
+    ],
+    "population": 3294
+  },
+  {
+    "city": "Elk Park",
+    "county": "Avery",
+    "zip_codes": [
+      "28622"
+    ],
+    "population": 694
+  },
+  {
+    "city": "Elkin",
+    "county": "Surry",
+    "zip_codes": [
+      "28621"
+    ],
+    "population": 4025
+  },
+  {
+    "city": "Ellenboro",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28040"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Ellerbe",
+    "county": "Richmond",
+    "zip_codes": [
+      "28338"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Elm City",
+    "county": "Wilson",
+    "zip_codes": [
+      "27803",
+      "27822"
+    ],
+    "population": 1173
+  },
+  {
+    "city": "Elon",
+    "county": "Alamance",
+    "zip_codes": [
+      "27215",
+      "27244"
+    ],
+    "population": 11325
+  },
+  {
+    "city": "Elrod",
+    "county": "Robeson",
+    "zip_codes": [
+      "28383"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Elroy",
+    "county": "Wayne",
+    "zip_codes": [
+      "27534"
+    ],
+    "population": 3507
+  },
+  {
+    "city": "Emerald Isle",
+    "county": "Carteret",
+    "zip_codes": [
+      "28594"
+    ],
+    "population": 3915
+  },
+  {
+    "city": "Emma",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28806"
+    ],
+    "population": 2757
+  },
+  {
+    "city": "Enfield",
+    "county": "Halifax",
+    "zip_codes": [
+      "27823"
+    ],
+    "population": 1967
+  },
+  {
+    "city": "Engelhard",
+    "county": "Hyde",
+    "zip_codes": [
+      "27824"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Enochville",
+    "county": "Rowan",
+    "zip_codes": [
+      "28023",
+      "28081"
+    ],
+    "population": 3392
+  },
+  {
+    "city": "Erwin",
+    "county": "Harnett",
+    "zip_codes": [
+      "28334",
+      "28339"
+    ],
+    "population": 4617
+  },
+  {
+    "city": "Etowah",
+    "county": "Henderson",
+    "zip_codes": [
+      "28729",
+      "28739",
+      "28742"
+    ],
+    "population": 7765
+  },
+  {
+    "city": "Eureka",
+    "county": "Wayne",
+    "zip_codes": [
+      "27830"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Everetts",
+    "county": "Martin",
+    "zip_codes": [
+      "27825",
+      "27892"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Evergreen",
+    "county": "Columbus",
+    "zip_codes": [
+      "28438"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Fair Bluff",
+    "county": "Columbus",
+    "zip_codes": [
+      "28438",
+      "28439"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Fairfield",
+    "county": "Hyde",
+    "zip_codes": [
+      "27826"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Fairfield Harbour",
+    "county": "Craven",
+    "zip_codes": [
+      "28560"
+    ],
+    "population": 2898
+  },
+  {
+    "city": "Fairmont",
+    "county": "Robeson",
+    "zip_codes": [
+      "28340"
+    ],
+    "population": 2326
+  },
+  {
+    "city": "Fairplains",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28659"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Fairview",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28730"
+    ],
+    "population": 2327
+  },
+  {
+    "city": "Fairview",
+    "county": "Union",
+    "zip_codes": [
+      "28079",
+      "28107",
+      "28110"
+    ],
+    "population": 3549
+  },
+  {
+    "city": "Faison",
+    "county": "Duplin",
+    "zip_codes": [
+      "28341"
+    ],
+    "population": 826
+  },
+  {
+    "city": "Faith",
+    "county": "Rowan",
+    "zip_codes": [
+      "28041",
+      "28146"
+    ],
+    "population": 1090
+  },
+  {
+    "city": "Falcon",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28331",
+      "28342",
+      "28344"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Falkland",
+    "county": "Pitt",
+    "zip_codes": [
+      "27827",
+      "27829"
+    ],
+    "population": 119
+  },
+  {
+    "city": "Fallston",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28042",
+      "28090",
+      "28150"
+    ],
+    "population": 602
+  },
+  {
+    "city": "Farmington",
+    "county": "Davie",
+    "zip_codes": [
+      "27028"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Farmville",
+    "county": "Pitt",
+    "zip_codes": [
+      "27828"
+    ],
+    "population": 4493
+  },
+  {
+    "city": "Fayetteville",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28301",
+      "28303",
+      "28304",
+      "28305",
+      "28306",
+      "28307",
+      "28308",
+      "28310",
+      "28311",
+      "28312",
+      "28314",
+      "28390"
+    ],
+    "population": 209692
+  },
+  {
+    "city": "Fearrington Village",
+    "county": "Chatham",
+    "zip_codes": [
+      "27312"
+    ],
+    "population": 2535
+  },
+  {
+    "city": "Five Points",
+    "county": "Hoke",
+    "zip_codes": [
+      "28376"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "Flat Rock",
+    "county": "Henderson",
+    "zip_codes": [
+      "28731",
+      "28739",
+      "28792"
+    ],
+    "population": 3502
+  },
+  {
+    "city": "Flat Rock",
+    "county": "Surry",
+    "zip_codes": [
+      "27030"
+    ],
+    "population": 1141
+  },
+  {
+    "city": "Fletcher",
+    "county": "Henderson",
+    "zip_codes": [
+      "28704",
+      "28732"
+    ],
+    "population": 8022
+  },
+  {
+    "city": "Fontana Dam",
+    "county": "Graham",
+    "zip_codes": [
+      "28733"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Forest City",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28043"
+    ],
+    "population": 7368
+  },
+  {
+    "city": "Forest Hills",
+    "county": "Jackson",
+    "zip_codes": [
+      "28723"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Forest Oaks",
+    "county": "Guilford",
+    "zip_codes": [
+      "27406"
+    ],
+    "population": 4095
+  },
+  {
+    "city": "Foscoe",
+    "county": "Watauga",
+    "zip_codes": [
+      "28604",
+      "28607"
+    ],
+    "population": 1257
+  },
+  {
+    "city": "Fountain",
+    "county": "Pitt",
+    "zip_codes": [
+      "27828",
+      "27829"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Four Oaks",
+    "county": "Johnston",
+    "zip_codes": [
+      "27524"
+    ],
+    "population": 2372
+  },
+  {
+    "city": "Foxfire",
+    "county": "Moore",
+    "zip_codes": [
+      "27281",
+      "27376",
+      "28315"
+    ],
+    "population": 1730
+  },
+  {
+    "city": "Franklin",
+    "county": "Macon",
+    "zip_codes": [
+      "28734"
+    ],
+    "population": 4221
+  },
+  {
+    "city": "Franklinton",
+    "county": "Franklin",
+    "zip_codes": [
+      "27525"
+    ],
+    "population": 2562
+  },
+  {
+    "city": "Franklinville",
+    "county": "Randolph",
+    "zip_codes": [
+      "27248",
+      "27316"
+    ],
+    "population": 1129
+  },
+  {
+    "city": "Fremont",
+    "county": "Wayne",
+    "zip_codes": [
+      "27830"
+    ],
+    "population": 948
+  },
+  {
+    "city": "Frisco",
+    "county": "Dare",
+    "zip_codes": [
+      "27936"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Fruitland",
+    "county": "Henderson",
+    "zip_codes": [
+      "28792"
+    ],
+    "population": 2417
+  },
+  {
+    "city": "Fuquay-Varina",
+    "county": "Wake",
+    "zip_codes": [
+      "27526",
+      "27539",
+      "27540",
+      "27592",
+      "27603"
+    ],
+    "population": 37749
+  },
+  {
+    "city": "Gamewell",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28645"
+    ],
+    "population": 3701
+  },
+  {
+    "city": "Garland",
+    "county": "Sampson",
+    "zip_codes": [
+      "28441"
+    ],
+    "population": 914
+  },
+  {
+    "city": "Garner",
+    "county": "Wake",
+    "zip_codes": [
+      "27529",
+      "27603",
+      "27610"
+    ],
+    "population": 32543
+  },
+  {
+    "city": "Garysburg",
+    "county": "Northampton",
+    "zip_codes": [
+      "27831"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Gaston",
+    "county": "Northampton",
+    "zip_codes": [
+      "27831",
+      "27832"
+    ],
+    "population": 864
+  },
+  {
+    "city": "Gastonia",
+    "county": "Gaston",
+    "zip_codes": [
+      "28016",
+      "28034",
+      "28052",
+      "28054",
+      "28056",
+      "28086"
+    ],
+    "population": 81632
+  },
+  {
+    "city": "Gatesville",
+    "county": "Gates",
+    "zip_codes": [
+      "27938"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Germanton",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27019"
+    ],
+    "population": 851
+  },
+  {
+    "city": "Gerton",
+    "county": "Henderson",
+    "zip_codes": [
+      "28735"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Gibson",
+    "county": "Scotland",
+    "zip_codes": [
+      "28343"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Gibsonville",
+    "county": "Guilford",
+    "zip_codes": [
+      "27215",
+      "27244",
+      "27249",
+      "27377"
+    ],
+    "population": 9289
+  },
+  {
+    "city": "Glen Alpine",
+    "county": "Burke",
+    "zip_codes": [
+      "28628",
+      "28655"
+    ],
+    "population": 1995
+  },
+  {
+    "city": "Glen Raven",
+    "county": "Alamance",
+    "zip_codes": [
+      "27217",
+      "27244"
+    ],
+    "population": 3684
+  },
+  {
+    "city": "Glenville",
+    "county": "Jackson",
+    "zip_codes": [
+      "28736"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Glenwood",
+    "county": "McDowell",
+    "zip_codes": [
+      "28752"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Gloucester",
+    "county": "Carteret",
+    "zip_codes": [
+      "28528"
+    ],
+    "population": 514
+  },
+  {
+    "city": "Godwin",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28344"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Gold Hill",
+    "county": "Rowan",
+    "zip_codes": [
+      "28071"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Goldsboro",
+    "county": "Wayne",
+    "zip_codes": [
+      "27530",
+      "27531",
+      "27533",
+      "27534",
+      "28333"
+    ],
+    "population": 33448
+  },
+  {
+    "city": "Goldston",
+    "county": "Chatham",
+    "zip_codes": [
+      "27252"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Gorman",
+    "county": "Durham",
+    "zip_codes": [
+      "27704"
+    ],
+    "population": 1447
+  },
+  {
+    "city": "Governors Club",
+    "county": "Chatham",
+    "zip_codes": [
+      "27517"
+    ],
+    "population": 1772
+  },
+  {
+    "city": "Governors Village",
+    "county": "Chatham",
+    "zip_codes": [
+      "27517"
+    ],
+    "population": 2148
+  },
+  {
+    "city": "Graham",
+    "county": "Alamance",
+    "zip_codes": [
+      "27253",
+      "27258",
+      "27302"
+    ],
+    "population": 17537
+  },
+  {
+    "city": "Graingers",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28501",
+      "28530"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Grandfather Village",
+    "county": "Avery",
+    "zip_codes": [
+      "28646"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Grandy",
+    "county": "Currituck",
+    "zip_codes": [
+      "27939",
+      "27965"
+    ],
+    "population": 2443
+  },
+  {
+    "city": "Granite Falls",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28630"
+    ],
+    "population": 4921
+  },
+  {
+    "city": "Granite Quarry",
+    "county": "Rowan",
+    "zip_codes": [
+      "28072",
+      "28146"
+    ],
+    "population": 3015
+  },
+  {
+    "city": "Grantsboro",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28529"
+    ],
+    "population": 698
+  },
+  {
+    "city": "Green Level",
+    "county": "Alamance",
+    "zip_codes": [
+      "27217"
+    ],
+    "population": 3179
+  },
+  {
+    "city": "Greenevers",
+    "county": "Duplin",
+    "zip_codes": [
+      "28458"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Greensboro",
+    "county": "Guilford",
+    "zip_codes": [
+      "27214",
+      "27235",
+      "27301",
+      "27358",
+      "27401",
+      "27403",
+      "27405",
+      "27406",
+      "27407",
+      "27408",
+      "27409",
+      "27410",
+      "27411",
+      "27412",
+      "27455"
+    ],
+    "population": 298564
+  },
+  {
+    "city": "Greenville",
+    "county": "Pitt",
+    "zip_codes": [
+      "27834",
+      "27858",
+      "28590"
+    ],
+    "population": 88540
+  },
+  {
+    "city": "Grifton",
+    "county": "Pitt",
+    "zip_codes": [
+      "28513",
+      "28530"
+    ],
+    "population": 2661
+  },
+  {
+    "city": "Grimesland",
+    "county": "Pitt",
+    "zip_codes": [
+      "27837"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Grover",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28073"
+    ],
+    "population": 602
+  },
+  {
+    "city": "Gulf",
+    "county": "Chatham",
+    "zip_codes": [
+      "27252",
+      "27256",
+      "27330"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Half Moon",
+    "county": "Onslow",
+    "zip_codes": [
+      "28540",
+      "28546"
+    ],
+    "population": 7780
+  },
+  {
+    "city": "Halifax",
+    "county": "Halifax",
+    "zip_codes": [
+      "27839"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Hallsboro",
+    "county": "Columbus",
+    "zip_codes": [
+      "28442"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Hamilton",
+    "county": "Martin",
+    "zip_codes": [
+      "27840"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Hamlet",
+    "county": "Richmond",
+    "zip_codes": [
+      "28345"
+    ],
+    "population": 6000
+  },
+  {
+    "city": "Hampstead",
+    "county": "Pender",
+    "zip_codes": [
+      "28443",
+      "28457"
+    ],
+    "population": 9129
+  },
+  {
+    "city": "Harkers Island",
+    "county": "Carteret",
+    "zip_codes": [
+      "28531"
+    ],
+    "population": 1080
+  },
+  {
+    "city": "Harmony",
+    "county": "Iredell",
+    "zip_codes": [
+      "28634"
+    ],
+    "population": 811
+  },
+  {
+    "city": "Harrells",
+    "county": "Sampson",
+    "zip_codes": [
+      "28444"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Harrellsville",
+    "county": "Hertford",
+    "zip_codes": [
+      "27942"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Harrisburg",
+    "county": "Cabarrus",
+    "zip_codes": [
+      "28025",
+      "28027",
+      "28075",
+      "28213",
+      "28215"
+    ],
+    "population": 19203
+  },
+  {
+    "city": "Hassell",
+    "county": "Martin",
+    "zip_codes": [
+      "27841"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Hatteras",
+    "county": "Dare",
+    "zip_codes": [
+      "27943"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Havelock",
+    "county": "Craven",
+    "zip_codes": [
+      "28532",
+      "28533"
+    ],
+    "population": 16471
+  },
+  {
+    "city": "Haw River",
+    "county": "Alamance",
+    "zip_codes": [
+      "27217",
+      "27253",
+      "27258",
+      "27302"
+    ],
+    "population": 2581
+  },
+  {
+    "city": "Hayesville",
+    "county": "Clay",
+    "zip_codes": [
+      "28904"
+    ],
+    "population": 1110
+  },
+  {
+    "city": "Hays",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28635",
+      "28659"
+    ],
+    "population": 1355
+  },
+  {
+    "city": "Hemby Bridge",
+    "county": "Union",
+    "zip_codes": [
+      "28079"
+    ],
+    "population": 2079
+  },
+  {
+    "city": "Henderson",
+    "county": "Vance",
+    "zip_codes": [
+      "27536",
+      "27537"
+    ],
+    "population": 14922
+  },
+  {
+    "city": "Hendersonville",
+    "county": "Henderson",
+    "zip_codes": [
+      "28739",
+      "28791",
+      "28792"
+    ],
+    "population": 15253
+  },
+  {
+    "city": "Henrietta",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28076",
+      "28114"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Hertford",
+    "county": "Perquimans",
+    "zip_codes": [
+      "27944"
+    ],
+    "population": 1703
+  },
+  {
+    "city": "Hickory",
+    "county": "Catawba",
+    "zip_codes": [
+      "28601",
+      "28602",
+      "28613",
+      "28658"
+    ],
+    "population": 43747
+  },
+  {
+    "city": "Hiddenite",
+    "county": "Alexander",
+    "zip_codes": [
+      "28636"
+    ],
+    "population": 237
+  },
+  {
+    "city": "High Point",
+    "county": "Guilford",
+    "zip_codes": [
+      "27235",
+      "27260",
+      "27262",
+      "27263",
+      "27265",
+      "27268",
+      "27282",
+      "27409",
+      "27410"
+    ],
+    "population": 115263
+  },
+  {
+    "city": "High Shoals",
+    "county": "Gaston",
+    "zip_codes": [
+      "28034",
+      "28077",
+      "28092"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Highlands",
+    "county": "Macon",
+    "zip_codes": [
+      "28741"
+    ],
+    "population": 1276
+  },
+  {
+    "city": "Hightsville",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28401"
+    ],
+    "population": 707
+  },
+  {
+    "city": "Hildebran",
+    "county": "Burke",
+    "zip_codes": [
+      "28601",
+      "28612",
+      "28637"
+    ],
+    "population": 1860
+  },
+  {
+    "city": "Hillsborough",
+    "county": "Orange",
+    "zip_codes": [
+      "27278"
+    ],
+    "population": 9656
+  },
+  {
+    "city": "Hobgood",
+    "county": "Halifax",
+    "zip_codes": [
+      "27843"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Hobucken",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28537"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Hoffman",
+    "county": "Richmond",
+    "zip_codes": [
+      "28347"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Holden Beach",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28462"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Hollister",
+    "county": "Halifax",
+    "zip_codes": [
+      "27844"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Holly Ridge",
+    "county": "Onslow",
+    "zip_codes": [
+      "28445"
+    ],
+    "population": 4532
+  },
+  {
+    "city": "Holly Springs",
+    "county": "Wake",
+    "zip_codes": [
+      "27539",
+      "27540"
+    ],
+    "population": 43429
+  },
+  {
+    "city": "Hookerton",
+    "county": "Greene",
+    "zip_codes": [
+      "28538"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Hoopers Creek",
+    "county": "Henderson",
+    "zip_codes": [
+      "28732"
+    ],
+    "population": 1623
+  },
+  {
+    "city": "Hope Mills",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28304",
+      "28306",
+      "28348",
+      "28371"
+    ],
+    "population": 17823
+  },
+  {
+    "city": "Horse Shoe",
+    "county": "Henderson",
+    "zip_codes": [
+      "28739",
+      "28742",
+      "28759",
+      "28791"
+    ],
+    "population": 1699
+  },
+  {
+    "city": "Hot Springs",
+    "county": "Madison",
+    "zip_codes": [
+      "28743",
+      "28753"
+    ],
+    "population": 494
+  },
+  {
+    "city": "Hudson",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28638"
+    ],
+    "population": 3777
+  },
+  {
+    "city": "Huntersville",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28078"
+    ],
+    "population": 62458
+  },
+  {
+    "city": "Icard",
+    "county": "Burke",
+    "zip_codes": [
+      "28602",
+      "28612",
+      "28666"
+    ],
+    "population": 2291
+  },
+  {
+    "city": "Indian Beach",
+    "county": "Carteret",
+    "zip_codes": [
+      "28512",
+      "28575"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Indian Trail",
+    "county": "Union",
+    "zip_codes": [
+      "28079",
+      "28104",
+      "28110"
+    ],
+    "population": 41146
+  },
+  {
+    "city": "Ingold",
+    "county": "Sampson",
+    "zip_codes": [
+      "28328",
+      "28441"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Iron Station",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28080"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Ivanhoe",
+    "county": "Sampson",
+    "zip_codes": [
+      "28447"
+    ],
+    "population": 268
+  },
+  {
+    "city": "JAARS",
+    "county": "Union",
+    "zip_codes": [
+      "28173"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Jackson",
+    "county": "Northampton",
+    "zip_codes": [
+      "27845"
+    ],
+    "population": 688
+  },
+  {
+    "city": "Jackson Heights",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28504"
+    ],
+    "population": 1002
+  },
+  {
+    "city": "Jackson Springs",
+    "county": "Moore",
+    "zip_codes": [
+      "27281"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Onslow",
+    "zip_codes": [
+      "28540",
+      "28542",
+      "28543",
+      "28544",
+      "28546",
+      "28547"
+    ],
+    "population": 73507
+  },
+  {
+    "city": "James City",
+    "county": "Craven",
+    "zip_codes": [
+      "28560",
+      "28562"
+    ],
+    "population": 4859
+  },
+  {
+    "city": "Jamestown",
+    "county": "Guilford",
+    "zip_codes": [
+      "27260",
+      "27282",
+      "27407"
+    ],
+    "population": 3685
+  },
+  {
+    "city": "Jamesville",
+    "county": "Martin",
+    "zip_codes": [
+      "27846"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Jefferson",
+    "county": "Ashe",
+    "zip_codes": [
+      "28640"
+    ],
+    "population": 1852
+  },
+  {
+    "city": "Jonesville",
+    "county": "Yadkin",
+    "zip_codes": [
+      "28642"
+    ],
+    "population": 2782
+  },
+  {
+    "city": "Kannapolis",
+    "county": "Cabarrus",
+    "zip_codes": [
+      "28027",
+      "28036",
+      "28081",
+      "28083"
+    ],
+    "population": 56470
+  },
+  {
+    "city": "Keener",
+    "county": "Sampson",
+    "zip_codes": [
+      "28328"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Kelford",
+    "county": "Bertie",
+    "zip_codes": [
+      "27847"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Kelly",
+    "county": "Bladen",
+    "zip_codes": [
+      "28448"
+    ],
+    "population": 706
+  },
+  {
+    "city": "Kenansville",
+    "county": "Duplin",
+    "zip_codes": [
+      "28349"
+    ],
+    "population": 1157
+  },
+  {
+    "city": "Kenly",
+    "county": "Johnston",
+    "zip_codes": [
+      "27542"
+    ],
+    "population": 2351
+  },
+  {
+    "city": "Kernersville",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27235",
+      "27284"
+    ],
+    "population": 27439
+  },
+  {
+    "city": "Kill Devil Hills",
+    "county": "Dare",
+    "zip_codes": [
+      "27948"
+    ],
+    "population": 7727
+  },
+  {
+    "city": "King",
+    "county": "Stokes",
+    "zip_codes": [
+      "27021",
+      "27045",
+      "27050"
+    ],
+    "population": 7345
+  },
+  {
+    "city": "Kings Grant",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28405",
+      "28411"
+    ],
+    "population": 9061
+  },
+  {
+    "city": "Kings Mountain",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28086"
+    ],
+    "population": 11472
+  },
+  {
+    "city": "Kingstown",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28150"
+    ],
+    "population": 499
+  },
+  {
+    "city": "Kinston",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28501",
+      "28504"
+    ],
+    "population": 19576
+  },
+  {
+    "city": "Kittrell",
+    "county": "Vance",
+    "zip_codes": [
+      "27544"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Kitty Hawk",
+    "county": "Dare",
+    "zip_codes": [
+      "27949"
+    ],
+    "population": 3721
+  },
+  {
+    "city": "Knightdale",
+    "county": "Wake",
+    "zip_codes": [
+      "27545",
+      "27604"
+    ],
+    "population": 19532
+  },
+  {
+    "city": "Kure Beach",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28428",
+      "28449"
+    ],
+    "population": 2323
+  },
+  {
+    "city": "La Grange",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28551"
+    ],
+    "population": 2692
+  },
+  {
+    "city": "Lake Junaluska",
+    "county": "Haywood",
+    "zip_codes": [
+      "28721",
+      "28745",
+      "28785",
+      "28786"
+    ],
+    "population": 2903
+  },
+  {
+    "city": "Lake Lure",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28746"
+    ],
+    "population": 1488
+  },
+  {
+    "city": "Lake Norman of Catawba",
+    "county": "Catawba",
+    "zip_codes": [
+      "28037",
+      "28609",
+      "28673",
+      "28682"
+    ],
+    "population": 9308
+  },
+  {
+    "city": "Lake Norman of Iredell",
+    "county": "Iredell",
+    "zip_codes": [
+      "28117"
+    ],
+    "population": 12496
+  },
+  {
+    "city": "Lake Park",
+    "county": "Union",
+    "zip_codes": [
+      "28079"
+    ],
+    "population": 3365
+  },
+  {
+    "city": "Lake Royale",
+    "county": "Franklin",
+    "zip_codes": [
+      "27549",
+      "27882"
+    ],
+    "population": 2959
+  },
+  {
+    "city": "Lake Santeetlah",
+    "county": "Graham",
+    "zip_codes": [
+      "28771"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Lake Waccamaw",
+    "county": "Columbus",
+    "zip_codes": [
+      "28450"
+    ],
+    "population": 1666
+  },
+  {
+    "city": "Landis",
+    "county": "Rowan",
+    "zip_codes": [
+      "28023",
+      "28081",
+      "28083",
+      "28088"
+    ],
+    "population": 3726
+  },
+  {
+    "city": "Lansing",
+    "county": "Ashe",
+    "zip_codes": [
+      "28643"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Lasker",
+    "county": "Northampton",
+    "zip_codes": [
+      "27845"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Lattimore",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28089",
+      "28150"
+    ],
+    "population": 549
+  },
+  {
+    "city": "Laurel Hill",
+    "county": "Scotland",
+    "zip_codes": [
+      "28351",
+      "28352"
+    ],
+    "population": 916
+  },
+  {
+    "city": "Laurel Park",
+    "county": "Henderson",
+    "zip_codes": [
+      "28739",
+      "28791"
+    ],
+    "population": 2391
+  },
+  {
+    "city": "Laurinburg",
+    "county": "Scotland",
+    "zip_codes": [
+      "28352"
+    ],
+    "population": 15079
+  },
+  {
+    "city": "Lawndale",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28090"
+    ],
+    "population": 585
+  },
+  {
+    "city": "Leggett",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27886"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Leland",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28451",
+      "28479"
+    ],
+    "population": 26307
+  },
+  {
+    "city": "Lenoir",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28638",
+      "28645"
+    ],
+    "population": 18282
+  },
+  {
+    "city": "Lewiston Woodville",
+    "county": "Bertie",
+    "zip_codes": [
+      "27849"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Lewisville",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27012",
+      "27023",
+      "27040"
+    ],
+    "population": 13655
+  },
+  {
+    "city": "Lexington",
+    "county": "Davidson",
+    "zip_codes": [
+      "27292",
+      "27295"
+    ],
+    "population": 19691
+  },
+  {
+    "city": "Liberty",
+    "county": "Randolph",
+    "zip_codes": [
+      "27298"
+    ],
+    "population": 2678
+  },
+  {
+    "city": "Light Oak",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28150",
+      "28152"
+    ],
+    "population": 321
+  },
+  {
+    "city": "Lilesville",
+    "county": "Anson",
+    "zip_codes": [
+      "28091"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Lillington",
+    "county": "Harnett",
+    "zip_codes": [
+      "27546",
+      "28323"
+    ],
+    "population": 4683
+  },
+  {
+    "city": "Lincolnton",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28092"
+    ],
+    "population": 11503
+  },
+  {
+    "city": "Linden",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28356"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Linville",
+    "county": "Avery",
+    "zip_codes": [
+      "28646",
+      "28657"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Littleton",
+    "county": "Halifax",
+    "zip_codes": [
+      "27850"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Locust",
+    "county": "Stanly",
+    "zip_codes": [
+      "28097",
+      "28107",
+      "28124",
+      "28163"
+    ],
+    "population": 5529
+  },
+  {
+    "city": "Long Creek",
+    "county": "Pender",
+    "zip_codes": [
+      "28457"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Long View",
+    "county": "Catawba",
+    "zip_codes": [
+      "28601",
+      "28602"
+    ],
+    "population": 4967
+  },
+  {
+    "city": "Louisburg",
+    "county": "Franklin",
+    "zip_codes": [
+      "27549"
+    ],
+    "population": 3128
+  },
+  {
+    "city": "Love Valley",
+    "county": "Iredell",
+    "zip_codes": [
+      "28625"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Lowell",
+    "county": "Gaston",
+    "zip_codes": [
+      "28054",
+      "28056",
+      "28098"
+    ],
+    "population": 3711
+  },
+  {
+    "city": "Lowesville",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28037",
+      "28164"
+    ],
+    "population": 3737
+  },
+  {
+    "city": "Lowgap",
+    "county": "Surry",
+    "zip_codes": [
+      "27024"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Lucama",
+    "county": "Wilson",
+    "zip_codes": [
+      "27851"
+    ],
+    "population": 1108
+  },
+  {
+    "city": "Lumber Bridge",
+    "county": "Robeson",
+    "zip_codes": [
+      "28357"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Lumberton",
+    "county": "Robeson",
+    "zip_codes": [
+      "28358",
+      "28359",
+      "28360"
+    ],
+    "population": 19220
+  },
+  {
+    "city": "Macclesfield",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27852"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Macon",
+    "county": "Warren",
+    "zip_codes": [
+      "27551"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Madison",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27025"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Maggie Valley",
+    "county": "Haywood",
+    "zip_codes": [
+      "28751",
+      "28785",
+      "28786"
+    ],
+    "population": 2311
+  },
+  {
+    "city": "Magnolia",
+    "county": "Duplin",
+    "zip_codes": [
+      "28453"
+    ],
+    "population": 1109
+  },
+  {
+    "city": "Maiden",
+    "county": "Catawba",
+    "zip_codes": [
+      "28650",
+      "28658"
+    ],
+    "population": 3777
+  },
+  {
+    "city": "Mamers",
+    "county": "Harnett",
+    "zip_codes": [
+      "27546"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Manns Harbor",
+    "county": "Dare",
+    "zip_codes": [
+      "27953"
+    ],
+    "population": 972
+  },
+  {
+    "city": "Manteo",
+    "county": "Dare",
+    "zip_codes": [
+      "27954"
+    ],
+    "population": 1853
+  },
+  {
+    "city": "Mar-Mac",
+    "county": "Wayne",
+    "zip_codes": [
+      "27530",
+      "28333"
+    ],
+    "population": 2802
+  },
+  {
+    "city": "Marble",
+    "county": "Cherokee",
+    "zip_codes": [
+      "28905"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Marietta",
+    "county": "Robeson",
+    "zip_codes": [
+      "28340",
+      "28362"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Marion",
+    "county": "McDowell",
+    "zip_codes": [
+      "28752"
+    ],
+    "population": 7594
+  },
+  {
+    "city": "Mars Hill",
+    "county": "Madison",
+    "zip_codes": [
+      "28754"
+    ],
+    "population": 2738
+  },
+  {
+    "city": "Marshall",
+    "county": "Madison",
+    "zip_codes": [
+      "28753"
+    ],
+    "population": 846
+  },
+  {
+    "city": "Marshallberg",
+    "county": "Carteret",
+    "zip_codes": [
+      "28553"
+    ],
+    "population": 435
+  },
+  {
+    "city": "Marshville",
+    "county": "Union",
+    "zip_codes": [
+      "28103"
+    ],
+    "population": 2586
+  },
+  {
+    "city": "Marvin",
+    "county": "Union",
+    "zip_codes": [
+      "28173"
+    ],
+    "population": 6542
+  },
+  {
+    "city": "Matthews",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28104",
+      "28105"
+    ],
+    "population": 29959
+  },
+  {
+    "city": "Maury",
+    "county": "Greene",
+    "zip_codes": [
+      "28554",
+      "28580"
+    ],
+    "population": 1069
+  },
+  {
+    "city": "Maxton",
+    "county": "Robeson",
+    "zip_codes": [
+      "28364"
+    ],
+    "population": 2398
+  },
+  {
+    "city": "Mayodan",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27027",
+      "27048"
+    ],
+    "population": 2446
+  },
+  {
+    "city": "Maysville",
+    "county": "Jones",
+    "zip_codes": [
+      "28555"
+    ],
+    "population": 982
+  },
+  {
+    "city": "McAdenville",
+    "county": "Gaston",
+    "zip_codes": [
+      "28012",
+      "28056",
+      "28098",
+      "28101"
+    ],
+    "population": 1139
+  },
+  {
+    "city": "McDonald",
+    "county": "Robeson",
+    "zip_codes": [
+      "28340"
+    ],
+    "population": 99
+  },
+  {
+    "city": "McFarlan",
+    "county": "Anson",
+    "zip_codes": [
+      "28102"
+    ],
+    "population": 124
+  },
+  {
+    "city": "McLeansville",
+    "county": "Guilford",
+    "zip_codes": [
+      "27249",
+      "27301"
+    ],
+    "population": 740
+  },
+  {
+    "city": "Mebane",
+    "county": "Alamance",
+    "zip_codes": [
+      "27243",
+      "27302"
+    ],
+    "population": 18899
+  },
+  {
+    "city": "Mesic",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28515"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Micro",
+    "county": "Johnston",
+    "zip_codes": [
+      "27555"
+    ],
+    "population": 788
+  },
+  {
+    "city": "Middleburg",
+    "county": "Vance",
+    "zip_codes": [
+      "27556"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Middlesex",
+    "county": "Nash",
+    "zip_codes": [
+      "27557",
+      "27597"
+    ],
+    "population": 1005
+  },
+  {
+    "city": "Midland",
+    "county": "Cabarrus",
+    "zip_codes": [
+      "28025",
+      "28107"
+    ],
+    "population": 4758
+  },
+  {
+    "city": "Midway",
+    "county": "Davidson",
+    "zip_codes": [
+      "27107",
+      "27127",
+      "27295"
+    ],
+    "population": 4826
+  },
+  {
+    "city": "Millers Creek",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28651",
+      "28697"
+    ],
+    "population": 1469
+  },
+  {
+    "city": "Millingport",
+    "county": "Stanly",
+    "zip_codes": [
+      "28001",
+      "28127"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Mills River",
+    "county": "Henderson",
+    "zip_codes": [
+      "28732",
+      "28759"
+    ],
+    "population": 7214
+  },
+  {
+    "city": "Milton",
+    "county": "Caswell",
+    "zip_codes": [
+      "27305"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Milwaukee",
+    "county": "Northampton",
+    "zip_codes": [
+      "27820"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Mineral Springs",
+    "county": "Union",
+    "zip_codes": [
+      "28108",
+      "28112",
+      "28173"
+    ],
+    "population": 3244
+  },
+  {
+    "city": "Minnesott Beach",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28510"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Mint Hill",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28105",
+      "28227"
+    ],
+    "population": 26954
+  },
+  {
+    "city": "Misenheimer",
+    "county": "Stanly",
+    "zip_codes": [
+      "28071",
+      "28109",
+      "28137"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Mocksville",
+    "county": "Davie",
+    "zip_codes": [
+      "27028"
+    ],
+    "population": 6001
+  },
+  {
+    "city": "Momeyer",
+    "county": "Nash",
+    "zip_codes": [
+      "27856"
+    ],
+    "population": 415
+  },
+  {
+    "city": "Moncure",
+    "county": "Chatham",
+    "zip_codes": [
+      "27559"
+    ],
+    "population": 877
+  },
+  {
+    "city": "Monroe",
+    "county": "Union",
+    "zip_codes": [
+      "28079",
+      "28110",
+      "28112"
+    ],
+    "population": 35596
+  },
+  {
+    "city": "Montreat",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28757"
+    ],
+    "population": 474
+  },
+  {
+    "city": "Mooresboro",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28114",
+      "28152"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Mooresville",
+    "county": "Iredell",
+    "zip_codes": [
+      "28115",
+      "28117"
+    ],
+    "population": 51447
+  },
+  {
+    "city": "Moravian Falls",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28654",
+      "28697"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "Morehead City",
+    "county": "Carteret",
+    "zip_codes": [
+      "28516",
+      "28557",
+      "28570"
+    ],
+    "population": 9696
+  },
+  {
+    "city": "Morganton",
+    "county": "Burke",
+    "zip_codes": [
+      "28655"
+    ],
+    "population": 17541
+  },
+  {
+    "city": "Morrisville",
+    "county": "Wake",
+    "zip_codes": [
+      "27560"
+    ],
+    "population": 30471
+  },
+  {
+    "city": "Morven",
+    "county": "Anson",
+    "zip_codes": [
+      "28119"
+    ],
+    "population": 435
+  },
+  {
+    "city": "Mount Airy",
+    "county": "Surry",
+    "zip_codes": [
+      "27030"
+    ],
+    "population": 10631
+  },
+  {
+    "city": "Mount Gilead",
+    "county": "Montgomery",
+    "zip_codes": [
+      "27306"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Mount Holly",
+    "county": "Gaston",
+    "zip_codes": [
+      "28012",
+      "28120"
+    ],
+    "population": 17928
+  },
+  {
+    "city": "Mount Olive",
+    "county": "Wayne",
+    "zip_codes": [
+      "28365"
+    ],
+    "population": 4204
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Cabarrus",
+    "zip_codes": [
+      "28025",
+      "28124"
+    ],
+    "population": 1866
+  },
+  {
+    "city": "Mountain Home",
+    "county": "Henderson",
+    "zip_codes": [
+      "28758",
+      "28791",
+      "28792"
+    ],
+    "population": 3518
+  },
+  {
+    "city": "Mountain View",
+    "county": "Catawba",
+    "zip_codes": [
+      "28602"
+    ],
+    "population": 3068
+  },
+  {
+    "city": "Moyock",
+    "county": "Currituck",
+    "zip_codes": [
+      "27958"
+    ],
+    "population": 5669
+  },
+  {
+    "city": "Mulberry",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28659"
+    ],
+    "population": 2134
+  },
+  {
+    "city": "Murfreesboro",
+    "county": "Hertford",
+    "zip_codes": [
+      "27818",
+      "27855"
+    ],
+    "population": 2814
+  },
+  {
+    "city": "Murphy",
+    "county": "Cherokee",
+    "zip_codes": [
+      "28906"
+    ],
+    "population": 1356
+  },
+  {
+    "city": "Murraysville",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28405",
+      "28411"
+    ],
+    "population": 17307
+  },
+  {
+    "city": "Myrtle Grove",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28409",
+      "28412"
+    ],
+    "population": 12404
+  },
+  {
+    "city": "Nags Head",
+    "county": "Dare",
+    "zip_codes": [
+      "27959"
+    ],
+    "population": 3164
+  },
+  {
+    "city": "Nashville",
+    "county": "Nash",
+    "zip_codes": [
+      "27856"
+    ],
+    "population": 5672
+  },
+  {
+    "city": "Navassa",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28451"
+    ],
+    "population": 2148
+  },
+  {
+    "city": "Nebo",
+    "county": "McDowell",
+    "zip_codes": [
+      "28761"
+    ],
+    "population": 1608
+  },
+  {
+    "city": "Neuse Forest",
+    "county": "Craven",
+    "zip_codes": [
+      "28560"
+    ],
+    "population": 2406
+  },
+  {
+    "city": "New Bern",
+    "county": "Craven",
+    "zip_codes": [
+      "28560",
+      "28562"
+    ],
+    "population": 31563
+  },
+  {
+    "city": "New Hope",
+    "county": "Wayne",
+    "zip_codes": [
+      "27534",
+      "28551"
+    ],
+    "population": 1200
+  },
+  {
+    "city": "New London",
+    "county": "Stanly",
+    "zip_codes": [
+      "28127"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Newland",
+    "county": "Avery",
+    "zip_codes": [
+      "28657"
+    ],
+    "population": 815
+  },
+  {
+    "city": "Newport",
+    "county": "Carteret",
+    "zip_codes": [
+      "28570"
+    ],
+    "population": 4428
+  },
+  {
+    "city": "Newton",
+    "county": "Catawba",
+    "zip_codes": [
+      "28613",
+      "28658"
+    ],
+    "population": 13223
+  },
+  {
+    "city": "Newton Grove",
+    "county": "Sampson",
+    "zip_codes": [
+      "28366"
+    ],
+    "population": 574
+  },
+  {
+    "city": "Norlina",
+    "county": "Warren",
+    "zip_codes": [
+      "27563"
+    ],
+    "population": 1050
+  },
+  {
+    "city": "Norman",
+    "county": "Richmond",
+    "zip_codes": [
+      "27229",
+      "28367"
+    ],
+    "population": 138
+  },
+  {
+    "city": "North Topsail Beach",
+    "county": "Onslow",
+    "zip_codes": [
+      "28445",
+      "28460"
+    ],
+    "population": 699
+  },
+  {
+    "city": "North Wilkesboro",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28659"
+    ],
+    "population": 4348
+  },
+  {
+    "city": "Northchase",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28405"
+    ],
+    "population": 5879
+  },
+  {
+    "city": "Northlakes",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28601",
+      "28630"
+    ],
+    "population": 1462
+  },
+  {
+    "city": "Northwest",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28451",
+      "28456"
+    ],
+    "population": 690
+  },
+  {
+    "city": "Norwood",
+    "county": "Stanly",
+    "zip_codes": [
+      "28128"
+    ],
+    "population": 3110
+  },
+  {
+    "city": "Oak City",
+    "county": "Martin",
+    "zip_codes": [
+      "27857"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Oak Island",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28422",
+      "28461",
+      "28465"
+    ],
+    "population": 8888
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Guilford",
+    "zip_codes": [
+      "27284",
+      "27310",
+      "27358"
+    ],
+    "population": 7660
+  },
+  {
+    "city": "Oakboro",
+    "county": "Stanly",
+    "zip_codes": [
+      "28129",
+      "28163"
+    ],
+    "population": 2453
+  },
+  {
+    "city": "Ocean Isle Beach",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28469",
+      "28470"
+    ],
+    "population": 796
+  },
+  {
+    "city": "Ocracoke",
+    "county": "Hyde",
+    "zip_codes": [
+      "27960"
+    ],
+    "population": 709
+  },
+  {
+    "city": "Ogden",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28405",
+      "28411"
+    ],
+    "population": 8363
+  },
+  {
+    "city": "Old Fort",
+    "county": "McDowell",
+    "zip_codes": [
+      "28762"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Old Hundred",
+    "county": "Scotland",
+    "zip_codes": [
+      "28351"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Oriental",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28571"
+    ],
+    "population": 930
+  },
+  {
+    "city": "Orrum",
+    "county": "Robeson",
+    "zip_codes": [
+      "28369"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Ossipee",
+    "county": "Alamance",
+    "zip_codes": [
+      "27244"
+    ],
+    "population": 650
+  },
+  {
+    "city": "Oxford",
+    "county": "Granville",
+    "zip_codes": [
+      "27565"
+    ],
+    "population": 8897
+  },
+  {
+    "city": "Pantego",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27860"
+    ],
+    "population": 445
+  },
+  {
+    "city": "Parkton",
+    "county": "Robeson",
+    "zip_codes": [
+      "28371"
+    ],
+    "population": 515
+  },
+  {
+    "city": "Parmele",
+    "county": "Martin",
+    "zip_codes": [
+      "27861",
+      "27871"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Patterson Springs",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28073",
+      "28152"
+    ],
+    "population": 980
+  },
+  {
+    "city": "Peachland",
+    "county": "Anson",
+    "zip_codes": [
+      "28133"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Peletier",
+    "county": "Carteret",
+    "zip_codes": [
+      "28584"
+    ],
+    "population": 779
+  },
+  {
+    "city": "Pembroke",
+    "county": "Robeson",
+    "zip_codes": [
+      "28372"
+    ],
+    "population": 2823
+  },
+  {
+    "city": "Pikeville",
+    "county": "Wayne",
+    "zip_codes": [
+      "27863"
+    ],
+    "population": 747
+  },
+  {
+    "city": "Pilot Mountain",
+    "county": "Surry",
+    "zip_codes": [
+      "27041"
+    ],
+    "population": 1584
+  },
+  {
+    "city": "Pine Knoll Shores",
+    "county": "Carteret",
+    "zip_codes": [
+      "28512"
+    ],
+    "population": 1387
+  },
+  {
+    "city": "Pine Level",
+    "county": "Johnston",
+    "zip_codes": [
+      "27568",
+      "27569",
+      "27576",
+      "27577"
+    ],
+    "population": 2072
+  },
+  {
+    "city": "Pinebluff",
+    "county": "Moore",
+    "zip_codes": [
+      "28315",
+      "28373"
+    ],
+    "population": 1723
+  },
+  {
+    "city": "Pinehurst",
+    "county": "Moore",
+    "zip_codes": [
+      "27376",
+      "28315",
+      "28374",
+      "28387"
+    ],
+    "population": 17992
+  },
+  {
+    "city": "Pinetops",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27864"
+    ],
+    "population": 1323
+  },
+  {
+    "city": "Pinetown",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27865"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Pineville",
+    "county": "Mecklenburg",
+    "zip_codes": [
+      "28134",
+      "28210",
+      "28226"
+    ],
+    "population": 10780
+  },
+  {
+    "city": "Piney Green",
+    "county": "Onslow",
+    "zip_codes": [
+      "28544",
+      "28546"
+    ],
+    "population": 14205
+  },
+  {
+    "city": "Pink Hill",
+    "county": "Lenoir",
+    "zip_codes": [
+      "28572"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Pinnacle",
+    "county": "Stokes",
+    "zip_codes": [
+      "27043"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Pittsboro",
+    "county": "Chatham",
+    "zip_codes": [
+      "27312",
+      "27559"
+    ],
+    "population": 4640
+  },
+  {
+    "city": "Plain View",
+    "county": "Sampson",
+    "zip_codes": [
+      "28334"
+    ],
+    "population": 1647
+  },
+  {
+    "city": "Pleasant Garden",
+    "county": "Guilford",
+    "zip_codes": [
+      "27313",
+      "27406"
+    ],
+    "population": 4989
+  },
+  {
+    "city": "Pleasant Hill",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28621",
+      "28670"
+    ],
+    "population": 849
+  },
+  {
+    "city": "Plymouth",
+    "county": "Washington",
+    "zip_codes": [
+      "27962"
+    ],
+    "population": 3264
+  },
+  {
+    "city": "Polkton",
+    "county": "Anson",
+    "zip_codes": [
+      "28135"
+    ],
+    "population": 2759
+  },
+  {
+    "city": "Polkville",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28090",
+      "28136",
+      "28150"
+    ],
+    "population": 542
+  },
+  {
+    "city": "Pollocksville",
+    "county": "Jones",
+    "zip_codes": [
+      "28573"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Porters Neck",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28411"
+    ],
+    "population": 7102
+  },
+  {
+    "city": "Potters Hill",
+    "county": "Duplin",
+    "zip_codes": [
+      "28572"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Powellsville",
+    "county": "Bertie",
+    "zip_codes": [
+      "27967"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Princeton",
+    "county": "Johnston",
+    "zip_codes": [
+      "27569"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Princeville",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27886"
+    ],
+    "population": 1502
+  },
+  {
+    "city": "Proctorville",
+    "county": "Robeson",
+    "zip_codes": [
+      "28369",
+      "28375"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Prospect",
+    "county": "Robeson",
+    "zip_codes": [
+      "28364",
+      "28372"
+    ],
+    "population": 850
+  },
+  {
+    "city": "Pumpkin Center",
+    "county": "Onslow",
+    "zip_codes": [
+      "28546"
+    ],
+    "population": 1753
+  },
+  {
+    "city": "Raeford",
+    "county": "Hoke",
+    "zip_codes": [
+      "28376"
+    ],
+    "population": 4545
+  },
+  {
+    "city": "Raemon",
+    "county": "Robeson",
+    "zip_codes": [
+      "28364"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Raleigh",
+    "county": "Wake",
+    "zip_codes": [
+      "27601",
+      "27603",
+      "27604",
+      "27605",
+      "27606",
+      "27607",
+      "27608",
+      "27609",
+      "27610",
+      "27612",
+      "27613",
+      "27614",
+      "27615",
+      "27616",
+      "27617",
+      "27695",
+      "27697"
+    ],
+    "population": 470763
+  },
+  {
+    "city": "Ramseur",
+    "county": "Randolph",
+    "zip_codes": [
+      "27248",
+      "27298",
+      "27316"
+    ],
+    "population": 2061
+  },
+  {
+    "city": "Randleman",
+    "county": "Randolph",
+    "zip_codes": [
+      "27317",
+      "27350"
+    ],
+    "population": 4611
+  },
+  {
+    "city": "Ranlo",
+    "county": "Gaston",
+    "zip_codes": [
+      "28034",
+      "28054",
+      "28056"
+    ],
+    "population": 4556
+  },
+  {
+    "city": "Raynham",
+    "county": "Robeson",
+    "zip_codes": [
+      "28383"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Red Cross",
+    "county": "Stanly",
+    "zip_codes": [
+      "28097",
+      "28129"
+    ],
+    "population": 740
+  },
+  {
+    "city": "Red Oak",
+    "county": "Nash",
+    "zip_codes": [
+      "27804",
+      "27809",
+      "27856"
+    ],
+    "population": 3372
+  },
+  {
+    "city": "Red Springs",
+    "county": "Robeson",
+    "zip_codes": [
+      "28377"
+    ],
+    "population": 3107
+  },
+  {
+    "city": "Reidsville",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27320"
+    ],
+    "population": 14547
+  },
+  {
+    "city": "Rennert",
+    "county": "Robeson",
+    "zip_codes": [
+      "28386"
+    ],
+    "population": 267
+  },
+  {
+    "city": "Rex",
+    "county": "Robeson",
+    "zip_codes": [
+      "28378",
+      "28384"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Rhodhiss",
+    "county": "Burke",
+    "zip_codes": [
+      "28601",
+      "28612",
+      "28630",
+      "28667"
+    ],
+    "population": 1062
+  },
+  {
+    "city": "Rich Square",
+    "county": "Northampton",
+    "zip_codes": [
+      "27869"
+    ],
+    "population": 780
+  },
+  {
+    "city": "Richfield",
+    "county": "Stanly",
+    "zip_codes": [
+      "28137"
+    ],
+    "population": 839
+  },
+  {
+    "city": "Richlands",
+    "county": "Onslow",
+    "zip_codes": [
+      "28574"
+    ],
+    "population": 2387
+  },
+  {
+    "city": "Riegelwood",
+    "county": "Columbus",
+    "zip_codes": [
+      "28456"
+    ],
+    "population": 539
+  },
+  {
+    "city": "River Bend",
+    "county": "Craven",
+    "zip_codes": [
+      "28562"
+    ],
+    "population": 2896
+  },
+  {
+    "city": "River Road",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27889"
+    ],
+    "population": 3518
+  },
+  {
+    "city": "Roanoke Rapids",
+    "county": "Halifax",
+    "zip_codes": [
+      "27870",
+      "27890"
+    ],
+    "population": 15024
+  },
+  {
+    "city": "Robbins",
+    "county": "Moore",
+    "zip_codes": [
+      "27242",
+      "27325"
+    ],
+    "population": 1398
+  },
+  {
+    "city": "Robbinsville",
+    "county": "Graham",
+    "zip_codes": [
+      "28771"
+    ],
+    "population": 677
+  },
+  {
+    "city": "Roberdel",
+    "county": "Richmond",
+    "zip_codes": [
+      "28379"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Robersonville",
+    "county": "Martin",
+    "zip_codes": [
+      "27871"
+    ],
+    "population": 1319
+  },
+  {
+    "city": "Rockfish",
+    "county": "Hoke",
+    "zip_codes": [
+      "28306",
+      "28376"
+    ],
+    "population": 3807
+  },
+  {
+    "city": "Rockingham",
+    "county": "Richmond",
+    "zip_codes": [
+      "28379"
+    ],
+    "population": 9094
+  },
+  {
+    "city": "Rockwell",
+    "county": "Rowan",
+    "zip_codes": [
+      "28138"
+    ],
+    "population": 2688
+  },
+  {
+    "city": "Rocky Mount",
+    "county": "Nash",
+    "zip_codes": [
+      "27801",
+      "27803",
+      "27804",
+      "27809"
+    ],
+    "population": 54175
+  },
+  {
+    "city": "Rocky Point",
+    "county": "Pender",
+    "zip_codes": [
+      "28425",
+      "28457"
+    ],
+    "population": 1045
+  },
+  {
+    "city": "Rodanthe",
+    "county": "Dare",
+    "zip_codes": [
+      "27968"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Rolesville",
+    "county": "Wake",
+    "zip_codes": [
+      "27571",
+      "27587"
+    ],
+    "population": 10200
+  },
+  {
+    "city": "Ronda",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28670"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Roper",
+    "county": "Washington",
+    "zip_codes": [
+      "27970"
+    ],
+    "population": 586
+  },
+  {
+    "city": "Rose Hill",
+    "county": "Duplin",
+    "zip_codes": [
+      "28458"
+    ],
+    "population": 1501
+  },
+  {
+    "city": "Roseboro",
+    "county": "Sampson",
+    "zip_codes": [
+      "28382"
+    ],
+    "population": 1007
+  },
+  {
+    "city": "Rosman",
+    "county": "Transylvania",
+    "zip_codes": [
+      "28712",
+      "28772"
+    ],
+    "population": 730
+  },
+  {
+    "city": "Rougemont",
+    "county": "Durham",
+    "zip_codes": [
+      "27572"
+    ],
+    "population": 877
+  },
+  {
+    "city": "Rowland",
+    "county": "Robeson",
+    "zip_codes": [
+      "28383"
+    ],
+    "population": 972
+  },
+  {
+    "city": "Roxboro",
+    "county": "Person",
+    "zip_codes": [
+      "27573",
+      "27574"
+    ],
+    "population": 8144
+  },
+  {
+    "city": "Roxobel",
+    "county": "Bertie",
+    "zip_codes": [
+      "27847",
+      "27872"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Royal Pines",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28704",
+      "28803"
+    ],
+    "population": 4528
+  },
+  {
+    "city": "Ruffin",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27326"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Rural Hall",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27045"
+    ],
+    "population": 3421
+  },
+  {
+    "city": "Ruth",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28139"
+    ],
+    "population": 526
+  },
+  {
+    "city": "Rutherford College",
+    "county": "Burke",
+    "zip_codes": [
+      "28612",
+      "28630",
+      "28671",
+      "28690"
+    ],
+    "population": 1327
+  },
+  {
+    "city": "Rutherfordton",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28139"
+    ],
+    "population": 3669
+  },
+  {
+    "city": "Salem",
+    "county": "Burke",
+    "zip_codes": [
+      "28655"
+    ],
+    "population": 2035
+  },
+  {
+    "city": "Salemburg",
+    "county": "Sampson",
+    "zip_codes": [
+      "28385"
+    ],
+    "population": 486
+  },
+  {
+    "city": "Salisbury",
+    "county": "Rowan",
+    "zip_codes": [
+      "28144",
+      "28146",
+      "28147"
+    ],
+    "population": 35730
+  },
+  {
+    "city": "Saluda",
+    "county": "Polk",
+    "zip_codes": [
+      "28773"
+    ],
+    "population": 676
+  },
+  {
+    "city": "Salvo",
+    "county": "Dare",
+    "zip_codes": [
+      "27972",
+      "27982"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Sandy Creek",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28451"
+    ],
+    "population": 281
+  },
+  {
+    "city": "Sandyfield",
+    "county": "Columbus",
+    "zip_codes": [
+      "28456"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Sanford",
+    "county": "Lee",
+    "zip_codes": [
+      "27330",
+      "27332"
+    ],
+    "population": 30833
+  },
+  {
+    "city": "Saratoga",
+    "county": "Wilson",
+    "zip_codes": [
+      "27873",
+      "27883"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Sawmills",
+    "county": "Caldwell",
+    "zip_codes": [
+      "28630",
+      "28638"
+    ],
+    "population": 5027
+  },
+  {
+    "city": "Saxapahaw",
+    "county": "Alamance",
+    "zip_codes": [
+      "27253",
+      "27340"
+    ],
+    "population": 1501
+  },
+  {
+    "city": "Scotch Meadows",
+    "county": "Scotland",
+    "zip_codes": [
+      "28352"
+    ],
+    "population": 506
+  },
+  {
+    "city": "Scotland Neck",
+    "county": "Halifax",
+    "zip_codes": [
+      "27874"
+    ],
+    "population": 2087
+  },
+  {
+    "city": "Sea Breeze",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28409",
+      "28412"
+    ],
+    "population": 1731
+  },
+  {
+    "city": "Seaboard",
+    "county": "Northampton",
+    "zip_codes": [
+      "27876"
+    ],
+    "population": 624
+  },
+  {
+    "city": "Seagrove",
+    "county": "Randolph",
+    "zip_codes": [
+      "27205",
+      "27341"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Sedalia",
+    "county": "Guilford",
+    "zip_codes": [
+      "27249",
+      "27342"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Selma",
+    "county": "Johnston",
+    "zip_codes": [
+      "27576",
+      "27577"
+    ],
+    "population": 6611
+  },
+  {
+    "city": "Seven Devils",
+    "county": "Watauga",
+    "zip_codes": [
+      "28604"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Seven Lakes",
+    "county": "Moore",
+    "zip_codes": [
+      "27376"
+    ],
+    "population": 4823
+  },
+  {
+    "city": "Seven Springs",
+    "county": "Wayne",
+    "zip_codes": [
+      "28578"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Severn",
+    "county": "Northampton",
+    "zip_codes": [
+      "27853",
+      "27862",
+      "27877"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Shallotte",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28462",
+      "28470"
+    ],
+    "population": 4465
+  },
+  {
+    "city": "Shannon",
+    "county": "Robeson",
+    "zip_codes": [
+      "28386"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Sharpsburg",
+    "county": "Nash",
+    "zip_codes": [
+      "27801",
+      "27803",
+      "27878"
+    ],
+    "population": 1629
+  },
+  {
+    "city": "Shelby",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28150",
+      "28152"
+    ],
+    "population": 21868
+  },
+  {
+    "city": "Siler City",
+    "county": "Chatham",
+    "zip_codes": [
+      "27344"
+    ],
+    "population": 7905
+  },
+  {
+    "city": "Silver City",
+    "county": "Hoke",
+    "zip_codes": [
+      "28376"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Silver Lake",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28412"
+    ],
+    "population": 6242
+  },
+  {
+    "city": "Simpson",
+    "county": "Pitt",
+    "zip_codes": [
+      "27858",
+      "27879"
+    ],
+    "population": 388
+  },
+  {
+    "city": "Sims",
+    "county": "Wilson",
+    "zip_codes": [
+      "27880"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Skippers Corner",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28429"
+    ],
+    "population": 3834
+  },
+  {
+    "city": "Smithfield",
+    "county": "Johnston",
+    "zip_codes": [
+      "27577"
+    ],
+    "population": 11798
+  },
+  {
+    "city": "Smithtown",
+    "county": "Yadkin",
+    "zip_codes": [
+      "27018"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Sneads Ferry",
+    "county": "Onslow",
+    "zip_codes": [
+      "28460"
+    ],
+    "population": 2556
+  },
+  {
+    "city": "Snow Hill",
+    "county": "Greene",
+    "zip_codes": [
+      "28580"
+    ],
+    "population": 2102
+  },
+  {
+    "city": "South Henderson",
+    "county": "Vance",
+    "zip_codes": [
+      "27536",
+      "27537"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "South Mills",
+    "county": "Camden",
+    "zip_codes": [
+      "27976"
+    ],
+    "population": 294
+  },
+  {
+    "city": "South Rosemary",
+    "county": "Halifax",
+    "zip_codes": [
+      "27870"
+    ],
+    "population": 2522
+  },
+  {
+    "city": "South Weldon",
+    "county": "Halifax",
+    "zip_codes": [
+      "27890"
+    ],
+    "population": 688
+  },
+  {
+    "city": "Southern Pines",
+    "county": "Moore",
+    "zip_codes": [
+      "28327",
+      "28374",
+      "28387"
+    ],
+    "population": 16052
+  },
+  {
+    "city": "Southern Shores",
+    "county": "Dare",
+    "zip_codes": [
+      "27949"
+    ],
+    "population": 3119
+  },
+  {
+    "city": "Southmont",
+    "county": "Davidson",
+    "zip_codes": [
+      "27292",
+      "27351"
+    ],
+    "population": 1293
+  },
+  {
+    "city": "Southport",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28461"
+    ],
+    "population": 4143
+  },
+  {
+    "city": "Sparta",
+    "county": "Alleghany",
+    "zip_codes": [
+      "28675"
+    ],
+    "population": 1957
+  },
+  {
+    "city": "Speed",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27881",
+      "27886"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Spencer",
+    "county": "Rowan",
+    "zip_codes": [
+      "28144",
+      "28146",
+      "28159"
+    ],
+    "population": 3305
+  },
+  {
+    "city": "Spencer Mountain",
+    "county": "Gaston",
+    "zip_codes": [
+      "28056"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Spindale",
+    "county": "Rutherford",
+    "zip_codes": [
+      "28043",
+      "28139",
+      "28160"
+    ],
+    "population": 4244
+  },
+  {
+    "city": "Spivey's Corner",
+    "county": "Sampson",
+    "zip_codes": [
+      "28334",
+      "28366"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Spout Springs",
+    "county": "Harnett",
+    "zip_codes": [
+      "27332",
+      "27505",
+      "28326"
+    ],
+    "population": 11073
+  },
+  {
+    "city": "Spring Hope",
+    "county": "Nash",
+    "zip_codes": [
+      "27882"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Spring Lake",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28307",
+      "28308",
+      "28310",
+      "28390"
+    ],
+    "population": 11613
+  },
+  {
+    "city": "Springdale",
+    "county": "Gaston",
+    "zip_codes": [
+      "28054"
+    ],
+    "population": 1120
+  },
+  {
+    "city": "Spruce Pine",
+    "county": "Mitchell",
+    "zip_codes": [
+      "28777"
+    ],
+    "population": 2381
+  },
+  {
+    "city": "St. Helena",
+    "county": "Pender",
+    "zip_codes": [
+      "28425"
+    ],
+    "population": 580
+  },
+  {
+    "city": "St. James",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28461"
+    ],
+    "population": 6901
+  },
+  {
+    "city": "St. Pauls",
+    "county": "Robeson",
+    "zip_codes": [
+      "28384"
+    ],
+    "population": 2628
+  },
+  {
+    "city": "St. Stephens",
+    "county": "Catawba",
+    "zip_codes": [
+      "28601",
+      "28613"
+    ],
+    "population": 9409
+  },
+  {
+    "city": "Staley",
+    "county": "Randolph",
+    "zip_codes": [
+      "27355"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Stallings",
+    "county": "Union",
+    "zip_codes": [
+      "28079",
+      "28104",
+      "28105"
+    ],
+    "population": 16495
+  },
+  {
+    "city": "Stanfield",
+    "county": "Stanly",
+    "zip_codes": [
+      "28163"
+    ],
+    "population": 1554
+  },
+  {
+    "city": "Stanley",
+    "county": "Gaston",
+    "zip_codes": [
+      "28120",
+      "28164"
+    ],
+    "population": 4014
+  },
+  {
+    "city": "Stantonsburg",
+    "county": "Wilson",
+    "zip_codes": [
+      "27883"
+    ],
+    "population": 949
+  },
+  {
+    "city": "Star",
+    "county": "Montgomery",
+    "zip_codes": [
+      "27356"
+    ],
+    "population": 1430
+  },
+  {
+    "city": "Statesville",
+    "county": "Iredell",
+    "zip_codes": [
+      "28625",
+      "28677"
+    ],
+    "population": 29161
+  },
+  {
+    "city": "Stedman",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28391"
+    ],
+    "population": 1613
+  },
+  {
+    "city": "Stem",
+    "county": "Granville",
+    "zip_codes": [
+      "27581"
+    ],
+    "population": 1064
+  },
+  {
+    "city": "Stokes",
+    "county": "Pitt",
+    "zip_codes": [
+      "27884"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Stokesdale",
+    "county": "Guilford",
+    "zip_codes": [
+      "27284",
+      "27310",
+      "27357"
+    ],
+    "population": 5943
+  },
+  {
+    "city": "Stoneville",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27048"
+    ],
+    "population": 1213
+  },
+  {
+    "city": "Stonewall",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28515",
+      "28556"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Stony Point",
+    "county": "Alexander",
+    "zip_codes": [
+      "28678"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "Stovall",
+    "county": "Granville",
+    "zip_codes": [
+      "27565",
+      "27582"
+    ],
+    "population": 276
+  },
+  {
+    "city": "Sugar Mountain",
+    "county": "Avery",
+    "zip_codes": [
+      "28604",
+      "28646"
+    ],
+    "population": 503
+  },
+  {
+    "city": "Summerfield",
+    "county": "Guilford",
+    "zip_codes": [
+      "27358",
+      "27410",
+      "27455"
+    ],
+    "population": 11031
+  },
+  {
+    "city": "Sunbury",
+    "county": "Gates",
+    "zip_codes": [
+      "27979"
+    ],
+    "population": 264
+  },
+  {
+    "city": "Sunset Beach",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28467",
+      "28468",
+      "28469"
+    ],
+    "population": 4326
+  },
+  {
+    "city": "Surf City",
+    "county": "Pender",
+    "zip_codes": [
+      "28443",
+      "28445"
+    ],
+    "population": 4160
+  },
+  {
+    "city": "Swan Quarter",
+    "county": "Hyde",
+    "zip_codes": [
+      "27885"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Swannanoa",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28711",
+      "28778"
+    ],
+    "population": 6043
+  },
+  {
+    "city": "Swansboro",
+    "county": "Onslow",
+    "zip_codes": [
+      "28539",
+      "28584"
+    ],
+    "population": 3887
+  },
+  {
+    "city": "Swepsonville",
+    "county": "Alamance",
+    "zip_codes": [
+      "27253",
+      "27258"
+    ],
+    "population": 2452
+  },
+  {
+    "city": "Sylva",
+    "county": "Jackson",
+    "zip_codes": [
+      "28779"
+    ],
+    "population": 2600
+  },
+  {
+    "city": "Tabor City",
+    "county": "Columbus",
+    "zip_codes": [
+      "28463"
+    ],
+    "population": 3695
+  },
+  {
+    "city": "Tar Heel",
+    "county": "Bladen",
+    "zip_codes": [
+      "28392"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Tarboro",
+    "county": "Edgecombe",
+    "zip_codes": [
+      "27886"
+    ],
+    "population": 10705
+  },
+  {
+    "city": "Taylorsville",
+    "county": "Alexander",
+    "zip_codes": [
+      "28681"
+    ],
+    "population": 2386
+  },
+  {
+    "city": "Taylortown",
+    "county": "Moore",
+    "zip_codes": [
+      "27376",
+      "28374"
+    ],
+    "population": 728
+  },
+  {
+    "city": "Teachey",
+    "county": "Duplin",
+    "zip_codes": [
+      "28464"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Thomasville",
+    "county": "Davidson",
+    "zip_codes": [
+      "27360"
+    ],
+    "population": 27261
+  },
+  {
+    "city": "Toast",
+    "county": "Surry",
+    "zip_codes": [
+      "27030"
+    ],
+    "population": 1066
+  },
+  {
+    "city": "Tobaccoville",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27040",
+      "27045",
+      "27050"
+    ],
+    "population": 2632
+  },
+  {
+    "city": "Topsail Beach",
+    "county": "Pender",
+    "zip_codes": [
+      "28445"
+    ],
+    "population": 444
+  },
+  {
+    "city": "Trent Woods",
+    "county": "Craven",
+    "zip_codes": [
+      "28562"
+    ],
+    "population": 4086
+  },
+  {
+    "city": "Trenton",
+    "county": "Jones",
+    "zip_codes": [
+      "28585"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Trinity",
+    "county": "Randolph",
+    "zip_codes": [
+      "27263",
+      "27360",
+      "27370"
+    ],
+    "population": 7066
+  },
+  {
+    "city": "Troutman",
+    "county": "Iredell",
+    "zip_codes": [
+      "28166",
+      "28677"
+    ],
+    "population": 3813
+  },
+  {
+    "city": "Troy",
+    "county": "Montgomery",
+    "zip_codes": [
+      "27371"
+    ],
+    "population": 2905
+  },
+  {
+    "city": "Tryon",
+    "county": "Polk",
+    "zip_codes": [
+      "28782"
+    ],
+    "population": 1713
+  },
+  {
+    "city": "Turkey",
+    "county": "Sampson",
+    "zip_codes": [
+      "28393"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Tyro",
+    "county": "Davidson",
+    "zip_codes": [
+      "27295",
+      "27299"
+    ],
+    "population": 3635
+  },
+  {
+    "city": "Unionville",
+    "county": "Union",
+    "zip_codes": [
+      "28110"
+    ],
+    "population": 6826
+  },
+  {
+    "city": "Valdese",
+    "county": "Burke",
+    "zip_codes": [
+      "28612",
+      "28655",
+      "28671",
+      "28690"
+    ],
+    "population": 4689
+  },
+  {
+    "city": "Valle Crucis",
+    "county": "Watauga",
+    "zip_codes": [
+      "28604",
+      "28679"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Valley Hill",
+    "county": "Henderson",
+    "zip_codes": [
+      "28739"
+    ],
+    "population": 2540
+  },
+  {
+    "city": "Vanceboro",
+    "county": "Craven",
+    "zip_codes": [
+      "28586"
+    ],
+    "population": 939
+  },
+  {
+    "city": "Vandemere",
+    "county": "Pamlico",
+    "zip_codes": [
+      "28587"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Vander",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28312"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Vann Crossroads",
+    "county": "Sampson",
+    "zip_codes": [
+      "28328",
+      "28366"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Varnamtown",
+    "county": "Brunswick",
+    "zip_codes": [
+      "28462"
+    ],
+    "population": 792
+  },
+  {
+    "city": "Vass",
+    "county": "Moore",
+    "zip_codes": [
+      "28394"
+    ],
+    "population": 1092
+  },
+  {
+    "city": "Waco",
+    "county": "Cleveland",
+    "zip_codes": [
+      "28021",
+      "28169"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Wade",
+    "county": "Cumberland",
+    "zip_codes": [
+      "28395"
+    ],
+    "population": 565
+  },
+  {
+    "city": "Wadesboro",
+    "county": "Anson",
+    "zip_codes": [
+      "28135",
+      "28170"
+    ],
+    "population": 4966
+  },
+  {
+    "city": "Wagram",
+    "county": "Scotland",
+    "zip_codes": [
+      "28396"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Wake Forest",
+    "county": "Wake",
+    "zip_codes": [
+      "27587"
+    ],
+    "population": 51199
+  },
+  {
+    "city": "Wakulla",
+    "county": "Robeson",
+    "zip_codes": [
+      "28364",
+      "28377"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Walkertown",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27051",
+      "27101",
+      "27105",
+      "27284"
+    ],
+    "population": 5793
+  },
+  {
+    "city": "Wallace",
+    "county": "Duplin",
+    "zip_codes": [
+      "28464",
+      "28466"
+    ],
+    "population": 3438
+  },
+  {
+    "city": "Wallburg",
+    "county": "Davidson",
+    "zip_codes": [
+      "27107",
+      "27265"
+    ],
+    "population": 3104
+  },
+  {
+    "city": "Walnut Cove",
+    "county": "Stokes",
+    "zip_codes": [
+      "27052"
+    ],
+    "population": 2046
+  },
+  {
+    "city": "Walnut Creek",
+    "county": "Wayne",
+    "zip_codes": [
+      "27534"
+    ],
+    "population": 1684
+  },
+  {
+    "city": "Walstonburg",
+    "county": "Greene",
+    "zip_codes": [
+      "27888"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Wanchese",
+    "county": "Dare",
+    "zip_codes": [
+      "27981"
+    ],
+    "population": 1793
+  },
+  {
+    "city": "Warrenton",
+    "county": "Warren",
+    "zip_codes": [
+      "27589"
+    ],
+    "population": 859
+  },
+  {
+    "city": "Warsaw",
+    "county": "Duplin",
+    "zip_codes": [
+      "28398"
+    ],
+    "population": 2728
+  },
+  {
+    "city": "Washington",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27817",
+      "27889"
+    ],
+    "population": 9754
+  },
+  {
+    "city": "Washington Park",
+    "county": "Beaufort",
+    "zip_codes": [
+      "27889"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Watha",
+    "county": "Pender",
+    "zip_codes": [
+      "28478"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Waves",
+    "county": "Dare",
+    "zip_codes": [
+      "27972",
+      "27982"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Waxhaw",
+    "county": "Union",
+    "zip_codes": [
+      "28173"
+    ],
+    "population": 21565
+  },
+  {
+    "city": "Waynesville",
+    "county": "Haywood",
+    "zip_codes": [
+      "28786"
+    ],
+    "population": 10408
+  },
+  {
+    "city": "Weaverville",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28787",
+      "28804"
+    ],
+    "population": 4618
+  },
+  {
+    "city": "Webster",
+    "county": "Jackson",
+    "zip_codes": [
+      "28779",
+      "28788"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Weddington",
+    "county": "Union",
+    "zip_codes": [
+      "28104",
+      "28173"
+    ],
+    "population": 13468
+  },
+  {
+    "city": "Welcome",
+    "county": "Davidson",
+    "zip_codes": [
+      "27295",
+      "27374"
+    ],
+    "population": 3649
+  },
+  {
+    "city": "Weldon",
+    "county": "Halifax",
+    "zip_codes": [
+      "27890"
+    ],
+    "population": 1522
+  },
+  {
+    "city": "Wendell",
+    "county": "Wake",
+    "zip_codes": [
+      "27591"
+    ],
+    "population": 11585
+  },
+  {
+    "city": "Wentworth",
+    "county": "Rockingham",
+    "zip_codes": [
+      "27320"
+    ],
+    "population": 2670
+  },
+  {
+    "city": "Wesley Chapel",
+    "county": "Union",
+    "zip_codes": [
+      "28079",
+      "28104",
+      "28110",
+      "28173"
+    ],
+    "population": 8923
+  },
+  {
+    "city": "West Canton",
+    "county": "Haywood",
+    "zip_codes": [
+      "28716",
+      "28721"
+    ],
+    "population": 1369
+  },
+  {
+    "city": "West Jefferson",
+    "county": "Ashe",
+    "zip_codes": [
+      "28694"
+    ],
+    "population": 1567
+  },
+  {
+    "city": "West Marion",
+    "county": "McDowell",
+    "zip_codes": [
+      "28752"
+    ],
+    "population": 1018
+  },
+  {
+    "city": "Westport",
+    "county": "Lincoln",
+    "zip_codes": [
+      "28037"
+    ],
+    "population": 5079
+  },
+  {
+    "city": "Whispering Pines",
+    "county": "Moore",
+    "zip_codes": [
+      "28327"
+    ],
+    "population": 5081
+  },
+  {
+    "city": "Whitakers",
+    "county": "Nash",
+    "zip_codes": [
+      "27891"
+    ],
+    "population": 411
+  },
+  {
+    "city": "White Lake",
+    "county": "Bladen",
+    "zip_codes": [
+      "28337"
+    ],
+    "population": 961
+  },
+  {
+    "city": "White Oak",
+    "county": "Bladen",
+    "zip_codes": [
+      "28399"
+    ],
+    "population": 145
+  },
+  {
+    "city": "White Plains",
+    "county": "Surry",
+    "zip_codes": [
+      "27030"
+    ],
+    "population": 876
+  },
+  {
+    "city": "Whiteville",
+    "county": "Columbus",
+    "zip_codes": [
+      "28472"
+    ],
+    "population": 4721
+  },
+  {
+    "city": "Whitsett",
+    "county": "Guilford",
+    "zip_codes": [
+      "27249",
+      "27377"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Whittier",
+    "county": "Jackson",
+    "zip_codes": [
+      "28789"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Wilkesboro",
+    "county": "Wilkes",
+    "zip_codes": [
+      "28659",
+      "28697"
+    ],
+    "population": 3664
+  },
+  {
+    "city": "Williamston",
+    "county": "Martin",
+    "zip_codes": [
+      "27892"
+    ],
+    "population": 5157
+  },
+  {
+    "city": "Wilmington",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28401",
+      "28403",
+      "28405",
+      "28409",
+      "28412"
+    ],
+    "population": 118578
+  },
+  {
+    "city": "Wilson",
+    "county": "Wilson",
+    "zip_codes": [
+      "27822",
+      "27893",
+      "27896"
+    ],
+    "population": 47740
+  },
+  {
+    "city": "Wilson's Mills",
+    "county": "Johnston",
+    "zip_codes": [
+      "27520",
+      "27527",
+      "27577",
+      "27593"
+    ],
+    "population": 2652
+  },
+  {
+    "city": "Windsor",
+    "county": "Bertie",
+    "zip_codes": [
+      "27983"
+    ],
+    "population": 3417
+  },
+  {
+    "city": "Winfall",
+    "county": "Perquimans",
+    "zip_codes": [
+      "27944",
+      "27985"
+    ],
+    "population": 749
+  },
+  {
+    "city": "Wingate",
+    "county": "Union",
+    "zip_codes": [
+      "28174"
+    ],
+    "population": 4169
+  },
+  {
+    "city": "Winston-Salem",
+    "county": "Forsyth",
+    "zip_codes": [
+      "27040",
+      "27101",
+      "27103",
+      "27104",
+      "27105",
+      "27106",
+      "27107",
+      "27109",
+      "27110",
+      "27127",
+      "27284"
+    ],
+    "population": 250887
+  },
+  {
+    "city": "Winterville",
+    "county": "Pitt",
+    "zip_codes": [
+      "28590"
+    ],
+    "population": 10624
+  },
+  {
+    "city": "Winton",
+    "county": "Hertford",
+    "zip_codes": [
+      "27986"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Woodfin",
+    "county": "Buncombe",
+    "zip_codes": [
+      "28804",
+      "28806"
+    ],
+    "population": 7957
+  },
+  {
+    "city": "Woodland",
+    "county": "Northampton",
+    "zip_codes": [
+      "27869",
+      "27897"
+    ],
+    "population": 569
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Alamance",
+    "zip_codes": [
+      "27302"
+    ],
+    "population": 996
+  },
+  {
+    "city": "Wrightsboro",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28401",
+      "28405",
+      "28429"
+    ],
+    "population": 5434
+  },
+  {
+    "city": "Wrightsville Beach",
+    "county": "New Hanover",
+    "zip_codes": [
+      "28403",
+      "28480"
+    ],
+    "population": 2679
+  },
+  {
+    "city": "Yadkin College",
+    "county": "Davidson",
+    "zip_codes": [
+      "27295"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Yadkinville",
+    "county": "Yadkin",
+    "zip_codes": [
+      "27055"
+    ],
+    "population": 2986
+  },
+  {
+    "city": "Yanceyville",
+    "county": "Caswell",
+    "zip_codes": [
+      "27212",
+      "27379"
+    ],
+    "population": 2376
+  },
+  {
+    "city": "Youngsville",
+    "county": "Franklin",
+    "zip_codes": [
+      "27596"
+    ],
+    "population": 2581
+  },
+  {
+    "city": "Zebulon",
+    "county": "Wake",
+    "zip_codes": [
+      "27597"
+    ],
+    "population": 7961
+  }
+]

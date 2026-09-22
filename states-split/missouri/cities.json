@@ -1,0 +1,9056 @@
+[
+  {
+    "city": "Adrian",
+    "county": "Bates",
+    "zip_codes": [
+      "64720"
+    ],
+    "population": 2006
+  },
+  {
+    "city": "Advance",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63730"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Affton",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 20035
+  },
+  {
+    "city": "Agency",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64401",
+      "64507"
+    ],
+    "population": 808
+  },
+  {
+    "city": "Airport Drive",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64834",
+      "64870"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Alba",
+    "county": "Jasper",
+    "zip_codes": [
+      "64830"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Albany",
+    "county": "Gentry",
+    "zip_codes": [
+      "64402"
+    ],
+    "population": 1855
+  },
+  {
+    "city": "Aldrich",
+    "county": "Polk",
+    "zip_codes": [
+      "65601"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Alexandria",
+    "county": "Clark",
+    "zip_codes": [
+      "63430"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Allendale",
+    "county": "Worth",
+    "zip_codes": [
+      "64420",
+      "64456"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Allenville",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63740"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Alma",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64001"
+    ],
+    "population": 466
+  },
+  {
+    "city": "Altamont",
+    "county": "Daviess",
+    "zip_codes": [
+      "64620"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Altenburg",
+    "county": "Perry",
+    "zip_codes": [
+      "63732"
+    ],
+    "population": 410
+  },
+  {
+    "city": "Alton",
+    "county": "Oregon",
+    "zip_codes": [
+      "65606"
+    ],
+    "population": 647
+  },
+  {
+    "city": "Amazonia",
+    "county": "Andrew",
+    "zip_codes": [
+      "64421"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Amity",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64422"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Amoret",
+    "county": "Bates",
+    "zip_codes": [
+      "64722"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Amsterdam",
+    "county": "Bates",
+    "zip_codes": [
+      "64723"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Anderson",
+    "county": "McDonald",
+    "zip_codes": [
+      "64831"
+    ],
+    "population": 2415
+  },
+  {
+    "city": "Annada",
+    "county": "Pike",
+    "zip_codes": [
+      "63330"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Annapolis",
+    "county": "Iron",
+    "zip_codes": [
+      "63620"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Anniston",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63820"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Appleton City",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64724"
+    ],
+    "population": 1187
+  },
+  {
+    "city": "Arbela",
+    "county": "Scotland",
+    "zip_codes": [
+      "63432"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Arbyrd",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63821"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Arcadia",
+    "county": "Iron",
+    "zip_codes": [
+      "63621",
+      "63650"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Archie",
+    "county": "Cass",
+    "zip_codes": [
+      "64725"
+    ],
+    "population": 1340
+  },
+  {
+    "city": "Arcola",
+    "county": "Dade",
+    "zip_codes": [
+      "65603"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Argyle",
+    "county": "Osage",
+    "zip_codes": [
+      "65001"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Arkoe",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64468"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Armstrong",
+    "county": "Howard",
+    "zip_codes": [
+      "65230"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Arnold",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63010"
+    ],
+    "population": 20884
+  },
+  {
+    "city": "Arrow Point",
+    "county": "Barry",
+    "zip_codes": [
+      "65658"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Arrow Rock",
+    "county": "Saline",
+    "zip_codes": [
+      "65320"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Asbury",
+    "county": "Jasper",
+    "zip_codes": [
+      "64832"
+    ],
+    "population": 531
+  },
+  {
+    "city": "Ash Grove",
+    "county": "Greene",
+    "zip_codes": [
+      "65604"
+    ],
+    "population": 1336
+  },
+  {
+    "city": "Ashburn",
+    "county": "Pike",
+    "zip_codes": [
+      "63433"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ashland",
+    "county": "Boone",
+    "zip_codes": [
+      "65010",
+      "65201"
+    ],
+    "population": 4811
+  },
+  {
+    "city": "Ashley",
+    "county": "Pike",
+    "zip_codes": [
+      "63334"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Atlanta",
+    "county": "Macon",
+    "zip_codes": [
+      "63530"
+    ],
+    "population": 439
+  },
+  {
+    "city": "Augusta",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63332"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Aullville",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64037"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Aurora",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65605"
+    ],
+    "population": 7331
+  },
+  {
+    "city": "Aurora Springs",
+    "county": "Miller",
+    "zip_codes": [
+      "65026"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Auxvasse",
+    "county": "Callaway",
+    "zip_codes": [
+      "65231"
+    ],
+    "population": 1385
+  },
+  {
+    "city": "Ava",
+    "county": "Douglas",
+    "zip_codes": [
+      "65608"
+    ],
+    "population": 2978
+  },
+  {
+    "city": "Avalon",
+    "county": "Livingston",
+    "zip_codes": [
+      "64601",
+      "64643"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Avilla",
+    "county": "Jasper",
+    "zip_codes": [
+      "64833"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Avondale",
+    "county": "Clay",
+    "zip_codes": [
+      "64117"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Bagnell",
+    "county": "Miller",
+    "zip_codes": [
+      "65026",
+      "65049"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Baker",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63846"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Bakersfield",
+    "county": "Ozark",
+    "zip_codes": [
+      "65609",
+      "65626"
+    ],
+    "population": 246
+  },
+  {
+    "city": "Baldwin Park",
+    "county": "Cass",
+    "zip_codes": [
+      "64080"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Ballwin",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63011",
+      "63017",
+      "63021"
+    ],
+    "population": 30835
+  },
+  {
+    "city": "Baring",
+    "county": "Knox",
+    "zip_codes": [
+      "63531"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Barnard",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64423"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Barnett",
+    "county": "Morgan",
+    "zip_codes": [
+      "65011"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Barnhart",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63012"
+    ],
+    "population": 6036
+  },
+  {
+    "city": "Bates City",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64011"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Battlefield",
+    "county": "Greene",
+    "zip_codes": [
+      "65619",
+      "65807"
+    ],
+    "population": 6095
+  },
+  {
+    "city": "Bel-Nor",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63133"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Bel-Ridge",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63121",
+      "63134"
+    ],
+    "population": 2714
+  },
+  {
+    "city": "Bell City",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63730",
+      "63735"
+    ],
+    "population": 554
+  },
+  {
+    "city": "Bella Villa",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63125"
+    ],
+    "population": 664
+  },
+  {
+    "city": "Belle",
+    "county": "Maries",
+    "zip_codes": [
+      "65013"
+    ],
+    "population": 1476
+  },
+  {
+    "city": "Bellefontaine Neighbors",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63136",
+      "63137",
+      "63138"
+    ],
+    "population": 10562
+  },
+  {
+    "city": "Bellerive Acres",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Bellflower",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63333"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Belton",
+    "county": "Cass",
+    "zip_codes": [
+      "64012"
+    ],
+    "population": 24618
+  },
+  {
+    "city": "Bennett Springs",
+    "county": "Laclede",
+    "zip_codes": [
+      "65536"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Bent Tree Harbor",
+    "county": "Benton",
+    "zip_codes": [
+      "65355"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Benton",
+    "county": "Scott",
+    "zip_codes": [
+      "63736"
+    ],
+    "population": 832
+  },
+  {
+    "city": "Benton City",
+    "county": "Audrain",
+    "zip_codes": [
+      "65232"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Berger",
+    "county": "Franklin",
+    "zip_codes": [
+      "63014"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Berkeley",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63042",
+      "63134"
+    ],
+    "population": 8149
+  },
+  {
+    "city": "Bernie",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63822"
+    ],
+    "population": 1772
+  },
+  {
+    "city": "Bertrand",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63823"
+    ],
+    "population": 707
+  },
+  {
+    "city": "Bethany",
+    "county": "Harrison",
+    "zip_codes": [
+      "64424"
+    ],
+    "population": 3164
+  },
+  {
+    "city": "Bethel",
+    "county": "Shelby",
+    "zip_codes": [
+      "63434"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Beverly Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 495
+  },
+  {
+    "city": "Bevier",
+    "county": "Macon",
+    "zip_codes": [
+      "63532"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Biehle",
+    "county": "Perry",
+    "zip_codes": [
+      "63775"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Big Lake",
+    "county": "Holt",
+    "zip_codes": [
+      "64437"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Big Spring",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63363",
+      "65041"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Bigelow",
+    "county": "Holt",
+    "zip_codes": [
+      "64437"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Billings",
+    "county": "Christian",
+    "zip_codes": [
+      "65610"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Birch Tree",
+    "county": "Shannon",
+    "zip_codes": [
+      "65438"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Birmingham",
+    "county": "Clay",
+    "zip_codes": [
+      "64161"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Bismarck",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63624"
+    ],
+    "population": 1560
+  },
+  {
+    "city": "Black Jack",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63033"
+    ],
+    "population": 6606
+  },
+  {
+    "city": "Blackburn",
+    "county": "Saline",
+    "zip_codes": [
+      "64001",
+      "65321"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Blackwater",
+    "county": "Cooper",
+    "zip_codes": [
+      "65322"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Blairstown",
+    "county": "Henry",
+    "zip_codes": [
+      "64726"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Blanchard",
+    "county": "Atchison",
+    "zip_codes": [
+      "64498"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Bland",
+    "county": "Gasconade",
+    "zip_codes": [
+      "65014"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Blodgett",
+    "county": "Scott",
+    "zip_codes": [
+      "63801",
+      "63824"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Bloomfield",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63825"
+    ],
+    "population": 2011
+  },
+  {
+    "city": "Bloomsdale",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63627"
+    ],
+    "population": 1123
+  },
+  {
+    "city": "Blue Eye",
+    "county": "Stone",
+    "zip_codes": [
+      "65611"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Blue Springs",
+    "county": "Jackson",
+    "zip_codes": [
+      "64014",
+      "64015",
+      "64029",
+      "64057",
+      "64064"
+    ],
+    "population": 59416
+  },
+  {
+    "city": "Blue Summit",
+    "county": "Jackson",
+    "zip_codes": [
+      "64126"
+    ],
+    "population": 1145
+  },
+  {
+    "city": "Blythedale",
+    "county": "Harrison",
+    "zip_codes": [
+      "64426"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Bogard",
+    "county": "Carroll",
+    "zip_codes": [
+      "64622"
+    ],
+    "population": 174
+  },
+  {
+    "city": "Bolckow",
+    "county": "Andrew",
+    "zip_codes": [
+      "64427"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Bolivar",
+    "county": "Polk",
+    "zip_codes": [
+      "65613"
+    ],
+    "population": 10996
+  },
+  {
+    "city": "Bonne Terre",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63628"
+    ],
+    "population": 6773
+  },
+  {
+    "city": "Boonville",
+    "county": "Cooper",
+    "zip_codes": [
+      "65233"
+    ],
+    "population": 7682
+  },
+  {
+    "city": "Bosworth",
+    "county": "Carroll",
+    "zip_codes": [
+      "64623"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Bourbon",
+    "county": "Crawford",
+    "zip_codes": [
+      "65441"
+    ],
+    "population": 1694
+  },
+  {
+    "city": "Bowling Green",
+    "county": "Pike",
+    "zip_codes": [
+      "63334"
+    ],
+    "population": 4130
+  },
+  {
+    "city": "Bragg City",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63827"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Brandsville",
+    "county": "Howell",
+    "zip_codes": [
+      "65688",
+      "65775"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Branson",
+    "county": "Taney",
+    "zip_codes": [
+      "65616"
+    ],
+    "population": 12760
+  },
+  {
+    "city": "Branson West",
+    "county": "Stone",
+    "zip_codes": [
+      "65737"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Brashear",
+    "county": "Adair",
+    "zip_codes": [
+      "63533"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Braymer",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64624"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Breckenridge",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64625"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Breckenridge Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63074",
+      "63114"
+    ],
+    "population": 4413
+  },
+  {
+    "city": "Brentwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63119",
+      "63144"
+    ],
+    "population": 8151
+  },
+  {
+    "city": "Brewer",
+    "county": "Perry",
+    "zip_codes": [
+      "63673",
+      "63775"
+    ],
+    "population": 399
+  },
+  {
+    "city": "Briarwood Estates",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63020"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Bridgeton",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63044",
+      "63074"
+    ],
+    "population": 11372
+  },
+  {
+    "city": "Brimson",
+    "county": "Grundy",
+    "zip_codes": [
+      "64642"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Bronaugh",
+    "county": "Vernon",
+    "zip_codes": [
+      "64728"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Brookfield",
+    "county": "Linn",
+    "zip_codes": [
+      "64628"
+    ],
+    "population": 4128
+  },
+  {
+    "city": "Brooklyn Heights",
+    "county": "Jasper",
+    "zip_codes": [
+      "64836"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Broseley",
+    "county": "Butler",
+    "zip_codes": [
+      "63932"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Browning",
+    "county": "Linn",
+    "zip_codes": [
+      "64630"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Brownington",
+    "county": "Henry",
+    "zip_codes": [
+      "64740"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Brumley",
+    "county": "Miller",
+    "zip_codes": [
+      "65017"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Brunswick",
+    "county": "Chariton",
+    "zip_codes": [
+      "65236"
+    ],
+    "population": 919
+  },
+  {
+    "city": "Bucklin",
+    "county": "Linn",
+    "zip_codes": [
+      "64631"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Buckner",
+    "county": "Jackson",
+    "zip_codes": [
+      "64016"
+    ],
+    "population": 2917
+  },
+  {
+    "city": "Buell",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63361"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Buffalo",
+    "county": "Dallas",
+    "zip_codes": [
+      "65622"
+    ],
+    "population": 3358
+  },
+  {
+    "city": "Bull Creek",
+    "county": "Taney",
+    "zip_codes": [
+      "65616"
+    ],
+    "population": 577
+  },
+  {
+    "city": "Bunceton",
+    "county": "Cooper",
+    "zip_codes": [
+      "65237"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Bunker",
+    "county": "Dent",
+    "zip_codes": [
+      "63629"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Burfordville",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63739"
+    ],
+    "population": 185
+  },
+  {
+    "city": "Burgess",
+    "county": "Barton",
+    "zip_codes": [
+      "64769"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Burlington Junction",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64428"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Butler",
+    "county": "Bates",
+    "zip_codes": [
+      "64730"
+    ],
+    "population": 4594
+  },
+  {
+    "city": "Butterfield",
+    "county": "Barry",
+    "zip_codes": [
+      "65623",
+      "65625",
+      "65734"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Byrnes Mill",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63025",
+      "63049",
+      "63051"
+    ],
+    "population": 3168
+  },
+  {
+    "city": "Cabool",
+    "county": "Texas",
+    "zip_codes": [
+      "65689"
+    ],
+    "population": 2460
+  },
+  {
+    "city": "Cainsville",
+    "county": "Harrison",
+    "zip_codes": [
+      "64632"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Cairo",
+    "county": "Randolph",
+    "zip_codes": [
+      "65239"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Caledonia",
+    "county": "Washington",
+    "zip_codes": [
+      "63631"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Calhoun",
+    "county": "Henry",
+    "zip_codes": [
+      "65323"
+    ],
+    "population": 369
+  },
+  {
+    "city": "California",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65018"
+    ],
+    "population": 4523
+  },
+  {
+    "city": "Callao",
+    "county": "Macon",
+    "zip_codes": [
+      "63534"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Calverton Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63135"
+    ],
+    "population": 1280
+  },
+  {
+    "city": "Camden",
+    "county": "Ray",
+    "zip_codes": [
+      "64017"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Camden Point",
+    "county": "Platte",
+    "zip_codes": [
+      "64018"
+    ],
+    "population": 474
+  },
+  {
+    "city": "Camdenton",
+    "county": "Camden",
+    "zip_codes": [
+      "65020"
+    ],
+    "population": 4017
+  },
+  {
+    "city": "Cameron",
+    "county": "Clinton",
+    "zip_codes": [
+      "64429"
+    ],
+    "population": 8721
+  },
+  {
+    "city": "Campbell",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63933"
+    ],
+    "population": 1719
+  },
+  {
+    "city": "Canalou",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63828",
+      "63867"
+    ],
+    "population": 146
+  },
+  {
+    "city": "Canton",
+    "county": "Lewis",
+    "zip_codes": [
+      "63435"
+    ],
+    "population": 2741
+  },
+  {
+    "city": "Cape Girardeau",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63701",
+      "63703",
+      "63780"
+    ],
+    "population": 40047
+  },
+  {
+    "city": "Cardwell",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63829"
+    ],
+    "population": 846
+  },
+  {
+    "city": "Carl Junction",
+    "county": "Jasper",
+    "zip_codes": [
+      "64834"
+    ],
+    "population": 8257
+  },
+  {
+    "city": "Carrollton",
+    "county": "Carroll",
+    "zip_codes": [
+      "64633"
+    ],
+    "population": 3335
+  },
+  {
+    "city": "Carterville",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64835",
+      "64870"
+    ],
+    "population": 1978
+  },
+  {
+    "city": "Carthage",
+    "county": "Jasper",
+    "zip_codes": [
+      "64836"
+    ],
+    "population": 15513
+  },
+  {
+    "city": "Caruthersville",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63830"
+    ],
+    "population": 5426
+  },
+  {
+    "city": "Carytown",
+    "county": "Jasper",
+    "zip_codes": [
+      "64836"
+    ],
+    "population": 319
+  },
+  {
+    "city": "Cassville",
+    "county": "Barry",
+    "zip_codes": [
+      "65625"
+    ],
+    "population": 3208
+  },
+  {
+    "city": "Castle Point",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63136"
+    ],
+    "population": 2792
+  },
+  {
+    "city": "Catron",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63833"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Cave",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63377",
+      "63379"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Cedar Hill",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63016"
+    ],
+    "population": 1568
+  },
+  {
+    "city": "Cedar Hill Lakes",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63016"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Center",
+    "county": "Ralls",
+    "zip_codes": [
+      "63436"
+    ],
+    "population": 469
+  },
+  {
+    "city": "Centertown",
+    "county": "Cole",
+    "zip_codes": [
+      "65023"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Centerview",
+    "county": "Johnson",
+    "zip_codes": [
+      "64019"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Centerville",
+    "county": "Reynolds",
+    "zip_codes": [
+      "63633"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Centralia",
+    "county": "Boone",
+    "zip_codes": [
+      "65240"
+    ],
+    "population": 4615
+  },
+  {
+    "city": "Chaffee",
+    "county": "Scott",
+    "zip_codes": [
+      "63740"
+    ],
+    "population": 3039
+  },
+  {
+    "city": "Chain of Rocks",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63369"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Chain-O-Lakes",
+    "county": "Barry",
+    "zip_codes": [
+      "65641"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Chamois",
+    "county": "Osage",
+    "zip_codes": [
+      "65024"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Champ",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63043",
+      "63044"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Charlack",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114"
+    ],
+    "population": 1775
+  },
+  {
+    "city": "Charleston",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63834"
+    ],
+    "population": 4565
+  },
+  {
+    "city": "Charmwood",
+    "county": "Franklin",
+    "zip_codes": [
+      "63079"
+    ],
+    "population": 11
+  },
+  {
+    "city": "Cherokee Pass",
+    "county": "Madison",
+    "zip_codes": [
+      "63645"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Chesapeake",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65712"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Chesterfield",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63005",
+      "63017",
+      "63141"
+    ],
+    "population": 49591
+  },
+  {
+    "city": "Chilhowee",
+    "county": "Johnson",
+    "zip_codes": [
+      "64733"
+    ],
+    "population": 280
+  },
+  {
+    "city": "Chillicothe",
+    "county": "Livingston",
+    "zip_codes": [
+      "64601"
+    ],
+    "population": 9129
+  },
+  {
+    "city": "Chula",
+    "county": "Livingston",
+    "zip_codes": [
+      "64635"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Clarence",
+    "county": "Shelby",
+    "zip_codes": [
+      "63437"
+    ],
+    "population": 894
+  },
+  {
+    "city": "Clark",
+    "county": "Randolph",
+    "zip_codes": [
+      "65243"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Clarksburg",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65025"
+    ],
+    "population": 272
+  },
+  {
+    "city": "Clarksdale",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64430"
+    ],
+    "population": 316
+  },
+  {
+    "city": "Clarkson Valley",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63005",
+      "63017"
+    ],
+    "population": 2592
+  },
+  {
+    "city": "Clarksville",
+    "county": "Pike",
+    "zip_codes": [
+      "63336"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Clarkton",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63837"
+    ],
+    "population": 929
+  },
+  {
+    "city": "Claycomo",
+    "county": "Clay",
+    "zip_codes": [
+      "64068",
+      "64119"
+    ],
+    "population": 1994
+  },
+  {
+    "city": "Clayton",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63105",
+      "63117",
+      "63124"
+    ],
+    "population": 17282
+  },
+  {
+    "city": "Clearmont",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64431"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Cleveland",
+    "county": "Cass",
+    "zip_codes": [
+      "64734"
+    ],
+    "population": 954
+  },
+  {
+    "city": "Clever",
+    "county": "Christian",
+    "zip_codes": [
+      "65610",
+      "65631"
+    ],
+    "population": 2977
+  },
+  {
+    "city": "Cliff Village",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Clifton Hill",
+    "county": "Randolph",
+    "zip_codes": [
+      "65244"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Climax Springs",
+    "county": "Camden",
+    "zip_codes": [
+      "65324"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Clinton",
+    "county": "Henry",
+    "zip_codes": [
+      "64735"
+    ],
+    "population": 9047
+  },
+  {
+    "city": "Clyde",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64432"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Cobalt",
+    "county": "Madison",
+    "zip_codes": [
+      "63645"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Coffey",
+    "county": "Daviess",
+    "zip_codes": [
+      "64636"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Cole Camp",
+    "county": "Benton",
+    "zip_codes": [
+      "65325"
+    ],
+    "population": 1327
+  },
+  {
+    "city": "Collins",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64738"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Columbia",
+    "county": "Boone",
+    "zip_codes": [
+      "65201",
+      "65202",
+      "65203",
+      "65215",
+      "65216"
+    ],
+    "population": 127200
+  },
+  {
+    "city": "Commerce",
+    "county": "Scott",
+    "zip_codes": [
+      "63742"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Conception",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64433"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Conception Junction",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64434"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Concord",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123",
+      "63128"
+    ],
+    "population": 18028
+  },
+  {
+    "city": "Concordia",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64020"
+    ],
+    "population": 2184
+  },
+  {
+    "city": "Coney Island",
+    "county": "Stone",
+    "zip_codes": [
+      "65737"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Connelsville",
+    "county": "Adair",
+    "zip_codes": [
+      "63559"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Conway",
+    "county": "Laclede",
+    "zip_codes": [
+      "65632"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Cool Valley",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 1319
+  },
+  {
+    "city": "Cooter",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63839"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Corder",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64021"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Corning",
+    "county": "Holt",
+    "zip_codes": [
+      "64437"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Cosby",
+    "county": "Andrew",
+    "zip_codes": [
+      "64436"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Cottleville",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63304",
+      "63368",
+      "63376"
+    ],
+    "population": 5750
+  },
+  {
+    "city": "Country Club",
+    "county": "Andrew",
+    "zip_codes": [
+      "64505",
+      "64506"
+    ],
+    "population": 3171
+  },
+  {
+    "city": "Country Club Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63136"
+    ],
+    "population": 1017
+  },
+  {
+    "city": "Country Life Acres",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63131"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Cowgill",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64637"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Craig",
+    "county": "Holt",
+    "zip_codes": [
+      "64437"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Crane",
+    "county": "Stone",
+    "zip_codes": [
+      "65633"
+    ],
+    "population": 1545
+  },
+  {
+    "city": "Creighton",
+    "county": "Cass",
+    "zip_codes": [
+      "64739"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Crestwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122",
+      "63123",
+      "63126"
+    ],
+    "population": 12298
+  },
+  {
+    "city": "Creve Coeur",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63132",
+      "63141",
+      "63146"
+    ],
+    "population": 18643
+  },
+  {
+    "city": "Crocker",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65452"
+    ],
+    "population": 908
+  },
+  {
+    "city": "Cross Timbers",
+    "county": "Hickory",
+    "zip_codes": [
+      "65634"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Crystal City",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63019",
+      "63028"
+    ],
+    "population": 4721
+  },
+  {
+    "city": "Crystal Lake Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63131"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Crystal Lakes",
+    "county": "Ray",
+    "zip_codes": [
+      "64024"
+    ],
+    "population": 460
+  },
+  {
+    "city": "Cuba",
+    "county": "Crawford",
+    "zip_codes": [
+      "65453"
+    ],
+    "population": 3172
+  },
+  {
+    "city": "Curryville",
+    "county": "Pike",
+    "zip_codes": [
+      "63339"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Dadeville",
+    "county": "Dade",
+    "zip_codes": [
+      "65635"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Dalton",
+    "county": "Chariton",
+    "zip_codes": [
+      "65246"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Danville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63361"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Dardenne Prairie",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63367",
+      "63368"
+    ],
+    "population": 13137
+  },
+  {
+    "city": "Darlington",
+    "county": "Gentry",
+    "zip_codes": [
+      "64438"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Dawn",
+    "county": "Livingston",
+    "zip_codes": [
+      "64638"
+    ],
+    "population": 106
+  },
+  {
+    "city": "De Kalb",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64440"
+    ],
+    "population": 532
+  },
+  {
+    "city": "De Soto",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63020"
+    ],
+    "population": 6452
+  },
+  {
+    "city": "De Witt",
+    "county": "Carroll",
+    "zip_codes": [
+      "64639"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Dearborn",
+    "county": "Platte",
+    "zip_codes": [
+      "64439"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Deepwater",
+    "county": "Henry",
+    "zip_codes": [
+      "64740"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Deerfield",
+    "county": "Vernon",
+    "zip_codes": [
+      "64741"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Deering",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63840"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Defiance",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63341"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Dellwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63135",
+      "63136"
+    ],
+    "population": 4869
+  },
+  {
+    "city": "Delta",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63740",
+      "63744"
+    ],
+    "population": 488
+  },
+  {
+    "city": "Dennis Acres",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Denton",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63877"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Denver",
+    "county": "Worth",
+    "zip_codes": [
+      "64441"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Des Arc",
+    "county": "Iron",
+    "zip_codes": [
+      "63636"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Des Peres",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122",
+      "63131"
+    ],
+    "population": 9145
+  },
+  {
+    "city": "Desloge",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601",
+      "63628",
+      "63640"
+    ],
+    "population": 4870
+  },
+  {
+    "city": "Dexter",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63841"
+    ],
+    "population": 7906
+  },
+  {
+    "city": "Diamond",
+    "county": "Newton",
+    "zip_codes": [
+      "64840"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Diehlstadt",
+    "county": "Scott",
+    "zip_codes": [
+      "63834"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Diggins",
+    "county": "Webster",
+    "zip_codes": [
+      "65652",
+      "65746"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Dixon",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65459"
+    ],
+    "population": 1267
+  },
+  {
+    "city": "Doe Run",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601",
+      "63637"
+    ],
+    "population": 895
+  },
+  {
+    "city": "Doniphan",
+    "county": "Ripley",
+    "zip_codes": [
+      "63935"
+    ],
+    "population": 2220
+  },
+  {
+    "city": "Doolittle",
+    "county": "Phelps",
+    "zip_codes": [
+      "65401",
+      "65550"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Dover",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64022"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Downing",
+    "county": "Schuyler",
+    "zip_codes": [
+      "63536"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Drexel",
+    "county": "Cass",
+    "zip_codes": [
+      "64742"
+    ],
+    "population": 1039
+  },
+  {
+    "city": "Dudley",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63936"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Duenweg",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64836",
+      "64841"
+    ],
+    "population": 1707
+  },
+  {
+    "city": "Duquesne",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64804"
+    ],
+    "population": 2216
+  },
+  {
+    "city": "Dutchtown",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63701",
+      "63745"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Eagle Rock",
+    "county": "Barry",
+    "zip_codes": [
+      "65641"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Eagleville",
+    "county": "Harrison",
+    "zip_codes": [
+      "64442"
+    ],
+    "population": 350
+  },
+  {
+    "city": "East Lynne",
+    "county": "Cass",
+    "zip_codes": [
+      "64080",
+      "64701",
+      "64743"
+    ],
+    "population": 174
+  },
+  {
+    "city": "East Prairie",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63845"
+    ],
+    "population": 2930
+  },
+  {
+    "city": "Easton",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64443"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Edgar Springs",
+    "county": "Phelps",
+    "zip_codes": [
+      "65462"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Edgerton",
+    "county": "Platte",
+    "zip_codes": [
+      "64444"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Edina",
+    "county": "Knox",
+    "zip_codes": [
+      "63537"
+    ],
+    "population": 1420
+  },
+  {
+    "city": "Edinburg",
+    "county": "Grundy",
+    "zip_codes": [
+      "64683"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Edmundson",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63134"
+    ],
+    "population": 1153
+  },
+  {
+    "city": "El Dorado Springs",
+    "county": "Cedar",
+    "zip_codes": [
+      "64744"
+    ],
+    "population": 3545
+  },
+  {
+    "city": "Eldon",
+    "county": "Miller",
+    "zip_codes": [
+      "65026"
+    ],
+    "population": 4486
+  },
+  {
+    "city": "Ellington",
+    "county": "Reynolds",
+    "zip_codes": [
+      "63638"
+    ],
+    "population": 1104
+  },
+  {
+    "city": "Ellisville",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63011",
+      "63017",
+      "63021",
+      "63038"
+    ],
+    "population": 9908
+  },
+  {
+    "city": "Ellsinore",
+    "county": "Carter",
+    "zip_codes": [
+      "63937"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Elmer",
+    "county": "Macon",
+    "zip_codes": [
+      "63538"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Elmira",
+    "county": "Ray",
+    "zip_codes": [
+      "64062"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Elmo",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64445"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Elsberry",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63343"
+    ],
+    "population": 2010
+  },
+  {
+    "city": "Emerald Beach",
+    "county": "Barry",
+    "zip_codes": [
+      "65658"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Eminence",
+    "county": "Shannon",
+    "zip_codes": [
+      "65466"
+    ],
+    "population": 456
+  },
+  {
+    "city": "Emma",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64020",
+      "65327"
+    ],
+    "population": 261
+  },
+  {
+    "city": "Eolia",
+    "county": "Pike",
+    "zip_codes": [
+      "63344"
+    ],
+    "population": 426
+  },
+  {
+    "city": "Essex",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63846"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Ethel",
+    "county": "Macon",
+    "zip_codes": [
+      "63539"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Eugene",
+    "county": "Cole",
+    "zip_codes": [
+      "65032"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Eureka",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63025",
+      "63069"
+    ],
+    "population": 12371
+  },
+  {
+    "city": "Evergreen",
+    "county": "Laclede",
+    "zip_codes": [
+      "65536",
+      "65662"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Everton",
+    "county": "Dade",
+    "zip_codes": [
+      "65646"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Ewing",
+    "county": "Lewis",
+    "zip_codes": [
+      "63440"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Excello",
+    "county": "Macon",
+    "zip_codes": [
+      "65247"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Excelsior Estates",
+    "county": "Ray",
+    "zip_codes": [
+      "64062"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Excelsior Springs",
+    "county": "Clay",
+    "zip_codes": [
+      "64024"
+    ],
+    "population": 10502
+  },
+  {
+    "city": "Exeter",
+    "county": "Barry",
+    "zip_codes": [
+      "65647"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Fair Grove",
+    "county": "Greene",
+    "zip_codes": [
+      "65648"
+    ],
+    "population": 1551
+  },
+  {
+    "city": "Fair Play",
+    "county": "Polk",
+    "zip_codes": [
+      "65649"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Fairdealing",
+    "county": "Ripley",
+    "zip_codes": [
+      "63939",
+      "63945",
+      "63953"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Fairfax",
+    "county": "Atchison",
+    "zip_codes": [
+      "64446"
+    ],
+    "population": 685
+  },
+  {
+    "city": "Fairview",
+    "county": "Newton",
+    "zip_codes": [
+      "64842"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Farber",
+    "county": "Audrain",
+    "zip_codes": [
+      "63345"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Farley",
+    "county": "Platte",
+    "zip_codes": [
+      "64028",
+      "64079"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Farmington",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63640"
+    ],
+    "population": 17999
+  },
+  {
+    "city": "Faucett",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64448"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Fayette",
+    "county": "Howard",
+    "zip_codes": [
+      "65248"
+    ],
+    "population": 2800
+  },
+  {
+    "city": "Fenton",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63026"
+    ],
+    "population": 4087
+  },
+  {
+    "city": "Ferguson",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63134",
+      "63135",
+      "63136"
+    ],
+    "population": 18350
+  },
+  {
+    "city": "Ferrelview",
+    "county": "Platte",
+    "zip_codes": [
+      "64163"
+    ],
+    "population": 731
+  },
+  {
+    "city": "Festus",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63028"
+    ],
+    "population": 12965
+  },
+  {
+    "city": "Fidelity",
+    "county": "Jasper",
+    "zip_codes": [
+      "64836",
+      "64840"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Fillmore",
+    "county": "Andrew",
+    "zip_codes": [
+      "64449"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Fisk",
+    "county": "Butler",
+    "zip_codes": [
+      "63940"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Fleming",
+    "county": "Ray",
+    "zip_codes": [
+      "64017",
+      "64077"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Flemington",
+    "county": "Polk",
+    "zip_codes": [
+      "65650"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Flint Hill",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63348",
+      "63385"
+    ],
+    "population": 980
+  },
+  {
+    "city": "Flordell Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63136"
+    ],
+    "population": 1300
+  },
+  {
+    "city": "Florida",
+    "county": "Monroe",
+    "zip_codes": [
+      "65283"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Florissant",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63031",
+      "63033"
+    ],
+    "population": 51915
+  },
+  {
+    "city": "Foley",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63347",
+      "63389"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Fordland",
+    "county": "Webster",
+    "zip_codes": [
+      "65652"
+    ],
+    "population": 681
+  },
+  {
+    "city": "Forest City",
+    "county": "Holt",
+    "zip_codes": [
+      "64451"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Foristell",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63348"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Forsyth",
+    "county": "Taney",
+    "zip_codes": [
+      "65653"
+    ],
+    "population": 2749
+  },
+  {
+    "city": "Fort Leonard Wood",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65473"
+    ],
+    "population": 15317
+  },
+  {
+    "city": "Fortescue",
+    "county": "Holt",
+    "zip_codes": [
+      "64437"
+    ],
+    "population": 7
+  },
+  {
+    "city": "Fortuna",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65034",
+      "65081"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Foster",
+    "county": "Bates",
+    "zip_codes": [
+      "64745",
+      "64779"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Fountain N' Lakes",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63362"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Frankclay",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Frankford",
+    "county": "Pike",
+    "zip_codes": [
+      "63441"
+    ],
+    "population": 486
+  },
+  {
+    "city": "Franklin",
+    "county": "Howard",
+    "zip_codes": [
+      "65250",
+      "65274"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Fredericktown",
+    "county": "Madison",
+    "zip_codes": [
+      "63645"
+    ],
+    "population": 4464
+  },
+  {
+    "city": "Freeburg",
+    "county": "Osage",
+    "zip_codes": [
+      "65035"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Freeman",
+    "county": "Cass",
+    "zip_codes": [
+      "64746"
+    ],
+    "population": 572
+  },
+  {
+    "city": "Freistatt",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65654",
+      "65708"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Fremont",
+    "county": "Carter",
+    "zip_codes": [
+      "63941"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Fremont Hills",
+    "county": "Christian",
+    "zip_codes": [
+      "65714"
+    ],
+    "population": 1326
+  },
+  {
+    "city": "Friedenswald",
+    "county": "Camden",
+    "zip_codes": [
+      "65020"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Frisbee",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63852"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Frohna",
+    "county": "Perry",
+    "zip_codes": [
+      "63732",
+      "63748"
+    ],
+    "population": 372
+  },
+  {
+    "city": "Frontenac",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63131"
+    ],
+    "population": 3669
+  },
+  {
+    "city": "Fulton",
+    "county": "Callaway",
+    "zip_codes": [
+      "65251"
+    ],
+    "population": 12611
+  },
+  {
+    "city": "Gainesville",
+    "county": "Ozark",
+    "zip_codes": [
+      "65655"
+    ],
+    "population": 902
+  },
+  {
+    "city": "Galena",
+    "county": "Stone",
+    "zip_codes": [
+      "65656"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Gallatin",
+    "county": "Daviess",
+    "zip_codes": [
+      "64640"
+    ],
+    "population": 1722
+  },
+  {
+    "city": "Galt",
+    "county": "Grundy",
+    "zip_codes": [
+      "64641"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Garden City",
+    "county": "Cass",
+    "zip_codes": [
+      "64747"
+    ],
+    "population": 1539
+  },
+  {
+    "city": "Gasconade",
+    "county": "Gasconade",
+    "zip_codes": [
+      "65061"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Gentry",
+    "county": "Gentry",
+    "zip_codes": [
+      "64453"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Gerald",
+    "county": "Franklin",
+    "zip_codes": [
+      "63037"
+    ],
+    "population": 1264
+  },
+  {
+    "city": "Gerster",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64776"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Gibbs",
+    "county": "Adair",
+    "zip_codes": [
+      "63540"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Gideon",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63848"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Gilliam",
+    "county": "Saline",
+    "zip_codes": [
+      "65330"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Gilman City",
+    "county": "Daviess",
+    "zip_codes": [
+      "64642"
+    ],
+    "population": 355
+  },
+  {
+    "city": "Ginger Blue",
+    "county": "McDonald",
+    "zip_codes": [
+      "64854"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Gladstone",
+    "county": "Clay",
+    "zip_codes": [
+      "64116",
+      "64118",
+      "64119"
+    ],
+    "population": 27069
+  },
+  {
+    "city": "Glasgow",
+    "county": "Howard",
+    "zip_codes": [
+      "65254"
+    ],
+    "population": 1054
+  },
+  {
+    "city": "Glasgow Village",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63137"
+    ],
+    "population": 5491
+  },
+  {
+    "city": "Glen Allen",
+    "county": "Bollinger",
+    "zip_codes": [
+      "63751"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Glen Echo Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Glenaire",
+    "county": "Clay",
+    "zip_codes": [
+      "64068"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Glendale",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122"
+    ],
+    "population": 6111
+  },
+  {
+    "city": "Glenwood",
+    "county": "Schuyler",
+    "zip_codes": [
+      "63541"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Golden",
+    "county": "Barry",
+    "zip_codes": [
+      "65658"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Golden City",
+    "county": "Barton",
+    "zip_codes": [
+      "64748"
+    ],
+    "population": 644
+  },
+  {
+    "city": "Goodman",
+    "county": "McDonald",
+    "zip_codes": [
+      "64843"
+    ],
+    "population": 1081
+  },
+  {
+    "city": "Goose Creek Lake",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63036"
+    ],
+    "population": 533
+  },
+  {
+    "city": "Gordonville",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63701"
+    ],
+    "population": 485
+  },
+  {
+    "city": "Goss",
+    "county": "Monroe",
+    "zip_codes": [
+      "65275"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Gower",
+    "county": "Clinton",
+    "zip_codes": [
+      "64454"
+    ],
+    "population": 1677
+  },
+  {
+    "city": "Graham",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64455"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Grain Valley",
+    "county": "Jackson",
+    "zip_codes": [
+      "64029",
+      "64075"
+    ],
+    "population": 15967
+  },
+  {
+    "city": "Granby",
+    "county": "Newton",
+    "zip_codes": [
+      "64844"
+    ],
+    "population": 2345
+  },
+  {
+    "city": "Grand Falls Plaza",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Grand Pass",
+    "county": "Saline",
+    "zip_codes": [
+      "65339"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Grandin",
+    "county": "Carter",
+    "zip_codes": [
+      "63943"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Grandview",
+    "county": "Jackson",
+    "zip_codes": [
+      "64030",
+      "64149"
+    ],
+    "population": 25821
+  },
+  {
+    "city": "Granger",
+    "county": "Scotland",
+    "zip_codes": [
+      "63432"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Grant City",
+    "county": "Worth",
+    "zip_codes": [
+      "64456"
+    ],
+    "population": 993
+  },
+  {
+    "city": "Grantwood Village",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 915
+  },
+  {
+    "city": "Gravois Mills",
+    "county": "Morgan",
+    "zip_codes": [
+      "65037"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Gray Summit",
+    "county": "Franklin",
+    "zip_codes": [
+      "63039",
+      "63055",
+      "63069",
+      "63089"
+    ],
+    "population": 2847
+  },
+  {
+    "city": "Grayhawk",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63670"
+    ],
+    "population": 554
+  },
+  {
+    "city": "Grayridge",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63846",
+      "63850"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Grayson",
+    "county": "Clinton",
+    "zip_codes": [
+      "64492"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Green Castle",
+    "county": "Sullivan",
+    "zip_codes": [
+      "63544"
+    ],
+    "population": 331
+  },
+  {
+    "city": "Green City",
+    "county": "Sullivan",
+    "zip_codes": [
+      "63545"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Green Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 2688
+  },
+  {
+    "city": "Green Ridge",
+    "county": "Pettis",
+    "zip_codes": [
+      "65332"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Greendale",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63133"
+    ],
+    "population": 805
+  },
+  {
+    "city": "Greenfield",
+    "county": "Dade",
+    "zip_codes": [
+      "65661"
+    ],
+    "population": 1276
+  },
+  {
+    "city": "Greentop",
+    "county": "Schuyler",
+    "zip_codes": [
+      "63546"
+    ],
+    "population": 367
+  },
+  {
+    "city": "Greenville",
+    "county": "Wayne",
+    "zip_codes": [
+      "63944"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Greenwood",
+    "county": "Jackson",
+    "zip_codes": [
+      "64034"
+    ],
+    "population": 6000
+  },
+  {
+    "city": "Grovespring",
+    "county": "Wright",
+    "zip_codes": [
+      "65662"
+    ],
+    "population": 24
+  },
+  {
+    "city": "Guilford",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64457"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Gunn City",
+    "county": "Cass",
+    "zip_codes": [
+      "64747"
+    ],
+    "population": 82
+  },
+  {
+    "city": "Hale",
+    "county": "Carroll",
+    "zip_codes": [
+      "64643"
+    ],
+    "population": 535
+  },
+  {
+    "city": "Halfway",
+    "county": "Polk",
+    "zip_codes": [
+      "65663"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Hallsville",
+    "county": "Boone",
+    "zip_codes": [
+      "65255"
+    ],
+    "population": 2049
+  },
+  {
+    "city": "Halltown",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65604",
+      "65664"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Hamilton",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64644"
+    ],
+    "population": 1909
+  },
+  {
+    "city": "Hanley Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63133"
+    ],
+    "population": 1727
+  },
+  {
+    "city": "Hannibal",
+    "county": "Marion",
+    "zip_codes": [
+      "63401"
+    ],
+    "population": 16825
+  },
+  {
+    "city": "Hardin",
+    "county": "Ray",
+    "zip_codes": [
+      "64035"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Harris",
+    "county": "Sullivan",
+    "zip_codes": [
+      "64645"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Harrisburg",
+    "county": "Boone",
+    "zip_codes": [
+      "65256"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Harrisonville",
+    "county": "Cass",
+    "zip_codes": [
+      "64701"
+    ],
+    "population": 10002
+  },
+  {
+    "city": "Hartsburg",
+    "county": "Boone",
+    "zip_codes": [
+      "65039"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Hartville",
+    "county": "Wright",
+    "zip_codes": [
+      "65667"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Hartwell",
+    "county": "Henry",
+    "zip_codes": [
+      "64788"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Harviell",
+    "county": "Butler",
+    "zip_codes": [
+      "63901",
+      "63945",
+      "63954"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Harwood",
+    "county": "Vernon",
+    "zip_codes": [
+      "64750"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Hawk Point",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63349"
+    ],
+    "population": 630
+  },
+  {
+    "city": "Hayti",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63851"
+    ],
+    "population": 2145
+  },
+  {
+    "city": "Hayti Heights",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63851"
+    ],
+    "population": 382
+  },
+  {
+    "city": "Hayward",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63873"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Haywood City",
+    "county": "Scott",
+    "zip_codes": [
+      "63771"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Hazelwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63031",
+      "63042",
+      "63044",
+      "63135"
+    ],
+    "population": 25214
+  },
+  {
+    "city": "Henrietta",
+    "county": "Ray",
+    "zip_codes": [
+      "64036",
+      "64085"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Herculaneum",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63028",
+      "63048",
+      "63070"
+    ],
+    "population": 4925
+  },
+  {
+    "city": "Hermann",
+    "county": "Gasconade",
+    "zip_codes": [
+      "65041"
+    ],
+    "population": 2550
+  },
+  {
+    "city": "Hermitage",
+    "county": "Hickory",
+    "zip_codes": [
+      "65668",
+      "65779"
+    ],
+    "population": 683
+  },
+  {
+    "city": "Higbee",
+    "county": "Randolph",
+    "zip_codes": [
+      "65257"
+    ],
+    "population": 483
+  },
+  {
+    "city": "Higginsville",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64037"
+    ],
+    "population": 4775
+  },
+  {
+    "city": "High Hill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63350"
+    ],
+    "population": 252
+  },
+  {
+    "city": "High Ridge",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63049"
+    ],
+    "population": 4209
+  },
+  {
+    "city": "Highlandville",
+    "county": "Christian",
+    "zip_codes": [
+      "65669",
+      "65721"
+    ],
+    "population": 1049
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63050"
+    ],
+    "population": 3483
+  },
+  {
+    "city": "Hillsdale",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63133"
+    ],
+    "population": 922
+  },
+  {
+    "city": "Hoberg",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65712"
+    ],
+    "population": 52
+  },
+  {
+    "city": "Holcomb",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63852"
+    ],
+    "population": 710
+  },
+  {
+    "city": "Holden",
+    "county": "Johnson",
+    "zip_codes": [
+      "64040"
+    ],
+    "population": 1936
+  },
+  {
+    "city": "Holland",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63853"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Holliday",
+    "county": "Monroe",
+    "zip_codes": [
+      "65258"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Hollister",
+    "county": "Taney",
+    "zip_codes": [
+      "65672"
+    ],
+    "population": 4608
+  },
+  {
+    "city": "Hollywood",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63821"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Holt",
+    "county": "Clay",
+    "zip_codes": [
+      "64048"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Holts Summit",
+    "county": "Callaway",
+    "zip_codes": [
+      "65043"
+    ],
+    "population": 4572
+  },
+  {
+    "city": "Homestead",
+    "county": "Ray",
+    "zip_codes": [
+      "64024"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Homestown",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63879"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Hopkins",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64461"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Horine",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63070"
+    ],
+    "population": 809
+  },
+  {
+    "city": "Hornersville",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63855"
+    ],
+    "population": 470
+  },
+  {
+    "city": "Houston",
+    "county": "Texas",
+    "zip_codes": [
+      "65483"
+    ],
+    "population": 2407
+  },
+  {
+    "city": "Houston Lake",
+    "county": "Platte",
+    "zip_codes": [
+      "64151"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Houstonia",
+    "county": "Pettis",
+    "zip_codes": [
+      "65333"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Howardville",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63869"
+    ],
+    "population": 162
+  },
+  {
+    "city": "Hughesville",
+    "county": "Pettis",
+    "zip_codes": [
+      "65334"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Humansville",
+    "county": "Polk",
+    "zip_codes": [
+      "65674"
+    ],
+    "population": 1190
+  },
+  {
+    "city": "Hume",
+    "county": "Bates",
+    "zip_codes": [
+      "64752"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Humphreys",
+    "county": "Sullivan",
+    "zip_codes": [
+      "64646"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Hunnewell",
+    "county": "Shelby",
+    "zip_codes": [
+      "63443"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Hunter",
+    "county": "Carter",
+    "zip_codes": [
+      "63943"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Huntleigh",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63131"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Huntsdale",
+    "county": "Boone",
+    "zip_codes": [
+      "65203"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Huntsville",
+    "county": "Randolph",
+    "zip_codes": [
+      "65259"
+    ],
+    "population": 1806
+  },
+  {
+    "city": "Hurdland",
+    "county": "Knox",
+    "zip_codes": [
+      "63547"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Hurley",
+    "county": "Stone",
+    "zip_codes": [
+      "65633",
+      "65675",
+      "65705"
+    ],
+    "population": 104
+  },
+  {
+    "city": "Iantha",
+    "county": "Barton",
+    "zip_codes": [
+      "64759"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Iatan",
+    "county": "Platte",
+    "zip_codes": [
+      "64098"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Iberia",
+    "county": "Miller",
+    "zip_codes": [
+      "65486"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Imperial",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63010",
+      "63012",
+      "63052"
+    ],
+    "population": 5617
+  },
+  {
+    "city": "Independence",
+    "county": "Jackson",
+    "zip_codes": [
+      "64015",
+      "64016",
+      "64050",
+      "64052",
+      "64053",
+      "64054",
+      "64055",
+      "64056",
+      "64057"
+    ],
+    "population": 121944
+  },
+  {
+    "city": "Indian Lake",
+    "county": "Crawford",
+    "zip_codes": [
+      "65453"
+    ],
+    "population": 1075
+  },
+  {
+    "city": "Indian Point",
+    "county": "Stone",
+    "zip_codes": [
+      "65616",
+      "65737"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Innsbrook",
+    "county": "Warren",
+    "zip_codes": [
+      "63390"
+    ],
+    "population": 872
+  },
+  {
+    "city": "Ionia",
+    "county": "Benton",
+    "zip_codes": [
+      "65335"
+    ],
+    "population": 59
+  },
+  {
+    "city": "Irena",
+    "county": "Worth",
+    "zip_codes": [
+      "64456"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Iron Mountain Lake",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63624",
+      "63650"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Irondale",
+    "county": "Washington",
+    "zip_codes": [
+      "63648"
+    ],
+    "population": 534
+  },
+  {
+    "city": "Ironton",
+    "county": "Iron",
+    "zip_codes": [
+      "63650"
+    ],
+    "population": 1755
+  },
+  {
+    "city": "Irwin",
+    "county": "Barton",
+    "zip_codes": [
+      "64759"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Jackson",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63755"
+    ],
+    "population": 15532
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Randolph",
+    "zip_codes": [
+      "65260"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Jameson",
+    "county": "Daviess",
+    "zip_codes": [
+      "64647"
+    ],
+    "population": 122
+  },
+  {
+    "city": "Jamesport",
+    "county": "Daviess",
+    "zip_codes": [
+      "64648"
+    ],
+    "population": 628
+  },
+  {
+    "city": "Jamestown",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65046"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Jane",
+    "county": "McDonald",
+    "zip_codes": [
+      "64854",
+      "64856"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Jasper",
+    "county": "Jasper",
+    "zip_codes": [
+      "64755"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Jefferson City",
+    "county": "Cole",
+    "zip_codes": [
+      "65043",
+      "65101",
+      "65109"
+    ],
+    "population": 42565
+  },
+  {
+    "city": "Jennings",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63136"
+    ],
+    "population": 12900
+  },
+  {
+    "city": "Jerico Springs",
+    "county": "Cedar",
+    "zip_codes": [
+      "64756"
+    ],
+    "population": 241
+  },
+  {
+    "city": "Jonesburg",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63351"
+    ],
+    "population": 754
+  },
+  {
+    "city": "Joplin",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64804",
+      "64870"
+    ],
+    "population": 52218
+  },
+  {
+    "city": "Josephville",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63366",
+      "63385"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Junction City",
+    "county": "Madison",
+    "zip_codes": [
+      "63645"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Kahoka",
+    "county": "Clark",
+    "zip_codes": [
+      "63445"
+    ],
+    "population": 2083
+  },
+  {
+    "city": "Kansas City",
+    "county": "Jackson",
+    "zip_codes": [
+      "64053",
+      "64101",
+      "64102",
+      "64105",
+      "64106",
+      "64108",
+      "64109",
+      "64110",
+      "64111",
+      "64112",
+      "64113",
+      "64114",
+      "64116",
+      "64117",
+      "64118",
+      "64119",
+      "64120",
+      "64123",
+      "64124",
+      "64125",
+      "64126",
+      "64127",
+      "64128",
+      "64129",
+      "64130",
+      "64131",
+      "64132",
+      "64133",
+      "64134",
+      "64136",
+      "64137",
+      "64138",
+      "64139",
+      "64145",
+      "64146",
+      "64147",
+      "64149",
+      "64151",
+      "64152",
+      "64153",
+      "64154",
+      "64155",
+      "64156",
+      "64157",
+      "64158",
+      "64161",
+      "64163",
+      "64164",
+      "64165",
+      "64166",
+      "64167"
+    ],
+    "population": 508233
+  },
+  {
+    "city": "Kearney",
+    "county": "Clay",
+    "zip_codes": [
+      "64024",
+      "64048",
+      "64060",
+      "64068"
+    ],
+    "population": 10696
+  },
+  {
+    "city": "Kelso",
+    "county": "Scott",
+    "zip_codes": [
+      "63758",
+      "63780"
+    ],
+    "population": 593
+  },
+  {
+    "city": "Kennett",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63857"
+    ],
+    "population": 10236
+  },
+  {
+    "city": "Keytesville",
+    "county": "Chariton",
+    "zip_codes": [
+      "65261"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Kidder",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64649"
+    ],
+    "population": 439
+  },
+  {
+    "city": "Kimberling City",
+    "county": "Stone",
+    "zip_codes": [
+      "65686",
+      "65737"
+    ],
+    "population": 2559
+  },
+  {
+    "city": "Kimmswick",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63052",
+      "63053"
+    ],
+    "population": 112
+  },
+  {
+    "city": "King City",
+    "county": "Gentry",
+    "zip_codes": [
+      "64463"
+    ],
+    "population": 745
+  },
+  {
+    "city": "Kingdom City",
+    "county": "Callaway",
+    "zip_codes": [
+      "65251",
+      "65262"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Kingston",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64650"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Kingsville",
+    "county": "Johnson",
+    "zip_codes": [
+      "64061"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Kinloch",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63134",
+      "63140"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Kirbyville",
+    "county": "Taney",
+    "zip_codes": [
+      "65616",
+      "65679"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Kirksville",
+    "county": "Adair",
+    "zip_codes": [
+      "63501"
+    ],
+    "population": 17493
+  },
+  {
+    "city": "Kirkwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122"
+    ],
+    "population": 29302
+  },
+  {
+    "city": "Kissee Mills",
+    "county": "Taney",
+    "zip_codes": [
+      "65653",
+      "65680"
+    ],
+    "population": 1182
+  },
+  {
+    "city": "Knob Lick",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63640"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Knob Noster",
+    "county": "Johnson",
+    "zip_codes": [
+      "65336"
+    ],
+    "population": 2824
+  },
+  {
+    "city": "Knox City",
+    "county": "Knox",
+    "zip_codes": [
+      "63446"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Koshkonong",
+    "county": "Oregon",
+    "zip_codes": [
+      "65692",
+      "65791"
+    ],
+    "population": 210
+  },
+  {
+    "city": "La Belle",
+    "county": "Lewis",
+    "zip_codes": [
+      "63447"
+    ],
+    "population": 777
+  },
+  {
+    "city": "La Due",
+    "county": "Henry",
+    "zip_codes": [
+      "64735"
+    ],
+    "population": 85
+  },
+  {
+    "city": "La Grange",
+    "county": "Lewis",
+    "zip_codes": [
+      "63448"
+    ],
+    "population": 834
+  },
+  {
+    "city": "La Monte",
+    "county": "Pettis",
+    "zip_codes": [
+      "65337"
+    ],
+    "population": 978
+  },
+  {
+    "city": "La Plata",
+    "county": "Macon",
+    "zip_codes": [
+      "63549"
+    ],
+    "population": 1401
+  },
+  {
+    "city": "La Russell",
+    "county": "Jasper",
+    "zip_codes": [
+      "64848"
+    ],
+    "population": 118
+  },
+  {
+    "city": "La Tour",
+    "county": "Johnson",
+    "zip_codes": [
+      "64747"
+    ],
+    "population": 181
+  },
+  {
+    "city": "LaBarque Creek",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63015",
+      "63016",
+      "63025",
+      "63051",
+      "63069"
+    ],
+    "population": 1292
+  },
+  {
+    "city": "Laclede",
+    "county": "Linn",
+    "zip_codes": [
+      "64651"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Laddonia",
+    "county": "Audrain",
+    "zip_codes": [
+      "63352"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Ladue",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63124"
+    ],
+    "population": 8948
+  },
+  {
+    "city": "Lake Annette",
+    "county": "Cass",
+    "zip_codes": [
+      "64746"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Lake Arrowhead",
+    "county": "Clinton",
+    "zip_codes": [
+      "64465"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Lake Lafayette",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64076"
+    ],
+    "population": 227
+  },
+  {
+    "city": "Lake Lotawana",
+    "county": "Jackson",
+    "zip_codes": [
+      "64034",
+      "64086"
+    ],
+    "population": 2378
+  },
+  {
+    "city": "Lake Ozark",
+    "county": "Miller",
+    "zip_codes": [
+      "65049"
+    ],
+    "population": 2451
+  },
+  {
+    "city": "Lake St. Clair",
+    "county": "Franklin",
+    "zip_codes": [
+      "63077"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Lake St. Louis",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63367"
+    ],
+    "population": 17538
+  },
+  {
+    "city": "Lake Tapawingo",
+    "county": "Jackson",
+    "zip_codes": [
+      "64015"
+    ],
+    "population": 754
+  },
+  {
+    "city": "Lake Tekakwitha",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63069"
+    ],
+    "population": 210
+  },
+  {
+    "city": "Lake Timberline",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63628"
+    ],
+    "population": 773
+  },
+  {
+    "city": "Lake Viking",
+    "county": "Daviess",
+    "zip_codes": [
+      "64620",
+      "64640"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Lake Waukomis",
+    "county": "Platte",
+    "zip_codes": [
+      "64151"
+    ],
+    "population": 1085
+  },
+  {
+    "city": "Lake Winnebago",
+    "county": "Cass",
+    "zip_codes": [
+      "64034",
+      "64080",
+      "64082"
+    ],
+    "population": 1401
+  },
+  {
+    "city": "Lakeshire",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Lakeside",
+    "county": "Miller",
+    "zip_codes": [
+      "65049"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Lamar",
+    "county": "Barton",
+    "zip_codes": [
+      "64759"
+    ],
+    "population": 4290
+  },
+  {
+    "city": "Lamar Heights",
+    "county": "Barton",
+    "zip_codes": [
+      "64759"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Lambert",
+    "county": "Scott",
+    "zip_codes": [
+      "63736"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Lanagan",
+    "county": "McDonald",
+    "zip_codes": [
+      "64831",
+      "64847",
+      "64854"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Lancaster",
+    "county": "Schuyler",
+    "zip_codes": [
+      "63548"
+    ],
+    "population": 618
+  },
+  {
+    "city": "Laredo",
+    "county": "Grundy",
+    "zip_codes": [
+      "64652"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Latham",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65050"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Lathrop",
+    "county": "Clinton",
+    "zip_codes": [
+      "64465"
+    ],
+    "population": 2646
+  },
+  {
+    "city": "Laurie",
+    "county": "Morgan",
+    "zip_codes": [
+      "65037"
+    ],
+    "population": 992
+  },
+  {
+    "city": "Lawson",
+    "county": "Clay",
+    "zip_codes": [
+      "64062"
+    ],
+    "population": 2742
+  },
+  {
+    "city": "Leadington",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601",
+      "63640"
+    ],
+    "population": 842
+  },
+  {
+    "city": "Leadwood",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601",
+      "63653"
+    ],
+    "population": 1524
+  },
+  {
+    "city": "Leasburg",
+    "county": "Crawford",
+    "zip_codes": [
+      "65535"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Leawood",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Lebanon",
+    "county": "Laclede",
+    "zip_codes": [
+      "65536"
+    ],
+    "population": 15157
+  },
+  {
+    "city": "Lee's Summit",
+    "county": "Jackson",
+    "zip_codes": [
+      "64063",
+      "64064",
+      "64081",
+      "64082",
+      "64086"
+    ],
+    "population": 102583
+  },
+  {
+    "city": "Leeton",
+    "county": "Johnson",
+    "zip_codes": [
+      "64761"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Leisure Lake",
+    "county": "Grundy",
+    "zip_codes": [
+      "64683"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Lemay",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123",
+      "63125"
+    ],
+    "population": 16431
+  },
+  {
+    "city": "Leonard",
+    "county": "Shelby",
+    "zip_codes": [
+      "63451"
+    ],
+    "population": 48
+  },
+  {
+    "city": "Leslie",
+    "county": "Franklin",
+    "zip_codes": [
+      "63056"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Levasy",
+    "county": "Jackson",
+    "zip_codes": [
+      "64066",
+      "64088"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Lewis and Clark Village",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64484"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Lewistown",
+    "county": "Lewis",
+    "zip_codes": [
+      "63452"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Lexington",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64067"
+    ],
+    "population": 4602
+  },
+  {
+    "city": "Liberal",
+    "county": "Barton",
+    "zip_codes": [
+      "64762"
+    ],
+    "population": 776
+  },
+  {
+    "city": "Liberty",
+    "county": "Clay",
+    "zip_codes": [
+      "64068"
+    ],
+    "population": 30446
+  },
+  {
+    "city": "Licking",
+    "county": "Texas",
+    "zip_codes": [
+      "65542"
+    ],
+    "population": 2816
+  },
+  {
+    "city": "Lilbourn",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63862"
+    ],
+    "population": 1021
+  },
+  {
+    "city": "Lincoln",
+    "county": "Benton",
+    "zip_codes": [
+      "65338"
+    ],
+    "population": 1795
+  },
+  {
+    "city": "Linn",
+    "county": "Osage",
+    "zip_codes": [
+      "65051"
+    ],
+    "population": 1302
+  },
+  {
+    "city": "Linn Creek",
+    "county": "Camden",
+    "zip_codes": [
+      "65052"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Linneus",
+    "county": "Linn",
+    "zip_codes": [
+      "64653"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Lithium",
+    "county": "Perry",
+    "zip_codes": [
+      "63775"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Livonia",
+    "county": "Putnam",
+    "zip_codes": [
+      "63551"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Loch Lloyd",
+    "county": "Cass",
+    "zip_codes": [
+      "64012"
+    ],
+    "population": 815
+  },
+  {
+    "city": "Lock Springs",
+    "county": "Daviess",
+    "zip_codes": [
+      "64648",
+      "64654"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Lockwood",
+    "county": "Dade",
+    "zip_codes": [
+      "65682"
+    ],
+    "population": 862
+  },
+  {
+    "city": "Lohman",
+    "county": "Cole",
+    "zip_codes": [
+      "65053"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Loma Linda",
+    "county": "Newton",
+    "zip_codes": [
+      "64804",
+      "64865"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Lone Jack",
+    "county": "Jackson",
+    "zip_codes": [
+      "64070",
+      "64086"
+    ],
+    "population": 1487
+  },
+  {
+    "city": "Longtown",
+    "county": "Perry",
+    "zip_codes": [
+      "63775"
+    ],
+    "population": 99
+  },
+  {
+    "city": "Louisburg",
+    "county": "Dallas",
+    "zip_codes": [
+      "65685"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Louisiana",
+    "county": "Pike",
+    "zip_codes": [
+      "63353"
+    ],
+    "population": 3231
+  },
+  {
+    "city": "Lowry City",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64763"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Lucerne",
+    "county": "Putnam",
+    "zip_codes": [
+      "64655"
+    ],
+    "population": 20
+  },
+  {
+    "city": "Ludlow",
+    "county": "Livingston",
+    "zip_codes": [
+      "64656"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Lupus",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65046"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Luray",
+    "county": "Clark",
+    "zip_codes": [
+      "63453"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Macks Creek",
+    "county": "Camden",
+    "zip_codes": [
+      "65786"
+    ],
+    "population": 280
+  },
+  {
+    "city": "Macon",
+    "county": "Macon",
+    "zip_codes": [
+      "63552"
+    ],
+    "population": 5457
+  },
+  {
+    "city": "Madison",
+    "county": "Monroe",
+    "zip_codes": [
+      "65263"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Maitland",
+    "county": "Holt",
+    "zip_codes": [
+      "64466"
+    ],
+    "population": 395
+  },
+  {
+    "city": "Malden",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63863"
+    ],
+    "population": 3818
+  },
+  {
+    "city": "Malta Bend",
+    "county": "Saline",
+    "zip_codes": [
+      "65339"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Manchester",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63011",
+      "63021",
+      "63088"
+    ],
+    "population": 18189
+  },
+  {
+    "city": "Mansfield",
+    "county": "Wright",
+    "zip_codes": [
+      "65704"
+    ],
+    "population": 1375
+  },
+  {
+    "city": "Maplewood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63117",
+      "63143",
+      "63144"
+    ],
+    "population": 8154
+  },
+  {
+    "city": "Marble Hill",
+    "county": "Bollinger",
+    "zip_codes": [
+      "63764"
+    ],
+    "population": 1781
+  },
+  {
+    "city": "Marceline",
+    "county": "Linn",
+    "zip_codes": [
+      "64658"
+    ],
+    "population": 2269
+  },
+  {
+    "city": "Marionville",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65705"
+    ],
+    "population": 2701
+  },
+  {
+    "city": "Marlborough",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63119",
+      "63123"
+    ],
+    "population": 2366
+  },
+  {
+    "city": "Marquand",
+    "county": "Madison",
+    "zip_codes": [
+      "63655"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Marshall",
+    "county": "Saline",
+    "zip_codes": [
+      "65340"
+    ],
+    "population": 13699
+  },
+  {
+    "city": "Marshfield",
+    "county": "Webster",
+    "zip_codes": [
+      "65706"
+    ],
+    "population": 7599
+  },
+  {
+    "city": "Marston",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63866",
+      "63873"
+    ],
+    "population": 439
+  },
+  {
+    "city": "Marthasville",
+    "county": "Warren",
+    "zip_codes": [
+      "63357"
+    ],
+    "population": 2587
+  },
+  {
+    "city": "Martinsburg",
+    "county": "Audrain",
+    "zip_codes": [
+      "65264"
+    ],
+    "population": 582
+  },
+  {
+    "city": "Maryland Heights",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63017",
+      "63043",
+      "63146"
+    ],
+    "population": 27981
+  },
+  {
+    "city": "Maryville",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64468"
+    ],
+    "population": 10556
+  },
+  {
+    "city": "Matthews",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63867"
+    ],
+    "population": 506
+  },
+  {
+    "city": "Maysville",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64469"
+    ],
+    "population": 1106
+  },
+  {
+    "city": "Mayview",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64071"
+    ],
+    "population": 357
+  },
+  {
+    "city": "McBaine",
+    "county": "Boone",
+    "zip_codes": [
+      "65203"
+    ],
+    "population": 0
+  },
+  {
+    "city": "McCord Bend",
+    "county": "Stone",
+    "zip_codes": [
+      "65656"
+    ],
+    "population": 143
+  },
+  {
+    "city": "McFall",
+    "county": "Gentry",
+    "zip_codes": [
+      "64657"
+    ],
+    "population": 135
+  },
+  {
+    "city": "McKittrick",
+    "county": "Montgomery",
+    "zip_codes": [
+      "65041"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Meadville",
+    "county": "Linn",
+    "zip_codes": [
+      "64659"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Medill",
+    "county": "Clark",
+    "zip_codes": [
+      "63445"
+    ],
+    "population": 121
+  },
+  {
+    "city": "Mehlville",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63125",
+      "63129"
+    ],
+    "population": 29089
+  },
+  {
+    "city": "Memphis",
+    "county": "Scotland",
+    "zip_codes": [
+      "63555"
+    ],
+    "population": 1860
+  },
+  {
+    "city": "Mendon",
+    "county": "Chariton",
+    "zip_codes": [
+      "64660"
+    ],
+    "population": 204
+  },
+  {
+    "city": "Mercer",
+    "county": "Mercer",
+    "zip_codes": [
+      "64661"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Merriam Woods",
+    "county": "Taney",
+    "zip_codes": [
+      "65740",
+      "65771"
+    ],
+    "population": 2203
+  },
+  {
+    "city": "Merwin",
+    "county": "Bates",
+    "zip_codes": [
+      "64723"
+    ],
+    "population": 41
+  },
+  {
+    "city": "Meta",
+    "county": "Osage",
+    "zip_codes": [
+      "65058"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Metz",
+    "county": "Vernon",
+    "zip_codes": [
+      "64765"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Mexico",
+    "county": "Audrain",
+    "zip_codes": [
+      "65265"
+    ],
+    "population": 11487
+  },
+  {
+    "city": "Miami",
+    "county": "Saline",
+    "zip_codes": [
+      "65344"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Middle Grove",
+    "county": "Monroe",
+    "zip_codes": [
+      "65263"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Middletown",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63359"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Milan",
+    "county": "Sullivan",
+    "zip_codes": [
+      "63556"
+    ],
+    "population": 1883
+  },
+  {
+    "city": "Milford",
+    "county": "Barton",
+    "zip_codes": [
+      "64759"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Mill Spring",
+    "county": "Wayne",
+    "zip_codes": [
+      "63952"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Millard",
+    "county": "Adair",
+    "zip_codes": [
+      "63501"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Miller",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65707"
+    ],
+    "population": 808
+  },
+  {
+    "city": "Millersville",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63755",
+      "63766"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Milo",
+    "county": "Vernon",
+    "zip_codes": [
+      "64767"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Mindenmines",
+    "county": "Barton",
+    "zip_codes": [
+      "64769"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Mine La Motte",
+    "county": "Madison",
+    "zip_codes": [
+      "63645"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Miner",
+    "county": "Scott",
+    "zip_codes": [
+      "63801",
+      "63823"
+    ],
+    "population": 930
+  },
+  {
+    "city": "Mineral Point",
+    "county": "Washington",
+    "zip_codes": [
+      "63660"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Miramiguoa Park",
+    "county": "Franklin",
+    "zip_codes": [
+      "63080"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Missouri City",
+    "county": "Clay",
+    "zip_codes": [
+      "64068",
+      "64072"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Moberly",
+    "county": "Randolph",
+    "zip_codes": [
+      "65270"
+    ],
+    "population": 13634
+  },
+  {
+    "city": "Mokane",
+    "county": "Callaway",
+    "zip_codes": [
+      "65059"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Moline Acres",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63136",
+      "63137"
+    ],
+    "population": 2806
+  },
+  {
+    "city": "Monett",
+    "county": "Barry",
+    "zip_codes": [
+      "65708",
+      "65723"
+    ],
+    "population": 9734
+  },
+  {
+    "city": "Monroe City",
+    "county": "Monroe",
+    "zip_codes": [
+      "63456"
+    ],
+    "population": 3162
+  },
+  {
+    "city": "Montgomery City",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63361"
+    ],
+    "population": 2810
+  },
+  {
+    "city": "Monticello",
+    "county": "Lewis",
+    "zip_codes": [
+      "63457"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Montier",
+    "county": "Shannon",
+    "zip_codes": [
+      "65438"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Montreal",
+    "county": "Camden",
+    "zip_codes": [
+      "65591"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Montrose",
+    "county": "Henry",
+    "zip_codes": [
+      "64770"
+    ],
+    "population": 442
+  },
+  {
+    "city": "Mooresville",
+    "county": "Livingston",
+    "zip_codes": [
+      "64664"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Morehouse",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63801",
+      "63868"
+    ],
+    "population": 751
+  },
+  {
+    "city": "Morley",
+    "county": "Scott",
+    "zip_codes": [
+      "63767",
+      "63771"
+    ],
+    "population": 575
+  },
+  {
+    "city": "Morrison",
+    "county": "Gasconade",
+    "zip_codes": [
+      "65061"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Morrisville",
+    "county": "Polk",
+    "zip_codes": [
+      "65710"
+    ],
+    "population": 577
+  },
+  {
+    "city": "Mosby",
+    "county": "Clay",
+    "zip_codes": [
+      "64024",
+      "64068"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Moscow Mills",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63362"
+    ],
+    "population": 3647
+  },
+  {
+    "city": "Mound City",
+    "county": "Holt",
+    "zip_codes": [
+      "64470"
+    ],
+    "population": 1103
+  },
+  {
+    "city": "Moundville",
+    "county": "Vernon",
+    "zip_codes": [
+      "64771"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Mount Leonard",
+    "county": "Saline",
+    "zip_codes": [
+      "65339"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Mount Moriah",
+    "county": "Harrison",
+    "zip_codes": [
+      "64481"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65712"
+    ],
+    "population": 4532
+  },
+  {
+    "city": "Mountain Grove",
+    "county": "Wright",
+    "zip_codes": [
+      "65711"
+    ],
+    "population": 4494
+  },
+  {
+    "city": "Mountain View",
+    "county": "Howell",
+    "zip_codes": [
+      "65548"
+    ],
+    "population": 2648
+  },
+  {
+    "city": "Murphy",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63026",
+      "63049"
+    ],
+    "population": 8566
+  },
+  {
+    "city": "Napoleon",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64074",
+      "64097"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Naylor",
+    "county": "Ripley",
+    "zip_codes": [
+      "63953"
+    ],
+    "population": 388
+  },
+  {
+    "city": "Neck City",
+    "county": "Jasper",
+    "zip_codes": [
+      "64755",
+      "64849"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Neelyville",
+    "county": "Butler",
+    "zip_codes": [
+      "63954"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Nelson",
+    "county": "Saline",
+    "zip_codes": [
+      "65347"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Neosho",
+    "county": "Newton",
+    "zip_codes": [
+      "64850"
+    ],
+    "population": 12857
+  },
+  {
+    "city": "Nevada",
+    "county": "Vernon",
+    "zip_codes": [
+      "64772"
+    ],
+    "population": 7998
+  },
+  {
+    "city": "New Bloomfield",
+    "county": "Callaway",
+    "zip_codes": [
+      "65063"
+    ],
+    "population": 945
+  },
+  {
+    "city": "New Cambria",
+    "county": "Macon",
+    "zip_codes": [
+      "63558"
+    ],
+    "population": 134
+  },
+  {
+    "city": "New Florence",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63363"
+    ],
+    "population": 784
+  },
+  {
+    "city": "New Franklin",
+    "county": "Howard",
+    "zip_codes": [
+      "65274"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "New Hamburg",
+    "county": "Scott",
+    "zip_codes": [
+      "63736",
+      "63740"
+    ],
+    "population": 169
+  },
+  {
+    "city": "New Hampton",
+    "county": "Harrison",
+    "zip_codes": [
+      "64471"
+    ],
+    "population": 302
+  },
+  {
+    "city": "New Haven",
+    "county": "Franklin",
+    "zip_codes": [
+      "63068"
+    ],
+    "population": 3389
+  },
+  {
+    "city": "New London",
+    "county": "Ralls",
+    "zip_codes": [
+      "63459"
+    ],
+    "population": 1118
+  },
+  {
+    "city": "New Madrid",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63869"
+    ],
+    "population": 2720
+  },
+  {
+    "city": "New Market",
+    "county": "Platte",
+    "zip_codes": [
+      "64439"
+    ],
+    "population": 65
+  },
+  {
+    "city": "New Melle",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63341",
+      "63365",
+      "63385"
+    ],
+    "population": 510
+  },
+  {
+    "city": "New Wells",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63732"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Newark",
+    "county": "Knox",
+    "zip_codes": [
+      "63458"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Newburg",
+    "county": "Phelps",
+    "zip_codes": [
+      "65550"
+    ],
+    "population": 319
+  },
+  {
+    "city": "Newtonia",
+    "county": "Newton",
+    "zip_codes": [
+      "64866"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Newtown",
+    "county": "Sullivan",
+    "zip_codes": [
+      "64667"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Niangua",
+    "county": "Webster",
+    "zip_codes": [
+      "65713"
+    ],
+    "population": 495
+  },
+  {
+    "city": "Nixa",
+    "county": "Christian",
+    "zip_codes": [
+      "65714"
+    ],
+    "population": 24131
+  },
+  {
+    "city": "Noel",
+    "county": "McDonald",
+    "zip_codes": [
+      "64854"
+    ],
+    "population": 1679
+  },
+  {
+    "city": "Norborne",
+    "county": "Carroll",
+    "zip_codes": [
+      "64668"
+    ],
+    "population": 682
+  },
+  {
+    "city": "Normandy",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63133",
+      "63135"
+    ],
+    "population": 4263
+  },
+  {
+    "city": "North Kansas City",
+    "county": "Clay",
+    "zip_codes": [
+      "64116",
+      "64117"
+    ],
+    "population": 4758
+  },
+  {
+    "city": "North Lilbourn",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63862"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Northmoor",
+    "county": "Platte",
+    "zip_codes": [
+      "64150",
+      "64151"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Northwoods",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63136"
+    ],
+    "population": 3654
+  },
+  {
+    "city": "Norwood",
+    "county": "Wright",
+    "zip_codes": [
+      "65717"
+    ],
+    "population": 832
+  },
+  {
+    "city": "Norwood Court",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 759
+  },
+  {
+    "city": "Novelty",
+    "county": "Knox",
+    "zip_codes": [
+      "63460"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Novinger",
+    "county": "Adair",
+    "zip_codes": [
+      "63559"
+    ],
+    "population": 454
+  },
+  {
+    "city": "O'Fallon",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63304",
+      "63366",
+      "63367",
+      "63368",
+      "63376",
+      "63385"
+    ],
+    "population": 92697
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Jackson",
+    "zip_codes": [
+      "64075"
+    ],
+    "population": 8477
+  },
+  {
+    "city": "Oak Grove Village",
+    "county": "Franklin",
+    "zip_codes": [
+      "63080"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63755",
+      "63769"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Oakland",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122"
+    ],
+    "population": 1619
+  },
+  {
+    "city": "Oaks",
+    "county": "Clay",
+    "zip_codes": [
+      "64118"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Oakview",
+    "county": "Clay",
+    "zip_codes": [
+      "64118"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Oakville",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63129"
+    ],
+    "population": 35166
+  },
+  {
+    "city": "Oakwood",
+    "county": "Clay",
+    "zip_codes": [
+      "64118"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Oakwood Park",
+    "county": "Clay",
+    "zip_codes": [
+      "64118"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Odessa",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64076"
+    ],
+    "population": 5589
+  },
+  {
+    "city": "Old Appleton",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63770"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Old Jamestown",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63033",
+      "63034"
+    ],
+    "population": 21121
+  },
+  {
+    "city": "Old Monroe",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63369",
+      "63389"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Olean",
+    "county": "Miller",
+    "zip_codes": [
+      "65064"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Olivette",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63132"
+    ],
+    "population": 8539
+  },
+  {
+    "city": "Olympian Village",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63020"
+    ],
+    "population": 812
+  },
+  {
+    "city": "Oran",
+    "county": "Scott",
+    "zip_codes": [
+      "63771"
+    ],
+    "population": 1137
+  },
+  {
+    "city": "Oregon",
+    "county": "Holt",
+    "zip_codes": [
+      "64473"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Oronogo",
+    "county": "Jasper",
+    "zip_codes": [
+      "64855",
+      "64870"
+    ],
+    "population": 2685
+  },
+  {
+    "city": "Orrick",
+    "county": "Ray",
+    "zip_codes": [
+      "64077"
+    ],
+    "population": 787
+  },
+  {
+    "city": "Osage Beach",
+    "county": "Camden",
+    "zip_codes": [
+      "65065"
+    ],
+    "population": 4715
+  },
+  {
+    "city": "Osborn",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64474"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Osceola",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64776"
+    ],
+    "population": 955
+  },
+  {
+    "city": "Osgood",
+    "county": "Sullivan",
+    "zip_codes": [
+      "64641"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Otterville",
+    "county": "Cooper",
+    "zip_codes": [
+      "65348"
+    ],
+    "population": 454
+  },
+  {
+    "city": "Overland",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63132"
+    ],
+    "population": 15762
+  },
+  {
+    "city": "Owensville",
+    "county": "Gasconade",
+    "zip_codes": [
+      "65066"
+    ],
+    "population": 2798
+  },
+  {
+    "city": "Oxly",
+    "county": "Ripley",
+    "zip_codes": [
+      "63955"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Ozark",
+    "county": "Christian",
+    "zip_codes": [
+      "65721"
+    ],
+    "population": 21953
+  },
+  {
+    "city": "Ozora",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63670",
+      "63673"
+    ],
+    "population": 316
+  },
+  {
+    "city": "Pacific",
+    "county": "Franklin",
+    "zip_codes": [
+      "63069"
+    ],
+    "population": 7299
+  },
+  {
+    "city": "Pagedale",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121",
+      "63130",
+      "63133"
+    ],
+    "population": 2547
+  },
+  {
+    "city": "Palmyra",
+    "county": "Marion",
+    "zip_codes": [
+      "63461"
+    ],
+    "population": 3620
+  },
+  {
+    "city": "Paradise",
+    "county": "Clay",
+    "zip_codes": [
+      "64089"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Paris",
+    "county": "Monroe",
+    "zip_codes": [
+      "65275"
+    ],
+    "population": 1326
+  },
+  {
+    "city": "Park Hills",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601",
+      "63640"
+    ],
+    "population": 8667
+  },
+  {
+    "city": "Parkdale",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63049"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Parkville",
+    "county": "Platte",
+    "zip_codes": [
+      "64152",
+      "64153"
+    ],
+    "population": 8022
+  },
+  {
+    "city": "Parkway",
+    "county": "Franklin",
+    "zip_codes": [
+      "63077"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Parma",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63870"
+    ],
+    "population": 552
+  },
+  {
+    "city": "Parnell",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64475"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Pasadena Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 1104
+  },
+  {
+    "city": "Pasadena Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Pascola",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63851"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Passaic",
+    "county": "Bates",
+    "zip_codes": [
+      "64730"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Pattonsburg",
+    "county": "Daviess",
+    "zip_codes": [
+      "64670"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Paynesville",
+    "county": "Pike",
+    "zip_codes": [
+      "63336"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Peaceful Village",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63049"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Peculiar",
+    "county": "Cass",
+    "zip_codes": [
+      "64078"
+    ],
+    "population": 5815
+  },
+  {
+    "city": "Pendleton",
+    "county": "Warren",
+    "zip_codes": [
+      "63383"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Penermon",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63846"
+    ],
+    "population": 83
+  },
+  {
+    "city": "Perkins",
+    "county": "Scott",
+    "zip_codes": [
+      "63774"
+    ],
+    "population": 149
+  },
+  {
+    "city": "Perry",
+    "county": "Ralls",
+    "zip_codes": [
+      "63462"
+    ],
+    "population": 710
+  },
+  {
+    "city": "Perryville",
+    "county": "Perry",
+    "zip_codes": [
+      "63775"
+    ],
+    "population": 8530
+  },
+  {
+    "city": "Pevely",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63012",
+      "63070"
+    ],
+    "population": 6037
+  },
+  {
+    "city": "Phelps City",
+    "county": "Atchison",
+    "zip_codes": [
+      "64482"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Philadelphia",
+    "county": "Marion",
+    "zip_codes": [
+      "63463"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Phillipsburg",
+    "county": "Laclede",
+    "zip_codes": [
+      "65632",
+      "65722"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Pickering",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64476"
+    ],
+    "population": 171
+  },
+  {
+    "city": "Piedmont",
+    "county": "Wayne",
+    "zip_codes": [
+      "63957"
+    ],
+    "population": 2857
+  },
+  {
+    "city": "Pierce City",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65723"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Pierpont",
+    "county": "Boone",
+    "zip_codes": [
+      "65201",
+      "65203"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Pilot Grove",
+    "county": "Cooper",
+    "zip_codes": [
+      "65276"
+    ],
+    "population": 646
+  },
+  {
+    "city": "Pilot Knob",
+    "county": "Iron",
+    "zip_codes": [
+      "63650",
+      "63663"
+    ],
+    "population": 757
+  },
+  {
+    "city": "Pine Lawn",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63120",
+      "63121",
+      "63136"
+    ],
+    "population": 2738
+  },
+  {
+    "city": "Pineville",
+    "county": "McDonald",
+    "zip_codes": [
+      "64831",
+      "64854",
+      "64856"
+    ],
+    "population": 923
+  },
+  {
+    "city": "Pinhook",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63845"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Plato",
+    "county": "Texas",
+    "zip_codes": [
+      "65552"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Platte City",
+    "county": "Platte",
+    "zip_codes": [
+      "64079"
+    ],
+    "population": 4793
+  },
+  {
+    "city": "Platte Woods",
+    "county": "Platte",
+    "zip_codes": [
+      "64151"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Plattsburg",
+    "county": "Clinton",
+    "zip_codes": [
+      "64477"
+    ],
+    "population": 2437
+  },
+  {
+    "city": "Pleasant Hill",
+    "county": "Cass",
+    "zip_codes": [
+      "64034",
+      "64080"
+    ],
+    "population": 8853
+  },
+  {
+    "city": "Pleasant Hope",
+    "county": "Polk",
+    "zip_codes": [
+      "65613",
+      "65725"
+    ],
+    "population": 679
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Clay",
+    "zip_codes": [
+      "64068",
+      "64119"
+    ],
+    "population": 2744
+  },
+  {
+    "city": "Plevna",
+    "county": "Knox",
+    "zip_codes": [
+      "63460",
+      "63469"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Pocahontas",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63755"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Pollock",
+    "county": "Sullivan",
+    "zip_codes": [
+      "63560"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Polo",
+    "county": "Caldwell",
+    "zip_codes": [
+      "64671"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Pomona",
+    "county": "Howell",
+    "zip_codes": [
+      "65789"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Pontiac",
+    "county": "Ozark",
+    "zip_codes": [
+      "65729"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Poplar Bluff",
+    "county": "Butler",
+    "zip_codes": [
+      "63901"
+    ],
+    "population": 16243
+  },
+  {
+    "city": "Portage Des Sioux",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63373"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Portageville",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63873"
+    ],
+    "population": 2869
+  },
+  {
+    "city": "Potosi",
+    "county": "Washington",
+    "zip_codes": [
+      "63660",
+      "63664"
+    ],
+    "population": 2542
+  },
+  {
+    "city": "Powersville",
+    "county": "Putnam",
+    "zip_codes": [
+      "64672"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Prairie Hill",
+    "county": "Chariton",
+    "zip_codes": [
+      "65281"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Prairie Home",
+    "county": "Cooper",
+    "zip_codes": [
+      "65068"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Prathersville",
+    "county": "Clay",
+    "zip_codes": [
+      "64024"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Preston",
+    "county": "Hickory",
+    "zip_codes": [
+      "65732"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Princeton",
+    "county": "Mercer",
+    "zip_codes": [
+      "64673"
+    ],
+    "population": 1434
+  },
+  {
+    "city": "Purcell",
+    "county": "Jasper",
+    "zip_codes": [
+      "64755",
+      "64857"
+    ],
+    "population": 354
+  },
+  {
+    "city": "Purdin",
+    "county": "Linn",
+    "zip_codes": [
+      "64674"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Purdy",
+    "county": "Barry",
+    "zip_codes": [
+      "65734"
+    ],
+    "population": 1308
+  },
+  {
+    "city": "Puxico",
+    "county": "Stoddard",
+    "zip_codes": [
+      "63960"
+    ],
+    "population": 918
+  },
+  {
+    "city": "Queen City",
+    "county": "Schuyler",
+    "zip_codes": [
+      "63561"
+    ],
+    "population": 656
+  },
+  {
+    "city": "Quitman",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64487"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Qulin",
+    "county": "Butler",
+    "zip_codes": [
+      "63961"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Raintree Plantation",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63050"
+    ],
+    "population": 2006
+  },
+  {
+    "city": "Randolph",
+    "county": "Clay",
+    "zip_codes": [
+      "64117",
+      "64161"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Ravanna",
+    "county": "Mercer",
+    "zip_codes": [
+      "64673"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Ravenwood",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64479"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Raymondville",
+    "county": "Texas",
+    "zip_codes": [
+      "65483",
+      "65555"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Raymore",
+    "county": "Cass",
+    "zip_codes": [
+      "64012",
+      "64083"
+    ],
+    "population": 23849
+  },
+  {
+    "city": "Raytown",
+    "county": "Jackson",
+    "zip_codes": [
+      "64133",
+      "64138"
+    ],
+    "population": 29593
+  },
+  {
+    "city": "Rayville",
+    "county": "Ray",
+    "zip_codes": [
+      "64084"
+    ],
+    "population": 232
+  },
+  {
+    "city": "Rea",
+    "county": "Andrew",
+    "zip_codes": [
+      "64480"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Redings Mill",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Reeds",
+    "county": "Jasper",
+    "zip_codes": [
+      "64859"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Reeds Spring",
+    "county": "Stone",
+    "zip_codes": [
+      "65737"
+    ],
+    "population": 992
+  },
+  {
+    "city": "Renick",
+    "county": "Randolph",
+    "zip_codes": [
+      "65243",
+      "65270",
+      "65278"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Rensselaer",
+    "county": "Ralls",
+    "zip_codes": [
+      "63401"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Republic",
+    "county": "Greene",
+    "zip_codes": [
+      "65619",
+      "65738",
+      "65802"
+    ],
+    "population": 19233
+  },
+  {
+    "city": "Revere",
+    "county": "Clark",
+    "zip_codes": [
+      "63465"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Rhineland",
+    "county": "Montgomery",
+    "zip_codes": [
+      "65069"
+    ],
+    "population": 180
+  },
+  {
+    "city": "Rich Hill",
+    "county": "Bates",
+    "zip_codes": [
+      "64779"
+    ],
+    "population": 1412
+  },
+  {
+    "city": "Richards",
+    "county": "Vernon",
+    "zip_codes": [
+      "64778"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Richland",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65556"
+    ],
+    "population": 2256
+  },
+  {
+    "city": "Richmond",
+    "county": "Ray",
+    "zip_codes": [
+      "64085"
+    ],
+    "population": 5979
+  },
+  {
+    "city": "Richmond Heights",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63117",
+      "63124",
+      "63144"
+    ],
+    "population": 9179
+  },
+  {
+    "city": "Ridgely",
+    "county": "Platte",
+    "zip_codes": [
+      "64444"
+    ],
+    "population": 129
+  },
+  {
+    "city": "Ridgeway",
+    "county": "Harrison",
+    "zip_codes": [
+      "64481"
+    ],
+    "population": 525
+  },
+  {
+    "city": "Risco",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63874"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Ritchey",
+    "county": "Newton",
+    "zip_codes": [
+      "64844"
+    ],
+    "population": 50
+  },
+  {
+    "city": "River Bend",
+    "county": "Jackson",
+    "zip_codes": [
+      "64058"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Riverside",
+    "county": "Platte",
+    "zip_codes": [
+      "64150"
+    ],
+    "population": 4153
+  },
+  {
+    "city": "Riverview",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63137"
+    ],
+    "population": 2688
+  },
+  {
+    "city": "Riverview Estates",
+    "county": "Cass",
+    "zip_codes": [
+      "64012"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Rives",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63855"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Rocheport",
+    "county": "Boone",
+    "zip_codes": [
+      "65279"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Rock Hill",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63119",
+      "63144"
+    ],
+    "population": 4708
+  },
+  {
+    "city": "Rock Port",
+    "county": "Atchison",
+    "zip_codes": [
+      "64482"
+    ],
+    "population": 1207
+  },
+  {
+    "city": "Rockaway Beach",
+    "county": "Taney",
+    "zip_codes": [
+      "65740"
+    ],
+    "population": 682
+  },
+  {
+    "city": "Rockville",
+    "county": "Bates",
+    "zip_codes": [
+      "64780"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Rocky Comfort",
+    "county": "McDonald",
+    "zip_codes": [
+      "64861"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Rogersville",
+    "county": "Greene",
+    "zip_codes": [
+      "65742"
+    ],
+    "population": 4496
+  },
+  {
+    "city": "Rolla",
+    "county": "Phelps",
+    "zip_codes": [
+      "65401",
+      "65409"
+    ],
+    "population": 20144
+  },
+  {
+    "city": "Roscoe",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64744",
+      "64776",
+      "64781"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Rosebud",
+    "county": "Gasconade",
+    "zip_codes": [
+      "63091"
+    ],
+    "population": 411
+  },
+  {
+    "city": "Rosendale",
+    "county": "Andrew",
+    "zip_codes": [
+      "64483"
+    ],
+    "population": 110
+  },
+  {
+    "city": "Rothville",
+    "county": "Chariton",
+    "zip_codes": [
+      "64676"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Rush Hill",
+    "county": "Audrain",
+    "zip_codes": [
+      "65280"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Rushville",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64484"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Russellville",
+    "county": "Cole",
+    "zip_codes": [
+      "65074"
+    ],
+    "population": 875
+  },
+  {
+    "city": "Rutledge",
+    "county": "Scotland",
+    "zip_codes": [
+      "63563"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Saddlebrooke",
+    "county": "Christian",
+    "zip_codes": [
+      "65630",
+      "65653"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Saginaw",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Salem",
+    "county": "Dent",
+    "zip_codes": [
+      "65560"
+    ],
+    "population": 4673
+  },
+  {
+    "city": "Salisbury",
+    "county": "Chariton",
+    "zip_codes": [
+      "65281"
+    ],
+    "population": 1629
+  },
+  {
+    "city": "Sappington",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63126",
+      "63128"
+    ],
+    "population": 6882
+  },
+  {
+    "city": "Sarcoxie",
+    "county": "Jasper",
+    "zip_codes": [
+      "64862"
+    ],
+    "population": 1344
+  },
+  {
+    "city": "Savannah",
+    "county": "Andrew",
+    "zip_codes": [
+      "64485"
+    ],
+    "population": 5062
+  },
+  {
+    "city": "Saverton",
+    "county": "Ralls",
+    "zip_codes": [
+      "63401",
+      "63459",
+      "63467"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Schell City",
+    "county": "Vernon",
+    "zip_codes": [
+      "64783"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Scotsdale",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63051"
+    ],
+    "population": 186
+  },
+  {
+    "city": "Scott City",
+    "county": "Scott",
+    "zip_codes": [
+      "63703",
+      "63780"
+    ],
+    "population": 4354
+  },
+  {
+    "city": "Sedalia",
+    "county": "Pettis",
+    "zip_codes": [
+      "65301"
+    ],
+    "population": 21869
+  },
+  {
+    "city": "Sedgewickville",
+    "county": "Bollinger",
+    "zip_codes": [
+      "63781"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Seligman",
+    "county": "Barry",
+    "zip_codes": [
+      "65745"
+    ],
+    "population": 974
+  },
+  {
+    "city": "Senath",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63876"
+    ],
+    "population": 1578
+  },
+  {
+    "city": "Seneca",
+    "county": "Newton",
+    "zip_codes": [
+      "64865"
+    ],
+    "population": 1938
+  },
+  {
+    "city": "Seymour",
+    "county": "Webster",
+    "zip_codes": [
+      "65746"
+    ],
+    "population": 2081
+  },
+  {
+    "city": "Shakertowne",
+    "county": "Perry",
+    "zip_codes": [
+      "63775"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Shawneetown",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63755"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Shelbina",
+    "county": "Shelby",
+    "zip_codes": [
+      "63468"
+    ],
+    "population": 2108
+  },
+  {
+    "city": "Shelbyville",
+    "county": "Shelby",
+    "zip_codes": [
+      "63469"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Sheldon",
+    "county": "Vernon",
+    "zip_codes": [
+      "64784"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Shell Knob",
+    "county": "Barry",
+    "zip_codes": [
+      "65747"
+    ],
+    "population": 1445
+  },
+  {
+    "city": "Sheridan",
+    "county": "Worth",
+    "zip_codes": [
+      "64486"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Shoal Creek Drive",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 543
+  },
+  {
+    "city": "Shoal Creek Estates",
+    "county": "Newton",
+    "zip_codes": [
+      "64804"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Shrewsbury",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63119"
+    ],
+    "population": 6328
+  },
+  {
+    "city": "Sibley",
+    "county": "Jackson",
+    "zip_codes": [
+      "64016",
+      "64088"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Sikeston",
+    "county": "Scott",
+    "zip_codes": [
+      "63801"
+    ],
+    "population": 16231
+  },
+  {
+    "city": "Silex",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63377"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Skidmore",
+    "county": "Nodaway",
+    "zip_codes": [
+      "64487"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Slater",
+    "county": "Saline",
+    "zip_codes": [
+      "65349"
+    ],
+    "population": 2144
+  },
+  {
+    "city": "Smithton",
+    "county": "Pettis",
+    "zip_codes": [
+      "65350"
+    ],
+    "population": 509
+  },
+  {
+    "city": "Smithville",
+    "county": "Clay",
+    "zip_codes": [
+      "64089"
+    ],
+    "population": 10552
+  },
+  {
+    "city": "South Fork",
+    "county": "Howell",
+    "zip_codes": [
+      "65775"
+    ],
+    "population": 67
+  },
+  {
+    "city": "South Gifford",
+    "county": "Macon",
+    "zip_codes": [
+      "63549"
+    ],
+    "population": 14
+  },
+  {
+    "city": "South Gorin",
+    "county": "Scotland",
+    "zip_codes": [
+      "63543"
+    ],
+    "population": 36
+  },
+  {
+    "city": "South Greenfield",
+    "county": "Dade",
+    "zip_codes": [
+      "65752"
+    ],
+    "population": 125
+  },
+  {
+    "city": "South Lineville",
+    "county": "Mercer",
+    "zip_codes": [
+      "64661"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Southwest City",
+    "county": "McDonald",
+    "zip_codes": [
+      "64863"
+    ],
+    "population": 845
+  },
+  {
+    "city": "Spanish Lake",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63138"
+    ],
+    "population": 18183
+  },
+  {
+    "city": "Sparta",
+    "county": "Christian",
+    "zip_codes": [
+      "65753"
+    ],
+    "population": 2378
+  },
+  {
+    "city": "Spickard",
+    "county": "Grundy",
+    "zip_codes": [
+      "64679"
+    ],
+    "population": 268
+  },
+  {
+    "city": "Spokane",
+    "county": "Christian",
+    "zip_codes": [
+      "65754"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Springfield",
+    "county": "Greene",
+    "zip_codes": [
+      "65619",
+      "65721",
+      "65801",
+      "65802",
+      "65803",
+      "65804",
+      "65806",
+      "65807",
+      "65809",
+      "65810",
+      "65897"
+    ],
+    "population": 169432
+  },
+  {
+    "city": "St. Ann",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63044",
+      "63074"
+    ],
+    "population": 12865
+  },
+  {
+    "city": "St. Catharine",
+    "county": "Linn",
+    "zip_codes": [
+      "64628"
+    ],
+    "population": 1
+  },
+  {
+    "city": "St. Charles",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63301",
+      "63303",
+      "63376"
+    ],
+    "population": 71048
+  },
+  {
+    "city": "St. Clair",
+    "county": "Franklin",
+    "zip_codes": [
+      "63077",
+      "63084"
+    ],
+    "population": 4767
+  },
+  {
+    "city": "St. Clement",
+    "county": "Pike",
+    "zip_codes": [
+      "63334"
+    ],
+    "population": 29
+  },
+  {
+    "city": "St. Cloud",
+    "county": "Crawford",
+    "zip_codes": [
+      "63080",
+      "65441"
+    ],
+    "population": 31
+  },
+  {
+    "city": "St. Elizabeth",
+    "county": "Miller",
+    "zip_codes": [
+      "65075"
+    ],
+    "population": 592
+  },
+  {
+    "city": "St. Francisville",
+    "county": "Clark",
+    "zip_codes": [
+      "63430",
+      "63465"
+    ],
+    "population": 177
+  },
+  {
+    "city": "St. George",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 1568
+  },
+  {
+    "city": "St. James",
+    "county": "Phelps",
+    "zip_codes": [
+      "65559"
+    ],
+    "population": 3922
+  },
+  {
+    "city": "St. John",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63121"
+    ],
+    "population": 6562
+  },
+  {
+    "city": "St. Joseph",
+    "county": "Buchanan",
+    "zip_codes": [
+      "64501",
+      "64503",
+      "64504",
+      "64505",
+      "64506",
+      "64507"
+    ],
+    "population": 71542
+  },
+  {
+    "city": "St. Louis",
+    "county": "St. Louis City",
+    "zip_codes": [
+      "63101",
+      "63102",
+      "63103",
+      "63104",
+      "63106",
+      "63107",
+      "63108",
+      "63109",
+      "63110",
+      "63111",
+      "63112",
+      "63113",
+      "63115",
+      "63116",
+      "63117",
+      "63118",
+      "63120",
+      "63137",
+      "63139",
+      "63143",
+      "63147",
+      "63155"
+    ],
+    "population": 293109
+  },
+  {
+    "city": "St. Martins",
+    "county": "Cole",
+    "zip_codes": [
+      "65023",
+      "65109"
+    ],
+    "population": 1195
+  },
+  {
+    "city": "St. Mary",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63673"
+    ],
+    "population": 255
+  },
+  {
+    "city": "St. Paul",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63366"
+    ],
+    "population": 3292
+  },
+  {
+    "city": "St. Peters",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63303",
+      "63304",
+      "63376"
+    ],
+    "population": 58200
+  },
+  {
+    "city": "St. Robert",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65583",
+      "65584"
+    ],
+    "population": 5327
+  },
+  {
+    "city": "St. Thomas",
+    "county": "Cole",
+    "zip_codes": [
+      "65076"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Stanberry",
+    "county": "Gentry",
+    "zip_codes": [
+      "64489"
+    ],
+    "population": 1190
+  },
+  {
+    "city": "Stanton",
+    "county": "Franklin",
+    "zip_codes": [
+      "63079",
+      "63080"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Stark City",
+    "county": "Newton",
+    "zip_codes": [
+      "64866"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Ste. Genevieve",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63670"
+    ],
+    "population": 4996
+  },
+  {
+    "city": "Steele",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63877"
+    ],
+    "population": 1449
+  },
+  {
+    "city": "Steelville",
+    "county": "Crawford",
+    "zip_codes": [
+      "65565"
+    ],
+    "population": 1410
+  },
+  {
+    "city": "Stella",
+    "county": "Newton",
+    "zip_codes": [
+      "64867"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Stewartsville",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64490"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Stockton",
+    "county": "Cedar",
+    "zip_codes": [
+      "65785"
+    ],
+    "population": 2018
+  },
+  {
+    "city": "Stotesbury",
+    "county": "Vernon",
+    "zip_codes": [
+      "64752"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Stotts City",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65756"
+    ],
+    "population": 249
+  },
+  {
+    "city": "Stoutland",
+    "county": "Camden",
+    "zip_codes": [
+      "65567"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Stoutsville",
+    "county": "Monroe",
+    "zip_codes": [
+      "65283"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Stover",
+    "county": "Morgan",
+    "zip_codes": [
+      "65078"
+    ],
+    "population": 901
+  },
+  {
+    "city": "Strafford",
+    "county": "Greene",
+    "zip_codes": [
+      "65757"
+    ],
+    "population": 2609
+  },
+  {
+    "city": "Strasburg",
+    "county": "Cass",
+    "zip_codes": [
+      "64080",
+      "64090"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Sturgeon",
+    "county": "Boone",
+    "zip_codes": [
+      "65284"
+    ],
+    "population": 1143
+  },
+  {
+    "city": "Sugar Creek",
+    "county": "Jackson",
+    "zip_codes": [
+      "64050",
+      "64054",
+      "64058",
+      "64068"
+    ],
+    "population": 3261
+  },
+  {
+    "city": "Sullivan",
+    "county": "Franklin",
+    "zip_codes": [
+      "63080"
+    ],
+    "population": 6355
+  },
+  {
+    "city": "Summer Set",
+    "county": "Jefferson",
+    "zip_codes": [
+      "63020"
+    ],
+    "population": 1222
+  },
+  {
+    "city": "Summersville",
+    "county": "Texas",
+    "zip_codes": [
+      "65571"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Sumner",
+    "county": "Chariton",
+    "zip_codes": [
+      "64681"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Sundown",
+    "county": "Ozark",
+    "zip_codes": [
+      "65761"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Sunrise Beach",
+    "county": "Camden",
+    "zip_codes": [
+      "65079"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Sunset Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122",
+      "63126",
+      "63127",
+      "63128"
+    ],
+    "population": 9113
+  },
+  {
+    "city": "Sweet Springs",
+    "county": "Saline",
+    "zip_codes": [
+      "65351"
+    ],
+    "population": 1299
+  },
+  {
+    "city": "Sycamore Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Syracuse",
+    "county": "Morgan",
+    "zip_codes": [
+      "65354"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Tallapoosa",
+    "county": "New Madrid",
+    "zip_codes": [
+      "63848",
+      "63878"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Taneyville",
+    "county": "Taney",
+    "zip_codes": [
+      "65759"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Taos",
+    "county": "Cole",
+    "zip_codes": [
+      "65101"
+    ],
+    "population": 1334
+  },
+  {
+    "city": "Tarkio",
+    "county": "Atchison",
+    "zip_codes": [
+      "64491"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Tarrants",
+    "county": "Pike",
+    "zip_codes": [
+      "63334"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Tarsney Lakes",
+    "county": "Jackson",
+    "zip_codes": [
+      "64075"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Tebbetts",
+    "county": "Callaway",
+    "zip_codes": [
+      "65080"
+    ],
+    "population": 419
+  },
+  {
+    "city": "Terre du Lac",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63628"
+    ],
+    "population": 2460
+  },
+  {
+    "city": "Thayer",
+    "county": "Oregon",
+    "zip_codes": [
+      "65791"
+    ],
+    "population": 2288
+  },
+  {
+    "city": "Theodosia",
+    "county": "Ozark",
+    "zip_codes": [
+      "65761"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Thomasville",
+    "county": "Oregon",
+    "zip_codes": [
+      "65438"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Three Creeks",
+    "county": "Warren",
+    "zip_codes": [
+      "63357"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Tightwad",
+    "county": "Henry",
+    "zip_codes": [
+      "64735"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Tina",
+    "county": "Carroll",
+    "zip_codes": [
+      "64682"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Tindall",
+    "county": "Grundy",
+    "zip_codes": [
+      "64683"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Tipton",
+    "county": "Moniteau",
+    "zip_codes": [
+      "65081"
+    ],
+    "population": 2680
+  },
+  {
+    "city": "Town and Country",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63017",
+      "63131",
+      "63141"
+    ],
+    "population": 11605
+  },
+  {
+    "city": "Tracy",
+    "county": "Platte",
+    "zip_codes": [
+      "64079"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Trenton",
+    "county": "Grundy",
+    "zip_codes": [
+      "64683"
+    ],
+    "population": 5542
+  },
+  {
+    "city": "Trimble",
+    "county": "Clinton",
+    "zip_codes": [
+      "64492"
+    ],
+    "population": 661
+  },
+  {
+    "city": "Triplett",
+    "county": "Chariton",
+    "zip_codes": [
+      "65286"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Troy",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63362",
+      "63379"
+    ],
+    "population": 13467
+  },
+  {
+    "city": "Truesdale",
+    "county": "Warren",
+    "zip_codes": [
+      "63380",
+      "63383"
+    ],
+    "population": 978
+  },
+  {
+    "city": "Truxton",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63381"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Turney",
+    "county": "Clinton",
+    "zip_codes": [
+      "64493"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Tuscumbia",
+    "county": "Miller",
+    "zip_codes": [
+      "65082"
+    ],
+    "population": 157
+  },
+  {
+    "city": "Twin Oaks",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63021",
+      "63088"
+    ],
+    "population": 685
+  },
+  {
+    "city": "Umber View Heights",
+    "county": "Cedar",
+    "zip_codes": [
+      "65785"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Union",
+    "county": "Franklin",
+    "zip_codes": [
+      "63084"
+    ],
+    "population": 12560
+  },
+  {
+    "city": "Union Star",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64494"
+    ],
+    "population": 510
+  },
+  {
+    "city": "Unionville",
+    "county": "Putnam",
+    "zip_codes": [
+      "63565"
+    ],
+    "population": 1725
+  },
+  {
+    "city": "Unity Village",
+    "county": "Jackson",
+    "zip_codes": [
+      "64065",
+      "64086",
+      "64139"
+    ],
+    "population": 107
+  },
+  {
+    "city": "University City",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63105",
+      "63124",
+      "63130",
+      "63132"
+    ],
+    "population": 34655
+  },
+  {
+    "city": "Uplands Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Urbana",
+    "county": "Dallas",
+    "zip_codes": [
+      "65767"
+    ],
+    "population": 474
+  },
+  {
+    "city": "Urich",
+    "county": "Henry",
+    "zip_codes": [
+      "64788"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Utica",
+    "county": "Livingston",
+    "zip_codes": [
+      "64686"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Valley Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63021",
+      "63026",
+      "63049",
+      "63088",
+      "63122"
+    ],
+    "population": 6817
+  },
+  {
+    "city": "Van Buren",
+    "county": "Carter",
+    "zip_codes": [
+      "63965"
+    ],
+    "population": 1146
+  },
+  {
+    "city": "Vandalia",
+    "county": "Audrain",
+    "zip_codes": [
+      "63382"
+    ],
+    "population": 3260
+  },
+  {
+    "city": "Vandiver",
+    "county": "Audrain",
+    "zip_codes": [
+      "65265"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Vanduser",
+    "county": "Scott",
+    "zip_codes": [
+      "63784"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Velda City",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 1231
+  },
+  {
+    "city": "Velda Village Hills",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63121"
+    ],
+    "population": 771
+  },
+  {
+    "city": "Verona",
+    "county": "Lawrence",
+    "zip_codes": [
+      "65769"
+    ],
+    "population": 443
+  },
+  {
+    "city": "Versailles",
+    "county": "Morgan",
+    "zip_codes": [
+      "65084"
+    ],
+    "population": 2580
+  },
+  {
+    "city": "Vibbard",
+    "county": "Ray",
+    "zip_codes": [
+      "64062",
+      "64084"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Viburnum",
+    "county": "Iron",
+    "zip_codes": [
+      "65439",
+      "65566"
+    ],
+    "population": 809
+  },
+  {
+    "city": "Vienna",
+    "county": "Maries",
+    "zip_codes": [
+      "65582"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Villa Ridge",
+    "county": "Franklin",
+    "zip_codes": [
+      "63089"
+    ],
+    "population": 2994
+  },
+  {
+    "city": "Village of Four Seasons",
+    "county": "Camden",
+    "zip_codes": [
+      "65049"
+    ],
+    "population": 2077
+  },
+  {
+    "city": "Vinita Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63130",
+      "63133"
+    ],
+    "population": 1978
+  },
+  {
+    "city": "Vista",
+    "county": "St. Clair",
+    "zip_codes": [
+      "64776"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Waco",
+    "county": "Jasper",
+    "zip_codes": [
+      "64832"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Walker",
+    "county": "Vernon",
+    "zip_codes": [
+      "64790"
+    ],
+    "population": 371
+  },
+  {
+    "city": "Walnut Grove",
+    "county": "Greene",
+    "zip_codes": [
+      "65770"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Wardell",
+    "county": "Pemiscot",
+    "zip_codes": [
+      "63879"
+    ],
+    "population": 455
+  },
+  {
+    "city": "Wardsville",
+    "county": "Cole",
+    "zip_codes": [
+      "65101"
+    ],
+    "population": 1505
+  },
+  {
+    "city": "Warrensburg",
+    "county": "Johnson",
+    "zip_codes": [
+      "64093"
+    ],
+    "population": 19437
+  },
+  {
+    "city": "Warrenton",
+    "county": "Warren",
+    "zip_codes": [
+      "63383",
+      "63390"
+    ],
+    "population": 8870
+  },
+  {
+    "city": "Warsaw",
+    "county": "Benton",
+    "zip_codes": [
+      "65355"
+    ],
+    "population": 2064
+  },
+  {
+    "city": "Warson Woods",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63122"
+    ],
+    "population": 2312
+  },
+  {
+    "city": "Washburn",
+    "county": "Barry",
+    "zip_codes": [
+      "65772"
+    ],
+    "population": 561
+  },
+  {
+    "city": "Washington",
+    "county": "Franklin",
+    "zip_codes": [
+      "63090"
+    ],
+    "population": 14948
+  },
+  {
+    "city": "Wasola",
+    "county": "Ozark",
+    "zip_codes": [
+      "65773"
+    ],
+    "population": 30
+  },
+  {
+    "city": "Watson",
+    "county": "Atchison",
+    "zip_codes": [
+      "64496"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Waverly",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64096"
+    ],
+    "population": 854
+  },
+  {
+    "city": "Wayland",
+    "county": "Clark",
+    "zip_codes": [
+      "63430",
+      "63445",
+      "63472"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Waynesville",
+    "county": "Pulaski",
+    "zip_codes": [
+      "65583"
+    ],
+    "population": 5422
+  },
+  {
+    "city": "Weatherby",
+    "county": "DeKalb",
+    "zip_codes": [
+      "64497"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Weatherby Lake",
+    "county": "Platte",
+    "zip_codes": [
+      "64152"
+    ],
+    "population": 2465
+  },
+  {
+    "city": "Weaubleau",
+    "county": "Hickory",
+    "zip_codes": [
+      "65774"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Webb City",
+    "county": "Jasper",
+    "zip_codes": [
+      "64801",
+      "64835",
+      "64870"
+    ],
+    "population": 13139
+  },
+  {
+    "city": "Webster Groves",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63119"
+    ],
+    "population": 23771
+  },
+  {
+    "city": "Weingarten",
+    "county": "Ste. Genevieve",
+    "zip_codes": [
+      "63670"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Weldon Spring",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63304"
+    ],
+    "population": 5291
+  },
+  {
+    "city": "Weldon Spring Heights",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63304"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Wellington",
+    "county": "Lafayette",
+    "zip_codes": [
+      "64097"
+    ],
+    "population": 553
+  },
+  {
+    "city": "Wellston",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63130",
+      "63133"
+    ],
+    "population": 1690
+  },
+  {
+    "city": "Wellsville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "63384"
+    ],
+    "population": 1197
+  },
+  {
+    "city": "Wentworth",
+    "county": "Newton",
+    "zip_codes": [
+      "64873"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Wentzville",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63348",
+      "63366",
+      "63367",
+      "63385"
+    ],
+    "population": 45734
+  },
+  {
+    "city": "West Alton",
+    "county": "St. Charles",
+    "zip_codes": [
+      "63386"
+    ],
+    "population": 511
+  },
+  {
+    "city": "West Line",
+    "county": "Cass",
+    "zip_codes": [
+      "64734"
+    ],
+    "population": 78
+  },
+  {
+    "city": "West Plains",
+    "county": "Howell",
+    "zip_codes": [
+      "65775"
+    ],
+    "population": 12341
+  },
+  {
+    "city": "West Sullivan",
+    "county": "Crawford",
+    "zip_codes": [
+      "63080",
+      "65441"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Westboro",
+    "county": "Atchison",
+    "zip_codes": [
+      "64498"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Weston",
+    "county": "Platte",
+    "zip_codes": [
+      "64098"
+    ],
+    "population": 1852
+  },
+  {
+    "city": "Westphalia",
+    "county": "Osage",
+    "zip_codes": [
+      "65085"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Westwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63131"
+    ],
+    "population": 293
+  },
+  {
+    "city": "Wheatland",
+    "county": "Hickory",
+    "zip_codes": [
+      "65779"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Wheaton",
+    "county": "Barry",
+    "zip_codes": [
+      "64874"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Wheeling",
+    "county": "Livingston",
+    "zip_codes": [
+      "64688"
+    ],
+    "population": 135
+  },
+  {
+    "city": "White Branch",
+    "county": "Benton",
+    "zip_codes": [
+      "65355"
+    ],
+    "population": 210
+  },
+  {
+    "city": "White Oak",
+    "county": "Dunklin",
+    "zip_codes": [
+      "63852",
+      "63880"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Whiteman AFB",
+    "county": "Johnson",
+    "zip_codes": [
+      "65305",
+      "65336"
+    ],
+    "population": 3713
+  },
+  {
+    "city": "Whiteside",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63387"
+    ],
+    "population": 96
+  },
+  {
+    "city": "Whitewater",
+    "county": "Cape Girardeau",
+    "zip_codes": [
+      "63785"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Whiting",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63845"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Wilbur Park",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63123"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Wildwood",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63005",
+      "63011",
+      "63021",
+      "63025",
+      "63038",
+      "63040",
+      "63069"
+    ],
+    "population": 35168
+  },
+  {
+    "city": "Willard",
+    "county": "Greene",
+    "zip_codes": [
+      "65781",
+      "65802",
+      "65803"
+    ],
+    "population": 6418
+  },
+  {
+    "city": "Williamstown",
+    "county": "Lewis",
+    "zip_codes": [
+      "63473"
+    ],
+    "population": 14
+  },
+  {
+    "city": "Williamsville",
+    "county": "Wayne",
+    "zip_codes": [
+      "63967"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Willow Springs",
+    "county": "Howell",
+    "zip_codes": [
+      "65793"
+    ],
+    "population": 2015
+  },
+  {
+    "city": "Wilson City",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63882"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Winchester",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63011",
+      "63021"
+    ],
+    "population": 1914
+  },
+  {
+    "city": "Windsor",
+    "county": "Henry",
+    "zip_codes": [
+      "65360"
+    ],
+    "population": 3038
+  },
+  {
+    "city": "Windsor Place",
+    "county": "Cooper",
+    "zip_codes": [
+      "65233"
+    ],
+    "population": 420
+  },
+  {
+    "city": "Winfield",
+    "county": "Lincoln",
+    "zip_codes": [
+      "63389"
+    ],
+    "population": 1726
+  },
+  {
+    "city": "Winigan",
+    "county": "Sullivan",
+    "zip_codes": [
+      "63566"
+    ],
+    "population": 15
+  },
+  {
+    "city": "Winona",
+    "county": "Shannon",
+    "zip_codes": [
+      "65588"
+    ],
+    "population": 829
+  },
+  {
+    "city": "Winston",
+    "county": "Daviess",
+    "zip_codes": [
+      "64689"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Wood Heights",
+    "county": "Ray",
+    "zip_codes": [
+      "64024"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Woodson Terrace",
+    "county": "St. Louis",
+    "zip_codes": [
+      "63114",
+      "63134"
+    ],
+    "population": 3935
+  },
+  {
+    "city": "Wooldridge",
+    "county": "Cooper",
+    "zip_codes": [
+      "65287"
+    ],
+    "population": 33
+  },
+  {
+    "city": "Worth",
+    "county": "Worth",
+    "zip_codes": [
+      "64499"
+    ],
+    "population": 44
+  },
+  {
+    "city": "Wortham",
+    "county": "St. Francois",
+    "zip_codes": [
+      "63601"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Worthington",
+    "county": "Putnam",
+    "zip_codes": [
+      "63567"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Wright City",
+    "county": "Warren",
+    "zip_codes": [
+      "63390"
+    ],
+    "population": 5025
+  },
+  {
+    "city": "Wyaconda",
+    "county": "Clark",
+    "zip_codes": [
+      "63474"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Wyatt",
+    "county": "Mississippi",
+    "zip_codes": [
+      "63834",
+      "63882"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Zalma",
+    "county": "Bollinger",
+    "zip_codes": [
+      "63787"
+    ],
+    "population": 77
+  }
+]

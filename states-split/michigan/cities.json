@@ -1,0 +1,6235 @@
+[
+  {
+    "city": "Addison",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49220"
+    ],
+    "population": 585
+  },
+  {
+    "city": "Adrian",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49221"
+    ],
+    "population": 20493
+  },
+  {
+    "city": "Advance",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49712"
+    ],
+    "population": 372
+  },
+  {
+    "city": "Ahmeek",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49901"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Akron",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48701"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Alanson",
+    "county": "Emmet",
+    "zip_codes": [
+      "49706"
+    ],
+    "population": 943
+  },
+  {
+    "city": "Alba",
+    "county": "Antrim",
+    "zip_codes": [
+      "49611",
+      "49730"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Albion",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49224"
+    ],
+    "population": 7608
+  },
+  {
+    "city": "Alden",
+    "county": "Antrim",
+    "zip_codes": [
+      "49612"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Algonac",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48001"
+    ],
+    "population": 4152
+  },
+  {
+    "city": "Allegan",
+    "county": "Allegan",
+    "zip_codes": [
+      "49010"
+    ],
+    "population": 5182
+  },
+  {
+    "city": "Allen",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49227"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Allen Park",
+    "county": "Wayne",
+    "zip_codes": [
+      "48101"
+    ],
+    "population": 28128
+  },
+  {
+    "city": "Allendale",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49401"
+    ],
+    "population": 25741
+  },
+  {
+    "city": "Alma",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48801"
+    ],
+    "population": 9421
+  },
+  {
+    "city": "Almont",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48003"
+    ],
+    "population": 2830
+  },
+  {
+    "city": "Alpena",
+    "county": "Alpena",
+    "zip_codes": [
+      "49707"
+    ],
+    "population": 10178
+  },
+  {
+    "city": "Alpha",
+    "county": "Iron",
+    "zip_codes": [
+      "49902",
+      "49920"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Amasa",
+    "county": "Iron",
+    "zip_codes": [
+      "49903",
+      "49920"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Ann Arbor",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48103",
+      "48104",
+      "48105",
+      "48108",
+      "48109"
+    ],
+    "population": 121179
+  },
+  {
+    "city": "Applegate",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48401"
+    ],
+    "population": 251
+  },
+  {
+    "city": "Arcadia",
+    "county": "Manistee",
+    "zip_codes": [
+      "49613"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Argentine",
+    "county": "Genesee",
+    "zip_codes": [
+      "48430",
+      "48451"
+    ],
+    "population": 2357
+  },
+  {
+    "city": "Armada",
+    "county": "Macomb",
+    "zip_codes": [
+      "48005"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Ashley",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48806"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Athens",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49011"
+    ],
+    "population": 1149
+  },
+  {
+    "city": "Atlanta",
+    "county": "Montmorency",
+    "zip_codes": [
+      "49709"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Atlantic Mine",
+    "county": "Houghton",
+    "zip_codes": [
+      "49905"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Attica",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48412"
+    ],
+    "population": 863
+  },
+  {
+    "city": "Au Gres",
+    "county": "Arenac",
+    "zip_codes": [
+      "48703"
+    ],
+    "population": 982
+  },
+  {
+    "city": "Au Sable",
+    "county": "Iosco",
+    "zip_codes": [
+      "48750"
+    ],
+    "population": 1780
+  },
+  {
+    "city": "Auburn",
+    "county": "Bay",
+    "zip_codes": [
+      "48611"
+    ],
+    "population": 2045
+  },
+  {
+    "city": "Auburn Hills",
+    "county": "Oakland",
+    "zip_codes": [
+      "48309",
+      "48326",
+      "48359"
+    ],
+    "population": 24911
+  },
+  {
+    "city": "Augusta",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49012"
+    ],
+    "population": 726
+  },
+  {
+    "city": "Bad Axe",
+    "county": "Huron",
+    "zip_codes": [
+      "48413"
+    ],
+    "population": 3010
+  },
+  {
+    "city": "Baldwin",
+    "county": "Lake",
+    "zip_codes": [
+      "49304"
+    ],
+    "population": 1161
+  },
+  {
+    "city": "Bancroft",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48414"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Bangor",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49013"
+    ],
+    "population": 2113
+  },
+  {
+    "city": "Baraga",
+    "county": "Baraga",
+    "zip_codes": [
+      "49908"
+    ],
+    "population": 1948
+  },
+  {
+    "city": "Barnes Lake",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48421",
+      "48461"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Baroda",
+    "county": "Berrien",
+    "zip_codes": [
+      "49101"
+    ],
+    "population": 934
+  },
+  {
+    "city": "Barryton",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49305"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Barton Hills",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48105"
+    ],
+    "population": 478
+  },
+  {
+    "city": "Bath",
+    "county": "Clinton",
+    "zip_codes": [
+      "48808"
+    ],
+    "population": 2938
+  },
+  {
+    "city": "Battle Creek",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49014",
+      "49015",
+      "49017",
+      "49034",
+      "49037"
+    ],
+    "population": 52392
+  },
+  {
+    "city": "Bay City",
+    "county": "Bay",
+    "zip_codes": [
+      "48706",
+      "48708"
+    ],
+    "population": 32445
+  },
+  {
+    "city": "Bay Port",
+    "county": "Huron",
+    "zip_codes": [
+      "48720"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Bay Shore",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49720",
+      "49770"
+    ],
+    "population": 607
+  },
+  {
+    "city": "Bay View",
+    "county": "Emmet",
+    "zip_codes": [
+      "49770"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Beal City",
+    "county": "Isabella",
+    "zip_codes": [
+      "48858",
+      "48893"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Bear Lake",
+    "county": "Kalkaska",
+    "zip_codes": [
+      "49646"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Bear Lake",
+    "county": "Manistee",
+    "zip_codes": [
+      "49614"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Beaverton",
+    "county": "Gladwin",
+    "zip_codes": [
+      "48612"
+    ],
+    "population": 1036
+  },
+  {
+    "city": "Beecher",
+    "county": "Genesee",
+    "zip_codes": [
+      "48458",
+      "48504",
+      "48505"
+    ],
+    "population": 8507
+  },
+  {
+    "city": "Beechwood",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49424"
+    ],
+    "population": 2736
+  },
+  {
+    "city": "Belding",
+    "county": "Ionia",
+    "zip_codes": [
+      "48809"
+    ],
+    "population": 5949
+  },
+  {
+    "city": "Bellaire",
+    "county": "Antrim",
+    "zip_codes": [
+      "49615"
+    ],
+    "population": 929
+  },
+  {
+    "city": "Belleville",
+    "county": "Wayne",
+    "zip_codes": [
+      "48111"
+    ],
+    "population": 3961
+  },
+  {
+    "city": "Bellevue",
+    "county": "Eaton",
+    "zip_codes": [
+      "49021"
+    ],
+    "population": 1333
+  },
+  {
+    "city": "Bendon",
+    "county": "Benzie",
+    "zip_codes": [
+      "49643"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Benton Harbor",
+    "county": "Berrien",
+    "zip_codes": [
+      "49022",
+      "49085"
+    ],
+    "population": 9023
+  },
+  {
+    "city": "Benton Heights",
+    "county": "Berrien",
+    "zip_codes": [
+      "49022"
+    ],
+    "population": 3572
+  },
+  {
+    "city": "Benzonia",
+    "county": "Benzie",
+    "zip_codes": [
+      "49616"
+    ],
+    "population": 735
+  },
+  {
+    "city": "Bergland",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49910",
+      "49947"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Berkley",
+    "county": "Oakland",
+    "zip_codes": [
+      "48072",
+      "48073"
+    ],
+    "population": 15084
+  },
+  {
+    "city": "Berrien Springs",
+    "county": "Berrien",
+    "zip_codes": [
+      "49103"
+    ],
+    "population": 2043
+  },
+  {
+    "city": "Bessemer",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49911"
+    ],
+    "population": 1778
+  },
+  {
+    "city": "Beulah",
+    "county": "Benzie",
+    "zip_codes": [
+      "49616",
+      "49617"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Beverly Hills",
+    "county": "Oakland",
+    "zip_codes": [
+      "48025"
+    ],
+    "population": 10507
+  },
+  {
+    "city": "Big Bay",
+    "county": "Marquette",
+    "zip_codes": [
+      "49808",
+      "49855"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Big Rapids",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49307"
+    ],
+    "population": 7847
+  },
+  {
+    "city": "Bingham Farms",
+    "county": "Oakland",
+    "zip_codes": [
+      "48025",
+      "48034"
+    ],
+    "population": 1652
+  },
+  {
+    "city": "Birch Run",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48415"
+    ],
+    "population": 1236
+  },
+  {
+    "city": "Birmingham",
+    "county": "Oakland",
+    "zip_codes": [
+      "48009",
+      "48304"
+    ],
+    "population": 21612
+  },
+  {
+    "city": "Blissfield",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49228"
+    ],
+    "population": 3236
+  },
+  {
+    "city": "Bloomfield Hills",
+    "county": "Oakland",
+    "zip_codes": [
+      "48304"
+    ],
+    "population": 4412
+  },
+  {
+    "city": "Bloomingdale",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49026"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Boon",
+    "county": "Wexford",
+    "zip_codes": [
+      "49618"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Boyne City",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49712"
+    ],
+    "population": 3829
+  },
+  {
+    "city": "Boyne Falls",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49712",
+      "49713"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Breckenridge",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48615"
+    ],
+    "population": 1411
+  },
+  {
+    "city": "Breedsville",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49027",
+      "49056"
+    ],
+    "population": 315
+  },
+  {
+    "city": "Brethren",
+    "county": "Manistee",
+    "zip_codes": [
+      "49619"
+    ],
+    "population": 405
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48601",
+      "48722"
+    ],
+    "population": 6841
+  },
+  {
+    "city": "Bridgman",
+    "county": "Berrien",
+    "zip_codes": [
+      "49106"
+    ],
+    "population": 2383
+  },
+  {
+    "city": "Brighton",
+    "county": "Livingston",
+    "zip_codes": [
+      "48116"
+    ],
+    "population": 7576
+  },
+  {
+    "city": "Brimley",
+    "county": "Chippewa",
+    "zip_codes": [
+      "49715"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Britton",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49229"
+    ],
+    "population": 695
+  },
+  {
+    "city": "Bronson",
+    "county": "Branch",
+    "zip_codes": [
+      "49028"
+    ],
+    "population": 2183
+  },
+  {
+    "city": "Brooklyn",
+    "county": "Jackson",
+    "zip_codes": [
+      "49230"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Brown City",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48416"
+    ],
+    "population": 1211
+  },
+  {
+    "city": "Brownlee Park",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49014"
+    ],
+    "population": 2037
+  },
+  {
+    "city": "Bruce Crossing",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49912"
+    ],
+    "population": 266
+  },
+  {
+    "city": "Brutus",
+    "county": "Emmet",
+    "zip_codes": [
+      "49706",
+      "49716"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Buchanan",
+    "county": "Berrien",
+    "zip_codes": [
+      "49107"
+    ],
+    "population": 4259
+  },
+  {
+    "city": "Buckley",
+    "county": "Wexford",
+    "zip_codes": [
+      "49620"
+    ],
+    "population": 925
+  },
+  {
+    "city": "Buena Vista",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48601"
+    ],
+    "population": 5904
+  },
+  {
+    "city": "Burlington",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49029"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Burr Oak",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49030"
+    ],
+    "population": 867
+  },
+  {
+    "city": "Burt",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48417",
+      "48457"
+    ],
+    "population": 1430
+  },
+  {
+    "city": "Burton",
+    "county": "Genesee",
+    "zip_codes": [
+      "48439",
+      "48509",
+      "48519",
+      "48529"
+    ],
+    "population": 29529
+  },
+  {
+    "city": "Byron",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48418"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Byron Center",
+    "county": "Kent",
+    "zip_codes": [
+      "49315"
+    ],
+    "population": 6817
+  },
+  {
+    "city": "Caberfae",
+    "county": "Wexford",
+    "zip_codes": [
+      "49601"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Cadillac",
+    "county": "Wexford",
+    "zip_codes": [
+      "49601"
+    ],
+    "population": 10404
+  },
+  {
+    "city": "Caledonia",
+    "county": "Kent",
+    "zip_codes": [
+      "49316"
+    ],
+    "population": 1936
+  },
+  {
+    "city": "Calumet",
+    "county": "Houghton",
+    "zip_codes": [
+      "49913"
+    ],
+    "population": 676
+  },
+  {
+    "city": "Cambria",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49242"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Camden",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49232"
+    ],
+    "population": 614
+  },
+  {
+    "city": "Canada Creek Ranch",
+    "county": "Montmorency",
+    "zip_codes": [
+      "49709"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Canadian Lakes",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49332",
+      "49346"
+    ],
+    "population": 2701
+  },
+  {
+    "city": "Cannonsburg",
+    "county": "Kent",
+    "zip_codes": [
+      "49301",
+      "49341"
+    ],
+    "population": 168
+  },
+  {
+    "city": "Capac",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48014"
+    ],
+    "population": 1903
+  },
+  {
+    "city": "Carleton",
+    "county": "Monroe",
+    "zip_codes": [
+      "48117"
+    ],
+    "population": 2635
+  },
+  {
+    "city": "Carney",
+    "county": "Menominee",
+    "zip_codes": [
+      "49812"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Caro",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48723"
+    ],
+    "population": 4284
+  },
+  {
+    "city": "Carp Lake",
+    "county": "Emmet",
+    "zip_codes": [
+      "49718",
+      "49755"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Carson City",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48811"
+    ],
+    "population": 1161
+  },
+  {
+    "city": "Carsonville",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48419"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Caseville",
+    "county": "Huron",
+    "zip_codes": [
+      "48725"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Casnovia",
+    "county": "Kent",
+    "zip_codes": [
+      "49318"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Caspian",
+    "county": "Iron",
+    "zip_codes": [
+      "49915",
+      "49935"
+    ],
+    "population": 553
+  },
+  {
+    "city": "Cass City",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48726"
+    ],
+    "population": 2189
+  },
+  {
+    "city": "Cassopolis",
+    "county": "Cass",
+    "zip_codes": [
+      "49031"
+    ],
+    "population": 1763
+  },
+  {
+    "city": "Cedar",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49621"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Cedar Springs",
+    "county": "Kent",
+    "zip_codes": [
+      "49319"
+    ],
+    "population": 3661
+  },
+  {
+    "city": "Cement City",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49233"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Center Line",
+    "county": "Macomb",
+    "zip_codes": [
+      "48015"
+    ],
+    "population": 8448
+  },
+  {
+    "city": "Central Lake",
+    "county": "Antrim",
+    "zip_codes": [
+      "49622"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Centreville",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49032"
+    ],
+    "population": 1591
+  },
+  {
+    "city": "Charlevoix",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49720"
+    ],
+    "population": 2420
+  },
+  {
+    "city": "Charlotte",
+    "county": "Eaton",
+    "zip_codes": [
+      "48813"
+    ],
+    "population": 9269
+  },
+  {
+    "city": "Chassell",
+    "county": "Houghton",
+    "zip_codes": [
+      "49916"
+    ],
+    "population": 905
+  },
+  {
+    "city": "Chatham",
+    "county": "Alger",
+    "zip_codes": [
+      "49816"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Cheboygan",
+    "county": "Cheboygan",
+    "zip_codes": [
+      "49721"
+    ],
+    "population": 4801
+  },
+  {
+    "city": "Chelsea",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48118"
+    ],
+    "population": 5420
+  },
+  {
+    "city": "Chesaning",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48616"
+    ],
+    "population": 2411
+  },
+  {
+    "city": "Chums Corner",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49685"
+    ],
+    "population": 1012
+  },
+  {
+    "city": "Clare",
+    "county": "Clare",
+    "zip_codes": [
+      "48617"
+    ],
+    "population": 3341
+  },
+  {
+    "city": "Clarksville",
+    "county": "Ionia",
+    "zip_codes": [
+      "48815"
+    ],
+    "population": 403
+  },
+  {
+    "city": "Clawson",
+    "county": "Oakland",
+    "zip_codes": [
+      "48017"
+    ],
+    "population": 11314
+  },
+  {
+    "city": "Clayton",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49235"
+    ],
+    "population": 215
+  },
+  {
+    "city": "Clifford",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48727"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Climax",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49034"
+    ],
+    "population": 790
+  },
+  {
+    "city": "Clinton",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49236"
+    ],
+    "population": 2795
+  },
+  {
+    "city": "Clio",
+    "county": "Genesee",
+    "zip_codes": [
+      "48420"
+    ],
+    "population": 2165
+  },
+  {
+    "city": "Coldwater",
+    "county": "Branch",
+    "zip_codes": [
+      "49036"
+    ],
+    "population": 13847
+  },
+  {
+    "city": "Coleman",
+    "county": "Midland",
+    "zip_codes": [
+      "48618"
+    ],
+    "population": 1147
+  },
+  {
+    "city": "Coloma",
+    "county": "Berrien",
+    "zip_codes": [
+      "49038"
+    ],
+    "population": 1051
+  },
+  {
+    "city": "Colon",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49040"
+    ],
+    "population": 1432
+  },
+  {
+    "city": "Columbiaville",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48421"
+    ],
+    "population": 734
+  },
+  {
+    "city": "Comstock Northwest",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49004",
+      "49048"
+    ],
+    "population": 5190
+  },
+  {
+    "city": "Comstock Park",
+    "county": "Kent",
+    "zip_codes": [
+      "49321"
+    ],
+    "population": 10306
+  },
+  {
+    "city": "Concord",
+    "county": "Jackson",
+    "zip_codes": [
+      "49237"
+    ],
+    "population": 1156
+  },
+  {
+    "city": "Constantine",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49042"
+    ],
+    "population": 2196
+  },
+  {
+    "city": "Conway",
+    "county": "Emmet",
+    "zip_codes": [
+      "49706",
+      "49722",
+      "49770"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Coopersville",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49404"
+    ],
+    "population": 4841
+  },
+  {
+    "city": "Copemish",
+    "county": "Manistee",
+    "zip_codes": [
+      "49625"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Copper City",
+    "county": "Houghton",
+    "zip_codes": [
+      "49917"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Copper Harbor",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49918"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Corunna",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48817",
+      "48867"
+    ],
+    "population": 3054
+  },
+  {
+    "city": "Covington",
+    "county": "Baraga",
+    "zip_codes": [
+      "49919",
+      "49970"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Cross Village",
+    "county": "Emmet",
+    "zip_codes": [
+      "49740"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Croswell",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48422"
+    ],
+    "population": 2667
+  },
+  {
+    "city": "Crystal",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48818"
+    ],
+    "population": 966
+  },
+  {
+    "city": "Crystal Downs Country Club",
+    "county": "Benzie",
+    "zip_codes": [
+      "49635"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Crystal Falls",
+    "county": "Iron",
+    "zip_codes": [
+      "49920"
+    ],
+    "population": 1734
+  },
+  {
+    "city": "Crystal Mountain",
+    "county": "Benzie",
+    "zip_codes": [
+      "49683"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Custer",
+    "county": "Mason",
+    "zip_codes": [
+      "49405",
+      "49454"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Cutlerville",
+    "county": "Kent",
+    "zip_codes": [
+      "49315",
+      "49508",
+      "49548"
+    ],
+    "population": 19465
+  },
+  {
+    "city": "Daggett",
+    "county": "Menominee",
+    "zip_codes": [
+      "49821"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Dansville",
+    "county": "Ingham",
+    "zip_codes": [
+      "48819"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Davison",
+    "county": "Genesee",
+    "zip_codes": [
+      "48423"
+    ],
+    "population": 5082
+  },
+  {
+    "city": "De Tour Village",
+    "county": "Chippewa",
+    "zip_codes": [
+      "49725"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Dearborn",
+    "county": "Wayne",
+    "zip_codes": [
+      "48120",
+      "48124",
+      "48126",
+      "48128"
+    ],
+    "population": 107846
+  },
+  {
+    "city": "Dearborn Heights",
+    "county": "Wayne",
+    "zip_codes": [
+      "48125",
+      "48127"
+    ],
+    "population": 62099
+  },
+  {
+    "city": "Decatur",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49045"
+    ],
+    "population": 1814
+  },
+  {
+    "city": "Deckerville",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48427"
+    ],
+    "population": 1057
+  },
+  {
+    "city": "Deerfield",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49238"
+    ],
+    "population": 889
+  },
+  {
+    "city": "Delton",
+    "county": "Barry",
+    "zip_codes": [
+      "49046"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Detroit",
+    "county": "Wayne",
+    "zip_codes": [
+      "48201",
+      "48202",
+      "48203",
+      "48204",
+      "48205",
+      "48206",
+      "48207",
+      "48208",
+      "48209",
+      "48210",
+      "48211",
+      "48212",
+      "48213",
+      "48214",
+      "48215",
+      "48216",
+      "48217",
+      "48219",
+      "48221",
+      "48223",
+      "48224",
+      "48226",
+      "48227",
+      "48228",
+      "48233",
+      "48234",
+      "48235",
+      "48238",
+      "48239",
+      "48243"
+    ],
+    "population": 636644
+  },
+  {
+    "city": "Detroit Beach",
+    "county": "Monroe",
+    "zip_codes": [
+      "48162"
+    ],
+    "population": 2231
+  },
+  {
+    "city": "DeWitt",
+    "county": "Clinton",
+    "zip_codes": [
+      "48820"
+    ],
+    "population": 4774
+  },
+  {
+    "city": "Dexter",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48130"
+    ],
+    "population": 4495
+  },
+  {
+    "city": "Dimondale",
+    "county": "Eaton",
+    "zip_codes": [
+      "48821"
+    ],
+    "population": 1582
+  },
+  {
+    "city": "Dodgeville",
+    "county": "Houghton",
+    "zip_codes": [
+      "49921",
+      "49931"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Dollar Bay",
+    "county": "Houghton",
+    "zip_codes": [
+      "49922",
+      "49930"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Dorr",
+    "county": "Allegan",
+    "zip_codes": [
+      "49323"
+    ],
+    "population": 3952
+  },
+  {
+    "city": "Douglas",
+    "county": "Allegan",
+    "zip_codes": [
+      "49406",
+      "49408"
+    ],
+    "population": 1295
+  },
+  {
+    "city": "Dowagiac",
+    "county": "Cass",
+    "zip_codes": [
+      "49047"
+    ],
+    "population": 5677
+  },
+  {
+    "city": "Dowling",
+    "county": "Barry",
+    "zip_codes": [
+      "49050",
+      "49058"
+    ],
+    "population": 344
+  },
+  {
+    "city": "Dryden",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48428"
+    ],
+    "population": 1125
+  },
+  {
+    "city": "Dundee",
+    "county": "Monroe",
+    "zip_codes": [
+      "48131"
+    ],
+    "population": 5584
+  },
+  {
+    "city": "Durand",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48429"
+    ],
+    "population": 3485
+  },
+  {
+    "city": "Eagle",
+    "county": "Clinton",
+    "zip_codes": [
+      "48822"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Eagle Harbor",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49950"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Eagle River",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49950"
+    ],
+    "population": 77
+  },
+  {
+    "city": "East Grand Rapids",
+    "county": "Kent",
+    "zip_codes": [
+      "49506"
+    ],
+    "population": 11394
+  },
+  {
+    "city": "East Jordan",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49727"
+    ],
+    "population": 1776
+  },
+  {
+    "city": "East Lansing",
+    "county": "Ingham",
+    "zip_codes": [
+      "48808",
+      "48823",
+      "48824",
+      "48825",
+      "48910",
+      "48912"
+    ],
+    "population": 45394
+  },
+  {
+    "city": "East Tawas",
+    "county": "Iosco",
+    "zip_codes": [
+      "48730"
+    ],
+    "population": 2686
+  },
+  {
+    "city": "Eastlake",
+    "county": "Manistee",
+    "zip_codes": [
+      "49626",
+      "49660"
+    ],
+    "population": 304
+  },
+  {
+    "city": "Eastpointe",
+    "county": "Macomb",
+    "zip_codes": [
+      "48021"
+    ],
+    "population": 34003
+  },
+  {
+    "city": "Eastport",
+    "county": "Antrim",
+    "zip_codes": [
+      "49622",
+      "49627"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Eastwood",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49048"
+    ],
+    "population": 6704
+  },
+  {
+    "city": "Eaton Rapids",
+    "county": "Eaton",
+    "zip_codes": [
+      "48827"
+    ],
+    "population": 5197
+  },
+  {
+    "city": "Eau Claire",
+    "county": "Berrien",
+    "zip_codes": [
+      "49111"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Ecorse",
+    "county": "Wayne",
+    "zip_codes": [
+      "48229"
+    ],
+    "population": 9170
+  },
+  {
+    "city": "Edgemont Park",
+    "county": "Ingham",
+    "zip_codes": [
+      "48917"
+    ],
+    "population": 2367
+  },
+  {
+    "city": "Edmore",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48829"
+    ],
+    "population": 1417
+  },
+  {
+    "city": "Edwardsburg",
+    "county": "Cass",
+    "zip_codes": [
+      "49112"
+    ],
+    "population": 1244
+  },
+  {
+    "city": "Elberta",
+    "county": "Benzie",
+    "zip_codes": [
+      "49628"
+    ],
+    "population": 181
+  },
+  {
+    "city": "Elk Rapids",
+    "county": "Antrim",
+    "zip_codes": [
+      "49629"
+    ],
+    "population": 1558
+  },
+  {
+    "city": "Elkton",
+    "county": "Huron",
+    "zip_codes": [
+      "48731"
+    ],
+    "population": 775
+  },
+  {
+    "city": "Ellsworth",
+    "county": "Antrim",
+    "zip_codes": [
+      "49729"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Elm Hall",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48877"
+    ],
+    "population": 224
+  },
+  {
+    "city": "Elsie",
+    "county": "Clinton",
+    "zip_codes": [
+      "48831"
+    ],
+    "population": 951
+  },
+  {
+    "city": "Emmett",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48022"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Empire",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49630"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Escanaba",
+    "county": "Delta",
+    "zip_codes": [
+      "49829"
+    ],
+    "population": 12374
+  },
+  {
+    "city": "Essexville",
+    "county": "Bay",
+    "zip_codes": [
+      "48732"
+    ],
+    "population": 3344
+  },
+  {
+    "city": "Estral Beach",
+    "county": "Monroe",
+    "zip_codes": [
+      "48166"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Eureka",
+    "county": "Clinton",
+    "zip_codes": [
+      "48831",
+      "48879"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Evart",
+    "county": "Osceola",
+    "zip_codes": [
+      "49631"
+    ],
+    "population": 1764
+  },
+  {
+    "city": "Ewen",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49925"
+    ],
+    "population": 286
+  },
+  {
+    "city": "Fair Plain",
+    "county": "Berrien",
+    "zip_codes": [
+      "49022"
+    ],
+    "population": 6992
+  },
+  {
+    "city": "Fairgrove",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48733"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Falmouth",
+    "county": "Missaukee",
+    "zip_codes": [
+      "49632"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Farmington",
+    "county": "Oakland",
+    "zip_codes": [
+      "48335",
+      "48336"
+    ],
+    "population": 11472
+  },
+  {
+    "city": "Farmington Hills",
+    "county": "Oakland",
+    "zip_codes": [
+      "48167",
+      "48331",
+      "48334",
+      "48335",
+      "48336"
+    ],
+    "population": 83316
+  },
+  {
+    "city": "Farwell",
+    "county": "Clare",
+    "zip_codes": [
+      "48622"
+    ],
+    "population": 1086
+  },
+  {
+    "city": "Fennville",
+    "county": "Allegan",
+    "zip_codes": [
+      "49408"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Fenton",
+    "county": "Genesee",
+    "zip_codes": [
+      "48430"
+    ],
+    "population": 11950
+  },
+  {
+    "city": "Ferndale",
+    "county": "Oakland",
+    "zip_codes": [
+      "48220"
+    ],
+    "population": 19156
+  },
+  {
+    "city": "Ferrysburg",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49409",
+      "49456"
+    ],
+    "population": 2949
+  },
+  {
+    "city": "Fife Lake",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49633"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Filer City",
+    "county": "Manistee",
+    "zip_codes": [
+      "49634"
+    ],
+    "population": 183
+  },
+  {
+    "city": "Flat Rock",
+    "county": "Wayne",
+    "zip_codes": [
+      "48134",
+      "48173"
+    ],
+    "population": 10418
+  },
+  {
+    "city": "Flint",
+    "county": "Genesee",
+    "zip_codes": [
+      "48502",
+      "48503",
+      "48504",
+      "48505",
+      "48506",
+      "48507",
+      "48532"
+    ],
+    "population": 80835
+  },
+  {
+    "city": "Flushing",
+    "county": "Genesee",
+    "zip_codes": [
+      "48433"
+    ],
+    "population": 8323
+  },
+  {
+    "city": "Forest Hills",
+    "county": "Kent",
+    "zip_codes": [
+      "49301",
+      "49331",
+      "49525",
+      "49546"
+    ],
+    "population": 28494
+  },
+  {
+    "city": "Forestville",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48434"
+    ],
+    "population": 142
+  },
+  {
+    "city": "Fostoria",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48435"
+    ],
+    "population": 1081
+  },
+  {
+    "city": "Fountain",
+    "county": "Mason",
+    "zip_codes": [
+      "49410"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Fowler",
+    "county": "Clinton",
+    "zip_codes": [
+      "48835"
+    ],
+    "population": 1446
+  },
+  {
+    "city": "Fowlerville",
+    "county": "Livingston",
+    "zip_codes": [
+      "48836"
+    ],
+    "population": 2950
+  },
+  {
+    "city": "Frankenmuth",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48734"
+    ],
+    "population": 5108
+  },
+  {
+    "city": "Frankfort",
+    "county": "Benzie",
+    "zip_codes": [
+      "49635"
+    ],
+    "population": 1158
+  },
+  {
+    "city": "Franklin",
+    "county": "Oakland",
+    "zip_codes": [
+      "48025"
+    ],
+    "population": 2610
+  },
+  {
+    "city": "Fraser",
+    "county": "Macomb",
+    "zip_codes": [
+      "48026"
+    ],
+    "population": 14604
+  },
+  {
+    "city": "Free Soil",
+    "county": "Mason",
+    "zip_codes": [
+      "49411"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Freeland",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48603",
+      "48623"
+    ],
+    "population": 7562
+  },
+  {
+    "city": "Freeport",
+    "county": "Barry",
+    "zip_codes": [
+      "49325"
+    ],
+    "population": 615
+  },
+  {
+    "city": "Fremont",
+    "county": "Newaygo",
+    "zip_codes": [
+      "49412"
+    ],
+    "population": 4532
+  },
+  {
+    "city": "Fruitport",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49415"
+    ],
+    "population": 1269
+  },
+  {
+    "city": "Fulton",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49950"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Gaastra",
+    "county": "Iron",
+    "zip_codes": [
+      "49927"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Gagetown",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48735"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Gaines",
+    "county": "Genesee",
+    "zip_codes": [
+      "48436"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Galesburg",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49053"
+    ],
+    "population": 2122
+  },
+  {
+    "city": "Galien",
+    "county": "Berrien",
+    "zip_codes": [
+      "49113"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Garden",
+    "county": "Delta",
+    "zip_codes": [
+      "49835"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Garden City",
+    "county": "Wayne",
+    "zip_codes": [
+      "48135"
+    ],
+    "population": 26910
+  },
+  {
+    "city": "Gaylord",
+    "county": "Otsego",
+    "zip_codes": [
+      "49735"
+    ],
+    "population": 4307
+  },
+  {
+    "city": "Gibraltar",
+    "county": "Wayne",
+    "zip_codes": [
+      "48173",
+      "48183"
+    ],
+    "population": 4937
+  },
+  {
+    "city": "Gladstone",
+    "county": "Delta",
+    "zip_codes": [
+      "49837"
+    ],
+    "population": 5240
+  },
+  {
+    "city": "Gladwin",
+    "county": "Gladwin",
+    "zip_codes": [
+      "48624"
+    ],
+    "population": 3081
+  },
+  {
+    "city": "Glen Arbor",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49636"
+    ],
+    "population": 313
+  },
+  {
+    "city": "Gobles",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49055"
+    ],
+    "population": 598
+  },
+  {
+    "city": "Goodrich",
+    "county": "Genesee",
+    "zip_codes": [
+      "48438"
+    ],
+    "population": 2024
+  },
+  {
+    "city": "Grand Beach",
+    "county": "Berrien",
+    "zip_codes": [
+      "49117"
+    ],
+    "population": 368
+  },
+  {
+    "city": "Grand Blanc",
+    "county": "Genesee",
+    "zip_codes": [
+      "48439"
+    ],
+    "population": 7995
+  },
+  {
+    "city": "Grand Haven",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49417",
+      "49456"
+    ],
+    "population": 10966
+  },
+  {
+    "city": "Grand Ledge",
+    "county": "Eaton",
+    "zip_codes": [
+      "48837"
+    ],
+    "population": 7797
+  },
+  {
+    "city": "Grand Marais",
+    "county": "Alger",
+    "zip_codes": [
+      "49839"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Grand Rapids",
+    "county": "Kent",
+    "zip_codes": [
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "population": 197768
+  },
+  {
+    "city": "Grandville",
+    "county": "Kent",
+    "zip_codes": [
+      "49418"
+    ],
+    "population": 16135
+  },
+  {
+    "city": "Grant",
+    "county": "Newaygo",
+    "zip_codes": [
+      "49327"
+    ],
+    "population": 1146
+  },
+  {
+    "city": "Grass Lake",
+    "county": "Jackson",
+    "zip_codes": [
+      "49240"
+    ],
+    "population": 1235
+  },
+  {
+    "city": "Grawn",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49637",
+      "49685"
+    ],
+    "population": 824
+  },
+  {
+    "city": "Grayling",
+    "county": "Crawford",
+    "zip_codes": [
+      "49738"
+    ],
+    "population": 1638
+  },
+  {
+    "city": "Greenland",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49929",
+      "49953"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Greenville",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48838"
+    ],
+    "population": 8897
+  },
+  {
+    "city": "Greilickville",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49621",
+      "49684"
+    ],
+    "population": 1296
+  },
+  {
+    "city": "Grosse Pointe",
+    "county": "Wayne",
+    "zip_codes": [
+      "48230"
+    ],
+    "population": 5561
+  },
+  {
+    "city": "Grosse Pointe Farms",
+    "county": "Wayne",
+    "zip_codes": [
+      "48236"
+    ],
+    "population": 9957
+  },
+  {
+    "city": "Grosse Pointe Park",
+    "county": "Wayne",
+    "zip_codes": [
+      "48230"
+    ],
+    "population": 11394
+  },
+  {
+    "city": "Grosse Pointe Woods",
+    "county": "Wayne",
+    "zip_codes": [
+      "48236"
+    ],
+    "population": 16177
+  },
+  {
+    "city": "Gwinn",
+    "county": "Marquette",
+    "zip_codes": [
+      "49841"
+    ],
+    "population": 1268
+  },
+  {
+    "city": "Hamtramck",
+    "county": "Wayne",
+    "zip_codes": [
+      "48211",
+      "48212"
+    ],
+    "population": 27830
+  },
+  {
+    "city": "Hancock",
+    "county": "Houghton",
+    "zip_codes": [
+      "49930"
+    ],
+    "population": 4510
+  },
+  {
+    "city": "Hanover",
+    "county": "Jackson",
+    "zip_codes": [
+      "49241"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Harbor Beach",
+    "county": "Huron",
+    "zip_codes": [
+      "48441"
+    ],
+    "population": 1576
+  },
+  {
+    "city": "Harbor Springs",
+    "county": "Emmet",
+    "zip_codes": [
+      "49740"
+    ],
+    "population": 1015
+  },
+  {
+    "city": "Hardwood Acres",
+    "county": "Benzie",
+    "zip_codes": [
+      "49650"
+    ],
+    "population": 735
+  },
+  {
+    "city": "Haring",
+    "county": "Wexford",
+    "zip_codes": [
+      "49601"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Harper Woods",
+    "county": "Wayne",
+    "zip_codes": [
+      "48225"
+    ],
+    "population": 15205
+  },
+  {
+    "city": "Harrietta",
+    "county": "Wexford",
+    "zip_codes": [
+      "49638"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Harrison",
+    "county": "Clare",
+    "zip_codes": [
+      "48625"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Harrisville",
+    "county": "Alcona",
+    "zip_codes": [
+      "48740"
+    ],
+    "population": 484
+  },
+  {
+    "city": "Hart",
+    "county": "Oceana",
+    "zip_codes": [
+      "49420"
+    ],
+    "population": 1931
+  },
+  {
+    "city": "Hartford",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49057"
+    ],
+    "population": 2312
+  },
+  {
+    "city": "Hartland",
+    "county": "Livingston",
+    "zip_codes": [
+      "48353",
+      "48430"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Harvey",
+    "county": "Marquette",
+    "zip_codes": [
+      "49855"
+    ],
+    "population": 3080
+  },
+  {
+    "city": "Haslett",
+    "county": "Ingham",
+    "zip_codes": [
+      "48823",
+      "48840",
+      "48864",
+      "48895"
+    ],
+    "population": 19025
+  },
+  {
+    "city": "Hastings",
+    "county": "Barry",
+    "zip_codes": [
+      "49058"
+    ],
+    "population": 7515
+  },
+  {
+    "city": "Hazel Park",
+    "county": "Oakland",
+    "zip_codes": [
+      "48030"
+    ],
+    "population": 14945
+  },
+  {
+    "city": "Hemlock",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48626"
+    ],
+    "population": 1323
+  },
+  {
+    "city": "Henderson",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48841",
+      "48867"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Hermansville",
+    "county": "Menominee",
+    "zip_codes": [
+      "49847"
+    ],
+    "population": 621
+  },
+  {
+    "city": "Hersey",
+    "county": "Osceola",
+    "zip_codes": [
+      "49639"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Hesperia",
+    "county": "Oceana",
+    "zip_codes": [
+      "49421"
+    ],
+    "population": 1007
+  },
+  {
+    "city": "Hickory Corners",
+    "county": "Barry",
+    "zip_codes": [
+      "49060"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Highland Park",
+    "county": "Wayne",
+    "zip_codes": [
+      "48203"
+    ],
+    "population": 8798
+  },
+  {
+    "city": "Hillman",
+    "county": "Montmorency",
+    "zip_codes": [
+      "49746"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Hillsdale",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49242",
+      "49250"
+    ],
+    "population": 8013
+  },
+  {
+    "city": "Holland",
+    "county": "Allegan",
+    "zip_codes": [
+      "49423"
+    ],
+    "population": 34266
+  },
+  {
+    "city": "Holly",
+    "county": "Oakland",
+    "zip_codes": [
+      "48442"
+    ],
+    "population": 5971
+  },
+  {
+    "city": "Holt",
+    "county": "Ingham",
+    "zip_codes": [
+      "48842",
+      "48854",
+      "48911"
+    ],
+    "population": 25275
+  },
+  {
+    "city": "Homer",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49245"
+    ],
+    "population": 1584
+  },
+  {
+    "city": "Honor",
+    "county": "Benzie",
+    "zip_codes": [
+      "49640"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Hopkins",
+    "county": "Allegan",
+    "zip_codes": [
+      "49328"
+    ],
+    "population": 794
+  },
+  {
+    "city": "Horton Bay",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49712",
+      "49720"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Houghton",
+    "county": "Houghton",
+    "zip_codes": [
+      "49931"
+    ],
+    "population": 8341
+  },
+  {
+    "city": "Houghton Lake",
+    "county": "Roscommon",
+    "zip_codes": [
+      "48629",
+      "48630",
+      "48651"
+    ],
+    "population": 5761
+  },
+  {
+    "city": "Howard City",
+    "county": "Montcalm",
+    "zip_codes": [
+      "49329"
+    ],
+    "population": 1683
+  },
+  {
+    "city": "Howell",
+    "county": "Livingston",
+    "zip_codes": [
+      "48843",
+      "48855"
+    ],
+    "population": 10074
+  },
+  {
+    "city": "Hubbard Lake",
+    "county": "Alcona",
+    "zip_codes": [
+      "48762",
+      "49747"
+    ],
+    "population": 976
+  },
+  {
+    "city": "Hubbardston",
+    "county": "Ionia",
+    "zip_codes": [
+      "48845"
+    ],
+    "population": 418
+  },
+  {
+    "city": "Hubbell",
+    "county": "Houghton",
+    "zip_codes": [
+      "49913",
+      "49934",
+      "49945"
+    ],
+    "population": 970
+  },
+  {
+    "city": "Hudson",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49247"
+    ],
+    "population": 2385
+  },
+  {
+    "city": "Hudsonville",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49426"
+    ],
+    "population": 7711
+  },
+  {
+    "city": "Huntington Woods",
+    "county": "Oakland",
+    "zip_codes": [
+      "48070"
+    ],
+    "population": 6322
+  },
+  {
+    "city": "Hurontown",
+    "county": "Houghton",
+    "zip_codes": [
+      "49931"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Ida",
+    "county": "Monroe",
+    "zip_codes": [
+      "48140"
+    ],
+    "population": 661
+  },
+  {
+    "city": "Imlay City",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48444"
+    ],
+    "population": 3706
+  },
+  {
+    "city": "Indian River",
+    "county": "Cheboygan",
+    "zip_codes": [
+      "49749"
+    ],
+    "population": 2210
+  },
+  {
+    "city": "Inkster",
+    "county": "Wayne",
+    "zip_codes": [
+      "48141"
+    ],
+    "population": 25602
+  },
+  {
+    "city": "Interlochen",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49637",
+      "49643"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Ionia",
+    "county": "Ionia",
+    "zip_codes": [
+      "48846"
+    ],
+    "population": 12950
+  },
+  {
+    "city": "Iron Mountain",
+    "county": "Dickinson",
+    "zip_codes": [
+      "49801"
+    ],
+    "population": 7508
+  },
+  {
+    "city": "Iron River",
+    "county": "Iron",
+    "zip_codes": [
+      "49935"
+    ],
+    "population": 3009
+  },
+  {
+    "city": "Ironton",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49720"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Ironwood",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49938"
+    ],
+    "population": 5004
+  },
+  {
+    "city": "Ishpeming",
+    "county": "Marquette",
+    "zip_codes": [
+      "49849",
+      "49866"
+    ],
+    "population": 6173
+  },
+  {
+    "city": "Ithaca",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48847"
+    ],
+    "population": 2831
+  },
+  {
+    "city": "Jackson",
+    "county": "Jackson",
+    "zip_codes": [
+      "49201",
+      "49202",
+      "49203"
+    ],
+    "population": 31206
+  },
+  {
+    "city": "Jasper",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49248"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Jenison",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49428"
+    ],
+    "population": 17334
+  },
+  {
+    "city": "Jennings",
+    "county": "Missaukee",
+    "zip_codes": [
+      "49651"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Jonesville",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49250"
+    ],
+    "population": 2257
+  },
+  {
+    "city": "K. I. Sawyer",
+    "county": "Marquette",
+    "zip_codes": [
+      "49841"
+    ],
+    "population": 2791
+  },
+  {
+    "city": "Kalamazoo",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49001",
+      "49002",
+      "49004",
+      "49006",
+      "49007",
+      "49008",
+      "49009",
+      "49048",
+      "49074"
+    ],
+    "population": 73132
+  },
+  {
+    "city": "Kaleva",
+    "county": "Manistee",
+    "zip_codes": [
+      "49645"
+    ],
+    "population": 520
+  },
+  {
+    "city": "Kalkaska",
+    "county": "Kalkaska",
+    "zip_codes": [
+      "49646"
+    ],
+    "population": 2370
+  },
+  {
+    "city": "Keego Harbor",
+    "county": "Oakland",
+    "zip_codes": [
+      "48320"
+    ],
+    "population": 2747
+  },
+  {
+    "city": "Kent City",
+    "county": "Kent",
+    "zip_codes": [
+      "49330"
+    ],
+    "population": 1218
+  },
+  {
+    "city": "Kentwood",
+    "county": "Kent",
+    "zip_codes": [
+      "49508",
+      "49512",
+      "49546",
+      "49548"
+    ],
+    "population": 54114
+  },
+  {
+    "city": "Kincheloe",
+    "county": "Chippewa",
+    "zip_codes": [
+      "49788"
+    ],
+    "population": 2875
+  },
+  {
+    "city": "Kinde",
+    "county": "Huron",
+    "zip_codes": [
+      "48445"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Kingsford",
+    "county": "Dickinson",
+    "zip_codes": [
+      "49802"
+    ],
+    "population": 5138
+  },
+  {
+    "city": "Kingsley",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49649"
+    ],
+    "population": 1783
+  },
+  {
+    "city": "Kingston",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48741"
+    ],
+    "population": 398
+  },
+  {
+    "city": "L'Anse",
+    "county": "Baraga",
+    "zip_codes": [
+      "49946"
+    ],
+    "population": 1916
+  },
+  {
+    "city": "Laingsburg",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48848"
+    ],
+    "population": 1640
+  },
+  {
+    "city": "Lake Angelus",
+    "county": "Oakland",
+    "zip_codes": [
+      "48326",
+      "48329"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Lake Ann",
+    "county": "Benzie",
+    "zip_codes": [
+      "49650"
+    ],
+    "population": 235
+  },
+  {
+    "city": "Lake City",
+    "county": "Missaukee",
+    "zip_codes": [
+      "49651"
+    ],
+    "population": 669
+  },
+  {
+    "city": "Lake Fenton",
+    "county": "Genesee",
+    "zip_codes": [
+      "48430",
+      "48442"
+    ],
+    "population": 6168
+  },
+  {
+    "city": "Lake Gogebic",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49910",
+      "49947"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Lake Isabella",
+    "county": "Isabella",
+    "zip_codes": [
+      "48893"
+    ],
+    "population": 1931
+  },
+  {
+    "city": "Lake LeAnn",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49249"
+    ],
+    "population": 1522
+  },
+  {
+    "city": "Lake Leelanau",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49653"
+    ],
+    "population": 223
+  },
+  {
+    "city": "Lake Linden",
+    "county": "Houghton",
+    "zip_codes": [
+      "49945"
+    ],
+    "population": 1042
+  },
+  {
+    "city": "Lake Michigan Beach",
+    "county": "Berrien",
+    "zip_codes": [
+      "49022",
+      "49038"
+    ],
+    "population": 914
+  },
+  {
+    "city": "Lake Odessa",
+    "county": "Ionia",
+    "zip_codes": [
+      "48849"
+    ],
+    "population": 2174
+  },
+  {
+    "city": "Lake Orion",
+    "county": "Oakland",
+    "zip_codes": [
+      "48362"
+    ],
+    "population": 2873
+  },
+  {
+    "city": "Lake Victoria",
+    "county": "Clinton",
+    "zip_codes": [
+      "48848"
+    ],
+    "population": 1002
+  },
+  {
+    "city": "Lakeport",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48059"
+    ],
+    "population": 746
+  },
+  {
+    "city": "Lakes of the North",
+    "county": "Antrim",
+    "zip_codes": [
+      "49659",
+      "49730"
+    ],
+    "population": 1076
+  },
+  {
+    "city": "Lakeview",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48850"
+    ],
+    "population": 1049
+  },
+  {
+    "city": "Lakewood Club",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49457"
+    ],
+    "population": 1315
+  },
+  {
+    "city": "Lambertville",
+    "county": "Monroe",
+    "zip_codes": [
+      "48144",
+      "48182"
+    ],
+    "population": 9708
+  },
+  {
+    "city": "Lamont",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49404",
+      "49430",
+      "49435"
+    ],
+    "population": 1078
+  },
+  {
+    "city": "Lansing",
+    "county": "Ingham",
+    "zip_codes": [
+      "48854",
+      "48864",
+      "48906",
+      "48910",
+      "48911",
+      "48912",
+      "48915",
+      "48917",
+      "48933"
+    ],
+    "population": 112546
+  },
+  {
+    "city": "Lapeer",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48446"
+    ],
+    "population": 9053
+  },
+  {
+    "city": "Lathrup Village",
+    "county": "Oakland",
+    "zip_codes": [
+      "48076"
+    ],
+    "population": 4049
+  },
+  {
+    "city": "Laurium",
+    "county": "Houghton",
+    "zip_codes": [
+      "49913"
+    ],
+    "population": 1486
+  },
+  {
+    "city": "Lawrence",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49064"
+    ],
+    "population": 1186
+  },
+  {
+    "city": "Lawton",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49065"
+    ],
+    "population": 2056
+  },
+  {
+    "city": "Le Roy",
+    "county": "Osceola",
+    "zip_codes": [
+      "49655"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Leland",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49654"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Lennon",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48449"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Leonard",
+    "county": "Oakland",
+    "zip_codes": [
+      "48367"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Leslie",
+    "county": "Ingham",
+    "zip_codes": [
+      "49251"
+    ],
+    "population": 2167
+  },
+  {
+    "city": "Level Park-Oak Park",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49012",
+      "49017",
+      "49037"
+    ],
+    "population": 3367
+  },
+  {
+    "city": "Levering",
+    "county": "Emmet",
+    "zip_codes": [
+      "49755"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Lewiston",
+    "county": "Montmorency",
+    "zip_codes": [
+      "49756"
+    ],
+    "population": 980
+  },
+  {
+    "city": "Lexington",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48450"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Lincoln",
+    "county": "Alcona",
+    "zip_codes": [
+      "48742"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Lincoln Park",
+    "county": "Wayne",
+    "zip_codes": [
+      "48146"
+    ],
+    "population": 39511
+  },
+  {
+    "city": "Linden",
+    "county": "Genesee",
+    "zip_codes": [
+      "48451"
+    ],
+    "population": 4150
+  },
+  {
+    "city": "Litchfield",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49252"
+    ],
+    "population": 1391
+  },
+  {
+    "city": "Livonia",
+    "county": "Wayne",
+    "zip_codes": [
+      "48150",
+      "48152",
+      "48154"
+    ],
+    "population": 94058
+  },
+  {
+    "city": "Loomis",
+    "county": "Isabella",
+    "zip_codes": [
+      "48617"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Lost Lake Woods",
+    "county": "Alcona",
+    "zip_codes": [
+      "48742"
+    ],
+    "population": 407
+  },
+  {
+    "city": "Lowell",
+    "county": "Kent",
+    "zip_codes": [
+      "49331"
+    ],
+    "population": 4133
+  },
+  {
+    "city": "Ludington",
+    "county": "Mason",
+    "zip_codes": [
+      "49431"
+    ],
+    "population": 7664
+  },
+  {
+    "city": "Luna Pier",
+    "county": "Monroe",
+    "zip_codes": [
+      "48133",
+      "48157"
+    ],
+    "population": 1204
+  },
+  {
+    "city": "Lupton",
+    "county": "Ogemaw",
+    "zip_codes": [
+      "48635"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Luther",
+    "county": "Lake",
+    "zip_codes": [
+      "49656"
+    ],
+    "population": 375
+  },
+  {
+    "city": "Lyons",
+    "county": "Ionia",
+    "zip_codes": [
+      "48851"
+    ],
+    "population": 862
+  },
+  {
+    "city": "Mackinac Island",
+    "county": "Mackinac",
+    "zip_codes": [
+      "49757"
+    ],
+    "population": 663
+  },
+  {
+    "city": "Mackinaw City",
+    "county": "Emmet",
+    "zip_codes": [
+      "49701"
+    ],
+    "population": 647
+  },
+  {
+    "city": "Madison Heights",
+    "county": "Oakland",
+    "zip_codes": [
+      "48071"
+    ],
+    "population": 28411
+  },
+  {
+    "city": "Mancelona",
+    "county": "Antrim",
+    "zip_codes": [
+      "49659"
+    ],
+    "population": 1496
+  },
+  {
+    "city": "Manchester",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48158"
+    ],
+    "population": 2375
+  },
+  {
+    "city": "Manistee",
+    "county": "Manistee",
+    "zip_codes": [
+      "49660"
+    ],
+    "population": 6275
+  },
+  {
+    "city": "Manistee Lake",
+    "county": "Kalkaska",
+    "zip_codes": [
+      "49646"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Manistique",
+    "county": "Schoolcraft",
+    "zip_codes": [
+      "49854"
+    ],
+    "population": 2844
+  },
+  {
+    "city": "Manitou Beach-Devils Lake",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49220",
+      "49253"
+    ],
+    "population": 2062
+  },
+  {
+    "city": "Manton",
+    "county": "Wexford",
+    "zip_codes": [
+      "49663"
+    ],
+    "population": 1347
+  },
+  {
+    "city": "Maple City",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49664"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Maple Grove",
+    "county": "Benzie",
+    "zip_codes": [
+      "49650"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Maple Rapids",
+    "county": "Clinton",
+    "zip_codes": [
+      "48835",
+      "48853",
+      "48879"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Marcellus",
+    "county": "Cass",
+    "zip_codes": [
+      "49067"
+    ],
+    "population": 1113
+  },
+  {
+    "city": "Marenisco",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49947"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Marine City",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48039"
+    ],
+    "population": 4047
+  },
+  {
+    "city": "Marion",
+    "county": "Osceola",
+    "zip_codes": [
+      "49665"
+    ],
+    "population": 674
+  },
+  {
+    "city": "Marlette",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48453"
+    ],
+    "population": 1771
+  },
+  {
+    "city": "Marquette",
+    "county": "Marquette",
+    "zip_codes": [
+      "49855"
+    ],
+    "population": 20691
+  },
+  {
+    "city": "Marshall",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49068"
+    ],
+    "population": 6797
+  },
+  {
+    "city": "Martin",
+    "county": "Allegan",
+    "zip_codes": [
+      "49070"
+    ],
+    "population": 570
+  },
+  {
+    "city": "Marysville",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48040",
+      "48079"
+    ],
+    "population": 9942
+  },
+  {
+    "city": "Mason",
+    "county": "Ingham",
+    "zip_codes": [
+      "48854"
+    ],
+    "population": 8239
+  },
+  {
+    "city": "Mass City",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49948"
+    ],
+    "population": 202
+  },
+  {
+    "city": "Mattawan",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49071"
+    ],
+    "population": 2615
+  },
+  {
+    "city": "Maybee",
+    "county": "Monroe",
+    "zip_codes": [
+      "48159",
+      "48162"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Mayville",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48744"
+    ],
+    "population": 971
+  },
+  {
+    "city": "McBain",
+    "county": "Missaukee",
+    "zip_codes": [
+      "49657"
+    ],
+    "population": 825
+  },
+  {
+    "city": "McBride",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48829",
+      "48852"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Mears",
+    "county": "Oceana",
+    "zip_codes": [
+      "49436"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Mecosta",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49332"
+    ],
+    "population": 509
+  },
+  {
+    "city": "Melvin",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48454"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Melvindale",
+    "county": "Wayne",
+    "zip_codes": [
+      "48122"
+    ],
+    "population": 12605
+  },
+  {
+    "city": "Memphis",
+    "county": "Macomb",
+    "zip_codes": [
+      "48041"
+    ],
+    "population": 1107
+  },
+  {
+    "city": "Mendon",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49072"
+    ],
+    "population": 839
+  },
+  {
+    "city": "Menominee",
+    "county": "Menominee",
+    "zip_codes": [
+      "49858"
+    ],
+    "population": 8370
+  },
+  {
+    "city": "Merrill",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48637"
+    ],
+    "population": 825
+  },
+  {
+    "city": "Mesick",
+    "county": "Wexford",
+    "zip_codes": [
+      "49668"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Metamora",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48455"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Michiana",
+    "county": "Berrien",
+    "zip_codes": [
+      "49117"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Michigamme",
+    "county": "Marquette",
+    "zip_codes": [
+      "49814",
+      "49861"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Michigan Center",
+    "county": "Jackson",
+    "zip_codes": [
+      "49201",
+      "49203",
+      "49254"
+    ],
+    "population": 4623
+  },
+  {
+    "city": "Middletown",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48817",
+      "48867"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Middleville",
+    "county": "Barry",
+    "zip_codes": [
+      "49333"
+    ],
+    "population": 4327
+  },
+  {
+    "city": "Midland",
+    "county": "Midland",
+    "zip_codes": [
+      "48640",
+      "48642"
+    ],
+    "population": 42461
+  },
+  {
+    "city": "Milan",
+    "county": "Monroe",
+    "zip_codes": [
+      "48160"
+    ],
+    "population": 6070
+  },
+  {
+    "city": "Milford",
+    "county": "Oakland",
+    "zip_codes": [
+      "48381"
+    ],
+    "population": 6467
+  },
+  {
+    "city": "Millburg",
+    "county": "Berrien",
+    "zip_codes": [
+      "49022"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Millers Lake",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48421"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Millersburg",
+    "county": "Presque Isle",
+    "zip_codes": [
+      "49759"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Millington",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48746"
+    ],
+    "population": 1151
+  },
+  {
+    "city": "Minden City",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48456"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Mio",
+    "county": "Oscoda",
+    "zip_codes": [
+      "48647"
+    ],
+    "population": 1504
+  },
+  {
+    "city": "Mohawk",
+    "county": "Keweenaw",
+    "zip_codes": [
+      "49950"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Monroe",
+    "county": "Monroe",
+    "zip_codes": [
+      "48161",
+      "48162"
+    ],
+    "population": 20330
+  },
+  {
+    "city": "Montague",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49437"
+    ],
+    "population": 2630
+  },
+  {
+    "city": "Montgomery",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49255"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Montrose",
+    "county": "Genesee",
+    "zip_codes": [
+      "48457"
+    ],
+    "population": 2057
+  },
+  {
+    "city": "Morenci",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49256"
+    ],
+    "population": 2149
+  },
+  {
+    "city": "Morley",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49336"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Morrice",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48857"
+    ],
+    "population": 1647
+  },
+  {
+    "city": "Mount Clemens",
+    "county": "Macomb",
+    "zip_codes": [
+      "48043"
+    ],
+    "population": 15567
+  },
+  {
+    "city": "Mount Morris",
+    "county": "Genesee",
+    "zip_codes": [
+      "48458"
+    ],
+    "population": 3130
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Isabella",
+    "zip_codes": [
+      "48858",
+      "48859"
+    ],
+    "population": 21420
+  },
+  {
+    "city": "Muir",
+    "county": "Ionia",
+    "zip_codes": [
+      "48851",
+      "48860"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Mulliken",
+    "county": "Eaton",
+    "zip_codes": [
+      "48861"
+    ],
+    "population": 541
+  },
+  {
+    "city": "Munising",
+    "county": "Alger",
+    "zip_codes": [
+      "49862"
+    ],
+    "population": 1907
+  },
+  {
+    "city": "Muskegon",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49440",
+      "49441",
+      "49442",
+      "49443",
+      "49444",
+      "49445"
+    ],
+    "population": 37203
+  },
+  {
+    "city": "Muskegon Heights",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49444"
+    ],
+    "population": 9902
+  },
+  {
+    "city": "Napoleon",
+    "county": "Jackson",
+    "zip_codes": [
+      "49201",
+      "49261"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Nashville",
+    "county": "Barry",
+    "zip_codes": [
+      "49073"
+    ],
+    "population": 1371
+  },
+  {
+    "city": "Naubinway",
+    "county": "Mackinac",
+    "zip_codes": [
+      "49762"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Negaunee",
+    "county": "Marquette",
+    "zip_codes": [
+      "49849",
+      "49866"
+    ],
+    "population": 4641
+  },
+  {
+    "city": "Nessen City",
+    "county": "Benzie",
+    "zip_codes": [
+      "49683"
+    ],
+    "population": 115
+  },
+  {
+    "city": "New Baltimore",
+    "county": "Macomb",
+    "zip_codes": [
+      "48047"
+    ],
+    "population": 12060
+  },
+  {
+    "city": "New Buffalo",
+    "county": "Berrien",
+    "zip_codes": [
+      "49117"
+    ],
+    "population": 1306
+  },
+  {
+    "city": "New Era",
+    "county": "Oceana",
+    "zip_codes": [
+      "49446"
+    ],
+    "population": 453
+  },
+  {
+    "city": "New Haven",
+    "county": "Macomb",
+    "zip_codes": [
+      "48048"
+    ],
+    "population": 6341
+  },
+  {
+    "city": "New Lothrop",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48460"
+    ],
+    "population": 640
+  },
+  {
+    "city": "New Troy",
+    "county": "Berrien",
+    "zip_codes": [
+      "49119",
+      "49125",
+      "49128"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Newaygo",
+    "county": "Newaygo",
+    "zip_codes": [
+      "49337"
+    ],
+    "population": 2486
+  },
+  {
+    "city": "Newberry",
+    "county": "Luce",
+    "zip_codes": [
+      "49868"
+    ],
+    "population": 1453
+  },
+  {
+    "city": "Niles",
+    "county": "Berrien",
+    "zip_codes": [
+      "49120"
+    ],
+    "population": 11838
+  },
+  {
+    "city": "North Adams",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49262"
+    ],
+    "population": 480
+  },
+  {
+    "city": "North Branch",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48461"
+    ],
+    "population": 1199
+  },
+  {
+    "city": "North Muskegon",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49445"
+    ],
+    "population": 4089
+  },
+  {
+    "city": "Northport",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49670"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Northview",
+    "county": "Kent",
+    "zip_codes": [
+      "49525"
+    ],
+    "population": 15225
+  },
+  {
+    "city": "Northville",
+    "county": "Wayne",
+    "zip_codes": [
+      "48167",
+      "48168"
+    ],
+    "population": 6080
+  },
+  {
+    "city": "Norton Shores",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49441",
+      "49444",
+      "49456"
+    ],
+    "population": 25000
+  },
+  {
+    "city": "Norway",
+    "county": "Dickinson",
+    "zip_codes": [
+      "49870"
+    ],
+    "population": 2835
+  },
+  {
+    "city": "Norwood",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49720"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Novi",
+    "county": "Oakland",
+    "zip_codes": [
+      "48167",
+      "48374",
+      "48375",
+      "48377"
+    ],
+    "population": 66224
+  },
+  {
+    "city": "Nunica",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49448"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Oak Hill",
+    "county": "Manistee",
+    "zip_codes": [
+      "49660"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Oak Park",
+    "county": "Oakland",
+    "zip_codes": [
+      "48237"
+    ],
+    "population": 29370
+  },
+  {
+    "city": "Oakley",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48649"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Oden",
+    "county": "Emmet",
+    "zip_codes": [
+      "49706",
+      "49764"
+    ],
+    "population": 492
+  },
+  {
+    "city": "Okemos",
+    "county": "Ingham",
+    "zip_codes": [
+      "48823",
+      "48864",
+      "48895"
+    ],
+    "population": 25503
+  },
+  {
+    "city": "Olivet",
+    "county": "Eaton",
+    "zip_codes": [
+      "49076"
+    ],
+    "population": 1633
+  },
+  {
+    "city": "Omena",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49670",
+      "49674"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Omer",
+    "county": "Arenac",
+    "zip_codes": [
+      "48749"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Onaway",
+    "county": "Presque Isle",
+    "zip_codes": [
+      "49765"
+    ],
+    "population": 701
+  },
+  {
+    "city": "Onekama",
+    "county": "Manistee",
+    "zip_codes": [
+      "49675"
+    ],
+    "population": 323
+  },
+  {
+    "city": "Onsted",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49265"
+    ],
+    "population": 1283
+  },
+  {
+    "city": "Ontonagon",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49953"
+    ],
+    "population": 1266
+  },
+  {
+    "city": "Orchard Lake Village",
+    "county": "Oakland",
+    "zip_codes": [
+      "48320",
+      "48323",
+      "48324"
+    ],
+    "population": 2298
+  },
+  {
+    "city": "Ortonville",
+    "county": "Oakland",
+    "zip_codes": [
+      "48462"
+    ],
+    "population": 1353
+  },
+  {
+    "city": "Oscoda",
+    "county": "Iosco",
+    "zip_codes": [
+      "48750"
+    ],
+    "population": 757
+  },
+  {
+    "city": "Ossineke",
+    "county": "Alpena",
+    "zip_codes": [
+      "49766"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Otisville",
+    "county": "Genesee",
+    "zip_codes": [
+      "48463"
+    ],
+    "population": 955
+  },
+  {
+    "city": "Otsego",
+    "county": "Allegan",
+    "zip_codes": [
+      "49078"
+    ],
+    "population": 4079
+  },
+  {
+    "city": "Otter Lake",
+    "county": "Lapeer",
+    "zip_codes": [
+      "48464"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Ovid",
+    "county": "Clinton",
+    "zip_codes": [
+      "48866"
+    ],
+    "population": 1331
+  },
+  {
+    "city": "Owendale",
+    "county": "Huron",
+    "zip_codes": [
+      "48754"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Owosso",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48867"
+    ],
+    "population": 14658
+  },
+  {
+    "city": "Oxford",
+    "county": "Oakland",
+    "zip_codes": [
+      "48371"
+    ],
+    "population": 3478
+  },
+  {
+    "city": "Painesdale",
+    "county": "Houghton",
+    "zip_codes": [
+      "49905",
+      "49955"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Palmer",
+    "county": "Marquette",
+    "zip_codes": [
+      "49871"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Palo",
+    "county": "Ionia",
+    "zip_codes": [
+      "48834",
+      "48870"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Parchment",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49004"
+    ],
+    "population": 2012
+  },
+  {
+    "city": "Paris",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49338"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Parkdale",
+    "county": "Manistee",
+    "zip_codes": [
+      "49660"
+    ],
+    "population": 631
+  },
+  {
+    "city": "Parma",
+    "county": "Jackson",
+    "zip_codes": [
+      "49269"
+    ],
+    "population": 653
+  },
+  {
+    "city": "Paw Paw",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49079"
+    ],
+    "population": 3277
+  },
+  {
+    "city": "Paw Paw Lake",
+    "county": "Berrien",
+    "zip_codes": [
+      "49038",
+      "49098"
+    ],
+    "population": 3794
+  },
+  {
+    "city": "Pearl Beach",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48001"
+    ],
+    "population": 4846
+  },
+  {
+    "city": "Peck",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48466"
+    ],
+    "population": 525
+  },
+  {
+    "city": "Pelkie",
+    "county": "Baraga",
+    "zip_codes": [
+      "49958"
+    ],
+    "population": 32
+  },
+  {
+    "city": "Pellston",
+    "county": "Emmet",
+    "zip_codes": [
+      "49769"
+    ],
+    "population": 834
+  },
+  {
+    "city": "Pentwater",
+    "county": "Oceana",
+    "zip_codes": [
+      "49449"
+    ],
+    "population": 885
+  },
+  {
+    "city": "Perrinton",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48871"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Perry",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48872"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Petersburg",
+    "county": "Monroe",
+    "zip_codes": [
+      "49270"
+    ],
+    "population": 1261
+  },
+  {
+    "city": "Petoskey",
+    "county": "Emmet",
+    "zip_codes": [
+      "49770"
+    ],
+    "population": 5851
+  },
+  {
+    "city": "Pewamo",
+    "county": "Ionia",
+    "zip_codes": [
+      "48873"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Pierson",
+    "county": "Montcalm",
+    "zip_codes": [
+      "49339"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Pigeon",
+    "county": "Huron",
+    "zip_codes": [
+      "48755"
+    ],
+    "population": 1093
+  },
+  {
+    "city": "Pilgrim",
+    "county": "Benzie",
+    "zip_codes": [
+      "49635"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Pinckney",
+    "county": "Livingston",
+    "zip_codes": [
+      "48169"
+    ],
+    "population": 1920
+  },
+  {
+    "city": "Pinconning",
+    "county": "Bay",
+    "zip_codes": [
+      "48650"
+    ],
+    "population": 1384
+  },
+  {
+    "city": "Pittsford",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49271"
+    ],
+    "population": 711
+  },
+  {
+    "city": "Plainwell",
+    "county": "Allegan",
+    "zip_codes": [
+      "49080"
+    ],
+    "population": 3764
+  },
+  {
+    "city": "Pleasant Ridge",
+    "county": "Oakland",
+    "zip_codes": [
+      "48069"
+    ],
+    "population": 2607
+  },
+  {
+    "city": "Plymouth",
+    "county": "Wayne",
+    "zip_codes": [
+      "48170"
+    ],
+    "population": 9234
+  },
+  {
+    "city": "Ponshewaing",
+    "county": "Emmet",
+    "zip_codes": [
+      "49706"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Pontiac",
+    "county": "Oakland",
+    "zip_codes": [
+      "48326",
+      "48340",
+      "48341",
+      "48342"
+    ],
+    "population": 61914
+  },
+  {
+    "city": "Port Austin",
+    "county": "Huron",
+    "zip_codes": [
+      "48467"
+    ],
+    "population": 676
+  },
+  {
+    "city": "Port Hope",
+    "county": "Huron",
+    "zip_codes": [
+      "48468"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Port Huron",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48059",
+      "48060"
+    ],
+    "population": 28724
+  },
+  {
+    "city": "Port Sanilac",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48469"
+    ],
+    "population": 787
+  },
+  {
+    "city": "Portage",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49002",
+      "49024"
+    ],
+    "population": 49015
+  },
+  {
+    "city": "Portland",
+    "county": "Ionia",
+    "zip_codes": [
+      "48875"
+    ],
+    "population": 3821
+  },
+  {
+    "city": "Posen",
+    "county": "Presque Isle",
+    "zip_codes": [
+      "49776"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Potterville",
+    "county": "Eaton",
+    "zip_codes": [
+      "48813",
+      "48876"
+    ],
+    "population": 3065
+  },
+  {
+    "city": "Powers",
+    "county": "Menominee",
+    "zip_codes": [
+      "49874"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Prescott",
+    "county": "Ogemaw",
+    "zip_codes": [
+      "48756"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Presque Isle Harbor",
+    "county": "Presque Isle",
+    "zip_codes": [
+      "49777"
+    ],
+    "population": 722
+  },
+  {
+    "city": "Prudenville",
+    "county": "Roscommon",
+    "zip_codes": [
+      "48629",
+      "48651"
+    ],
+    "population": 1286
+  },
+  {
+    "city": "Quincy",
+    "county": "Branch",
+    "zip_codes": [
+      "49082"
+    ],
+    "population": 1487
+  },
+  {
+    "city": "Quinnesec",
+    "county": "Dickinson",
+    "zip_codes": [
+      "49801",
+      "49876"
+    ],
+    "population": 1150
+  },
+  {
+    "city": "Ramsay",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49959"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Rapid City",
+    "county": "Kalkaska",
+    "zip_codes": [
+      "49676"
+    ],
+    "population": 1315
+  },
+  {
+    "city": "Rapid River",
+    "county": "Delta",
+    "zip_codes": [
+      "49878"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Ravenna",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49451"
+    ],
+    "population": 1472
+  },
+  {
+    "city": "Reading",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49274"
+    ],
+    "population": 1241
+  },
+  {
+    "city": "Reed City",
+    "county": "Osceola",
+    "zip_codes": [
+      "49677"
+    ],
+    "population": 2505
+  },
+  {
+    "city": "Reese",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48757"
+    ],
+    "population": 1303
+  },
+  {
+    "city": "Republic",
+    "county": "Marquette",
+    "zip_codes": [
+      "49879"
+    ],
+    "population": 530
+  },
+  {
+    "city": "Richland",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49083"
+    ],
+    "population": 1014
+  },
+  {
+    "city": "Richmond",
+    "county": "Macomb",
+    "zip_codes": [
+      "48062",
+      "48063",
+      "48064"
+    ],
+    "population": 5839
+  },
+  {
+    "city": "River Rouge",
+    "county": "Wayne",
+    "zip_codes": [
+      "48218"
+    ],
+    "population": 7092
+  },
+  {
+    "city": "Riverdale",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48877"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Riverview",
+    "county": "Wayne",
+    "zip_codes": [
+      "48193"
+    ],
+    "population": 12269
+  },
+  {
+    "city": "Robin Glen-Indiantown",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48601"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Rochester",
+    "county": "Oakland",
+    "zip_codes": [
+      "48306",
+      "48307"
+    ],
+    "population": 12939
+  },
+  {
+    "city": "Rochester Hills",
+    "county": "Oakland",
+    "zip_codes": [
+      "48306",
+      "48307",
+      "48309"
+    ],
+    "population": 76086
+  },
+  {
+    "city": "Rock",
+    "county": "Delta",
+    "zip_codes": [
+      "49880"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Rockford",
+    "county": "Kent",
+    "zip_codes": [
+      "49341"
+    ],
+    "population": 6162
+  },
+  {
+    "city": "Rockland",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49960"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Rockwood",
+    "county": "Wayne",
+    "zip_codes": [
+      "48173"
+    ],
+    "population": 3189
+  },
+  {
+    "city": "Rogers City",
+    "county": "Presque Isle",
+    "zip_codes": [
+      "49779"
+    ],
+    "population": 2873
+  },
+  {
+    "city": "Romeo",
+    "county": "Macomb",
+    "zip_codes": [
+      "48065"
+    ],
+    "population": 3654
+  },
+  {
+    "city": "Romulus",
+    "county": "Wayne",
+    "zip_codes": [
+      "48174",
+      "48242"
+    ],
+    "population": 24951
+  },
+  {
+    "city": "Roosevelt Park",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49441"
+    ],
+    "population": 4148
+  },
+  {
+    "city": "Roscommon",
+    "county": "Roscommon",
+    "zip_codes": [
+      "48653"
+    ],
+    "population": 1029
+  },
+  {
+    "city": "Rose City",
+    "county": "Ogemaw",
+    "zip_codes": [
+      "48654"
+    ],
+    "population": 588
+  },
+  {
+    "city": "Rosebush",
+    "county": "Isabella",
+    "zip_codes": [
+      "48878"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Roseville",
+    "county": "Macomb",
+    "zip_codes": [
+      "48066"
+    ],
+    "population": 47240
+  },
+  {
+    "city": "Rothbury",
+    "county": "Oceana",
+    "zip_codes": [
+      "49437",
+      "49446",
+      "49452"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Royal Oak",
+    "county": "Oakland",
+    "zip_codes": [
+      "48067",
+      "48073"
+    ],
+    "population": 57880
+  },
+  {
+    "city": "Ruby",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48049"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Saginaw",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48601",
+      "48602",
+      "48607"
+    ],
+    "population": 43879
+  },
+  {
+    "city": "Saline",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48176"
+    ],
+    "population": 8976
+  },
+  {
+    "city": "Sand Lake",
+    "county": "Iosco",
+    "zip_codes": [
+      "48748",
+      "48763"
+    ],
+    "population": 1214
+  },
+  {
+    "city": "Sand Lake",
+    "county": "Kent",
+    "zip_codes": [
+      "49343"
+    ],
+    "population": 480
+  },
+  {
+    "city": "Sandusky",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48471"
+    ],
+    "population": 2692
+  },
+  {
+    "city": "Sanford",
+    "county": "Midland",
+    "zip_codes": [
+      "48657"
+    ],
+    "population": 743
+  },
+  {
+    "city": "Saranac",
+    "county": "Ionia",
+    "zip_codes": [
+      "48881"
+    ],
+    "population": 1973
+  },
+  {
+    "city": "Saugatuck",
+    "county": "Allegan",
+    "zip_codes": [
+      "49453"
+    ],
+    "population": 751
+  },
+  {
+    "city": "Sault Ste. Marie",
+    "county": "Chippewa",
+    "zip_codes": [
+      "49783"
+    ],
+    "population": 13373
+  },
+  {
+    "city": "Schoolcraft",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49087"
+    ],
+    "population": 1268
+  },
+  {
+    "city": "Scotts",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49088"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Scottville",
+    "county": "Mason",
+    "zip_codes": [
+      "49454"
+    ],
+    "population": 1359
+  },
+  {
+    "city": "Sebewaing",
+    "county": "Huron",
+    "zip_codes": [
+      "48759"
+    ],
+    "population": 1921
+  },
+  {
+    "city": "Shaftsburg",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48872"
+    ],
+    "population": 498
+  },
+  {
+    "city": "Shelby",
+    "county": "Oceana",
+    "zip_codes": [
+      "49455"
+    ],
+    "population": 2571
+  },
+  {
+    "city": "Shepherd",
+    "county": "Isabella",
+    "zip_codes": [
+      "48883"
+    ],
+    "population": 1438
+  },
+  {
+    "city": "Sheridan",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48884"
+    ],
+    "population": 816
+  },
+  {
+    "city": "Sherwood",
+    "county": "Branch",
+    "zip_codes": [
+      "49089"
+    ],
+    "population": 388
+  },
+  {
+    "city": "Shields",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48609"
+    ],
+    "population": 7276
+  },
+  {
+    "city": "Shoreham",
+    "county": "Berrien",
+    "zip_codes": [
+      "49085"
+    ],
+    "population": 899
+  },
+  {
+    "city": "Shorewood-Tower Hills-Harbert",
+    "county": "Berrien",
+    "zip_codes": [
+      "49115",
+      "49125",
+      "49128"
+    ],
+    "population": 1468
+  },
+  {
+    "city": "Skanee",
+    "county": "Baraga",
+    "zip_codes": [
+      "49962"
+    ],
+    "population": 105
+  },
+  {
+    "city": "Skidway Lake",
+    "county": "Ogemaw",
+    "zip_codes": [
+      "48610",
+      "48756"
+    ],
+    "population": 2800
+  },
+  {
+    "city": "Snover",
+    "county": "Sanilac",
+    "zip_codes": [
+      "48472"
+    ],
+    "population": 273
+  },
+  {
+    "city": "South Boardman",
+    "county": "Kalkaska",
+    "zip_codes": [
+      "49680"
+    ],
+    "population": 521
+  },
+  {
+    "city": "South Gull Lake",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49012",
+      "49060",
+      "49083"
+    ],
+    "population": 2145
+  },
+  {
+    "city": "South Haven",
+    "county": "Van Buren",
+    "zip_codes": [
+      "49090"
+    ],
+    "population": 3994
+  },
+  {
+    "city": "South Lyon",
+    "county": "Oakland",
+    "zip_codes": [
+      "48178"
+    ],
+    "population": 11825
+  },
+  {
+    "city": "South Monroe",
+    "county": "Monroe",
+    "zip_codes": [
+      "48161"
+    ],
+    "population": 6771
+  },
+  {
+    "city": "South Range",
+    "county": "Houghton",
+    "zip_codes": [
+      "49963"
+    ],
+    "population": 587
+  },
+  {
+    "city": "South Rockwood",
+    "county": "Monroe",
+    "zip_codes": [
+      "48179"
+    ],
+    "population": 1891
+  },
+  {
+    "city": "Southfield",
+    "county": "Oakland",
+    "zip_codes": [
+      "48033",
+      "48034",
+      "48075",
+      "48076"
+    ],
+    "population": 76025
+  },
+  {
+    "city": "Southgate",
+    "county": "Wayne",
+    "zip_codes": [
+      "48195"
+    ],
+    "population": 29551
+  },
+  {
+    "city": "Sparta",
+    "county": "Kent",
+    "zip_codes": [
+      "49345"
+    ],
+    "population": 4260
+  },
+  {
+    "city": "Spring Arbor",
+    "county": "Jackson",
+    "zip_codes": [
+      "49283"
+    ],
+    "population": 2385
+  },
+  {
+    "city": "Spring Lake",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49456"
+    ],
+    "population": 2530
+  },
+  {
+    "city": "Springfield",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49015",
+      "49037"
+    ],
+    "population": 5295
+  },
+  {
+    "city": "Springport",
+    "county": "Jackson",
+    "zip_codes": [
+      "49284"
+    ],
+    "population": 822
+  },
+  {
+    "city": "St. Charles",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48655"
+    ],
+    "population": 1857
+  },
+  {
+    "city": "St. Clair",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48079"
+    ],
+    "population": 5581
+  },
+  {
+    "city": "St. Clair Shores",
+    "county": "Macomb",
+    "zip_codes": [
+      "48080",
+      "48081",
+      "48082"
+    ],
+    "population": 58287
+  },
+  {
+    "city": "St. Helen",
+    "county": "Roscommon",
+    "zip_codes": [
+      "48656"
+    ],
+    "population": 2841
+  },
+  {
+    "city": "St. Ignace",
+    "county": "Mackinac",
+    "zip_codes": [
+      "49781"
+    ],
+    "population": 2409
+  },
+  {
+    "city": "St. James",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49782"
+    ],
+    "population": 259
+  },
+  {
+    "city": "St. Johns",
+    "county": "Clinton",
+    "zip_codes": [
+      "48879"
+    ],
+    "population": 7712
+  },
+  {
+    "city": "St. Joseph",
+    "county": "Berrien",
+    "zip_codes": [
+      "49085"
+    ],
+    "population": 7805
+  },
+  {
+    "city": "St. Louis",
+    "county": "Gratiot",
+    "zip_codes": [
+      "48801",
+      "48880"
+    ],
+    "population": 6926
+  },
+  {
+    "city": "Standish",
+    "county": "Arenac",
+    "zip_codes": [
+      "48658"
+    ],
+    "population": 1616
+  },
+  {
+    "city": "Stanton",
+    "county": "Montcalm",
+    "zip_codes": [
+      "48888"
+    ],
+    "population": 1292
+  },
+  {
+    "city": "Stanwood",
+    "county": "Mecosta",
+    "zip_codes": [
+      "49346"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Stephenson",
+    "county": "Menominee",
+    "zip_codes": [
+      "49887"
+    ],
+    "population": 931
+  },
+  {
+    "city": "Sterling",
+    "county": "Arenac",
+    "zip_codes": [
+      "48659"
+    ],
+    "population": 439
+  },
+  {
+    "city": "Sterling Heights",
+    "county": "Macomb",
+    "zip_codes": [
+      "48310",
+      "48312",
+      "48313",
+      "48314"
+    ],
+    "population": 133473
+  },
+  {
+    "city": "Stevensville",
+    "county": "Berrien",
+    "zip_codes": [
+      "49127"
+    ],
+    "population": 1126
+  },
+  {
+    "city": "Stockbridge",
+    "county": "Ingham",
+    "zip_codes": [
+      "49285"
+    ],
+    "population": 1235
+  },
+  {
+    "city": "Stony Point",
+    "county": "Monroe",
+    "zip_codes": [
+      "48166"
+    ],
+    "population": 1999
+  },
+  {
+    "city": "Stronach",
+    "county": "Manistee",
+    "zip_codes": [
+      "49660"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Sturgis",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49091"
+    ],
+    "population": 11077
+  },
+  {
+    "city": "Sunfield",
+    "county": "Eaton",
+    "zip_codes": [
+      "48890"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Suttons Bay",
+    "county": "Leelanau",
+    "zip_codes": [
+      "49682"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Swartz Creek",
+    "county": "Genesee",
+    "zip_codes": [
+      "48473"
+    ],
+    "population": 5856
+  },
+  {
+    "city": "Sylvan Lake",
+    "county": "Oakland",
+    "zip_codes": [
+      "48320",
+      "48324",
+      "48341"
+    ],
+    "population": 1672
+  },
+  {
+    "city": "Tawas City",
+    "county": "Iosco",
+    "zip_codes": [
+      "48763"
+    ],
+    "population": 1654
+  },
+  {
+    "city": "Taylor",
+    "county": "Wayne",
+    "zip_codes": [
+      "48180"
+    ],
+    "population": 62405
+  },
+  {
+    "city": "Tecumseh",
+    "county": "Lenawee",
+    "zip_codes": [
+      "49286"
+    ],
+    "population": 8655
+  },
+  {
+    "city": "Tekonsha",
+    "county": "Calhoun",
+    "zip_codes": [
+      "49092"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Temperance",
+    "county": "Monroe",
+    "zip_codes": [
+      "48182"
+    ],
+    "population": 8495
+  },
+  {
+    "city": "Thompsonville",
+    "county": "Benzie",
+    "zip_codes": [
+      "49683"
+    ],
+    "population": 508
+  },
+  {
+    "city": "Three Lakes",
+    "county": "Baraga",
+    "zip_codes": [
+      "49861"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Three Oaks",
+    "county": "Berrien",
+    "zip_codes": [
+      "49128"
+    ],
+    "population": 1322
+  },
+  {
+    "city": "Three Rivers",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49093"
+    ],
+    "population": 7936
+  },
+  {
+    "city": "Tower",
+    "county": "Cheboygan",
+    "zip_codes": [
+      "49765"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Traverse City",
+    "county": "Grand Traverse",
+    "zip_codes": [
+      "49684",
+      "49686"
+    ],
+    "population": 15491
+  },
+  {
+    "city": "Trenton",
+    "county": "Wayne",
+    "zip_codes": [
+      "48183"
+    ],
+    "population": 18242
+  },
+  {
+    "city": "Trimountain",
+    "county": "Houghton",
+    "zip_codes": [
+      "49905"
+    ],
+    "population": 189
+  },
+  {
+    "city": "Trowbridge Park",
+    "county": "Marquette",
+    "zip_codes": [
+      "49855"
+    ],
+    "population": 2271
+  },
+  {
+    "city": "Troy",
+    "county": "Oakland",
+    "zip_codes": [
+      "48083",
+      "48084",
+      "48085",
+      "48098"
+    ],
+    "population": 87307
+  },
+  {
+    "city": "Trufant",
+    "county": "Montcalm",
+    "zip_codes": [
+      "49347"
+    ],
+    "population": 586
+  },
+  {
+    "city": "Turner",
+    "county": "Arenac",
+    "zip_codes": [
+      "48765"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Tustin",
+    "county": "Osceola",
+    "zip_codes": [
+      "49688"
+    ],
+    "population": 220
+  },
+  {
+    "city": "Twin Lake",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49457"
+    ],
+    "population": 1997
+  },
+  {
+    "city": "Twining",
+    "county": "Arenac",
+    "zip_codes": [
+      "48766"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Ubly",
+    "county": "Huron",
+    "zip_codes": [
+      "48475"
+    ],
+    "population": 830
+  },
+  {
+    "city": "Union City",
+    "county": "Branch",
+    "zip_codes": [
+      "49094"
+    ],
+    "population": 1814
+  },
+  {
+    "city": "Unionville",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48767"
+    ],
+    "population": 627
+  },
+  {
+    "city": "Utica",
+    "county": "Macomb",
+    "zip_codes": [
+      "48315",
+      "48317"
+    ],
+    "population": 5184
+  },
+  {
+    "city": "Vandalia",
+    "county": "Cass",
+    "zip_codes": [
+      "49095"
+    ],
+    "population": 369
+  },
+  {
+    "city": "Vanderbilt",
+    "county": "Otsego",
+    "zip_codes": [
+      "49795"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Vandercook Lake",
+    "county": "Jackson",
+    "zip_codes": [
+      "49201",
+      "49203"
+    ],
+    "population": 4434
+  },
+  {
+    "city": "Vassar",
+    "county": "Tuscola",
+    "zip_codes": [
+      "48768"
+    ],
+    "population": 2704
+  },
+  {
+    "city": "Vermontville",
+    "county": "Eaton",
+    "zip_codes": [
+      "49096"
+    ],
+    "population": 767
+  },
+  {
+    "city": "Vernon",
+    "county": "Shiawassee",
+    "zip_codes": [
+      "48429",
+      "48476"
+    ],
+    "population": 623
+  },
+  {
+    "city": "Vicksburg",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49097"
+    ],
+    "population": 3824
+  },
+  {
+    "city": "Village of Clarkston",
+    "county": "Oakland",
+    "zip_codes": [
+      "48346"
+    ],
+    "population": 842
+  },
+  {
+    "city": "Village of Grosse Pointe Shores",
+    "county": "Macomb",
+    "zip_codes": [
+      "48236"
+    ],
+    "population": 2589
+  },
+  {
+    "city": "Vineyard Lake",
+    "county": "Jackson",
+    "zip_codes": [
+      "49230"
+    ],
+    "population": 1038
+  },
+  {
+    "city": "Wacousta",
+    "county": "Clinton",
+    "zip_codes": [
+      "48820",
+      "48822",
+      "48837",
+      "48906"
+    ],
+    "population": 1686
+  },
+  {
+    "city": "Wakefield",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49968"
+    ],
+    "population": 1789
+  },
+  {
+    "city": "Waldron",
+    "county": "Hillsdale",
+    "zip_codes": [
+      "49288"
+    ],
+    "population": 605
+  },
+  {
+    "city": "Walker",
+    "county": "Kent",
+    "zip_codes": [
+      "49504",
+      "49534",
+      "49544"
+    ],
+    "population": 25201
+  },
+  {
+    "city": "Walkerville",
+    "county": "Oceana",
+    "zip_codes": [
+      "49459"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Walled Lake",
+    "county": "Oakland",
+    "zip_codes": [
+      "48390"
+    ],
+    "population": 7275
+  },
+  {
+    "city": "Walloon Lake",
+    "county": "Charlevoix",
+    "zip_codes": [
+      "49796"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Warren",
+    "county": "Macomb",
+    "zip_codes": [
+      "48088",
+      "48089",
+      "48091",
+      "48092",
+      "48093"
+    ],
+    "population": 138128
+  },
+  {
+    "city": "Watersmeet",
+    "county": "Gogebic",
+    "zip_codes": [
+      "49969"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Watervliet",
+    "county": "Berrien",
+    "zip_codes": [
+      "49098"
+    ],
+    "population": 1879
+  },
+  {
+    "city": "Waverly",
+    "county": "Eaton",
+    "zip_codes": [
+      "48917"
+    ],
+    "population": 23301
+  },
+  {
+    "city": "Wayland",
+    "county": "Allegan",
+    "zip_codes": [
+      "49348"
+    ],
+    "population": 4430
+  },
+  {
+    "city": "Wayne",
+    "county": "Wayne",
+    "zip_codes": [
+      "48184"
+    ],
+    "population": 17413
+  },
+  {
+    "city": "Webberville",
+    "county": "Ingham",
+    "zip_codes": [
+      "48892"
+    ],
+    "population": 1339
+  },
+  {
+    "city": "Wedgewood",
+    "county": "Wexford",
+    "zip_codes": [
+      "49601"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Weidman",
+    "county": "Isabella",
+    "zip_codes": [
+      "48893"
+    ],
+    "population": 1217
+  },
+  {
+    "city": "Wellston",
+    "county": "Manistee",
+    "zip_codes": [
+      "49689"
+    ],
+    "population": 425
+  },
+  {
+    "city": "West Branch",
+    "county": "Ogemaw",
+    "zip_codes": [
+      "48661"
+    ],
+    "population": 2177
+  },
+  {
+    "city": "West Ishpeming",
+    "county": "Marquette",
+    "zip_codes": [
+      "49849"
+    ],
+    "population": 2714
+  },
+  {
+    "city": "West Monroe",
+    "county": "Monroe",
+    "zip_codes": [
+      "48161"
+    ],
+    "population": 2753
+  },
+  {
+    "city": "Westland",
+    "county": "Wayne",
+    "zip_codes": [
+      "48185",
+      "48186"
+    ],
+    "population": 84155
+  },
+  {
+    "city": "Westphalia",
+    "county": "Clinton",
+    "zip_codes": [
+      "48894"
+    ],
+    "population": 890
+  },
+  {
+    "city": "Westwood",
+    "county": "Kalamazoo",
+    "zip_codes": [
+      "49006"
+    ],
+    "population": 8968
+  },
+  {
+    "city": "White Cloud",
+    "county": "Newaygo",
+    "zip_codes": [
+      "49349"
+    ],
+    "population": 1297
+  },
+  {
+    "city": "White Pigeon",
+    "county": "St. Joseph",
+    "zip_codes": [
+      "49099"
+    ],
+    "population": 1637
+  },
+  {
+    "city": "White Pine",
+    "county": "Ontonagon",
+    "zip_codes": [
+      "49971"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Whitehall",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49461"
+    ],
+    "population": 2974
+  },
+  {
+    "city": "Whitmore Lake",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48178",
+      "48189"
+    ],
+    "population": 8083
+  },
+  {
+    "city": "Whittemore",
+    "county": "Iosco",
+    "zip_codes": [
+      "48770"
+    ],
+    "population": 447
+  },
+  {
+    "city": "Williamston",
+    "county": "Ingham",
+    "zip_codes": [
+      "48895"
+    ],
+    "population": 3800
+  },
+  {
+    "city": "Winn",
+    "county": "Isabella",
+    "zip_codes": [
+      "48858",
+      "48896"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Wixom",
+    "county": "Oakland",
+    "zip_codes": [
+      "48393"
+    ],
+    "population": 17126
+  },
+  {
+    "city": "Wolf Lake",
+    "county": "Muskegon",
+    "zip_codes": [
+      "49442"
+    ],
+    "population": 4802
+  },
+  {
+    "city": "Wolverine",
+    "county": "Cheboygan",
+    "zip_codes": [
+      "49799"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Wolverine Lake",
+    "county": "Oakland",
+    "zip_codes": [
+      "48390"
+    ],
+    "population": 4476
+  },
+  {
+    "city": "Woodhaven",
+    "county": "Wayne",
+    "zip_codes": [
+      "48134",
+      "48183"
+    ],
+    "population": 12761
+  },
+  {
+    "city": "Woodland",
+    "county": "Barry",
+    "zip_codes": [
+      "48897"
+    ],
+    "population": 485
+  },
+  {
+    "city": "Woodland Beach",
+    "county": "Monroe",
+    "zip_codes": [
+      "48162"
+    ],
+    "population": 2509
+  },
+  {
+    "city": "Wyandotte",
+    "county": "Wayne",
+    "zip_codes": [
+      "48192"
+    ],
+    "population": 24593
+  },
+  {
+    "city": "Wyoming",
+    "county": "Kent",
+    "zip_codes": [
+      "49418",
+      "49509",
+      "49519",
+      "49548"
+    ],
+    "population": 76865
+  },
+  {
+    "city": "Yale",
+    "county": "St. Clair",
+    "zip_codes": [
+      "48097"
+    ],
+    "population": 2157
+  },
+  {
+    "city": "Ypsilanti",
+    "county": "Washtenaw",
+    "zip_codes": [
+      "48197",
+      "48198"
+    ],
+    "population": 19937
+  },
+  {
+    "city": "Zeba",
+    "county": "Baraga",
+    "zip_codes": [
+      "49946"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Zeeland",
+    "county": "Ottawa",
+    "zip_codes": [
+      "49464"
+    ],
+    "population": 5691
+  },
+  {
+    "city": "Zilwaukee",
+    "county": "Saginaw",
+    "zip_codes": [
+      "48604"
+    ],
+    "population": 1696
+  }
+]

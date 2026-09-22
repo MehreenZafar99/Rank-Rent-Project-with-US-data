@@ -1,0 +1,11320 @@
+[
+  {
+    "city": "Accord",
+    "county": "Ulster",
+    "zip_codes": [
+      "12404"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Adams",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13605"
+    ],
+    "population": 1730
+  },
+  {
+    "city": "Adams Center",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13606"
+    ],
+    "population": 1002
+  },
+  {
+    "city": "Addison",
+    "county": "Steuben",
+    "zip_codes": [
+      "14801"
+    ],
+    "population": 1775
+  },
+  {
+    "city": "Afton",
+    "county": "Chenango",
+    "zip_codes": [
+      "13730"
+    ],
+    "population": 1086
+  },
+  {
+    "city": "Airmont",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901",
+      "10952"
+    ],
+    "population": 10082
+  },
+  {
+    "city": "Akron",
+    "county": "Erie",
+    "zip_codes": [
+      "14001"
+    ],
+    "population": 2904
+  },
+  {
+    "city": "Akwesasne",
+    "county": "Franklin",
+    "zip_codes": [
+      "12914",
+      "13613",
+      "13649",
+      "13655",
+      "13662",
+      "13683"
+    ],
+    "population": 4140
+  },
+  {
+    "city": "Albany",
+    "county": "Albany",
+    "zip_codes": [
+      "12202",
+      "12203",
+      "12204",
+      "12205",
+      "12206",
+      "12207",
+      "12208",
+      "12209",
+      "12210",
+      "12211",
+      "12222",
+      "12226"
+    ],
+    "population": 100081
+  },
+  {
+    "city": "Albertson",
+    "county": "Nassau",
+    "zip_codes": [
+      "11507",
+      "11577"
+    ],
+    "population": 4859
+  },
+  {
+    "city": "Albion",
+    "county": "Orleans",
+    "zip_codes": [
+      "14411"
+    ],
+    "population": 5495
+  },
+  {
+    "city": "Alden",
+    "county": "Erie",
+    "zip_codes": [
+      "14004"
+    ],
+    "population": 2595
+  },
+  {
+    "city": "Alexander",
+    "county": "Genesee",
+    "zip_codes": [
+      "14005"
+    ],
+    "population": 444
+  },
+  {
+    "city": "Alexandria Bay",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13607"
+    ],
+    "population": 1296
+  },
+  {
+    "city": "Alfred",
+    "county": "Allegany",
+    "zip_codes": [
+      "14802",
+      "14803"
+    ],
+    "population": 4632
+  },
+  {
+    "city": "Allegany",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14706"
+    ],
+    "population": 1773
+  },
+  {
+    "city": "Almond",
+    "county": "Allegany",
+    "zip_codes": [
+      "14804",
+      "14843"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Altamont",
+    "county": "Albany",
+    "zip_codes": [
+      "12009"
+    ],
+    "population": 1767
+  },
+  {
+    "city": "Altmar",
+    "county": "Oswego",
+    "zip_codes": [
+      "13302"
+    ],
+    "population": 222
+  },
+  {
+    "city": "Altona",
+    "county": "Clinton",
+    "zip_codes": [
+      "12910"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Amagansett",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11930",
+      "11937"
+    ],
+    "population": 651
+  },
+  {
+    "city": "Amenia",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12501"
+    ],
+    "population": 928
+  },
+  {
+    "city": "Ames",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13317"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Amityville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11701"
+    ],
+    "population": 9513
+  },
+  {
+    "city": "Amsterdam",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12010"
+    ],
+    "population": 18162
+  },
+  {
+    "city": "Andes",
+    "county": "Delaware",
+    "zip_codes": [
+      "13731"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Andover",
+    "county": "Allegany",
+    "zip_codes": [
+      "14806"
+    ],
+    "population": 968
+  },
+  {
+    "city": "Angelica",
+    "county": "Allegany",
+    "zip_codes": [
+      "14709"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Angola",
+    "county": "Erie",
+    "zip_codes": [
+      "14006"
+    ],
+    "population": 2628
+  },
+  {
+    "city": "Angola on the Lake",
+    "county": "Erie",
+    "zip_codes": [
+      "14006"
+    ],
+    "population": 1699
+  },
+  {
+    "city": "Antwerp",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13608",
+      "13642"
+    ],
+    "population": 745
+  },
+  {
+    "city": "Apalachin",
+    "county": "Tioga",
+    "zip_codes": [
+      "13732"
+    ],
+    "population": 2076
+  },
+  {
+    "city": "Aquebogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901",
+      "11931"
+    ],
+    "population": 1778
+  },
+  {
+    "city": "Arcade",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14009"
+    ],
+    "population": 1912
+  },
+  {
+    "city": "Ardsley",
+    "county": "Westchester",
+    "zip_codes": [
+      "10502",
+      "10583"
+    ],
+    "population": 5005
+  },
+  {
+    "city": "Argyle",
+    "county": "Washington",
+    "zip_codes": [
+      "12809"
+    ],
+    "population": 498
+  },
+  {
+    "city": "Arkport",
+    "county": "Steuben",
+    "zip_codes": [
+      "14807"
+    ],
+    "population": 953
+  },
+  {
+    "city": "Arlington",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12601",
+      "12603"
+    ],
+    "population": 2522
+  },
+  {
+    "city": "Armonk",
+    "county": "Westchester",
+    "zip_codes": [
+      "10504"
+    ],
+    "population": 4382
+  },
+  {
+    "city": "Asharoken",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11768"
+    ],
+    "population": 712
+  },
+  {
+    "city": "Athens",
+    "county": "Greene",
+    "zip_codes": [
+      "12015"
+    ],
+    "population": 1877
+  },
+  {
+    "city": "Atlantic Beach",
+    "county": "Nassau",
+    "zip_codes": [
+      "11509"
+    ],
+    "population": 1327
+  },
+  {
+    "city": "Attica",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14011"
+    ],
+    "population": 1846
+  },
+  {
+    "city": "Au Sable Forks",
+    "county": "Clinton",
+    "zip_codes": [
+      "12912"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Auburn",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13021",
+      "13024"
+    ],
+    "population": 26475
+  },
+  {
+    "city": "Aurora",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13026"
+    ],
+    "population": 672
+  },
+  {
+    "city": "Averill Park",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12018",
+      "12153"
+    ],
+    "population": 1604
+  },
+  {
+    "city": "Avoca",
+    "county": "Steuben",
+    "zip_codes": [
+      "14809"
+    ],
+    "population": 981
+  },
+  {
+    "city": "Avon",
+    "county": "Livingston",
+    "zip_codes": [
+      "14414"
+    ],
+    "population": 3415
+  },
+  {
+    "city": "Babylon",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702",
+      "11704"
+    ],
+    "population": 12182
+  },
+  {
+    "city": "Bainbridge",
+    "county": "Chenango",
+    "zip_codes": [
+      "13733"
+    ],
+    "population": 1059
+  },
+  {
+    "city": "Baiting Hollow",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901",
+      "11933"
+    ],
+    "population": 2686
+  },
+  {
+    "city": "Baldwin",
+    "county": "Nassau",
+    "zip_codes": [
+      "11510",
+      "11575"
+    ],
+    "population": 33595
+  },
+  {
+    "city": "Baldwinsville",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13027"
+    ],
+    "population": 7732
+  },
+  {
+    "city": "Ballston Spa",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12020"
+    ],
+    "population": 5080
+  },
+  {
+    "city": "Balmville",
+    "county": "Orange",
+    "zip_codes": [
+      "12550"
+    ],
+    "population": 3725
+  },
+  {
+    "city": "Bard College",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12504",
+      "12571"
+    ],
+    "population": 1237
+  },
+  {
+    "city": "Bardonia",
+    "county": "Rockland",
+    "zip_codes": [
+      "10954",
+      "10956",
+      "10994"
+    ],
+    "population": 4022
+  },
+  {
+    "city": "Barker",
+    "county": "Niagara",
+    "zip_codes": [
+      "14012"
+    ],
+    "population": 628
+  },
+  {
+    "city": "Barneveld",
+    "county": "Oneida",
+    "zip_codes": [
+      "13304"
+    ],
+    "population": 176
+  },
+  {
+    "city": "Barnum Island",
+    "county": "Nassau",
+    "zip_codes": [
+      "11558"
+    ],
+    "population": 2173
+  },
+  {
+    "city": "Barrytown",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12507"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Barryville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12719"
+    ],
+    "population": 239
+  },
+  {
+    "city": "Batavia",
+    "county": "Genesee",
+    "zip_codes": [
+      "14020"
+    ],
+    "population": 15494
+  },
+  {
+    "city": "Bath",
+    "county": "Steuben",
+    "zip_codes": [
+      "14810"
+    ],
+    "population": 5595
+  },
+  {
+    "city": "Baxter Estates",
+    "county": "Nassau",
+    "zip_codes": [
+      "11050"
+    ],
+    "population": 1342
+  },
+  {
+    "city": "Bay Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11518"
+    ],
+    "population": 1780
+  },
+  {
+    "city": "Bay Shore",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706"
+    ],
+    "population": 31275
+  },
+  {
+    "city": "Bayport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11705",
+      "11715",
+      "11772",
+      "11782"
+    ],
+    "population": 8831
+  },
+  {
+    "city": "Bayville",
+    "county": "Nassau",
+    "zip_codes": [
+      "11709"
+    ],
+    "population": 6744
+  },
+  {
+    "city": "Baywood",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706",
+      "11729"
+    ],
+    "population": 7577
+  },
+  {
+    "city": "Beacon",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12508"
+    ],
+    "population": 14629
+  },
+  {
+    "city": "Beaver Dam Lake",
+    "county": "Orange",
+    "zip_codes": [
+      "12553",
+      "12577"
+    ],
+    "population": 3361
+  },
+  {
+    "city": "Bedford",
+    "county": "Westchester",
+    "zip_codes": [
+      "10506"
+    ],
+    "population": 2118
+  },
+  {
+    "city": "Bedford Hills",
+    "county": "Westchester",
+    "zip_codes": [
+      "10507"
+    ],
+    "population": 2283
+  },
+  {
+    "city": "Belfast",
+    "county": "Allegany",
+    "zip_codes": [
+      "14711"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Belle Terre",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11777"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Bellerose",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001"
+    ],
+    "population": 1085
+  },
+  {
+    "city": "Bellerose Terrace",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001"
+    ],
+    "population": 2180
+  },
+  {
+    "city": "Belleville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13605",
+      "13611"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Bellmore",
+    "county": "Nassau",
+    "zip_codes": [
+      "11710"
+    ],
+    "population": 15652
+  },
+  {
+    "city": "Bellport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11713",
+      "11772"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Belmont",
+    "county": "Allegany",
+    "zip_codes": [
+      "14813"
+    ],
+    "population": 903
+  },
+  {
+    "city": "Bemus Point",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14712"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Bergen",
+    "county": "Genesee",
+    "zip_codes": [
+      "14416"
+    ],
+    "population": 1203
+  },
+  {
+    "city": "Bethpage",
+    "county": "Nassau",
+    "zip_codes": [
+      "11714",
+      "11735",
+      "11801",
+      "11803"
+    ],
+    "population": 17334
+  },
+  {
+    "city": "Big Flats",
+    "county": "Chemung",
+    "zip_codes": [
+      "14814",
+      "14845",
+      "14903"
+    ],
+    "population": 5846
+  },
+  {
+    "city": "Billington Heights",
+    "county": "Erie",
+    "zip_codes": [
+      "14052",
+      "14059"
+    ],
+    "population": 1925
+  },
+  {
+    "city": "Binghamton",
+    "county": "Broome",
+    "zip_codes": [
+      "13901",
+      "13903",
+      "13904",
+      "13905"
+    ],
+    "population": 47357
+  },
+  {
+    "city": "Binghamton University",
+    "county": "Broome",
+    "zip_codes": [
+      "13850",
+      "13902"
+    ],
+    "population": 6921
+  },
+  {
+    "city": "Black River",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13601",
+      "13603",
+      "13612"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Blasdell",
+    "county": "Erie",
+    "zip_codes": [
+      "14219"
+    ],
+    "population": 2534
+  },
+  {
+    "city": "Blauvelt",
+    "county": "Rockland",
+    "zip_codes": [
+      "10913",
+      "10960",
+      "10962"
+    ],
+    "population": 5485
+  },
+  {
+    "city": "Bliss",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14024"
+    ],
+    "population": 429
+  },
+  {
+    "city": "Blodgett Mills",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045",
+      "13101",
+      "13738"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Bloomfield",
+    "county": "Ontario",
+    "zip_codes": [
+      "14469"
+    ],
+    "population": 1281
+  },
+  {
+    "city": "Bloomingburg",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12721"
+    ],
+    "population": 1022
+  },
+  {
+    "city": "Bloomville",
+    "county": "Delaware",
+    "zip_codes": [
+      "13739"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Blue Point",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11715",
+      "11772"
+    ],
+    "population": 4622
+  },
+  {
+    "city": "Bohemia",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11716",
+      "11741"
+    ],
+    "population": 9306
+  },
+  {
+    "city": "Bolivar",
+    "county": "Allegany",
+    "zip_codes": [
+      "14715"
+    ],
+    "population": 1108
+  },
+  {
+    "city": "Bolton Landing",
+    "county": "Warren",
+    "zip_codes": [
+      "12814"
+    ],
+    "population": 263
+  },
+  {
+    "city": "Boonville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13309"
+    ],
+    "population": 1967
+  },
+  {
+    "city": "Brasher Falls",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13613"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Breesport",
+    "county": "Chemung",
+    "zip_codes": [
+      "14816",
+      "14838"
+    ],
+    "population": 796
+  },
+  {
+    "city": "Brentwood",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706",
+      "11717"
+    ],
+    "population": 62387
+  },
+  {
+    "city": "Brewerton",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13029",
+      "13036"
+    ],
+    "population": 4466
+  },
+  {
+    "city": "Brewster",
+    "county": "Putnam",
+    "zip_codes": [
+      "10509"
+    ],
+    "population": 2510
+  },
+  {
+    "city": "Brewster Heights",
+    "county": "Putnam",
+    "zip_codes": [
+      "10509"
+    ],
+    "population": 1356
+  },
+  {
+    "city": "Brewster Hill",
+    "county": "Putnam",
+    "zip_codes": [
+      "10509"
+    ],
+    "population": 2211
+  },
+  {
+    "city": "Briarcliff Manor",
+    "county": "Westchester",
+    "zip_codes": [
+      "10510"
+    ],
+    "population": 7333
+  },
+  {
+    "city": "Bridgehampton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11932",
+      "11962",
+      "11963",
+      "11976"
+    ],
+    "population": 1322
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Madison",
+    "zip_codes": [
+      "13030",
+      "13082"
+    ],
+    "population": 1320
+  },
+  {
+    "city": "Bridgeville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12701",
+      "12775"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Bridgewater",
+    "county": "Oneida",
+    "zip_codes": [
+      "13313",
+      "13318",
+      "13491"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Brighton",
+    "county": "Monroe",
+    "zip_codes": [
+      "14609",
+      "14610",
+      "14618",
+      "14620",
+      "14623",
+      "14625"
+    ],
+    "population": 36633
+  },
+  {
+    "city": "Brightwaters",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706",
+      "11718"
+    ],
+    "population": 3185
+  },
+  {
+    "city": "Brinckerhoff",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12524",
+      "12533"
+    ],
+    "population": 2688
+  },
+  {
+    "city": "Broadalbin",
+    "county": "Fulton",
+    "zip_codes": [
+      "12010",
+      "12025"
+    ],
+    "population": 1800
+  },
+  {
+    "city": "Brockport",
+    "county": "Monroe",
+    "zip_codes": [
+      "14420"
+    ],
+    "population": 7153
+  },
+  {
+    "city": "Brocton",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14716"
+    ],
+    "population": 1368
+  },
+  {
+    "city": "Bronxville",
+    "county": "Westchester",
+    "zip_codes": [
+      "10708"
+    ],
+    "population": 6539
+  },
+  {
+    "city": "Brookhaven",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11713",
+      "11719",
+      "11967"
+    ],
+    "population": 3080
+  },
+  {
+    "city": "Brooktondale",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14817"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Brookville",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11548"
+    ],
+    "population": 2944
+  },
+  {
+    "city": "Brownville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13615"
+    ],
+    "population": 538
+  },
+  {
+    "city": "Brushton",
+    "county": "Franklin",
+    "zip_codes": [
+      "12916"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Buchanan",
+    "county": "Westchester",
+    "zip_codes": [
+      "10511"
+    ],
+    "population": 2296
+  },
+  {
+    "city": "Buffalo",
+    "county": "Erie",
+    "zip_codes": [
+      "14201",
+      "14202",
+      "14203",
+      "14204",
+      "14206",
+      "14207",
+      "14208",
+      "14209",
+      "14210",
+      "14211",
+      "14212",
+      "14213",
+      "14214",
+      "14215",
+      "14216",
+      "14218",
+      "14220",
+      "14222"
+    ],
+    "population": 276397
+  },
+  {
+    "city": "Burdett",
+    "county": "Schuyler",
+    "zip_codes": [
+      "14818"
+    ],
+    "population": 493
+  },
+  {
+    "city": "Burke",
+    "county": "Franklin",
+    "zip_codes": [
+      "12917"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Burlington Flats",
+    "county": "Otsego",
+    "zip_codes": [
+      "13315"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Busti",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14701"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Byersville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437",
+      "14517"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Cadyville",
+    "county": "Clinton",
+    "zip_codes": [
+      "12918"
+    ],
+    "population": 509
+  },
+  {
+    "city": "Cairo",
+    "county": "Greene",
+    "zip_codes": [
+      "12413",
+      "12470"
+    ],
+    "population": 1565
+  },
+  {
+    "city": "Calcium",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13616",
+      "13637"
+    ],
+    "population": 3245
+  },
+  {
+    "city": "Caledonia",
+    "county": "Livingston",
+    "zip_codes": [
+      "14423"
+    ],
+    "population": 2193
+  },
+  {
+    "city": "Callicoon",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12723"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Calverton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901",
+      "11933",
+      "11949"
+    ],
+    "population": 5629
+  },
+  {
+    "city": "Cambridge",
+    "county": "Washington",
+    "zip_codes": [
+      "12816"
+    ],
+    "population": 2341
+  },
+  {
+    "city": "Camden",
+    "county": "Oneida",
+    "zip_codes": [
+      "13316"
+    ],
+    "population": 2626
+  },
+  {
+    "city": "Camillus",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13031"
+    ],
+    "population": 1333
+  },
+  {
+    "city": "Campbell",
+    "county": "Steuben",
+    "zip_codes": [
+      "14821"
+    ],
+    "population": 601
+  },
+  {
+    "city": "Canajoharie",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13317"
+    ],
+    "population": 1808
+  },
+  {
+    "city": "Canandaigua",
+    "county": "Ontario",
+    "zip_codes": [
+      "14424"
+    ],
+    "population": 10542
+  },
+  {
+    "city": "Canaseraga",
+    "county": "Allegany",
+    "zip_codes": [
+      "14822"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Canastota",
+    "county": "Madison",
+    "zip_codes": [
+      "13032"
+    ],
+    "population": 4527
+  },
+  {
+    "city": "Candor",
+    "county": "Tioga",
+    "zip_codes": [
+      "13743"
+    ],
+    "population": 878
+  },
+  {
+    "city": "Canisteo",
+    "county": "Steuben",
+    "zip_codes": [
+      "14823"
+    ],
+    "population": 1998
+  },
+  {
+    "city": "Canton",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13617"
+    ],
+    "population": 7222
+  },
+  {
+    "city": "Cape Vincent",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13618"
+    ],
+    "population": 531
+  },
+  {
+    "city": "Captree",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702"
+    ],
+    "population": 271
+  },
+  {
+    "city": "Carle Place",
+    "county": "Nassau",
+    "zip_codes": [
+      "11514",
+      "11590"
+    ],
+    "population": 5094
+  },
+  {
+    "city": "Carmel",
+    "county": "Putnam",
+    "zip_codes": [
+      "10512"
+    ],
+    "population": 7222
+  },
+  {
+    "city": "Caroga Lake",
+    "county": "Fulton",
+    "zip_codes": [
+      "12032",
+      "12078"
+    ],
+    "population": 496
+  },
+  {
+    "city": "Carthage",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13619"
+    ],
+    "population": 3546
+  },
+  {
+    "city": "Cassadaga",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14718"
+    ],
+    "population": 515
+  },
+  {
+    "city": "Castile",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14427"
+    ],
+    "population": 844
+  },
+  {
+    "city": "Castleton-on-Hudson",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12033"
+    ],
+    "population": 1524
+  },
+  {
+    "city": "Castorland",
+    "county": "Lewis",
+    "zip_codes": [
+      "13367",
+      "13620"
+    ],
+    "population": 414
+  },
+  {
+    "city": "Cato",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13033"
+    ],
+    "population": 400
+  },
+  {
+    "city": "Catskill",
+    "county": "Greene",
+    "zip_codes": [
+      "12414"
+    ],
+    "population": 3803
+  },
+  {
+    "city": "Cattaraugus",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14719"
+    ],
+    "population": 1153
+  },
+  {
+    "city": "Cayuga",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13034"
+    ],
+    "population": 513
+  },
+  {
+    "city": "Cayuga Heights",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 4018
+  },
+  {
+    "city": "Cazenovia",
+    "county": "Madison",
+    "zip_codes": [
+      "13035"
+    ],
+    "population": 2760
+  },
+  {
+    "city": "Cedarhurst",
+    "county": "Nassau",
+    "zip_codes": [
+      "11516"
+    ],
+    "population": 7306
+  },
+  {
+    "city": "Celoron",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14701",
+      "14720"
+    ],
+    "population": 1412
+  },
+  {
+    "city": "Cementon",
+    "county": "Greene",
+    "zip_codes": [
+      "12414"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Center Moriches",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11934",
+      "11955"
+    ],
+    "population": 8155
+  },
+  {
+    "city": "Centereach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11720",
+      "11779"
+    ],
+    "population": 31501
+  },
+  {
+    "city": "Centerport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11721",
+      "11743",
+      "11768"
+    ],
+    "population": 6219
+  },
+  {
+    "city": "Central Bridge",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12035",
+      "12092"
+    ],
+    "population": 485
+  },
+  {
+    "city": "Central Islip",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11722",
+      "11752"
+    ],
+    "population": 37751
+  },
+  {
+    "city": "Central Square",
+    "county": "Oswego",
+    "zip_codes": [
+      "13036"
+    ],
+    "population": 2136
+  },
+  {
+    "city": "Centre Island",
+    "county": "Nassau",
+    "zip_codes": [
+      "11771"
+    ],
+    "population": 308
+  },
+  {
+    "city": "Chadwicks",
+    "county": "Oneida",
+    "zip_codes": [
+      "13319",
+      "13413"
+    ],
+    "population": 824
+  },
+  {
+    "city": "Champlain",
+    "county": "Clinton",
+    "zip_codes": [
+      "12919"
+    ],
+    "population": 1206
+  },
+  {
+    "city": "Chappaqua",
+    "county": "Westchester",
+    "zip_codes": [
+      "10514"
+    ],
+    "population": 3040
+  },
+  {
+    "city": "Chateaugay",
+    "county": "Franklin",
+    "zip_codes": [
+      "12920"
+    ],
+    "population": 798
+  },
+  {
+    "city": "Chatham",
+    "county": "Columbia",
+    "zip_codes": [
+      "12037"
+    ],
+    "population": 1594
+  },
+  {
+    "city": "Chaumont",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13622"
+    ],
+    "population": 640
+  },
+  {
+    "city": "Chautauqua",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14722",
+      "14757"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Chazy",
+    "county": "Clinton",
+    "zip_codes": [
+      "12921"
+    ],
+    "population": 409
+  },
+  {
+    "city": "Cheektowaga",
+    "county": "Erie",
+    "zip_codes": [
+      "14043",
+      "14206",
+      "14211",
+      "14215",
+      "14225",
+      "14227"
+    ],
+    "population": 76251
+  },
+  {
+    "city": "Chelsea Cove",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12533"
+    ],
+    "population": 1398
+  },
+  {
+    "city": "Chenango Bridge",
+    "county": "Broome",
+    "zip_codes": [
+      "13901"
+    ],
+    "population": 3132
+  },
+  {
+    "city": "Cherry Creek",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14723"
+    ],
+    "population": 325
+  },
+  {
+    "city": "Cherry Valley",
+    "county": "Otsego",
+    "zip_codes": [
+      "13320"
+    ],
+    "population": 543
+  },
+  {
+    "city": "Chester",
+    "county": "Orange",
+    "zip_codes": [
+      "10918"
+    ],
+    "population": 4052
+  },
+  {
+    "city": "Chestertown",
+    "county": "Warren",
+    "zip_codes": [
+      "12817"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Chestnut Ridge",
+    "county": "Rockland",
+    "zip_codes": [
+      "10952",
+      "10965",
+      "10977"
+    ],
+    "population": 10464
+  },
+  {
+    "city": "Chittenango",
+    "county": "Madison",
+    "zip_codes": [
+      "13037"
+    ],
+    "population": 4855
+  },
+  {
+    "city": "Churchville",
+    "county": "Monroe",
+    "zip_codes": [
+      "14428"
+    ],
+    "population": 1982
+  },
+  {
+    "city": "Clarence",
+    "county": "Erie",
+    "zip_codes": [
+      "14031"
+    ],
+    "population": 2600
+  },
+  {
+    "city": "Clarence Center",
+    "county": "Erie",
+    "zip_codes": [
+      "14031",
+      "14032"
+    ],
+    "population": 2551
+  },
+  {
+    "city": "Clark Mills",
+    "county": "Oneida",
+    "zip_codes": [
+      "13321",
+      "13323",
+      "13492"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Clarkson",
+    "county": "Monroe",
+    "zip_codes": [
+      "14420"
+    ],
+    "population": 5002
+  },
+  {
+    "city": "Claverack-Red Mills",
+    "county": "Columbia",
+    "zip_codes": [
+      "12513",
+      "12534"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Clayton",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13624"
+    ],
+    "population": 1669
+  },
+  {
+    "city": "Clayville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13322",
+      "13456"
+    ],
+    "population": 267
+  },
+  {
+    "city": "Cleveland",
+    "county": "Oswego",
+    "zip_codes": [
+      "13042"
+    ],
+    "population": 769
+  },
+  {
+    "city": "Clifton Gardens",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12065"
+    ],
+    "population": 2332
+  },
+  {
+    "city": "Clifton Knolls-Mill Creek",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12065"
+    ],
+    "population": 3601
+  },
+  {
+    "city": "Clifton Springs",
+    "county": "Ontario",
+    "zip_codes": [
+      "14432"
+    ],
+    "population": 2124
+  },
+  {
+    "city": "Clinton",
+    "county": "Oneida",
+    "zip_codes": [
+      "13323"
+    ],
+    "population": 1967
+  },
+  {
+    "city": "Clintondale",
+    "county": "Ulster",
+    "zip_codes": [
+      "12515",
+      "12528"
+    ],
+    "population": 1682
+  },
+  {
+    "city": "Clyde",
+    "county": "Wayne",
+    "zip_codes": [
+      "14433"
+    ],
+    "population": 1986
+  },
+  {
+    "city": "Cobleskill",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12043"
+    ],
+    "population": 4495
+  },
+  {
+    "city": "Cohocton",
+    "county": "Steuben",
+    "zip_codes": [
+      "14826"
+    ],
+    "population": 997
+  },
+  {
+    "city": "Cohoes",
+    "county": "Albany",
+    "zip_codes": [
+      "12047"
+    ],
+    "population": 18043
+  },
+  {
+    "city": "Cold Brook",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13324"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Cold Spring",
+    "county": "Putnam",
+    "zip_codes": [
+      "10516"
+    ],
+    "population": 1868
+  },
+  {
+    "city": "Cold Spring Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11724",
+      "11743"
+    ],
+    "population": 3123
+  },
+  {
+    "city": "Colonie",
+    "county": "Albany",
+    "zip_codes": [
+      "12205"
+    ],
+    "population": 7705
+  },
+  {
+    "city": "Colton",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13625"
+    ],
+    "population": 248
+  },
+  {
+    "city": "Commack",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11725",
+      "11731",
+      "11787"
+    ],
+    "population": 36353
+  },
+  {
+    "city": "Conesus",
+    "county": "Livingston",
+    "zip_codes": [
+      "14435"
+    ],
+    "population": 94
+  },
+  {
+    "city": "Conesus Lake",
+    "county": "Livingston",
+    "zip_codes": [
+      "14435",
+      "14454",
+      "14480",
+      "14487"
+    ],
+    "population": 2343
+  },
+  {
+    "city": "Congers",
+    "county": "Rockland",
+    "zip_codes": [
+      "10920",
+      "10989"
+    ],
+    "population": 7923
+  },
+  {
+    "city": "Constableville",
+    "county": "Lewis",
+    "zip_codes": [
+      "13325"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Constantia",
+    "county": "Oswego",
+    "zip_codes": [
+      "13044",
+      "13167"
+    ],
+    "population": 1405
+  },
+  {
+    "city": "Coopers Plains",
+    "county": "Steuben",
+    "zip_codes": [
+      "14827",
+      "14870"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Cooperstown",
+    "county": "Otsego",
+    "zip_codes": [
+      "13326"
+    ],
+    "population": 2113
+  },
+  {
+    "city": "Copake",
+    "county": "Columbia",
+    "zip_codes": [
+      "12516"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Copake Falls",
+    "county": "Columbia",
+    "zip_codes": [
+      "12517"
+    ],
+    "population": 6
+  },
+  {
+    "city": "Copake Lake",
+    "county": "Columbia",
+    "zip_codes": [
+      "12516",
+      "12521",
+      "12529"
+    ],
+    "population": 860
+  },
+  {
+    "city": "Copenhagen",
+    "county": "Lewis",
+    "zip_codes": [
+      "13626"
+    ],
+    "population": 652
+  },
+  {
+    "city": "Copiague",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11701",
+      "11726",
+      "11757"
+    ],
+    "population": 23332
+  },
+  {
+    "city": "Coram",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11727",
+      "11738",
+      "11763",
+      "11766",
+      "11776",
+      "11784",
+      "11953"
+    ],
+    "population": 41527
+  },
+  {
+    "city": "Corfu",
+    "county": "Genesee",
+    "zip_codes": [
+      "14036"
+    ],
+    "population": 718
+  },
+  {
+    "city": "Corinth",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12822"
+    ],
+    "population": 2568
+  },
+  {
+    "city": "Corning",
+    "county": "Steuben",
+    "zip_codes": [
+      "14830"
+    ],
+    "population": 10666
+  },
+  {
+    "city": "Cornwall-on-Hudson",
+    "county": "Orange",
+    "zip_codes": [
+      "12520"
+    ],
+    "population": 3046
+  },
+  {
+    "city": "Cortland",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045"
+    ],
+    "population": 17465
+  },
+  {
+    "city": "Cortland West",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045"
+    ],
+    "population": 1185
+  },
+  {
+    "city": "Country Knolls",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12019",
+      "12065"
+    ],
+    "population": 5587
+  },
+  {
+    "city": "Cove Neck",
+    "county": "Nassau",
+    "zip_codes": [
+      "11771"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Coxsackie",
+    "county": "Greene",
+    "zip_codes": [
+      "12051",
+      "12192"
+    ],
+    "population": 2746
+  },
+  {
+    "city": "Cragsmoor",
+    "county": "Ulster",
+    "zip_codes": [
+      "12420",
+      "12566"
+    ],
+    "population": 542
+  },
+  {
+    "city": "Cranberry Lake",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "12927",
+      "13666"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Crest View Heights",
+    "county": "Tioga",
+    "zip_codes": [
+      "13760"
+    ],
+    "population": 1873
+  },
+  {
+    "city": "Croghan",
+    "county": "Lewis",
+    "zip_codes": [
+      "13327"
+    ],
+    "population": 642
+  },
+  {
+    "city": "Crompond",
+    "county": "Westchester",
+    "zip_codes": [
+      "10547",
+      "10567",
+      "10598"
+    ],
+    "population": 2144
+  },
+  {
+    "city": "Croton-on-Hudson",
+    "county": "Westchester",
+    "zip_codes": [
+      "10520"
+    ],
+    "population": 8205
+  },
+  {
+    "city": "Crown Heights",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12601"
+    ],
+    "population": 3071
+  },
+  {
+    "city": "Crugers",
+    "county": "Westchester",
+    "zip_codes": [
+      "10520"
+    ],
+    "population": 1386
+  },
+  {
+    "city": "Crystal Beach",
+    "county": "Ontario",
+    "zip_codes": [
+      "14424",
+      "14544"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Cuba",
+    "county": "Allegany",
+    "zip_codes": [
+      "14727"
+    ],
+    "population": 1755
+  },
+  {
+    "city": "Cumberland Head",
+    "county": "Clinton",
+    "zip_codes": [
+      "12901"
+    ],
+    "population": 1622
+  },
+  {
+    "city": "Cumminsville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437"
+    ],
+    "population": 98
+  },
+  {
+    "city": "Cutchogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11935",
+      "11952"
+    ],
+    "population": 2903
+  },
+  {
+    "city": "Cuylerville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14481"
+    ],
+    "population": 281
+  },
+  {
+    "city": "Dalton",
+    "county": "Livingston",
+    "zip_codes": [
+      "14836"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Danby",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850",
+      "14883"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Dannemora",
+    "county": "Clinton",
+    "zip_codes": [
+      "12929"
+    ],
+    "population": 2831
+  },
+  {
+    "city": "Dansville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437"
+    ],
+    "population": 4731
+  },
+  {
+    "city": "Davenport Center",
+    "county": "Delaware",
+    "zip_codes": [
+      "13750",
+      "13751",
+      "13757",
+      "13820"
+    ],
+    "population": 489
+  },
+  {
+    "city": "De Witt",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13057",
+      "13078",
+      "13214",
+      "13224"
+    ],
+    "population": 10815
+  },
+  {
+    "city": "Deer Park",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11729"
+    ],
+    "population": 27334
+  },
+  {
+    "city": "Deferiet",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13619",
+      "13628"
+    ],
+    "population": 237
+  },
+  {
+    "city": "DeKalb Junction",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13630"
+    ],
+    "population": 512
+  },
+  {
+    "city": "Delanson",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12053"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Delevan",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14042"
+    ],
+    "population": 1283
+  },
+  {
+    "city": "Delhi",
+    "county": "Delaware",
+    "zip_codes": [
+      "13753"
+    ],
+    "population": 3185
+  },
+  {
+    "city": "Depauville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13622",
+      "13624",
+      "13632",
+      "13656"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Depew",
+    "county": "Erie",
+    "zip_codes": [
+      "14043",
+      "14225"
+    ],
+    "population": 15065
+  },
+  {
+    "city": "Deposit",
+    "county": "Broome",
+    "zip_codes": [
+      "13754"
+    ],
+    "population": 1345
+  },
+  {
+    "city": "Dering Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11964"
+    ],
+    "population": 0
+  },
+  {
+    "city": "DeRuyter",
+    "county": "Madison",
+    "zip_codes": [
+      "13052"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Dexter",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13634"
+    ],
+    "population": 828
+  },
+  {
+    "city": "Dix Hills",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11731",
+      "11746",
+      "11747"
+    ],
+    "population": 25042
+  },
+  {
+    "city": "Dobbs Ferry",
+    "county": "Westchester",
+    "zip_codes": [
+      "10522"
+    ],
+    "population": 11397
+  },
+  {
+    "city": "Dolgeville",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13329"
+    ],
+    "population": 1948
+  },
+  {
+    "city": "Dover Plains",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12522"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "Downsville",
+    "county": "Delaware",
+    "zip_codes": [
+      "13755",
+      "13782"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Dresden",
+    "county": "Yates",
+    "zip_codes": [
+      "14441",
+      "14527"
+    ],
+    "population": 318
+  },
+  {
+    "city": "Dryden",
+    "county": "Tompkins",
+    "zip_codes": [
+      "13053"
+    ],
+    "population": 1783
+  },
+  {
+    "city": "Duane Lake",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12056"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Duanesburg",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12053",
+      "12056"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Dundee",
+    "county": "Yates",
+    "zip_codes": [
+      "14837"
+    ],
+    "population": 2003
+  },
+  {
+    "city": "Dunkirk",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14048"
+    ],
+    "population": 12597
+  },
+  {
+    "city": "Durhamville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13054",
+      "13421"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Eagle Bay",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13331"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Earlville",
+    "county": "Madison",
+    "zip_codes": [
+      "13332"
+    ],
+    "population": 758
+  },
+  {
+    "city": "East Atlantic Beach",
+    "county": "Nassau",
+    "zip_codes": [
+      "11509",
+      "11561"
+    ],
+    "population": 1892
+  },
+  {
+    "city": "East Aurora",
+    "county": "Erie",
+    "zip_codes": [
+      "14052"
+    ],
+    "population": 5997
+  },
+  {
+    "city": "East Avon",
+    "county": "Livingston",
+    "zip_codes": [
+      "14414"
+    ],
+    "population": 741
+  },
+  {
+    "city": "East Durham",
+    "county": "Greene",
+    "zip_codes": [
+      "12413",
+      "12423"
+    ],
+    "population": 547
+  },
+  {
+    "city": "East Farmingdale",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11735",
+      "11757",
+      "11798"
+    ],
+    "population": 5866
+  },
+  {
+    "city": "East Frankfort",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13357"
+    ],
+    "population": 480
+  },
+  {
+    "city": "East Glenville",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12008",
+      "12302"
+    ],
+    "population": 11399
+  },
+  {
+    "city": "East Greenbush",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12033",
+      "12061",
+      "12144"
+    ],
+    "population": 6562
+  },
+  {
+    "city": "East Hampton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11937",
+      "11975"
+    ],
+    "population": 1277
+  },
+  {
+    "city": "East Hampton North",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11937"
+    ],
+    "population": 5751
+  },
+  {
+    "city": "East Herkimer",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13350"
+    ],
+    "population": 711
+  },
+  {
+    "city": "East Hills",
+    "county": "Nassau",
+    "zip_codes": [
+      "11548",
+      "11576",
+      "11577"
+    ],
+    "population": 7249
+  },
+  {
+    "city": "East Islip",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11730"
+    ],
+    "population": 13687
+  },
+  {
+    "city": "East Ithaca",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 2372
+  },
+  {
+    "city": "East Kingston",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401"
+    ],
+    "population": 219
+  },
+  {
+    "city": "East Marion",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11939"
+    ],
+    "population": 1741
+  },
+  {
+    "city": "East Massapequa",
+    "county": "Nassau",
+    "zip_codes": [
+      "11758",
+      "11762"
+    ],
+    "population": 20142
+  },
+  {
+    "city": "East Meadow",
+    "county": "Nassau",
+    "zip_codes": [
+      "11554"
+    ],
+    "population": 35806
+  },
+  {
+    "city": "East Moriches",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11934",
+      "11940"
+    ],
+    "population": 5794
+  },
+  {
+    "city": "East Nassau",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12062",
+      "12123"
+    ],
+    "population": 492
+  },
+  {
+    "city": "East Northport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11731",
+      "11740",
+      "11768"
+    ],
+    "population": 19672
+  },
+  {
+    "city": "East Norwich",
+    "county": "Nassau",
+    "zip_codes": [
+      "11732",
+      "11771"
+    ],
+    "population": 2703
+  },
+  {
+    "city": "East Patchogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11713",
+      "11772"
+    ],
+    "population": 21364
+  },
+  {
+    "city": "East Quogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11942",
+      "11959"
+    ],
+    "population": 5871
+  },
+  {
+    "city": "East Randolph",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14772"
+    ],
+    "population": 633
+  },
+  {
+    "city": "East Rochester",
+    "county": "Monroe",
+    "zip_codes": [
+      "14445",
+      "14526"
+    ],
+    "population": 6263
+  },
+  {
+    "city": "East Rockaway",
+    "county": "Nassau",
+    "zip_codes": [
+      "11518",
+      "11557",
+      "11563"
+    ],
+    "population": 10064
+  },
+  {
+    "city": "East Setauket",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733",
+      "11777",
+      "11790"
+    ],
+    "population": 10385
+  },
+  {
+    "city": "East Shoreham",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11786",
+      "11792",
+      "11961"
+    ],
+    "population": 7279
+  },
+  {
+    "city": "East Syracuse",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13057"
+    ],
+    "population": 3039
+  },
+  {
+    "city": "East Williston",
+    "county": "Nassau",
+    "zip_codes": [
+      "11596"
+    ],
+    "population": 2627
+  },
+  {
+    "city": "East Worcester",
+    "county": "Otsego",
+    "zip_codes": [
+      "12064",
+      "12149",
+      "12197"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Eastchester",
+    "county": "Westchester",
+    "zip_codes": [
+      "10583",
+      "10707",
+      "10708",
+      "10709"
+    ],
+    "population": 20519
+  },
+  {
+    "city": "Eastport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11941",
+      "11949"
+    ],
+    "population": 2259
+  },
+  {
+    "city": "Eatons Neck",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11768"
+    ],
+    "population": 1158
+  },
+  {
+    "city": "Eden",
+    "county": "Erie",
+    "zip_codes": [
+      "14057"
+    ],
+    "population": 3164
+  },
+  {
+    "city": "Edmeston",
+    "county": "Otsego",
+    "zip_codes": [
+      "13335"
+    ],
+    "population": 592
+  },
+  {
+    "city": "Edwards",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13635"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Eggertsville",
+    "county": "Erie",
+    "zip_codes": [
+      "14226"
+    ],
+    "population": 15416
+  },
+  {
+    "city": "Elba",
+    "county": "Genesee",
+    "zip_codes": [
+      "14058"
+    ],
+    "population": 464
+  },
+  {
+    "city": "Elbridge",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13060"
+    ],
+    "population": 1308
+  },
+  {
+    "city": "Eldred",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12732"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Elizabethtown",
+    "county": "Essex",
+    "zip_codes": [
+      "12932"
+    ],
+    "population": 662
+  },
+  {
+    "city": "Ellenville",
+    "county": "Ulster",
+    "zip_codes": [
+      "12420",
+      "12428",
+      "12446"
+    ],
+    "population": 4210
+  },
+  {
+    "city": "Ellicottville",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14731"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Ellisburg",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13636",
+      "13661"
+    ],
+    "population": 229
+  },
+  {
+    "city": "Elma Center",
+    "county": "Erie",
+    "zip_codes": [
+      "14059"
+    ],
+    "population": 3091
+  },
+  {
+    "city": "Elmira",
+    "county": "Chemung",
+    "zip_codes": [
+      "14901",
+      "14904",
+      "14905"
+    ],
+    "population": 26349
+  },
+  {
+    "city": "Elmira Heights",
+    "county": "Chemung",
+    "zip_codes": [
+      "14903"
+    ],
+    "population": 4254
+  },
+  {
+    "city": "Elmont",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001",
+      "11003"
+    ],
+    "population": 36436
+  },
+  {
+    "city": "Elmsford",
+    "county": "Westchester",
+    "zip_codes": [
+      "10523",
+      "10607"
+    ],
+    "population": 5183
+  },
+  {
+    "city": "Elwood",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11731",
+      "11740",
+      "11743"
+    ],
+    "population": 11140
+  },
+  {
+    "city": "Endicott",
+    "county": "Broome",
+    "zip_codes": [
+      "13760"
+    ],
+    "population": 13456
+  },
+  {
+    "city": "Endwell",
+    "county": "Broome",
+    "zip_codes": [
+      "13760"
+    ],
+    "population": 11821
+  },
+  {
+    "city": "Erin",
+    "county": "Chemung",
+    "zip_codes": [
+      "14838"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Esperance",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12066"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Evans Mills",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13637"
+    ],
+    "population": 632
+  },
+  {
+    "city": "Fabius",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13063"
+    ],
+    "population": 368
+  },
+  {
+    "city": "Fair Haven",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13156"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Fairmount",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13031",
+      "13209",
+      "13219"
+    ],
+    "population": 9998
+  },
+  {
+    "city": "Fairport",
+    "county": "Monroe",
+    "zip_codes": [
+      "14450"
+    ],
+    "population": 5436
+  },
+  {
+    "city": "Fairview",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12538",
+      "12601"
+    ],
+    "population": 6454
+  },
+  {
+    "city": "Fairview",
+    "county": "Westchester",
+    "zip_codes": [
+      "10603",
+      "10607"
+    ],
+    "population": 3522
+  },
+  {
+    "city": "Falconer",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14733"
+    ],
+    "population": 2103
+  },
+  {
+    "city": "Fallsburg",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12733"
+    ],
+    "population": 1891
+  },
+  {
+    "city": "Farmingdale",
+    "county": "Nassau",
+    "zip_codes": [
+      "11735"
+    ],
+    "population": 8450
+  },
+  {
+    "city": "Farmingville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11738",
+      "11779",
+      "11784"
+    ],
+    "population": 16605
+  },
+  {
+    "city": "Farnham",
+    "county": "Erie",
+    "zip_codes": [
+      "14061",
+      "14081"
+    ],
+    "population": 398
+  },
+  {
+    "city": "Fayetteville",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13066"
+    ],
+    "population": 4220
+  },
+  {
+    "city": "Felts Mills",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13612",
+      "13638"
+    ],
+    "population": 265
+  },
+  {
+    "city": "Fillmore",
+    "county": "Allegany",
+    "zip_codes": [
+      "14735"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Fire Island",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702",
+      "11706",
+      "11770",
+      "11772",
+      "11782"
+    ],
+    "population": 445
+  },
+  {
+    "city": "Firthcliffe",
+    "county": "Orange",
+    "zip_codes": [
+      "12518",
+      "12520",
+      "12553"
+    ],
+    "population": 5268
+  },
+  {
+    "city": "Fishers Island",
+    "county": "Suffolk",
+    "zip_codes": [
+      "06390"
+    ],
+    "population": 53
+  },
+  {
+    "city": "Fishers Landing",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13624",
+      "13640",
+      "13641"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Fishkill",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12524"
+    ],
+    "population": 2193
+  },
+  {
+    "city": "Flanders",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901",
+      "11946"
+    ],
+    "population": 6388
+  },
+  {
+    "city": "Fleischmanns",
+    "county": "Delaware",
+    "zip_codes": [
+      "12430"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Floral Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001"
+    ],
+    "population": 16025
+  },
+  {
+    "city": "Florida",
+    "county": "Orange",
+    "zip_codes": [
+      "10921"
+    ],
+    "population": 2915
+  },
+  {
+    "city": "Flower Hill",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030",
+      "11050",
+      "11576"
+    ],
+    "population": 4793
+  },
+  {
+    "city": "Fly Creek",
+    "county": "Otsego",
+    "zip_codes": [
+      "13337"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Fonda",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12068"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Forest Home",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 1164
+  },
+  {
+    "city": "Forestville",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14062"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Fort Ann",
+    "county": "Washington",
+    "zip_codes": [
+      "12827"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Fort Covington",
+    "county": "Franklin",
+    "zip_codes": [
+      "12914",
+      "12937"
+    ],
+    "population": 1053
+  },
+  {
+    "city": "Fort Drum",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13602",
+      "13603"
+    ],
+    "population": 16124
+  },
+  {
+    "city": "Fort Edward",
+    "county": "Washington",
+    "zip_codes": [
+      "12828"
+    ],
+    "population": 3160
+  },
+  {
+    "city": "Fort Johnson",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12010",
+      "12070"
+    ],
+    "population": 397
+  },
+  {
+    "city": "Fort Montgomery",
+    "county": "Orange",
+    "zip_codes": [
+      "10922",
+      "10928"
+    ],
+    "population": 2198
+  },
+  {
+    "city": "Fort Plain",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13339"
+    ],
+    "population": 2274
+  },
+  {
+    "city": "Fort Salonga",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11754",
+      "11768"
+    ],
+    "population": 10203
+  },
+  {
+    "city": "Fowlerville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14423"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Frankfort",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13340"
+    ],
+    "population": 2384
+  },
+  {
+    "city": "Franklin",
+    "county": "Delaware",
+    "zip_codes": [
+      "13775"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Franklin Square",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001",
+      "11003",
+      "11010",
+      "11580"
+    ],
+    "population": 30559
+  },
+  {
+    "city": "Franklinville",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14737"
+    ],
+    "population": 2063
+  },
+  {
+    "city": "Fredonia",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14063"
+    ],
+    "population": 9601
+  },
+  {
+    "city": "Freedom Plains",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12540",
+      "12569",
+      "12603"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Freeport",
+    "county": "Nassau",
+    "zip_codes": [
+      "11520"
+    ],
+    "population": 44102
+  },
+  {
+    "city": "Freeville",
+    "county": "Tompkins",
+    "zip_codes": [
+      "13068"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Frewsburg",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14738"
+    ],
+    "population": 2083
+  },
+  {
+    "city": "Friendship",
+    "county": "Allegany",
+    "zip_codes": [
+      "14739"
+    ],
+    "population": 783
+  },
+  {
+    "city": "Fulton",
+    "county": "Oswego",
+    "zip_codes": [
+      "13069"
+    ],
+    "population": 11339
+  },
+  {
+    "city": "Fultonville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12072"
+    ],
+    "population": 696
+  },
+  {
+    "city": "Gainesville",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14066"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Galeville",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13088"
+    ],
+    "population": 4200
+  },
+  {
+    "city": "Galway",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12074"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Gananda",
+    "county": "Wayne",
+    "zip_codes": [
+      "14502",
+      "14568"
+    ],
+    "population": 6501
+  },
+  {
+    "city": "Gang Mills",
+    "county": "Steuben",
+    "zip_codes": [
+      "14870"
+    ],
+    "population": 4369
+  },
+  {
+    "city": "Garden City",
+    "county": "Nassau",
+    "zip_codes": [
+      "11501",
+      "11530"
+    ],
+    "population": 22866
+  },
+  {
+    "city": "Garden City Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11040"
+    ],
+    "population": 8176
+  },
+  {
+    "city": "Garden City South",
+    "county": "Nassau",
+    "zip_codes": [
+      "11010",
+      "11530",
+      "11552"
+    ],
+    "population": 4077
+  },
+  {
+    "city": "Gardiner",
+    "county": "Ulster",
+    "zip_codes": [
+      "12525"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Gardnertown",
+    "county": "Orange",
+    "zip_codes": [
+      "12550"
+    ],
+    "population": 4154
+  },
+  {
+    "city": "Garrattsville",
+    "county": "Otsego",
+    "zip_codes": [
+      "13315",
+      "13342"
+    ],
+    "population": 144
+  },
+  {
+    "city": "Gasport",
+    "county": "Niagara",
+    "zip_codes": [
+      "14067"
+    ],
+    "population": 1419
+  },
+  {
+    "city": "Gates",
+    "county": "Monroe",
+    "zip_codes": [
+      "14606",
+      "14624"
+    ],
+    "population": 4576
+  },
+  {
+    "city": "Geneseo",
+    "county": "Livingston",
+    "zip_codes": [
+      "14454",
+      "14510"
+    ],
+    "population": 7700
+  },
+  {
+    "city": "Geneva",
+    "county": "Ontario",
+    "zip_codes": [
+      "14456"
+    ],
+    "population": 12573
+  },
+  {
+    "city": "Germantown",
+    "county": "Columbia",
+    "zip_codes": [
+      "12526"
+    ],
+    "population": 1107
+  },
+  {
+    "city": "Ghent",
+    "county": "Columbia",
+    "zip_codes": [
+      "12037",
+      "12075"
+    ],
+    "population": 478
+  },
+  {
+    "city": "Gilbertsville",
+    "county": "Otsego",
+    "zip_codes": [
+      "13776"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Gilgo",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702"
+    ],
+    "population": 65
+  },
+  {
+    "city": "Glasco",
+    "county": "Ulster",
+    "zip_codes": [
+      "12432",
+      "12477"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Glen Aubrey",
+    "county": "Broome",
+    "zip_codes": [
+      "13777",
+      "13862"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Glen Cove",
+    "county": "Nassau",
+    "zip_codes": [
+      "11542",
+      "11560"
+    ],
+    "population": 28101
+  },
+  {
+    "city": "Glen Head",
+    "county": "Nassau",
+    "zip_codes": [
+      "11542",
+      "11545"
+    ],
+    "population": 4575
+  },
+  {
+    "city": "Glen Park",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13601"
+    ],
+    "population": 639
+  },
+  {
+    "city": "Glens Falls",
+    "county": "Warren",
+    "zip_codes": [
+      "12801",
+      "12804"
+    ],
+    "population": 14678
+  },
+  {
+    "city": "Glens Falls North",
+    "county": "Warren",
+    "zip_codes": [
+      "12804"
+    ],
+    "population": 9148
+  },
+  {
+    "city": "Glenwood Landing",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11547",
+      "11548"
+    ],
+    "population": 3776
+  },
+  {
+    "city": "Gloversville",
+    "county": "Fulton",
+    "zip_codes": [
+      "12078",
+      "12095"
+    ],
+    "population": 15010
+  },
+  {
+    "city": "Golden's Bridge",
+    "county": "Westchester",
+    "zip_codes": [
+      "10526",
+      "10536"
+    ],
+    "population": 1549
+  },
+  {
+    "city": "Gordon Heights",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11727",
+      "11763",
+      "11953"
+    ],
+    "population": 4095
+  },
+  {
+    "city": "Gorham",
+    "county": "Ontario",
+    "zip_codes": [
+      "14561"
+    ],
+    "population": 345
+  },
+  {
+    "city": "Goshen",
+    "county": "Orange",
+    "zip_codes": [
+      "10924"
+    ],
+    "population": 5751
+  },
+  {
+    "city": "Gouverneur",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13642"
+    ],
+    "population": 3623
+  },
+  {
+    "city": "Gowanda",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14070"
+    ],
+    "population": 2929
+  },
+  {
+    "city": "Grahamsville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12740"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Grand View-on-Hudson",
+    "county": "Rockland",
+    "zip_codes": [
+      "10960"
+    ],
+    "population": 247
+  },
+  {
+    "city": "Grandyle Village",
+    "county": "Erie",
+    "zip_codes": [
+      "14072"
+    ],
+    "population": 5000
+  },
+  {
+    "city": "Granville",
+    "county": "Washington",
+    "zip_codes": [
+      "12832"
+    ],
+    "population": 2270
+  },
+  {
+    "city": "Great Bend",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13619",
+      "13643"
+    ],
+    "population": 942
+  },
+  {
+    "city": "Great Neck",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023",
+      "11024"
+    ],
+    "population": 11068
+  },
+  {
+    "city": "Great Neck Estates",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021"
+    ],
+    "population": 2968
+  },
+  {
+    "city": "Great Neck Gardens",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023"
+    ],
+    "population": 1245
+  },
+  {
+    "city": "Great Neck Plaza",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021"
+    ],
+    "population": 7503
+  },
+  {
+    "city": "Great River",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11730",
+      "11739",
+      "11769"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Greece",
+    "county": "Monroe",
+    "zip_codes": [
+      "14626"
+    ],
+    "population": 14053
+  },
+  {
+    "city": "Green Island",
+    "county": "Albany",
+    "zip_codes": [
+      "12183",
+      "12189"
+    ],
+    "population": 2966
+  },
+  {
+    "city": "Greene",
+    "county": "Chenango",
+    "zip_codes": [
+      "13778"
+    ],
+    "population": 1556
+  },
+  {
+    "city": "Greenlawn",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11721",
+      "11740",
+      "11743"
+    ],
+    "population": 14986
+  },
+  {
+    "city": "Greenport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11944"
+    ],
+    "population": 2574
+  },
+  {
+    "city": "Greenport West",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11944",
+      "11971"
+    ],
+    "population": 2170
+  },
+  {
+    "city": "Greenvale",
+    "county": "Nassau",
+    "zip_codes": [
+      "11548"
+    ],
+    "population": 1095
+  },
+  {
+    "city": "Greenville",
+    "county": "Greene",
+    "zip_codes": [
+      "12083"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Greenville",
+    "county": "Westchester",
+    "zip_codes": [
+      "10530",
+      "10583"
+    ],
+    "population": 9586
+  },
+  {
+    "city": "Greenwich",
+    "county": "Washington",
+    "zip_codes": [
+      "12834"
+    ],
+    "population": 1606
+  },
+  {
+    "city": "Greenwood Lake",
+    "county": "Orange",
+    "zip_codes": [
+      "10925",
+      "10950"
+    ],
+    "population": 3022
+  },
+  {
+    "city": "Greigsville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14533"
+    ],
+    "population": 117
+  },
+  {
+    "city": "Groton",
+    "county": "Tompkins",
+    "zip_codes": [
+      "13073"
+    ],
+    "population": 1974
+  },
+  {
+    "city": "Groveland Station",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437",
+      "14462"
+    ],
+    "population": 343
+  },
+  {
+    "city": "Guilford",
+    "county": "Chenango",
+    "zip_codes": [
+      "13780"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Hadley",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12835"
+    ],
+    "population": 1151
+  },
+  {
+    "city": "Hagaman",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12010",
+      "12086"
+    ],
+    "population": 1131
+  },
+  {
+    "city": "Hailesboro",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13642",
+      "13645"
+    ],
+    "population": 608
+  },
+  {
+    "city": "Haines Falls",
+    "county": "Greene",
+    "zip_codes": [
+      "12436"
+    ],
+    "population": 401
+  },
+  {
+    "city": "Halesite",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11743"
+    ],
+    "population": 2348
+  },
+  {
+    "city": "Hall",
+    "county": "Ontario",
+    "zip_codes": [
+      "14456",
+      "14463"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Hamburg",
+    "county": "Erie",
+    "zip_codes": [
+      "14075"
+    ],
+    "population": 9762
+  },
+  {
+    "city": "Hamilton",
+    "county": "Madison",
+    "zip_codes": [
+      "13346"
+    ],
+    "population": 4038
+  },
+  {
+    "city": "Hamilton College",
+    "county": "Oneida",
+    "zip_codes": [
+      "13323"
+    ],
+    "population": 1992
+  },
+  {
+    "city": "Hamlin",
+    "county": "Monroe",
+    "zip_codes": [
+      "14464",
+      "14468"
+    ],
+    "population": 5041
+  },
+  {
+    "city": "Hammond",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13646"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Hammondsport",
+    "county": "Steuben",
+    "zip_codes": [
+      "14840"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Hampton Bays",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11946"
+    ],
+    "population": 17138
+  },
+  {
+    "city": "Hampton Manor",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12144"
+    ],
+    "population": 5448
+  },
+  {
+    "city": "Hancock",
+    "county": "Delaware",
+    "zip_codes": [
+      "13783"
+    ],
+    "population": 876
+  },
+  {
+    "city": "Hankins",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12723",
+      "12741"
+    ],
+    "population": 205
+  },
+  {
+    "city": "Hannawa Falls",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13625",
+      "13647",
+      "13676"
+    ],
+    "population": 847
+  },
+  {
+    "city": "Hannibal",
+    "county": "Oswego",
+    "zip_codes": [
+      "13074"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Harbor Hills",
+    "county": "Nassau",
+    "zip_codes": [
+      "11023"
+    ],
+    "population": 520
+  },
+  {
+    "city": "Harbor Isle",
+    "county": "Nassau",
+    "zip_codes": [
+      "11558"
+    ],
+    "population": 1401
+  },
+  {
+    "city": "Harriman",
+    "county": "Orange",
+    "zip_codes": [
+      "10926"
+    ],
+    "population": 2843
+  },
+  {
+    "city": "Harris Hill",
+    "county": "Erie",
+    "zip_codes": [
+      "14031",
+      "14221"
+    ],
+    "population": 5853
+  },
+  {
+    "city": "Harrison",
+    "county": "Westchester",
+    "zip_codes": [
+      "10528",
+      "10577",
+      "10580",
+      "10604"
+    ],
+    "population": 29279
+  },
+  {
+    "city": "Hartsdale",
+    "county": "Westchester",
+    "zip_codes": [
+      "10530",
+      "10583"
+    ],
+    "population": 3254
+  },
+  {
+    "city": "Hartwick",
+    "county": "Otsego",
+    "zip_codes": [
+      "13348"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Hartwick Seminary",
+    "county": "Otsego",
+    "zip_codes": [
+      "13326",
+      "13807"
+    ],
+    "population": 322
+  },
+  {
+    "city": "Hastings-on-Hudson",
+    "county": "Westchester",
+    "zip_codes": [
+      "10522",
+      "10701",
+      "10706"
+    ],
+    "population": 8449
+  },
+  {
+    "city": "Hauppauge",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11787",
+      "11788"
+    ],
+    "population": 20772
+  },
+  {
+    "city": "Haverstraw",
+    "county": "Rockland",
+    "zip_codes": [
+      "10927"
+    ],
+    "population": 12273
+  },
+  {
+    "city": "Haviland",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12538",
+      "12601"
+    ],
+    "population": 3694
+  },
+  {
+    "city": "Hawthorne",
+    "county": "Westchester",
+    "zip_codes": [
+      "10532"
+    ],
+    "population": 4881
+  },
+  {
+    "city": "Head of the Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11780",
+      "11790"
+    ],
+    "population": 1378
+  },
+  {
+    "city": "Hemlock",
+    "county": "Livingston",
+    "zip_codes": [
+      "14466"
+    ],
+    "population": 736
+  },
+  {
+    "city": "Hempstead",
+    "county": "Nassau",
+    "zip_codes": [
+      "11550",
+      "11553"
+    ],
+    "population": 58569
+  },
+  {
+    "city": "Henderson",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13650"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Heritage Hills",
+    "county": "Westchester",
+    "zip_codes": [
+      "10589"
+    ],
+    "population": 3967
+  },
+  {
+    "city": "Herkimer",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13350"
+    ],
+    "population": 7335
+  },
+  {
+    "city": "Hermon",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13652"
+    ],
+    "population": 603
+  },
+  {
+    "city": "Herricks",
+    "county": "Nassau",
+    "zip_codes": [
+      "11040",
+      "11596"
+    ],
+    "population": 4077
+  },
+  {
+    "city": "Herrings",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13619"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Heuvelton",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13654"
+    ],
+    "population": 654
+  },
+  {
+    "city": "Hewlett",
+    "county": "Nassau",
+    "zip_codes": [
+      "11557",
+      "11563",
+      "11598"
+    ],
+    "population": 7599
+  },
+  {
+    "city": "Hewlett Bay Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11557"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Hewlett Harbor",
+    "county": "Nassau",
+    "zip_codes": [
+      "11557"
+    ],
+    "population": 1111
+  },
+  {
+    "city": "Hewlett Neck",
+    "county": "Nassau",
+    "zip_codes": [
+      "11598"
+    ],
+    "population": 549
+  },
+  {
+    "city": "Hicksville",
+    "county": "Nassau",
+    "zip_codes": [
+      "11590",
+      "11791",
+      "11801"
+    ],
+    "population": 43868
+  },
+  {
+    "city": "High Falls",
+    "county": "Ulster",
+    "zip_codes": [
+      "12440"
+    ],
+    "population": 624
+  },
+  {
+    "city": "Highland",
+    "county": "Ulster",
+    "zip_codes": [
+      "12528"
+    ],
+    "population": 6321
+  },
+  {
+    "city": "Highland Falls",
+    "county": "Orange",
+    "zip_codes": [
+      "10928"
+    ],
+    "population": 3696
+  },
+  {
+    "city": "Highland-on-the-Lake",
+    "county": "Erie",
+    "zip_codes": [
+      "14047"
+    ],
+    "population": 3701
+  },
+  {
+    "city": "Hillburn",
+    "county": "Rockland",
+    "zip_codes": [
+      "10931"
+    ],
+    "population": 1170
+  },
+  {
+    "city": "Hillcrest",
+    "county": "Rockland",
+    "zip_codes": [
+      "10977"
+    ],
+    "population": 8989
+  },
+  {
+    "city": "Hillside",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401"
+    ],
+    "population": 889
+  },
+  {
+    "city": "Hillside Lake",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12590"
+    ],
+    "population": 1073
+  },
+  {
+    "city": "Hilton",
+    "county": "Monroe",
+    "zip_codes": [
+      "14468"
+    ],
+    "population": 5990
+  },
+  {
+    "city": "Hobart",
+    "county": "Delaware",
+    "zip_codes": [
+      "13788"
+    ],
+    "population": 410
+  },
+  {
+    "city": "Holbrook",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11741",
+      "11779"
+    ],
+    "population": 26256
+  },
+  {
+    "city": "Holland",
+    "county": "Erie",
+    "zip_codes": [
+      "14080"
+    ],
+    "population": 1146
+  },
+  {
+    "city": "Holland Patent",
+    "county": "Oneida",
+    "zip_codes": [
+      "13354"
+    ],
+    "population": 307
+  },
+  {
+    "city": "Holley",
+    "county": "Orleans",
+    "zip_codes": [
+      "14470"
+    ],
+    "population": 1994
+  },
+  {
+    "city": "Holtsville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11738",
+      "11741",
+      "11742",
+      "11763",
+      "11779"
+    ],
+    "population": 19250
+  },
+  {
+    "city": "Homer",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045",
+      "13077"
+    ],
+    "population": 3110
+  },
+  {
+    "city": "Honeoye",
+    "county": "Ontario",
+    "zip_codes": [
+      "14471"
+    ],
+    "population": 660
+  },
+  {
+    "city": "Honeoye Falls",
+    "county": "Monroe",
+    "zip_codes": [
+      "14472"
+    ],
+    "population": 2778
+  },
+  {
+    "city": "Hoosick Falls",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12090"
+    ],
+    "population": 3189
+  },
+  {
+    "city": "Hopewell Junction",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12533"
+    ],
+    "population": 1113
+  },
+  {
+    "city": "Hornell",
+    "county": "Steuben",
+    "zip_codes": [
+      "14843"
+    ],
+    "population": 8173
+  },
+  {
+    "city": "Horseheads",
+    "county": "Chemung",
+    "zip_codes": [
+      "14845"
+    ],
+    "population": 6494
+  },
+  {
+    "city": "Horseheads North",
+    "county": "Chemung",
+    "zip_codes": [
+      "14845"
+    ],
+    "population": 2600
+  },
+  {
+    "city": "Hortonville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12723",
+      "12745"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Houghton",
+    "county": "Allegany",
+    "zip_codes": [
+      "14744"
+    ],
+    "population": 1685
+  },
+  {
+    "city": "Hudson",
+    "county": "Columbia",
+    "zip_codes": [
+      "12534"
+    ],
+    "population": 5900
+  },
+  {
+    "city": "Hudson Falls",
+    "county": "Washington",
+    "zip_codes": [
+      "12839"
+    ],
+    "population": 7401
+  },
+  {
+    "city": "Hunt",
+    "county": "Livingston",
+    "zip_codes": [
+      "14846"
+    ],
+    "population": 120
+  },
+  {
+    "city": "Hunter",
+    "county": "Greene",
+    "zip_codes": [
+      "12442"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Huntington",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11721",
+      "11740",
+      "11743"
+    ],
+    "population": 20117
+  },
+  {
+    "city": "Huntington Bay",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11743"
+    ],
+    "population": 1853
+  },
+  {
+    "city": "Huntington Station",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11743",
+      "11746"
+    ],
+    "population": 33283
+  },
+  {
+    "city": "Hurley",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401",
+      "12443"
+    ],
+    "population": 3420
+  },
+  {
+    "city": "Hurleyville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12747"
+    ],
+    "population": 1249
+  },
+  {
+    "city": "Hyde Park",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12538"
+    ],
+    "population": 2100
+  },
+  {
+    "city": "Ilion",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13357"
+    ],
+    "population": 7636
+  },
+  {
+    "city": "Interlaken",
+    "county": "Seneca",
+    "zip_codes": [
+      "14847"
+    ],
+    "population": 556
+  },
+  {
+    "city": "Inwood",
+    "county": "Nassau",
+    "zip_codes": [
+      "11096",
+      "11559"
+    ],
+    "population": 11964
+  },
+  {
+    "city": "Irondequoit",
+    "county": "Monroe",
+    "zip_codes": [
+      "14609",
+      "14617",
+      "14621",
+      "14622"
+    ],
+    "population": 50438
+  },
+  {
+    "city": "Irvington",
+    "county": "Westchester",
+    "zip_codes": [
+      "10503",
+      "10533"
+    ],
+    "population": 6541
+  },
+  {
+    "city": "Island Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11558"
+    ],
+    "population": 4958
+  },
+  {
+    "city": "Islandia",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11749",
+      "11788"
+    ],
+    "population": 3581
+  },
+  {
+    "city": "Islip",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706",
+      "11722",
+      "11751"
+    ],
+    "population": 17224
+  },
+  {
+    "city": "Islip Terrace",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11752"
+    ],
+    "population": 5223
+  },
+  {
+    "city": "Ithaca",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850",
+      "14853"
+    ],
+    "population": 31792
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14854",
+      "14886"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Jamesport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901",
+      "11947",
+      "11948",
+      "11970"
+    ],
+    "population": 1538
+  },
+  {
+    "city": "Jamestown",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14701"
+    ],
+    "population": 28401
+  },
+  {
+    "city": "Jamestown West",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14701"
+    ],
+    "population": 2398
+  },
+  {
+    "city": "Jefferson",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12093"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Jefferson Heights",
+    "county": "Greene",
+    "zip_codes": [
+      "12414",
+      "12451"
+    ],
+    "population": 1193
+  },
+  {
+    "city": "Jefferson Valley-Yorktown",
+    "county": "Westchester",
+    "zip_codes": [
+      "10535",
+      "10588",
+      "10598"
+    ],
+    "population": 14195
+  },
+  {
+    "city": "Jeffersonville",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12748"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Jericho",
+    "county": "Nassau",
+    "zip_codes": [
+      "11590",
+      "11753",
+      "11801"
+    ],
+    "population": 14117
+  },
+  {
+    "city": "Johnson City",
+    "county": "Broome",
+    "zip_codes": [
+      "13790"
+    ],
+    "population": 15130
+  },
+  {
+    "city": "Johnstown",
+    "county": "Fulton",
+    "zip_codes": [
+      "12095"
+    ],
+    "population": 8153
+  },
+  {
+    "city": "Jordan",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13080"
+    ],
+    "population": 1374
+  },
+  {
+    "city": "Kaser",
+    "county": "Rockland",
+    "zip_codes": [
+      "10952"
+    ],
+    "population": 5568
+  },
+  {
+    "city": "Katonah",
+    "county": "Westchester",
+    "zip_codes": [
+      "10536"
+    ],
+    "population": 2016
+  },
+  {
+    "city": "Kauneonga Lake",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12749",
+      "12786"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Keeseville",
+    "county": "Essex",
+    "zip_codes": [
+      "12944"
+    ],
+    "population": 2572
+  },
+  {
+    "city": "Kenmore",
+    "county": "Erie",
+    "zip_codes": [
+      "14217"
+    ],
+    "population": 15097
+  },
+  {
+    "city": "Kennedy",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14747"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Kensington",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023"
+    ],
+    "population": 1462
+  },
+  {
+    "city": "Kerhonkson",
+    "county": "Ulster",
+    "zip_codes": [
+      "12446"
+    ],
+    "population": 1773
+  },
+  {
+    "city": "Keuka Park",
+    "county": "Yates",
+    "zip_codes": [
+      "14478",
+      "14527"
+    ],
+    "population": 1103
+  },
+  {
+    "city": "Kiamesha Lake",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12701",
+      "12751"
+    ],
+    "population": 348
+  },
+  {
+    "city": "Kinderhook",
+    "county": "Columbia",
+    "zip_codes": [
+      "12106"
+    ],
+    "population": 1201
+  },
+  {
+    "city": "Kings Park",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11754"
+    ],
+    "population": 16249
+  },
+  {
+    "city": "Kings Point",
+    "county": "Nassau",
+    "zip_codes": [
+      "11023",
+      "11024"
+    ],
+    "population": 5614
+  },
+  {
+    "city": "Kingston",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401"
+    ],
+    "population": 23942
+  },
+  {
+    "city": "Kiryas Joel",
+    "county": "Orange",
+    "zip_codes": [
+      "10950"
+    ],
+    "population": 36572
+  },
+  {
+    "city": "Kysorville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437"
+    ],
+    "population": 80
+  },
+  {
+    "city": "La Fargeville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13656"
+    ],
+    "population": 637
+  },
+  {
+    "city": "Lackawanna",
+    "county": "Erie",
+    "zip_codes": [
+      "14218",
+      "14219"
+    ],
+    "population": 19779
+  },
+  {
+    "city": "Lacona",
+    "county": "Oswego",
+    "zip_codes": [
+      "13083"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Lake Carmel",
+    "county": "Putnam",
+    "zip_codes": [
+      "10512"
+    ],
+    "population": 8090
+  },
+  {
+    "city": "Lake Delta",
+    "county": "Oneida",
+    "zip_codes": [
+      "13303",
+      "13363",
+      "13440"
+    ],
+    "population": 3005
+  },
+  {
+    "city": "Lake Erie Beach",
+    "county": "Erie",
+    "zip_codes": [
+      "14006"
+    ],
+    "population": 3247
+  },
+  {
+    "city": "Lake George",
+    "county": "Warren",
+    "zip_codes": [
+      "12845"
+    ],
+    "population": 928
+  },
+  {
+    "city": "Lake Grove",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11755"
+    ],
+    "population": 11050
+  },
+  {
+    "city": "Lake Huntington",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12726",
+      "12752"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Lake Katrine",
+    "county": "Ulster",
+    "zip_codes": [
+      "12449",
+      "12477"
+    ],
+    "population": 2284
+  },
+  {
+    "city": "Lake Luzerne",
+    "county": "Warren",
+    "zip_codes": [
+      "12846"
+    ],
+    "population": 1171
+  },
+  {
+    "city": "Lake Mohegan",
+    "county": "Westchester",
+    "zip_codes": [
+      "10547",
+      "10588"
+    ],
+    "population": 5566
+  },
+  {
+    "city": "Lake Placid",
+    "county": "Essex",
+    "zip_codes": [
+      "12946"
+    ],
+    "population": 2159
+  },
+  {
+    "city": "Lake Ronkonkoma",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11755",
+      "11767",
+      "11779"
+    ],
+    "population": 18289
+  },
+  {
+    "city": "Lake Success",
+    "county": "Nassau",
+    "zip_codes": [
+      "11020",
+      "11021",
+      "11042"
+    ],
+    "population": 2817
+  },
+  {
+    "city": "Lakeland",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13209"
+    ],
+    "population": 2344
+  },
+  {
+    "city": "Lakeview",
+    "county": "Nassau",
+    "zip_codes": [
+      "11552",
+      "11570"
+    ],
+    "population": 5794
+  },
+  {
+    "city": "Lakeville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14480",
+      "14487"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Lakewood",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14750"
+    ],
+    "population": 2975
+  },
+  {
+    "city": "Lancaster",
+    "county": "Erie",
+    "zip_codes": [
+      "14043",
+      "14086"
+    ],
+    "population": 10127
+  },
+  {
+    "city": "Lansing",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 3837
+  },
+  {
+    "city": "Larchmont",
+    "county": "Westchester",
+    "zip_codes": [
+      "10538"
+    ],
+    "population": 6542
+  },
+  {
+    "city": "Latham",
+    "county": "Albany",
+    "zip_codes": [
+      "12110",
+      "12189"
+    ],
+    "population": 14327
+  },
+  {
+    "city": "Lattingtown",
+    "county": "Nassau",
+    "zip_codes": [
+      "11542",
+      "11560"
+    ],
+    "population": 1948
+  },
+  {
+    "city": "Laurel",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11948",
+      "11952"
+    ],
+    "population": 1340
+  },
+  {
+    "city": "Laurel Hollow",
+    "county": "Nassau",
+    "zip_codes": [
+      "11771",
+      "11791"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Laurens",
+    "county": "Otsego",
+    "zip_codes": [
+      "13796"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Lawrence",
+    "county": "Nassau",
+    "zip_codes": [
+      "11559"
+    ],
+    "population": 6771
+  },
+  {
+    "city": "Le Roy",
+    "county": "Genesee",
+    "zip_codes": [
+      "14482"
+    ],
+    "population": 4310
+  },
+  {
+    "city": "Leeds",
+    "county": "Greene",
+    "zip_codes": [
+      "12414",
+      "12451"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Leicester",
+    "county": "Livingston",
+    "zip_codes": [
+      "14481"
+    ],
+    "population": 593
+  },
+  {
+    "city": "Levittown",
+    "county": "Nassau",
+    "zip_codes": [
+      "11714",
+      "11756",
+      "11783",
+      "11793"
+    ],
+    "population": 51557
+  },
+  {
+    "city": "Lewiston",
+    "county": "Niagara",
+    "zip_codes": [
+      "14092"
+    ],
+    "population": 2527
+  },
+  {
+    "city": "Liberty",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12754"
+    ],
+    "population": 5083
+  },
+  {
+    "city": "Lido Beach",
+    "county": "Nassau",
+    "zip_codes": [
+      "11561"
+    ],
+    "population": 2634
+  },
+  {
+    "city": "Lima",
+    "county": "Livingston",
+    "zip_codes": [
+      "14485"
+    ],
+    "population": 2188
+  },
+  {
+    "city": "Lime Lake",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14042",
+      "14101"
+    ],
+    "population": 726
+  },
+  {
+    "city": "Limestone",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14753"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Lincoln Park",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401"
+    ],
+    "population": 2406
+  },
+  {
+    "city": "Lincolndale",
+    "county": "Westchester",
+    "zip_codes": [
+      "10541",
+      "10589"
+    ],
+    "population": 1235
+  },
+  {
+    "city": "Lindenhurst",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11757"
+    ],
+    "population": 27106
+  },
+  {
+    "city": "Linwood",
+    "county": "Livingston",
+    "zip_codes": [
+      "14486",
+      "14525"
+    ],
+    "population": 29
+  },
+  {
+    "city": "Lisle",
+    "county": "Broome",
+    "zip_codes": [
+      "13797"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Little Falls",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13365"
+    ],
+    "population": 4567
+  },
+  {
+    "city": "Little Valley",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14755"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "Liverpool",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13088",
+      "13090"
+    ],
+    "population": 2604
+  },
+  {
+    "city": "Livingston Manor",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12758"
+    ],
+    "population": 689
+  },
+  {
+    "city": "Livonia",
+    "county": "Livingston",
+    "zip_codes": [
+      "14487"
+    ],
+    "population": 1480
+  },
+  {
+    "city": "Livonia Center",
+    "county": "Livingston",
+    "zip_codes": [
+      "14487"
+    ],
+    "population": 326
+  },
+  {
+    "city": "Lloyd Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11724",
+      "11743"
+    ],
+    "population": 3570
+  },
+  {
+    "city": "Loch Sheldrake",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12747",
+      "12759"
+    ],
+    "population": 1428
+  },
+  {
+    "city": "Lockport",
+    "county": "Niagara",
+    "zip_codes": [
+      "14094"
+    ],
+    "population": 20699
+  },
+  {
+    "city": "Locust Valley",
+    "county": "Nassau",
+    "zip_codes": [
+      "11560"
+    ],
+    "population": 3591
+  },
+  {
+    "city": "Lodi",
+    "county": "Seneca",
+    "zip_codes": [
+      "14860"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Long Beach",
+    "county": "Nassau",
+    "zip_codes": [
+      "11561"
+    ],
+    "population": 34741
+  },
+  {
+    "city": "Long Lake",
+    "county": "Hamilton",
+    "zip_codes": [
+      "12847"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Lorenz Park",
+    "county": "Columbia",
+    "zip_codes": [
+      "12534"
+    ],
+    "population": 1947
+  },
+  {
+    "city": "Lorraine",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13659"
+    ],
+    "population": 91
+  },
+  {
+    "city": "Loudonville",
+    "county": "Albany",
+    "zip_codes": [
+      "12110",
+      "12205",
+      "12211"
+    ],
+    "population": 10274
+  },
+  {
+    "city": "Lowville",
+    "county": "Lewis",
+    "zip_codes": [
+      "13367"
+    ],
+    "population": 3432
+  },
+  {
+    "city": "Lynbrook",
+    "county": "Nassau",
+    "zip_codes": [
+      "11563"
+    ],
+    "population": 20251
+  },
+  {
+    "city": "Lyncourt",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13206",
+      "13208"
+    ],
+    "population": 4138
+  },
+  {
+    "city": "Lyndonville",
+    "county": "Orleans",
+    "zip_codes": [
+      "14098"
+    ],
+    "population": 742
+  },
+  {
+    "city": "Lyon Mountain",
+    "county": "Clinton",
+    "zip_codes": [
+      "12952",
+      "12955"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Lyons",
+    "county": "Wayne",
+    "zip_codes": [
+      "14489"
+    ],
+    "population": 3536
+  },
+  {
+    "city": "Lyons Falls",
+    "county": "Lewis",
+    "zip_codes": [
+      "13368",
+      "13433"
+    ],
+    "population": 478
+  },
+  {
+    "city": "MacDonnell Heights",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12603"
+    ],
+    "population": 1438
+  },
+  {
+    "city": "Macedon",
+    "county": "Wayne",
+    "zip_codes": [
+      "14502",
+      "14522"
+    ],
+    "population": 1885
+  },
+  {
+    "city": "Machias",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14101"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Madison",
+    "county": "Madison",
+    "zip_codes": [
+      "13402"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Madrid",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13660"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Mahopac",
+    "county": "Putnam",
+    "zip_codes": [
+      "10541",
+      "10542"
+    ],
+    "population": 9171
+  },
+  {
+    "city": "Malden-on-Hudson",
+    "county": "Ulster",
+    "zip_codes": [
+      "12453",
+      "12477"
+    ],
+    "population": 256
+  },
+  {
+    "city": "Malone",
+    "county": "Franklin",
+    "zip_codes": [
+      "12953"
+    ],
+    "population": 5466
+  },
+  {
+    "city": "Malverne",
+    "county": "Nassau",
+    "zip_codes": [
+      "11565"
+    ],
+    "population": 8496
+  },
+  {
+    "city": "Malverne Park Oaks",
+    "county": "Nassau",
+    "zip_codes": [
+      "11552",
+      "11565"
+    ],
+    "population": 517
+  },
+  {
+    "city": "Mamaroneck",
+    "county": "Westchester",
+    "zip_codes": [
+      "10538",
+      "10543"
+    ],
+    "population": 19840
+  },
+  {
+    "city": "Manchester",
+    "county": "Ontario",
+    "zip_codes": [
+      "14504",
+      "14548"
+    ],
+    "population": 1655
+  },
+  {
+    "city": "Manhasset",
+    "county": "Nassau",
+    "zip_codes": [
+      "11020",
+      "11021",
+      "11030"
+    ],
+    "population": 7730
+  },
+  {
+    "city": "Manhasset Hills",
+    "county": "Nassau",
+    "zip_codes": [
+      "11040",
+      "11042"
+    ],
+    "population": 3789
+  },
+  {
+    "city": "Manlius",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13104"
+    ],
+    "population": 4657
+  },
+  {
+    "city": "Mannsville",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13605",
+      "13661"
+    ],
+    "population": 448
+  },
+  {
+    "city": "Manorhaven",
+    "county": "Nassau",
+    "zip_codes": [
+      "11050"
+    ],
+    "population": 6934
+  },
+  {
+    "city": "Manorville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11933",
+      "11949"
+    ],
+    "population": 12737
+  },
+  {
+    "city": "Marathon",
+    "county": "Cortland",
+    "zip_codes": [
+      "13803"
+    ],
+    "population": 1011
+  },
+  {
+    "city": "Marcellus",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13108"
+    ],
+    "population": 1957
+  },
+  {
+    "city": "Marcy",
+    "county": "Oneida",
+    "zip_codes": [
+      "13403"
+    ],
+    "population": 489
+  },
+  {
+    "city": "Margaretville",
+    "county": "Delaware",
+    "zip_codes": [
+      "12455"
+    ],
+    "population": 651
+  },
+  {
+    "city": "Mariaville Lake",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12053",
+      "12137",
+      "12306"
+    ],
+    "population": 1011
+  },
+  {
+    "city": "Marion",
+    "county": "Wayne",
+    "zip_codes": [
+      "14505"
+    ],
+    "population": 1312
+  },
+  {
+    "city": "Marist College",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12601"
+    ],
+    "population": 2300
+  },
+  {
+    "city": "Marlboro",
+    "county": "Ulster",
+    "zip_codes": [
+      "12542"
+    ],
+    "population": 3959
+  },
+  {
+    "city": "Massapequa",
+    "county": "Nassau",
+    "zip_codes": [
+      "11758"
+    ],
+    "population": 21822
+  },
+  {
+    "city": "Massapequa Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11762"
+    ],
+    "population": 16985
+  },
+  {
+    "city": "Massena",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13662"
+    ],
+    "population": 10234
+  },
+  {
+    "city": "Mastic",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11949",
+      "11950"
+    ],
+    "population": 15031
+  },
+  {
+    "city": "Mastic Beach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11950",
+      "11951",
+      "11967"
+    ],
+    "population": 16382
+  },
+  {
+    "city": "Matinecock",
+    "county": "Nassau",
+    "zip_codes": [
+      "11560",
+      "11771"
+    ],
+    "population": 787
+  },
+  {
+    "city": "Mattituck",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11935",
+      "11952"
+    ],
+    "population": 4204
+  },
+  {
+    "city": "Mattydale",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13211"
+    ],
+    "population": 5978
+  },
+  {
+    "city": "Maybrook",
+    "county": "Orange",
+    "zip_codes": [
+      "10916",
+      "12543"
+    ],
+    "population": 3147
+  },
+  {
+    "city": "Mayfield",
+    "county": "Fulton",
+    "zip_codes": [
+      "12078",
+      "12117"
+    ],
+    "population": 1009
+  },
+  {
+    "city": "Mayville",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14757"
+    ],
+    "population": 1272
+  },
+  {
+    "city": "McGraw",
+    "county": "Cortland",
+    "zip_codes": [
+      "13101"
+    ],
+    "population": 1071
+  },
+  {
+    "city": "McLean",
+    "county": "Tompkins",
+    "zip_codes": [
+      "13045",
+      "13068",
+      "13102"
+    ],
+    "population": 363
+  },
+  {
+    "city": "Mechanicstown",
+    "county": "Orange",
+    "zip_codes": [
+      "10940"
+    ],
+    "population": 7479
+  },
+  {
+    "city": "Mechanicville",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12118"
+    ],
+    "population": 5143
+  },
+  {
+    "city": "Medford",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11738",
+      "11763"
+    ],
+    "population": 25681
+  },
+  {
+    "city": "Medina",
+    "county": "Orleans",
+    "zip_codes": [
+      "14103"
+    ],
+    "population": 5799
+  },
+  {
+    "city": "Melrose Park",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13021"
+    ],
+    "population": 1951
+  },
+  {
+    "city": "Melville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11735",
+      "11746",
+      "11747"
+    ],
+    "population": 19187
+  },
+  {
+    "city": "Menands",
+    "county": "Albany",
+    "zip_codes": [
+      "12204"
+    ],
+    "population": 4503
+  },
+  {
+    "city": "Meridian",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13033",
+      "13113"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Merrick",
+    "county": "Nassau",
+    "zip_codes": [
+      "11520",
+      "11566"
+    ],
+    "population": 21816
+  },
+  {
+    "city": "Merritt Park",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12524"
+    ],
+    "population": 1723
+  },
+  {
+    "city": "Mexico",
+    "county": "Oswego",
+    "zip_codes": [
+      "13114"
+    ],
+    "population": 2050
+  },
+  {
+    "city": "Middle Island",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11953"
+    ],
+    "population": 11086
+  },
+  {
+    "city": "Middleburgh",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12122"
+    ],
+    "population": 1231
+  },
+  {
+    "city": "Middleport",
+    "county": "Niagara",
+    "zip_codes": [
+      "14105"
+    ],
+    "population": 1931
+  },
+  {
+    "city": "Middletown",
+    "county": "Orange",
+    "zip_codes": [
+      "10940"
+    ],
+    "population": 30227
+  },
+  {
+    "city": "Middleville",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13406",
+      "13416"
+    ],
+    "population": 626
+  },
+  {
+    "city": "Milford",
+    "county": "Otsego",
+    "zip_codes": [
+      "13807"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Mill Neck",
+    "county": "Nassau",
+    "zip_codes": [
+      "11560",
+      "11765",
+      "11771"
+    ],
+    "population": 1245
+  },
+  {
+    "city": "Millbrook",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12545"
+    ],
+    "population": 1316
+  },
+  {
+    "city": "Miller Place",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11764",
+      "11766",
+      "11953"
+    ],
+    "population": 11743
+  },
+  {
+    "city": "Millerton",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12546"
+    ],
+    "population": 801
+  },
+  {
+    "city": "Millport",
+    "county": "Chemung",
+    "zip_codes": [
+      "14864"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Millwood",
+    "county": "Westchester",
+    "zip_codes": [
+      "10546"
+    ],
+    "population": 854
+  },
+  {
+    "city": "Milton",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12020"
+    ],
+    "population": 4353
+  },
+  {
+    "city": "Milton",
+    "county": "Ulster",
+    "zip_codes": [
+      "12542",
+      "12547"
+    ],
+    "population": 1692
+  },
+  {
+    "city": "Mineola",
+    "county": "Nassau",
+    "zip_codes": [
+      "11501"
+    ],
+    "population": 21082
+  },
+  {
+    "city": "Minetto",
+    "county": "Oswego",
+    "zip_codes": [
+      "13069",
+      "13115",
+      "13126"
+    ],
+    "population": 1433
+  },
+  {
+    "city": "Mineville",
+    "county": "Essex",
+    "zip_codes": [
+      "12956",
+      "12998"
+    ],
+    "population": 1495
+  },
+  {
+    "city": "Minoa",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13057",
+      "13116"
+    ],
+    "population": 3657
+  },
+  {
+    "city": "Mohawk",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13407"
+    ],
+    "population": 2522
+  },
+  {
+    "city": "Mongaup Valley",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12701",
+      "12762",
+      "12783"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Monroe",
+    "county": "Orange",
+    "zip_codes": [
+      "10950"
+    ],
+    "population": 9466
+  },
+  {
+    "city": "Monsey",
+    "county": "Rockland",
+    "zip_codes": [
+      "10952",
+      "10977"
+    ],
+    "population": 27787
+  },
+  {
+    "city": "Montauk",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11954"
+    ],
+    "population": 4073
+  },
+  {
+    "city": "Montebello",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901"
+    ],
+    "population": 4649
+  },
+  {
+    "city": "Montgomery",
+    "county": "Orange",
+    "zip_codes": [
+      "12549"
+    ],
+    "population": 3800
+  },
+  {
+    "city": "Monticello",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12701"
+    ],
+    "population": 7252
+  },
+  {
+    "city": "Montour Falls",
+    "county": "Schuyler",
+    "zip_codes": [
+      "14865"
+    ],
+    "population": 1666
+  },
+  {
+    "city": "Montrose",
+    "county": "Westchester",
+    "zip_codes": [
+      "10520",
+      "10548"
+    ],
+    "population": 3702
+  },
+  {
+    "city": "Mooers",
+    "county": "Clinton",
+    "zip_codes": [
+      "12958"
+    ],
+    "population": 423
+  },
+  {
+    "city": "Moravia",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13118"
+    ],
+    "population": 1365
+  },
+  {
+    "city": "Moriches",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11934",
+      "11955"
+    ],
+    "population": 2407
+  },
+  {
+    "city": "Morris",
+    "county": "Otsego",
+    "zip_codes": [
+      "13808"
+    ],
+    "population": 546
+  },
+  {
+    "city": "Morrisonville",
+    "county": "Clinton",
+    "zip_codes": [
+      "12901",
+      "12962"
+    ],
+    "population": 1688
+  },
+  {
+    "city": "Morrisville",
+    "county": "Madison",
+    "zip_codes": [
+      "13408"
+    ],
+    "population": 1530
+  },
+  {
+    "city": "Mount Ivy",
+    "county": "Rockland",
+    "zip_codes": [
+      "10923",
+      "10970",
+      "10984"
+    ],
+    "population": 7913
+  },
+  {
+    "city": "Mount Kisco",
+    "county": "Westchester",
+    "zip_codes": [
+      "10549"
+    ],
+    "population": 10782
+  },
+  {
+    "city": "Mount Morris",
+    "county": "Livingston",
+    "zip_codes": [
+      "14510"
+    ],
+    "population": 3258
+  },
+  {
+    "city": "Mount Sinai",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11766",
+      "11776",
+      "11777"
+    ],
+    "population": 11876
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Westchester",
+    "zip_codes": [
+      "10550",
+      "10552",
+      "10553",
+      "10708"
+    ],
+    "population": 72528
+  },
+  {
+    "city": "Mount Vision",
+    "county": "Otsego",
+    "zip_codes": [
+      "13810"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Mountain Dale",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12763",
+      "12789"
+    ],
+    "population": 289
+  },
+  {
+    "city": "Mountain Lodge Park",
+    "county": "Orange",
+    "zip_codes": [
+      "10950"
+    ],
+    "population": 1957
+  },
+  {
+    "city": "Munnsville",
+    "county": "Madison",
+    "zip_codes": [
+      "13409"
+    ],
+    "population": 402
+  },
+  {
+    "city": "Munsey Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030"
+    ],
+    "population": 2794
+  },
+  {
+    "city": "Munsons Corners",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045"
+    ],
+    "population": 2506
+  },
+  {
+    "city": "Muttontown",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11732",
+      "11753",
+      "11771",
+      "11791"
+    ],
+    "population": 3496
+  },
+  {
+    "city": "Myers Corner",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12524",
+      "12590"
+    ],
+    "population": 10786
+  },
+  {
+    "city": "Nanuet",
+    "county": "Rockland",
+    "zip_codes": [
+      "10954",
+      "10977",
+      "10994"
+    ],
+    "population": 20089
+  },
+  {
+    "city": "Napanoch",
+    "county": "Ulster",
+    "zip_codes": [
+      "12458"
+    ],
+    "population": 837
+  },
+  {
+    "city": "Napeague",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11930",
+      "11954"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Naples",
+    "county": "Ontario",
+    "zip_codes": [
+      "14512"
+    ],
+    "population": 971
+  },
+  {
+    "city": "Narrowsburg",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12764"
+    ],
+    "population": 480
+  },
+  {
+    "city": "Nassau",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12123"
+    ],
+    "population": 1138
+  },
+  {
+    "city": "Nassau Lake",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12123"
+    ],
+    "population": 841
+  },
+  {
+    "city": "Natural Bridge",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13665"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Nazareth College",
+    "county": "Monroe",
+    "zip_codes": [
+      "14618"
+    ],
+    "population": 1259
+  },
+  {
+    "city": "Nedrow",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13120",
+      "13205"
+    ],
+    "population": 2086
+  },
+  {
+    "city": "Nelliston",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13339",
+      "13410",
+      "13428"
+    ],
+    "population": 732
+  },
+  {
+    "city": "Nelsonville",
+    "county": "Putnam",
+    "zip_codes": [
+      "10516"
+    ],
+    "population": 714
+  },
+  {
+    "city": "Nesconset",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11767",
+      "11787"
+    ],
+    "population": 13344
+  },
+  {
+    "city": "New Baltimore",
+    "county": "Greene",
+    "zip_codes": [
+      "12087",
+      "12124",
+      "12192"
+    ],
+    "population": 208
+  },
+  {
+    "city": "New Berlin",
+    "county": "Chenango",
+    "zip_codes": [
+      "13411"
+    ],
+    "population": 947
+  },
+  {
+    "city": "New Cassel",
+    "county": "Nassau",
+    "zip_codes": [
+      "11590",
+      "11801"
+    ],
+    "population": 14414
+  },
+  {
+    "city": "New City",
+    "county": "Rockland",
+    "zip_codes": [
+      "10920",
+      "10954",
+      "10956"
+    ],
+    "population": 34133
+  },
+  {
+    "city": "New Hackensack",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12590"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "New Hamburg",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12590"
+    ],
+    "population": 728
+  },
+  {
+    "city": "New Hartford",
+    "county": "Oneida",
+    "zip_codes": [
+      "13413"
+    ],
+    "population": 2054
+  },
+  {
+    "city": "New Hempstead",
+    "county": "Rockland",
+    "zip_codes": [
+      "10970",
+      "10977"
+    ],
+    "population": 5431
+  },
+  {
+    "city": "New Hyde Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11040"
+    ],
+    "population": 10208
+  },
+  {
+    "city": "New Paltz",
+    "county": "Ulster",
+    "zip_codes": [
+      "12561"
+    ],
+    "population": 8028
+  },
+  {
+    "city": "New Rochelle",
+    "county": "Westchester",
+    "zip_codes": [
+      "10538",
+      "10583",
+      "10801",
+      "10804",
+      "10805"
+    ],
+    "population": 81591
+  },
+  {
+    "city": "New Square",
+    "county": "Rockland",
+    "zip_codes": [
+      "10977"
+    ],
+    "population": 9712
+  },
+  {
+    "city": "New Suffolk",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11956"
+    ],
+    "population": 293
+  },
+  {
+    "city": "New Windsor",
+    "county": "Orange",
+    "zip_codes": [
+      "12553"
+    ],
+    "population": 8427
+  },
+  {
+    "city": "New York",
+    "county": "Kings",
+    "zip_codes": [
+      "10001",
+      "10002",
+      "10003",
+      "10004",
+      "10005",
+      "10006",
+      "10007",
+      "10009",
+      "10010",
+      "10011",
+      "10012",
+      "10013",
+      "10014",
+      "10016",
+      "10017",
+      "10018",
+      "10019",
+      "10020",
+      "10021",
+      "10022",
+      "10023",
+      "10024",
+      "10025",
+      "10026",
+      "10027",
+      "10028",
+      "10029",
+      "10030",
+      "10031",
+      "10032",
+      "10033",
+      "10034",
+      "10035",
+      "10036",
+      "10037",
+      "10038",
+      "10039",
+      "10040",
+      "10044",
+      "10065",
+      "10069",
+      "10075",
+      "10103",
+      "10110",
+      "10111",
+      "10112",
+      "10115",
+      "10119",
+      "10128",
+      "10152",
+      "10153",
+      "10154",
+      "10162",
+      "10165",
+      "10167",
+      "10168",
+      "10169",
+      "10170",
+      "10171",
+      "10172",
+      "10173",
+      "10174",
+      "10177",
+      "10199",
+      "10271",
+      "10278",
+      "10279",
+      "10280",
+      "10282",
+      "10301",
+      "10302",
+      "10303",
+      "10304",
+      "10305",
+      "10306",
+      "10307",
+      "10308",
+      "10309",
+      "10310",
+      "10311",
+      "10312",
+      "10314",
+      "10451",
+      "10452",
+      "10453",
+      "10454",
+      "10455",
+      "10456",
+      "10457",
+      "10458",
+      "10459",
+      "10460",
+      "10461",
+      "10462",
+      "10463",
+      "10464",
+      "10465",
+      "10466",
+      "10467",
+      "10468",
+      "10469",
+      "10470",
+      "10471",
+      "10472",
+      "10473",
+      "10474",
+      "10475",
+      "11001",
+      "11004",
+      "11005",
+      "11101",
+      "11102",
+      "11103",
+      "11104",
+      "11105",
+      "11106",
+      "11109",
+      "11201",
+      "11203",
+      "11204",
+      "11205",
+      "11206",
+      "11207",
+      "11208",
+      "11209",
+      "11210",
+      "11211",
+      "11212",
+      "11213",
+      "11214",
+      "11215",
+      "11216",
+      "11217",
+      "11218",
+      "11219",
+      "11220",
+      "11221",
+      "11222",
+      "11223",
+      "11224",
+      "11225",
+      "11226",
+      "11228",
+      "11229",
+      "11230",
+      "11231",
+      "11232",
+      "11233",
+      "11234",
+      "11235",
+      "11236",
+      "11237",
+      "11238",
+      "11239",
+      "11249",
+      "11354",
+      "11355",
+      "11356",
+      "11357",
+      "11358",
+      "11359",
+      "11360",
+      "11361",
+      "11362",
+      "11363",
+      "11364",
+      "11365",
+      "11366",
+      "11367",
+      "11368",
+      "11369",
+      "11370",
+      "11371",
+      "11372",
+      "11373",
+      "11374",
+      "11375",
+      "11377",
+      "11378",
+      "11379",
+      "11385",
+      "11411",
+      "11412",
+      "11413",
+      "11414",
+      "11415",
+      "11416",
+      "11417",
+      "11418",
+      "11419",
+      "11420",
+      "11421",
+      "11422",
+      "11423",
+      "11424",
+      "11426",
+      "11427",
+      "11428",
+      "11429",
+      "11430",
+      "11432",
+      "11433",
+      "11434",
+      "11435",
+      "11436",
+      "11439",
+      "11451",
+      "11691",
+      "11692",
+      "11693",
+      "11694",
+      "11697"
+    ],
+    "population": 8516202
+  },
+  {
+    "city": "New York Mills",
+    "county": "Oneida",
+    "zip_codes": [
+      "13417",
+      "13495"
+    ],
+    "population": 2989
+  },
+  {
+    "city": "Newark",
+    "county": "Wayne",
+    "zip_codes": [
+      "14513"
+    ],
+    "population": 9040
+  },
+  {
+    "city": "Newark Valley",
+    "county": "Tioga",
+    "zip_codes": [
+      "13811"
+    ],
+    "population": 1149
+  },
+  {
+    "city": "Newburgh",
+    "county": "Orange",
+    "zip_codes": [
+      "12550",
+      "12553"
+    ],
+    "population": 28649
+  },
+  {
+    "city": "Newfane",
+    "county": "Niagara",
+    "zip_codes": [
+      "14028",
+      "14108"
+    ],
+    "population": 3470
+  },
+  {
+    "city": "Newfield",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14867"
+    ],
+    "population": 1112
+  },
+  {
+    "city": "Newport",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13416"
+    ],
+    "population": 481
+  },
+  {
+    "city": "Niagara Falls",
+    "county": "Niagara",
+    "zip_codes": [
+      "14301",
+      "14302",
+      "14303",
+      "14304",
+      "14305"
+    ],
+    "population": 48198
+  },
+  {
+    "city": "Niagara University",
+    "county": "Niagara",
+    "zip_codes": [
+      "14109"
+    ],
+    "population": 1341
+  },
+  {
+    "city": "Nichols",
+    "county": "Tioga",
+    "zip_codes": [
+      "13812"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Niskayuna",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12304",
+      "12309"
+    ],
+    "population": 20774
+  },
+  {
+    "city": "Nissequogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11780"
+    ],
+    "population": 1634
+  },
+  {
+    "city": "Niverville",
+    "county": "Columbia",
+    "zip_codes": [
+      "12130",
+      "12184"
+    ],
+    "population": 1248
+  },
+  {
+    "city": "Norfolk",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13667",
+      "13668"
+    ],
+    "population": 1021
+  },
+  {
+    "city": "North Amityville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11701",
+      "11726"
+    ],
+    "population": 20364
+  },
+  {
+    "city": "North Babylon",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702",
+      "11703",
+      "11704"
+    ],
+    "population": 18208
+  },
+  {
+    "city": "North Ballston Spa",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12020"
+    ],
+    "population": 1207
+  },
+  {
+    "city": "North Bay",
+    "county": "Oneida",
+    "zip_codes": [
+      "13123",
+      "13308"
+    ],
+    "population": 150
+  },
+  {
+    "city": "North Bay Shore",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706"
+    ],
+    "population": 20501
+  },
+  {
+    "city": "North Bellmore",
+    "county": "Nassau",
+    "zip_codes": [
+      "11566",
+      "11710",
+      "11793"
+    ],
+    "population": 20776
+  },
+  {
+    "city": "North Bellport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11713",
+      "11763",
+      "11772"
+    ],
+    "population": 10999
+  },
+  {
+    "city": "North Blenheim",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12071",
+      "12131"
+    ],
+    "population": 91
+  },
+  {
+    "city": "North Boston",
+    "county": "Erie",
+    "zip_codes": [
+      "14075"
+    ],
+    "population": 2590
+  },
+  {
+    "city": "North Collins",
+    "county": "Erie",
+    "zip_codes": [
+      "14111"
+    ],
+    "population": 1198
+  },
+  {
+    "city": "North Creek",
+    "county": "Warren",
+    "zip_codes": [
+      "12853"
+    ],
+    "population": 457
+  },
+  {
+    "city": "North Gates",
+    "county": "Monroe",
+    "zip_codes": [
+      "14606",
+      "14626"
+    ],
+    "population": 10014
+  },
+  {
+    "city": "North Granville",
+    "county": "Washington",
+    "zip_codes": [
+      "12832",
+      "12887"
+    ],
+    "population": 530
+  },
+  {
+    "city": "North Great River",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11752"
+    ],
+    "population": 3638
+  },
+  {
+    "city": "North Haven",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11963"
+    ],
+    "population": 953
+  },
+  {
+    "city": "North Hills",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030",
+      "11040",
+      "11042",
+      "11576",
+      "11577"
+    ],
+    "population": 5419
+  },
+  {
+    "city": "North Hornell",
+    "county": "Steuben",
+    "zip_codes": [
+      "14843"
+    ],
+    "population": 1055
+  },
+  {
+    "city": "North Lindenhurst",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11701",
+      "11757"
+    ],
+    "population": 11153
+  },
+  {
+    "city": "North Lynbrook",
+    "county": "Nassau",
+    "zip_codes": [
+      "11563"
+    ],
+    "population": 699
+  },
+  {
+    "city": "North Massapequa",
+    "county": "Nassau",
+    "zip_codes": [
+      "11758",
+      "11762",
+      "11783"
+    ],
+    "population": 18037
+  },
+  {
+    "city": "North Merrick",
+    "county": "Nassau",
+    "zip_codes": [
+      "11566",
+      "11710"
+    ],
+    "population": 12544
+  },
+  {
+    "city": "North New Hyde Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001",
+      "11040",
+      "11042"
+    ],
+    "population": 14354
+  },
+  {
+    "city": "North Patchogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11772"
+    ],
+    "population": 7243
+  },
+  {
+    "city": "North Rose",
+    "county": "Wayne",
+    "zip_codes": [
+      "14516"
+    ],
+    "population": 550
+  },
+  {
+    "city": "North Sea",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11968"
+    ],
+    "population": 6517
+  },
+  {
+    "city": "North Syracuse",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13212"
+    ],
+    "population": 6727
+  },
+  {
+    "city": "North Tonawanda",
+    "county": "Niagara",
+    "zip_codes": [
+      "14120"
+    ],
+    "population": 30338
+  },
+  {
+    "city": "North Valley Stream",
+    "county": "Nassau",
+    "zip_codes": [
+      "11003",
+      "11580"
+    ],
+    "population": 17756
+  },
+  {
+    "city": "North Wantagh",
+    "county": "Nassau",
+    "zip_codes": [
+      "11783",
+      "11793"
+    ],
+    "population": 11716
+  },
+  {
+    "city": "Northampton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901"
+    ],
+    "population": 1098
+  },
+  {
+    "city": "Northeast Ithaca",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 2575
+  },
+  {
+    "city": "Northport",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11768"
+    ],
+    "population": 7320
+  },
+  {
+    "city": "Northville",
+    "county": "Fulton",
+    "zip_codes": [
+      "12134"
+    ],
+    "population": 1035
+  },
+  {
+    "city": "Northville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901"
+    ],
+    "population": 1771
+  },
+  {
+    "city": "Northwest Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11937"
+    ],
+    "population": 4966
+  },
+  {
+    "city": "Northwest Ithaca",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 1813
+  },
+  {
+    "city": "Norwich",
+    "county": "Chenango",
+    "zip_codes": [
+      "13815"
+    ],
+    "population": 6880
+  },
+  {
+    "city": "Norwood",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13668"
+    ],
+    "population": 1304
+  },
+  {
+    "city": "Noyack",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11963"
+    ],
+    "population": 4601
+  },
+  {
+    "city": "Nunda",
+    "county": "Livingston",
+    "zip_codes": [
+      "14517"
+    ],
+    "population": 1291
+  },
+  {
+    "city": "Nyack",
+    "county": "Rockland",
+    "zip_codes": [
+      "10960"
+    ],
+    "population": 7469
+  },
+  {
+    "city": "Oak Beach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Oakdale",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11769"
+    ],
+    "population": 7171
+  },
+  {
+    "city": "Oakfield",
+    "county": "Genesee",
+    "zip_codes": [
+      "14125"
+    ],
+    "population": 1683
+  },
+  {
+    "city": "Ocean Beach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11770"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Oceanside",
+    "county": "Nassau",
+    "zip_codes": [
+      "11510",
+      "11572"
+    ],
+    "population": 31907
+  },
+  {
+    "city": "Odessa",
+    "county": "Schuyler",
+    "zip_codes": [
+      "14869"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Ogdensburg",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13669"
+    ],
+    "population": 9600
+  },
+  {
+    "city": "Olcott",
+    "county": "Niagara",
+    "zip_codes": [
+      "14028",
+      "14126"
+    ],
+    "population": 821
+  },
+  {
+    "city": "Old Bethpage",
+    "county": "Nassau",
+    "zip_codes": [
+      "11735",
+      "11803",
+      "11804"
+    ],
+    "population": 6179
+  },
+  {
+    "city": "Old Brookville",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11548"
+    ],
+    "population": 2008
+  },
+  {
+    "city": "Old Field",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733"
+    ],
+    "population": 1033
+  },
+  {
+    "city": "Old Forge",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13420"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Old Westbury",
+    "county": "Nassau",
+    "zip_codes": [
+      "11548",
+      "11568"
+    ],
+    "population": 4320
+  },
+  {
+    "city": "Olean",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14760"
+    ],
+    "population": 13798
+  },
+  {
+    "city": "Oneida",
+    "county": "Madison",
+    "zip_codes": [
+      "13032",
+      "13409",
+      "13421"
+    ],
+    "population": 10240
+  },
+  {
+    "city": "Oneida Castle",
+    "county": "Oneida",
+    "zip_codes": [
+      "13421"
+    ],
+    "population": 700
+  },
+  {
+    "city": "Oneonta",
+    "county": "Otsego",
+    "zip_codes": [
+      "13820"
+    ],
+    "population": 14467
+  },
+  {
+    "city": "Ontario",
+    "county": "Wayne",
+    "zip_codes": [
+      "14519"
+    ],
+    "population": 2176
+  },
+  {
+    "city": "Orange Lake",
+    "county": "Orange",
+    "zip_codes": [
+      "12550",
+      "12575",
+      "12586"
+    ],
+    "population": 9588
+  },
+  {
+    "city": "Orangeburg",
+    "county": "Rockland",
+    "zip_codes": [
+      "10913",
+      "10960",
+      "10962",
+      "10976"
+    ],
+    "population": 4279
+  },
+  {
+    "city": "Orchard Park",
+    "county": "Erie",
+    "zip_codes": [
+      "14127"
+    ],
+    "population": 3066
+  },
+  {
+    "city": "Orient",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11957"
+    ],
+    "population": 1152
+  },
+  {
+    "city": "Oriskany",
+    "county": "Oneida",
+    "zip_codes": [
+      "13424"
+    ],
+    "population": 1233
+  },
+  {
+    "city": "Oriskany Falls",
+    "county": "Oneida",
+    "zip_codes": [
+      "13425"
+    ],
+    "population": 616
+  },
+  {
+    "city": "Ossining",
+    "county": "Westchester",
+    "zip_codes": [
+      "10510",
+      "10562"
+    ],
+    "population": 26979
+  },
+  {
+    "city": "Oswego",
+    "county": "Oswego",
+    "zip_codes": [
+      "13126"
+    ],
+    "population": 17028
+  },
+  {
+    "city": "Otego",
+    "county": "Otsego",
+    "zip_codes": [
+      "13825"
+    ],
+    "population": 965
+  },
+  {
+    "city": "Otisville",
+    "county": "Orange",
+    "zip_codes": [
+      "10963"
+    ],
+    "population": 1210
+  },
+  {
+    "city": "Otter Lake",
+    "county": "Oneida",
+    "zip_codes": [
+      "13338"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Ovid",
+    "county": "Seneca",
+    "zip_codes": [
+      "14521"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Owego",
+    "county": "Tioga",
+    "zip_codes": [
+      "13827"
+    ],
+    "population": 3823
+  },
+  {
+    "city": "Oxbow",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13608",
+      "13691"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Oxford",
+    "county": "Chenango",
+    "zip_codes": [
+      "13830"
+    ],
+    "population": 1426
+  },
+  {
+    "city": "Oyster Bay",
+    "county": "Nassau",
+    "zip_codes": [
+      "11732",
+      "11771"
+    ],
+    "population": 6900
+  },
+  {
+    "city": "Oyster Bay Cove",
+    "county": "Nassau",
+    "zip_codes": [
+      "11771",
+      "11791"
+    ],
+    "population": 2067
+  },
+  {
+    "city": "Painted Post",
+    "county": "Steuben",
+    "zip_codes": [
+      "14870"
+    ],
+    "population": 1691
+  },
+  {
+    "city": "Palatine Bridge",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13428"
+    ],
+    "population": 682
+  },
+  {
+    "city": "Palenville",
+    "county": "Greene",
+    "zip_codes": [
+      "12463"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Palmyra",
+    "county": "Wayne",
+    "zip_codes": [
+      "14522"
+    ],
+    "population": 3306
+  },
+  {
+    "city": "Pamelia Center",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13601"
+    ],
+    "population": 781
+  },
+  {
+    "city": "Panama",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14767"
+    ],
+    "population": 476
+  },
+  {
+    "city": "Parc",
+    "county": "Clinton",
+    "zip_codes": [
+      "12901",
+      "12903"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Parish",
+    "county": "Oswego",
+    "zip_codes": [
+      "13131"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Parishville",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13672",
+      "13676"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Patchogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11772"
+    ],
+    "population": 12368
+  },
+  {
+    "city": "Paul Smiths",
+    "county": "Franklin",
+    "zip_codes": [
+      "12970"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Pavilion",
+    "county": "Genesee",
+    "zip_codes": [
+      "14525"
+    ],
+    "population": 702
+  },
+  {
+    "city": "Pawling",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12564"
+    ],
+    "population": 2006
+  },
+  {
+    "city": "Peach Lake",
+    "county": "Putnam",
+    "zip_codes": [
+      "10509",
+      "10560"
+    ],
+    "population": 988
+  },
+  {
+    "city": "Pearl River",
+    "county": "Rockland",
+    "zip_codes": [
+      "10954",
+      "10962",
+      "10965",
+      "10994"
+    ],
+    "population": 16282
+  },
+  {
+    "city": "Peconic",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11958",
+      "11971"
+    ],
+    "population": 771
+  },
+  {
+    "city": "Peekskill",
+    "county": "Westchester",
+    "zip_codes": [
+      "10566"
+    ],
+    "population": 25484
+  },
+  {
+    "city": "Pelham",
+    "county": "Westchester",
+    "zip_codes": [
+      "10803"
+    ],
+    "population": 7247
+  },
+  {
+    "city": "Pelham Manor",
+    "county": "Westchester",
+    "zip_codes": [
+      "10803"
+    ],
+    "population": 5648
+  },
+  {
+    "city": "Penn Yan",
+    "county": "Yates",
+    "zip_codes": [
+      "14527"
+    ],
+    "population": 4800
+  },
+  {
+    "city": "Perry",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14530"
+    ],
+    "population": 3515
+  },
+  {
+    "city": "Perrysburg",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14129"
+    ],
+    "population": 428
+  },
+  {
+    "city": "Peru",
+    "county": "Clinton",
+    "zip_codes": [
+      "12972"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Phelps",
+    "county": "Ontario",
+    "zip_codes": [
+      "14532"
+    ],
+    "population": 2164
+  },
+  {
+    "city": "Philadelphia",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13673"
+    ],
+    "population": 803
+  },
+  {
+    "city": "Philmont",
+    "county": "Columbia",
+    "zip_codes": [
+      "12565"
+    ],
+    "population": 1575
+  },
+  {
+    "city": "Phoenicia",
+    "county": "Ulster",
+    "zip_codes": [
+      "12464"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Phoenix",
+    "county": "Oswego",
+    "zip_codes": [
+      "13135"
+    ],
+    "population": 2393
+  },
+  {
+    "city": "Piermont",
+    "county": "Rockland",
+    "zip_codes": [
+      "10960",
+      "10968"
+    ],
+    "population": 2434
+  },
+  {
+    "city": "Pierrepont Manor",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13605",
+      "13661",
+      "13674"
+    ],
+    "population": 355
+  },
+  {
+    "city": "Piffard",
+    "county": "Livingston",
+    "zip_codes": [
+      "14533"
+    ],
+    "population": 270
+  },
+  {
+    "city": "Pike",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14024",
+      "14066",
+      "14130"
+    ],
+    "population": 242
+  },
+  {
+    "city": "Pine Bush",
+    "county": "Orange",
+    "zip_codes": [
+      "12566"
+    ],
+    "population": 1720
+  },
+  {
+    "city": "Pine Hill",
+    "county": "Ulster",
+    "zip_codes": [
+      "12410",
+      "12441",
+      "12465"
+    ],
+    "population": 339
+  },
+  {
+    "city": "Pine Plains",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12567"
+    ],
+    "population": 1203
+  },
+  {
+    "city": "Pine Valley",
+    "county": "Chemung",
+    "zip_codes": [
+      "14845",
+      "14864",
+      "14872"
+    ],
+    "population": 674
+  },
+  {
+    "city": "Pittsford",
+    "county": "Monroe",
+    "zip_codes": [
+      "14534"
+    ],
+    "population": 1702
+  },
+  {
+    "city": "Plainedge",
+    "county": "Nassau",
+    "zip_codes": [
+      "11714",
+      "11735",
+      "11783"
+    ],
+    "population": 8930
+  },
+  {
+    "city": "Plainview",
+    "county": "Nassau",
+    "zip_codes": [
+      "11797",
+      "11803"
+    ],
+    "population": 26251
+  },
+  {
+    "city": "Plandome",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030"
+    ],
+    "population": 1458
+  },
+  {
+    "city": "Plandome Heights",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030"
+    ],
+    "population": 936
+  },
+  {
+    "city": "Plandome Manor",
+    "county": "Nassau",
+    "zip_codes": [
+      "11030",
+      "11050"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Plattekill",
+    "county": "Ulster",
+    "zip_codes": [
+      "12528",
+      "12589"
+    ],
+    "population": 1304
+  },
+  {
+    "city": "Plattsburgh",
+    "county": "Clinton",
+    "zip_codes": [
+      "12901",
+      "12903"
+    ],
+    "population": 19878
+  },
+  {
+    "city": "Plattsburgh West",
+    "county": "Clinton",
+    "zip_codes": [
+      "12901"
+    ],
+    "population": 1306
+  },
+  {
+    "city": "Pleasant Valley",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12569"
+    ],
+    "population": 1814
+  },
+  {
+    "city": "Pleasantville",
+    "county": "Westchester",
+    "zip_codes": [
+      "10570"
+    ],
+    "population": 7395
+  },
+  {
+    "city": "Plessis",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13656",
+      "13675",
+      "13691"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Poestenkill",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12018",
+      "12140",
+      "12180"
+    ],
+    "population": 828
+  },
+  {
+    "city": "Point Lookout",
+    "county": "Nassau",
+    "zip_codes": [
+      "11569"
+    ],
+    "population": 996
+  },
+  {
+    "city": "Poland",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13431"
+    ],
+    "population": 467
+  },
+  {
+    "city": "Pomona",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901",
+      "10970",
+      "10980"
+    ],
+    "population": 3961
+  },
+  {
+    "city": "Poquott",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Port Byron",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13140"
+    ],
+    "population": 994
+  },
+  {
+    "city": "Port Chester",
+    "county": "Westchester",
+    "zip_codes": [
+      "10573"
+    ],
+    "population": 31162
+  },
+  {
+    "city": "Port Dickinson",
+    "county": "Broome",
+    "zip_codes": [
+      "13901"
+    ],
+    "population": 1920
+  },
+  {
+    "city": "Port Ewen",
+    "county": "Ulster",
+    "zip_codes": [
+      "12417",
+      "12466",
+      "12487"
+    ],
+    "population": 3402
+  },
+  {
+    "city": "Port Gibson",
+    "county": "Ontario",
+    "zip_codes": [
+      "14432",
+      "14513",
+      "14522",
+      "14537"
+    ],
+    "population": 652
+  },
+  {
+    "city": "Port Henry",
+    "county": "Essex",
+    "zip_codes": [
+      "12974"
+    ],
+    "population": 1403
+  },
+  {
+    "city": "Port Jefferson",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11777"
+    ],
+    "population": 8029
+  },
+  {
+    "city": "Port Jefferson Station",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733",
+      "11776",
+      "11777"
+    ],
+    "population": 7605
+  },
+  {
+    "city": "Port Jervis",
+    "county": "Orange",
+    "zip_codes": [
+      "12771"
+    ],
+    "population": 8709
+  },
+  {
+    "city": "Port Leyden",
+    "county": "Lewis",
+    "zip_codes": [
+      "13433"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Port Washington",
+    "county": "Nassau",
+    "zip_codes": [
+      "11050"
+    ],
+    "population": 17613
+  },
+  {
+    "city": "Port Washington North",
+    "county": "Nassau",
+    "zip_codes": [
+      "11050"
+    ],
+    "population": 3159
+  },
+  {
+    "city": "Portlandville",
+    "county": "Otsego",
+    "zip_codes": [
+      "12116",
+      "13834"
+    ],
+    "population": 113
+  },
+  {
+    "city": "Portville",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14770"
+    ],
+    "population": 915
+  },
+  {
+    "city": "Potsdam",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13676",
+      "13699"
+    ],
+    "population": 8507
+  },
+  {
+    "city": "Pottersville",
+    "county": "Warren",
+    "zip_codes": [
+      "12860"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Poughkeepsie",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12601",
+      "12603"
+    ],
+    "population": 31778
+  },
+  {
+    "city": "Prattsburgh",
+    "county": "Steuben",
+    "zip_codes": [
+      "14873"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Prattsville",
+    "county": "Greene",
+    "zip_codes": [
+      "12468"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Preston-Potter Hollow",
+    "county": "Albany",
+    "zip_codes": [
+      "12460",
+      "12469"
+    ],
+    "population": 426
+  },
+  {
+    "city": "Prospect",
+    "county": "Oneida",
+    "zip_codes": [
+      "13435"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Pulaski",
+    "county": "Oswego",
+    "zip_codes": [
+      "13142"
+    ],
+    "population": 2202
+  },
+  {
+    "city": "Pultneyville",
+    "county": "Wayne",
+    "zip_codes": [
+      "14589"
+    ],
+    "population": 702
+  },
+  {
+    "city": "Putnam Lake",
+    "county": "Putnam",
+    "zip_codes": [
+      "10509",
+      "12563"
+    ],
+    "population": 3673
+  },
+  {
+    "city": "Quiogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11978"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Quogue",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11959",
+      "11978"
+    ],
+    "population": 602
+  },
+  {
+    "city": "Radisson",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13027"
+    ],
+    "population": 6901
+  },
+  {
+    "city": "Randolph",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14772"
+    ],
+    "population": 896
+  },
+  {
+    "city": "Ransomville",
+    "county": "Niagara",
+    "zip_codes": [
+      "14131"
+    ],
+    "population": 1590
+  },
+  {
+    "city": "Rapids",
+    "county": "Niagara",
+    "zip_codes": [
+      "14094"
+    ],
+    "population": 1562
+  },
+  {
+    "city": "Ravena",
+    "county": "Albany",
+    "zip_codes": [
+      "12143",
+      "12158"
+    ],
+    "population": 3256
+  },
+  {
+    "city": "Red Creek",
+    "county": "Wayne",
+    "zip_codes": [
+      "13143"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Red Hook",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12571"
+    ],
+    "population": 2119
+  },
+  {
+    "city": "Red Oaks Mill",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12603"
+    ],
+    "population": 3235
+  },
+  {
+    "city": "Redford",
+    "county": "Clinton",
+    "zip_codes": [
+      "12978",
+      "12981"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Redwood",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13679"
+    ],
+    "population": 342
+  },
+  {
+    "city": "Remsen",
+    "county": "Oneida",
+    "zip_codes": [
+      "13438"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Remsenburg-Speonk",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11941",
+      "11960",
+      "11972",
+      "11977"
+    ],
+    "population": 1559
+  },
+  {
+    "city": "Rensselaer",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12144"
+    ],
+    "population": 9247
+  },
+  {
+    "city": "Rensselaer Falls",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13680"
+    ],
+    "population": 350
+  },
+  {
+    "city": "Retsof",
+    "county": "Livingston",
+    "zip_codes": [
+      "14533",
+      "14539"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Rhinebeck",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12572"
+    ],
+    "population": 2674
+  },
+  {
+    "city": "Rhinecliff",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12572",
+      "12574"
+    ],
+    "population": 479
+  },
+  {
+    "city": "Richburg",
+    "county": "Allegany",
+    "zip_codes": [
+      "14715",
+      "14774"
+    ],
+    "population": 623
+  },
+  {
+    "city": "Richfield Springs",
+    "county": "Otsego",
+    "zip_codes": [
+      "13439"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "Richmondville",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12149"
+    ],
+    "population": 1001
+  },
+  {
+    "city": "Richville",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13642",
+      "13681"
+    ],
+    "population": 278
+  },
+  {
+    "city": "Ridge",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11786",
+      "11792",
+      "11961"
+    ],
+    "population": 12506
+  },
+  {
+    "city": "Rifton",
+    "county": "Ulster",
+    "zip_codes": [
+      "12471",
+      "12487",
+      "12561"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Ripley",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14775"
+    ],
+    "population": 937
+  },
+  {
+    "city": "Riverhead",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901"
+    ],
+    "population": 15073
+  },
+  {
+    "city": "Riverside",
+    "county": "Steuben",
+    "zip_codes": [
+      "14830",
+      "14870"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Riverside",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11901"
+    ],
+    "population": 3538
+  },
+  {
+    "city": "Rochester",
+    "county": "Monroe",
+    "zip_codes": [
+      "14604",
+      "14605",
+      "14606",
+      "14607",
+      "14608",
+      "14609",
+      "14610",
+      "14611",
+      "14612",
+      "14613",
+      "14614",
+      "14615",
+      "14617",
+      "14619",
+      "14620",
+      "14621",
+      "14622",
+      "14623",
+      "14624",
+      "14627",
+      "14642"
+    ],
+    "population": 209720
+  },
+  {
+    "city": "Rochester Institute of Technology",
+    "county": "Monroe",
+    "zip_codes": [
+      "14623"
+    ],
+    "population": 6339
+  },
+  {
+    "city": "Rock Hill",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12738",
+      "12775"
+    ],
+    "population": 2530
+  },
+  {
+    "city": "Rockville Centre",
+    "county": "Nassau",
+    "zip_codes": [
+      "11570"
+    ],
+    "population": 25770
+  },
+  {
+    "city": "Rocky Point",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11764",
+      "11778",
+      "11786",
+      "11961"
+    ],
+    "population": 13931
+  },
+  {
+    "city": "Rodman",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13606",
+      "13682"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Roessleville",
+    "county": "Albany",
+    "zip_codes": [
+      "12205",
+      "12211"
+    ],
+    "population": 11327
+  },
+  {
+    "city": "Rome",
+    "county": "Oneida",
+    "zip_codes": [
+      "13308",
+      "13440",
+      "13441",
+      "13478"
+    ],
+    "population": 31795
+  },
+  {
+    "city": "Romulus",
+    "county": "Seneca",
+    "zip_codes": [
+      "14541"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Ronkonkoma",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11741",
+      "11779"
+    ],
+    "population": 18368
+  },
+  {
+    "city": "Roosevelt",
+    "county": "Nassau",
+    "zip_codes": [
+      "11520",
+      "11575"
+    ],
+    "population": 19636
+  },
+  {
+    "city": "Roscoe",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12776"
+    ],
+    "population": 558
+  },
+  {
+    "city": "Rosendale",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401",
+      "12472",
+      "12486"
+    ],
+    "population": 898
+  },
+  {
+    "city": "Roslyn",
+    "county": "Nassau",
+    "zip_codes": [
+      "11576",
+      "11577"
+    ],
+    "population": 2955
+  },
+  {
+    "city": "Roslyn Estates",
+    "county": "Nassau",
+    "zip_codes": [
+      "11576",
+      "11577"
+    ],
+    "population": 1536
+  },
+  {
+    "city": "Roslyn Harbor",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11548",
+      "11576"
+    ],
+    "population": 1032
+  },
+  {
+    "city": "Roslyn Heights",
+    "county": "Nassau",
+    "zip_codes": [
+      "11507",
+      "11577"
+    ],
+    "population": 6881
+  },
+  {
+    "city": "Rotterdam",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12303",
+      "12304",
+      "12306"
+    ],
+    "population": 22798
+  },
+  {
+    "city": "Round Lake",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12118",
+      "12151"
+    ],
+    "population": 956
+  },
+  {
+    "city": "Round Top",
+    "county": "Greene",
+    "zip_codes": [
+      "12473"
+    ],
+    "population": 693
+  },
+  {
+    "city": "Rouses Point",
+    "county": "Clinton",
+    "zip_codes": [
+      "12979"
+    ],
+    "population": 2520
+  },
+  {
+    "city": "Ruby",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401",
+      "12449",
+      "12475",
+      "12477"
+    ],
+    "population": 1147
+  },
+  {
+    "city": "Rushford",
+    "county": "Allegany",
+    "zip_codes": [
+      "14777"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Rushville",
+    "county": "Yates",
+    "zip_codes": [
+      "14544"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Russell Gardens",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021"
+    ],
+    "population": 1130
+  },
+  {
+    "city": "Rye",
+    "county": "Westchester",
+    "zip_codes": [
+      "10580"
+    ],
+    "population": 16410
+  },
+  {
+    "city": "Rye Brook",
+    "county": "Westchester",
+    "zip_codes": [
+      "10573",
+      "10604"
+    ],
+    "population": 9884
+  },
+  {
+    "city": "Sackets Harbor",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13685"
+    ],
+    "population": 1348
+  },
+  {
+    "city": "Saddle Rock",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023"
+    ],
+    "population": 1225
+  },
+  {
+    "city": "Saddle Rock Estates",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023"
+    ],
+    "population": 351
+  },
+  {
+    "city": "Sag Harbor",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11963"
+    ],
+    "population": 2449
+  },
+  {
+    "city": "Sagaponack",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11962"
+    ],
+    "population": 282
+  },
+  {
+    "city": "Salamanca",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14779"
+    ],
+    "population": 5878
+  },
+  {
+    "city": "Salem",
+    "county": "Washington",
+    "zip_codes": [
+      "12865"
+    ],
+    "population": 914
+  },
+  {
+    "city": "Salisbury",
+    "county": "Nassau",
+    "zip_codes": [
+      "11590"
+    ],
+    "population": 13388
+  },
+  {
+    "city": "Salisbury Center",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13329",
+      "13454"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Salisbury Mills",
+    "county": "Orange",
+    "zip_codes": [
+      "12577"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Salt Point",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12578"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Saltaire",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Sanborn",
+    "county": "Niagara",
+    "zip_codes": [
+      "14132"
+    ],
+    "population": 1466
+  },
+  {
+    "city": "Sand Ridge",
+    "county": "Oswego",
+    "zip_codes": [
+      "13132"
+    ],
+    "population": 1100
+  },
+  {
+    "city": "Sands Point",
+    "county": "Nassau",
+    "zip_codes": [
+      "11050"
+    ],
+    "population": 2725
+  },
+  {
+    "city": "Sandy Creek",
+    "county": "Oswego",
+    "zip_codes": [
+      "13083",
+      "13145"
+    ],
+    "population": 586
+  },
+  {
+    "city": "Saranac Lake",
+    "county": "Franklin",
+    "zip_codes": [
+      "12983"
+    ],
+    "population": 5099
+  },
+  {
+    "city": "Saratoga Springs",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12020",
+      "12866"
+    ],
+    "population": 28542
+  },
+  {
+    "city": "Saugerties",
+    "county": "Ulster",
+    "zip_codes": [
+      "12477"
+    ],
+    "population": 3877
+  },
+  {
+    "city": "Saugerties South",
+    "county": "Ulster",
+    "zip_codes": [
+      "12477"
+    ],
+    "population": 2253
+  },
+  {
+    "city": "Savannah",
+    "county": "Wayne",
+    "zip_codes": [
+      "13146"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Savona",
+    "county": "Steuben",
+    "zip_codes": [
+      "14821",
+      "14879"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Sayville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11716",
+      "11769",
+      "11782"
+    ],
+    "population": 15593
+  },
+  {
+    "city": "Scarsdale",
+    "county": "Westchester",
+    "zip_codes": [
+      "10543",
+      "10583"
+    ],
+    "population": 18005
+  },
+  {
+    "city": "Schaghticoke",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12154"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Schenectady",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12303",
+      "12304",
+      "12305",
+      "12306",
+      "12307",
+      "12308",
+      "12309"
+    ],
+    "population": 68521
+  },
+  {
+    "city": "Schenevus",
+    "county": "Otsego",
+    "zip_codes": [
+      "12155"
+    ],
+    "population": 505
+  },
+  {
+    "city": "Schoharie",
+    "county": "Schoharie",
+    "zip_codes": [
+      "12157"
+    ],
+    "population": 1078
+  },
+  {
+    "city": "Schroon Lake",
+    "county": "Essex",
+    "zip_codes": [
+      "12870"
+    ],
+    "population": 898
+  },
+  {
+    "city": "Schuyler Lake",
+    "county": "Otsego",
+    "zip_codes": [
+      "13348",
+      "13439",
+      "13457"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Schuylerville",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12871"
+    ],
+    "population": 1706
+  },
+  {
+    "city": "Scio",
+    "county": "Allegany",
+    "zip_codes": [
+      "14880"
+    ],
+    "population": 641
+  },
+  {
+    "city": "Scotchtown",
+    "county": "Orange",
+    "zip_codes": [
+      "10941"
+    ],
+    "population": 10544
+  },
+  {
+    "city": "Scotia",
+    "county": "Schenectady",
+    "zip_codes": [
+      "12302"
+    ],
+    "population": 7260
+  },
+  {
+    "city": "Scotts Corners",
+    "county": "Westchester",
+    "zip_codes": [
+      "10576"
+    ],
+    "population": 610
+  },
+  {
+    "city": "Scottsburg",
+    "county": "Livingston",
+    "zip_codes": [
+      "14545"
+    ],
+    "population": 106
+  },
+  {
+    "city": "Scottsville",
+    "county": "Monroe",
+    "zip_codes": [
+      "14546"
+    ],
+    "population": 2425
+  },
+  {
+    "city": "Sea Cliff",
+    "county": "Nassau",
+    "zip_codes": [
+      "11579"
+    ],
+    "population": 5037
+  },
+  {
+    "city": "Seaford",
+    "county": "Nassau",
+    "zip_codes": [
+      "11783",
+      "11793"
+    ],
+    "population": 15884
+  },
+  {
+    "city": "Searingtown",
+    "county": "Nassau",
+    "zip_codes": [
+      "11507",
+      "11576",
+      "11577"
+    ],
+    "population": 4786
+  },
+  {
+    "city": "Selden",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11776",
+      "11784"
+    ],
+    "population": 21707
+  },
+  {
+    "city": "Seneca Falls",
+    "county": "Seneca",
+    "zip_codes": [
+      "13148"
+    ],
+    "population": 6967
+  },
+  {
+    "city": "Seneca Knolls",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13027",
+      "13209"
+    ],
+    "population": 2308
+  },
+  {
+    "city": "Setauket",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733",
+      "11790"
+    ],
+    "population": 3687
+  },
+  {
+    "city": "Sharon Springs",
+    "county": "Schoharie",
+    "zip_codes": [
+      "13459"
+    ],
+    "population": 635
+  },
+  {
+    "city": "Shelter Island",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11964",
+      "11965"
+    ],
+    "population": 2281
+  },
+  {
+    "city": "Shelter Island Heights",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11963",
+      "11964",
+      "11965"
+    ],
+    "population": 998
+  },
+  {
+    "city": "Shenorock",
+    "county": "Westchester",
+    "zip_codes": [
+      "10598"
+    ],
+    "population": 1643
+  },
+  {
+    "city": "Sherburne",
+    "county": "Chenango",
+    "zip_codes": [
+      "13460"
+    ],
+    "population": 1294
+  },
+  {
+    "city": "Sherman",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14781"
+    ],
+    "population": 639
+  },
+  {
+    "city": "Sherrill",
+    "county": "Oneida",
+    "zip_codes": [
+      "13461"
+    ],
+    "population": 3041
+  },
+  {
+    "city": "Shinnecock Hills",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11946",
+      "11968"
+    ],
+    "population": 1944
+  },
+  {
+    "city": "Shirley",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11967"
+    ],
+    "population": 27807
+  },
+  {
+    "city": "Shokan",
+    "county": "Ulster",
+    "zip_codes": [
+      "12481"
+    ],
+    "population": 1220
+  },
+  {
+    "city": "Shoreham",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11778",
+      "11786"
+    ],
+    "population": 502
+  },
+  {
+    "city": "Shorehaven",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12531"
+    ],
+    "population": 540
+  },
+  {
+    "city": "Shortsville",
+    "county": "Ontario",
+    "zip_codes": [
+      "14548"
+    ],
+    "population": 1806
+  },
+  {
+    "city": "Shrub Oak",
+    "county": "Westchester",
+    "zip_codes": [
+      "10547",
+      "10588"
+    ],
+    "population": 2770
+  },
+  {
+    "city": "Sidney",
+    "county": "Delaware",
+    "zip_codes": [
+      "13838"
+    ],
+    "population": 3865
+  },
+  {
+    "city": "Siena College",
+    "county": "Albany",
+    "zip_codes": [
+      "12211"
+    ],
+    "population": 2349
+  },
+  {
+    "city": "Silver Creek",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14136"
+    ],
+    "population": 2619
+  },
+  {
+    "city": "Silver Springs",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14550"
+    ],
+    "population": 569
+  },
+  {
+    "city": "Sinclairville",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14782"
+    ],
+    "population": 613
+  },
+  {
+    "city": "Skaneateles",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13152"
+    ],
+    "population": 2533
+  },
+  {
+    "city": "Slaterville Springs",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14817",
+      "14881"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Sleepy Hollow",
+    "county": "Westchester",
+    "zip_codes": [
+      "10591"
+    ],
+    "population": 10592
+  },
+  {
+    "city": "Sleepy Hollow Lake",
+    "county": "Greene",
+    "zip_codes": [
+      "12015"
+    ],
+    "population": 1566
+  },
+  {
+    "city": "Sloan",
+    "county": "Erie",
+    "zip_codes": [
+      "14206",
+      "14212"
+    ],
+    "population": 3757
+  },
+  {
+    "city": "Sloatsburg",
+    "county": "Rockland",
+    "zip_codes": [
+      "10974"
+    ],
+    "population": 3029
+  },
+  {
+    "city": "Smallwood",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12762",
+      "12778",
+      "12786"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Smithtown",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11754",
+      "11780",
+      "11787"
+    ],
+    "population": 24940
+  },
+  {
+    "city": "Smithville Flats",
+    "county": "Chenango",
+    "zip_codes": [
+      "13778",
+      "13801",
+      "13841"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Smyrna",
+    "county": "Chenango",
+    "zip_codes": [
+      "13464"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Sodus",
+    "county": "Wayne",
+    "zip_codes": [
+      "14551"
+    ],
+    "population": 1999
+  },
+  {
+    "city": "Sodus Point",
+    "county": "Wayne",
+    "zip_codes": [
+      "14555"
+    ],
+    "population": 1101
+  },
+  {
+    "city": "Solvay",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13209",
+      "13219"
+    ],
+    "population": 6590
+  },
+  {
+    "city": "Sound Beach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11789"
+    ],
+    "population": 7207
+  },
+  {
+    "city": "South Blooming Grove",
+    "county": "Orange",
+    "zip_codes": [
+      "10950"
+    ],
+    "population": 3880
+  },
+  {
+    "city": "South Cairo",
+    "county": "Greene",
+    "zip_codes": [
+      "12482"
+    ],
+    "population": 601
+  },
+  {
+    "city": "South Corning",
+    "county": "Steuben",
+    "zip_codes": [
+      "14830"
+    ],
+    "population": 1010
+  },
+  {
+    "city": "South Dayton",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14138"
+    ],
+    "population": 519
+  },
+  {
+    "city": "South Edmeston",
+    "county": "Otsego",
+    "zip_codes": [
+      "13411"
+    ],
+    "population": 153
+  },
+  {
+    "city": "South Fallsburg",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12733",
+      "12779"
+    ],
+    "population": 1850
+  },
+  {
+    "city": "South Farmingdale",
+    "county": "Nassau",
+    "zip_codes": [
+      "11735",
+      "11758"
+    ],
+    "population": 14953
+  },
+  {
+    "city": "South Floral Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001"
+    ],
+    "population": 1803
+  },
+  {
+    "city": "South Glens Falls",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12803"
+    ],
+    "population": 3739
+  },
+  {
+    "city": "South Hempstead",
+    "county": "Nassau",
+    "zip_codes": [
+      "11510",
+      "11550",
+      "11570"
+    ],
+    "population": 3350
+  },
+  {
+    "city": "South Hill",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 6805
+  },
+  {
+    "city": "South Huntington",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11746"
+    ],
+    "population": 10150
+  },
+  {
+    "city": "South Ilion",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13357"
+    ],
+    "population": 198
+  },
+  {
+    "city": "South Lansing",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14882"
+    ],
+    "population": 1233
+  },
+  {
+    "city": "South Lima",
+    "county": "Livingston",
+    "zip_codes": [
+      "14414",
+      "14487"
+    ],
+    "population": 219
+  },
+  {
+    "city": "South Lockport",
+    "county": "Niagara",
+    "zip_codes": [
+      "14094"
+    ],
+    "population": 8660
+  },
+  {
+    "city": "South Valley Stream",
+    "county": "Nassau",
+    "zip_codes": [
+      "11581"
+    ],
+    "population": 6177
+  },
+  {
+    "city": "Southampton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11968"
+    ],
+    "population": 4557
+  },
+  {
+    "city": "Southold",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11958",
+      "11971"
+    ],
+    "population": 6600
+  },
+  {
+    "city": "Southport",
+    "county": "Chemung",
+    "zip_codes": [
+      "14871",
+      "14904"
+    ],
+    "population": 6435
+  },
+  {
+    "city": "Spackenkill",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12601",
+      "12603"
+    ],
+    "population": 4244
+  },
+  {
+    "city": "Sparkill",
+    "county": "Rockland",
+    "zip_codes": [
+      "10976",
+      "10983"
+    ],
+    "population": 1376
+  },
+  {
+    "city": "Sparrow Bush",
+    "county": "Orange",
+    "zip_codes": [
+      "12771",
+      "12780"
+    ],
+    "population": 1178
+  },
+  {
+    "city": "Speculator",
+    "county": "Hamilton",
+    "zip_codes": [
+      "12108",
+      "12164"
+    ],
+    "population": 389
+  },
+  {
+    "city": "Spencer",
+    "county": "Tioga",
+    "zip_codes": [
+      "14883"
+    ],
+    "population": 848
+  },
+  {
+    "city": "Spencerport",
+    "county": "Monroe",
+    "zip_codes": [
+      "14559"
+    ],
+    "population": 3660
+  },
+  {
+    "city": "Spring Valley",
+    "county": "Rockland",
+    "zip_codes": [
+      "10952",
+      "10977"
+    ],
+    "population": 32995
+  },
+  {
+    "city": "Springfield Center",
+    "county": "Otsego",
+    "zip_codes": [
+      "13326",
+      "13439",
+      "13468"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Springs",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11937"
+    ],
+    "population": 9489
+  },
+  {
+    "city": "Springville",
+    "county": "Erie",
+    "zip_codes": [
+      "14141"
+    ],
+    "population": 4196
+  },
+  {
+    "city": "Springwater",
+    "county": "Livingston",
+    "zip_codes": [
+      "14560"
+    ],
+    "population": 418
+  },
+  {
+    "city": "St. Bonaventure",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14706",
+      "14760",
+      "14778"
+    ],
+    "population": 1961
+  },
+  {
+    "city": "St. James",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11755",
+      "11780",
+      "11787"
+    ],
+    "population": 13680
+  },
+  {
+    "city": "St. John Fisher College",
+    "county": "Monroe",
+    "zip_codes": [
+      "14618"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "St. Johnsville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "13452"
+    ],
+    "population": 1882
+  },
+  {
+    "city": "St. Regis Falls",
+    "county": "Franklin",
+    "zip_codes": [
+      "12980"
+    ],
+    "population": 274
+  },
+  {
+    "city": "Staatsburg",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12580"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Stamford",
+    "county": "Delaware",
+    "zip_codes": [
+      "12167"
+    ],
+    "population": 1101
+  },
+  {
+    "city": "Stannards",
+    "county": "Allegany",
+    "zip_codes": [
+      "14895"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Star Lake",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13690"
+    ],
+    "population": 640
+  },
+  {
+    "city": "Stewart Manor",
+    "county": "Nassau",
+    "zip_codes": [
+      "11001",
+      "11010",
+      "11530"
+    ],
+    "population": 1963
+  },
+  {
+    "city": "Stillwater",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12170"
+    ],
+    "population": 1876
+  },
+  {
+    "city": "Stittville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13469"
+    ],
+    "population": 260
+  },
+  {
+    "city": "Stone Ridge",
+    "county": "Ulster",
+    "zip_codes": [
+      "12440",
+      "12484"
+    ],
+    "population": 1970
+  },
+  {
+    "city": "Stony Brook",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733",
+      "11790"
+    ],
+    "population": 12827
+  },
+  {
+    "city": "Stony Brook University",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11733",
+      "11790",
+      "11794"
+    ],
+    "population": 9138
+  },
+  {
+    "city": "Stony Point",
+    "county": "Rockland",
+    "zip_codes": [
+      "10980"
+    ],
+    "population": 12694
+  },
+  {
+    "city": "Stottville",
+    "county": "Columbia",
+    "zip_codes": [
+      "12172",
+      "12534"
+    ],
+    "population": 1247
+  },
+  {
+    "city": "Strykersville",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14145"
+    ],
+    "population": 744
+  },
+  {
+    "city": "Suffern",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901"
+    ],
+    "population": 11395
+  },
+  {
+    "city": "Sunset Bay",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14081",
+      "14136"
+    ],
+    "population": 392
+  },
+  {
+    "city": "SUNY Oswego",
+    "county": "Oswego",
+    "zip_codes": [
+      "13126"
+    ],
+    "population": 3565
+  },
+  {
+    "city": "Swan Lake",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12783"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Sylvan Beach",
+    "county": "Oneida",
+    "zip_codes": [
+      "13157",
+      "13308"
+    ],
+    "population": 889
+  },
+  {
+    "city": "Syosset",
+    "county": "Nassau",
+    "zip_codes": [
+      "11791"
+    ],
+    "population": 18274
+  },
+  {
+    "city": "Syracuse",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13202",
+      "13203",
+      "13204",
+      "13205",
+      "13206",
+      "13207",
+      "13208",
+      "13210",
+      "13214",
+      "13224",
+      "13244",
+      "13290"
+    ],
+    "population": 146211
+  },
+  {
+    "city": "Taconic Shores",
+    "county": "Columbia",
+    "zip_codes": [
+      "12516"
+    ],
+    "population": 629
+  },
+  {
+    "city": "Tannersville",
+    "county": "Greene",
+    "zip_codes": [
+      "12485"
+    ],
+    "population": 708
+  },
+  {
+    "city": "Tappan",
+    "county": "Rockland",
+    "zip_codes": [
+      "10962",
+      "10964",
+      "10983"
+    ],
+    "population": 6704
+  },
+  {
+    "city": "Tarrytown",
+    "county": "Westchester",
+    "zip_codes": [
+      "10533",
+      "10591"
+    ],
+    "population": 11752
+  },
+  {
+    "city": "Terryville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11776"
+    ],
+    "population": 10962
+  },
+  {
+    "city": "Thendara",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13472"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Theresa",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13691"
+    ],
+    "population": 1019
+  },
+  {
+    "city": "Thiells",
+    "county": "Rockland",
+    "zip_codes": [
+      "10923",
+      "10984"
+    ],
+    "population": 4539
+  },
+  {
+    "city": "Thomaston",
+    "county": "Nassau",
+    "zip_codes": [
+      "11021",
+      "11023",
+      "11030"
+    ],
+    "population": 2734
+  },
+  {
+    "city": "Thornwood",
+    "county": "Westchester",
+    "zip_codes": [
+      "10532",
+      "10570",
+      "10594"
+    ],
+    "population": 4405
+  },
+  {
+    "city": "Thousand Island Park",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13640",
+      "13692"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Three Mile Bay",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13622",
+      "13693"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Ticonderoga",
+    "county": "Essex",
+    "zip_codes": [
+      "12883"
+    ],
+    "population": 3375
+  },
+  {
+    "city": "Tillson",
+    "county": "Ulster",
+    "zip_codes": [
+      "12472",
+      "12486",
+      "12561"
+    ],
+    "population": 1799
+  },
+  {
+    "city": "Tioga Terrace",
+    "county": "Tioga",
+    "zip_codes": [
+      "13732"
+    ],
+    "population": 2206
+  },
+  {
+    "city": "Titusville",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12603"
+    ],
+    "population": 658
+  },
+  {
+    "city": "Tivoli",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12583"
+    ],
+    "population": 892
+  },
+  {
+    "city": "Tonawanda",
+    "county": "Erie",
+    "zip_codes": [
+      "14150"
+    ],
+    "population": 15044
+  },
+  {
+    "city": "Tonawanda Town",
+    "county": "Erie",
+    "zip_codes": [
+      "14150",
+      "14207",
+      "14217",
+      "14223"
+    ],
+    "population": 56973
+  },
+  {
+    "city": "Town Line",
+    "county": "Erie",
+    "zip_codes": [
+      "14004",
+      "14086"
+    ],
+    "population": 2001
+  },
+  {
+    "city": "Tribes Hill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "12068",
+      "12177"
+    ],
+    "population": 1004
+  },
+  {
+    "city": "Troy",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12180",
+      "12182"
+    ],
+    "population": 51054
+  },
+  {
+    "city": "Trumansburg",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14886"
+    ],
+    "population": 1552
+  },
+  {
+    "city": "Tuckahoe",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11968"
+    ],
+    "population": 1078
+  },
+  {
+    "city": "Tuckahoe",
+    "county": "Westchester",
+    "zip_codes": [
+      "10707",
+      "10708"
+    ],
+    "population": 6990
+  },
+  {
+    "city": "Tully",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13159"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Tupper Lake",
+    "county": "Franklin",
+    "zip_codes": [
+      "12986"
+    ],
+    "population": 3072
+  },
+  {
+    "city": "Turin",
+    "county": "Lewis",
+    "zip_codes": [
+      "13473"
+    ],
+    "population": 312
+  },
+  {
+    "city": "Tuscarora",
+    "county": "Livingston",
+    "zip_codes": [
+      "14510"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Tuxedo",
+    "county": "Orange",
+    "zip_codes": [
+      "10975"
+    ],
+    "population": 3083
+  },
+  {
+    "city": "Tuxedo Park",
+    "county": "Orange",
+    "zip_codes": [
+      "10987"
+    ],
+    "population": 682
+  },
+  {
+    "city": "Unadilla",
+    "county": "Otsego",
+    "zip_codes": [
+      "13849"
+    ],
+    "population": 1140
+  },
+  {
+    "city": "Unadilla Forks",
+    "county": "Otsego",
+    "zip_codes": [
+      "13491"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Union Springs",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13160"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Uniondale",
+    "county": "Nassau",
+    "zip_codes": [
+      "11530",
+      "11549",
+      "11553",
+      "11556",
+      "11590"
+    ],
+    "population": 33637
+  },
+  {
+    "city": "Unionville",
+    "county": "Orange",
+    "zip_codes": [
+      "10988"
+    ],
+    "population": 684
+  },
+  {
+    "city": "University at Buffalo",
+    "county": "Erie",
+    "zip_codes": [
+      "14228",
+      "14260",
+      "14261"
+    ],
+    "population": 6776
+  },
+  {
+    "city": "University Gardens",
+    "county": "Nassau",
+    "zip_codes": [
+      "11020",
+      "11021"
+    ],
+    "population": 3986
+  },
+  {
+    "city": "Upper Brookville",
+    "county": "Nassau",
+    "zip_codes": [
+      "11545",
+      "11771"
+    ],
+    "population": 2064
+  },
+  {
+    "city": "Upper Nyack",
+    "county": "Rockland",
+    "zip_codes": [
+      "10960"
+    ],
+    "population": 2072
+  },
+  {
+    "city": "Upper Red Hook",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12571"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Utica",
+    "county": "Oneida",
+    "zip_codes": [
+      "13501",
+      "13502"
+    ],
+    "population": 64440
+  },
+  {
+    "city": "Vails Gate",
+    "county": "Orange",
+    "zip_codes": [
+      "12553"
+    ],
+    "population": 3065
+  },
+  {
+    "city": "Valatie",
+    "county": "Columbia",
+    "zip_codes": [
+      "12184"
+    ],
+    "population": 1579
+  },
+  {
+    "city": "Valhalla",
+    "county": "Westchester",
+    "zip_codes": [
+      "10595"
+    ],
+    "population": 2978
+  },
+  {
+    "city": "Valley Cottage",
+    "county": "Rockland",
+    "zip_codes": [
+      "10920",
+      "10960",
+      "10989",
+      "10994"
+    ],
+    "population": 8803
+  },
+  {
+    "city": "Valley Falls",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12185"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Valley Stream",
+    "county": "Nassau",
+    "zip_codes": [
+      "11580",
+      "11581"
+    ],
+    "population": 40278
+  },
+  {
+    "city": "Van Etten",
+    "county": "Chemung",
+    "zip_codes": [
+      "14889"
+    ],
+    "population": 539
+  },
+  {
+    "city": "Varna",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14850"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Vassar College",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12603",
+      "12604"
+    ],
+    "population": 3276
+  },
+  {
+    "city": "Vernon",
+    "county": "Oneida",
+    "zip_codes": [
+      "13476"
+    ],
+    "population": 1313
+  },
+  {
+    "city": "Verona",
+    "county": "Oneida",
+    "zip_codes": [
+      "13478"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Verplanck",
+    "county": "Westchester",
+    "zip_codes": [
+      "10511",
+      "10596"
+    ],
+    "population": 657
+  },
+  {
+    "city": "Victor",
+    "county": "Ontario",
+    "zip_codes": [
+      "14564"
+    ],
+    "population": 2707
+  },
+  {
+    "city": "Victory",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12871",
+      "12884"
+    ],
+    "population": 731
+  },
+  {
+    "city": "Village Green",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13027",
+      "13209"
+    ],
+    "population": 3518
+  },
+  {
+    "city": "Village of the Branch",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11787"
+    ],
+    "population": 1813
+  },
+  {
+    "city": "Viola",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901",
+      "10952"
+    ],
+    "population": 7470
+  },
+  {
+    "city": "Virgil",
+    "county": "Cortland",
+    "zip_codes": [
+      "13045"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Voorheesville",
+    "county": "Albany",
+    "zip_codes": [
+      "12186"
+    ],
+    "population": 2828
+  },
+  {
+    "city": "Waddington",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13694"
+    ],
+    "population": 1003
+  },
+  {
+    "city": "Wading River",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11792",
+      "11933"
+    ],
+    "population": 8393
+  },
+  {
+    "city": "Wadsworth",
+    "county": "Livingston",
+    "zip_codes": [
+      "14533"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Wainscott",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11937",
+      "11963",
+      "11975"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Walden",
+    "county": "Orange",
+    "zip_codes": [
+      "12586"
+    ],
+    "population": 6871
+  },
+  {
+    "city": "Walker Valley",
+    "county": "Ulster",
+    "zip_codes": [
+      "12566"
+    ],
+    "population": 1695
+  },
+  {
+    "city": "Wallkill",
+    "county": "Ulster",
+    "zip_codes": [
+      "12589"
+    ],
+    "population": 1980
+  },
+  {
+    "city": "Walton",
+    "county": "Delaware",
+    "zip_codes": [
+      "13856"
+    ],
+    "population": 2655
+  },
+  {
+    "city": "Walton Park",
+    "county": "Orange",
+    "zip_codes": [
+      "10918",
+      "10950"
+    ],
+    "population": 3592
+  },
+  {
+    "city": "Walworth",
+    "county": "Wayne",
+    "zip_codes": [
+      "14568"
+    ],
+    "population": 908
+  },
+  {
+    "city": "Wampsville",
+    "county": "Madison",
+    "zip_codes": [
+      "13032",
+      "13163"
+    ],
+    "population": 562
+  },
+  {
+    "city": "Wanakah",
+    "county": "Erie",
+    "zip_codes": [
+      "14075",
+      "14085"
+    ],
+    "population": 3071
+  },
+  {
+    "city": "Wantagh",
+    "county": "Nassau",
+    "zip_codes": [
+      "11710",
+      "11793"
+    ],
+    "population": 17964
+  },
+  {
+    "city": "Wappingers Falls",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12590"
+    ],
+    "population": 5694
+  },
+  {
+    "city": "Warrensburg",
+    "county": "Warren",
+    "zip_codes": [
+      "12845",
+      "12885"
+    ],
+    "population": 3285
+  },
+  {
+    "city": "Warsaw",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14569"
+    ],
+    "population": 3061
+  },
+  {
+    "city": "Warwick",
+    "county": "Orange",
+    "zip_codes": [
+      "10990"
+    ],
+    "population": 6625
+  },
+  {
+    "city": "Washington Heights",
+    "county": "Orange",
+    "zip_codes": [
+      "10940"
+    ],
+    "population": 3189
+  },
+  {
+    "city": "Washington Mills",
+    "county": "Oneida",
+    "zip_codes": [
+      "13413"
+    ],
+    "population": 2148
+  },
+  {
+    "city": "Washingtonville",
+    "county": "Orange",
+    "zip_codes": [
+      "10992"
+    ],
+    "population": 5723
+  },
+  {
+    "city": "Wassaic",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12592"
+    ],
+    "population": 324
+  },
+  {
+    "city": "Watchtower",
+    "county": "Ulster",
+    "zip_codes": [
+      "12589"
+    ],
+    "population": 1709
+  },
+  {
+    "city": "Water Mill",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11968",
+      "11976"
+    ],
+    "population": 2218
+  },
+  {
+    "city": "Waterford",
+    "county": "Saratoga",
+    "zip_codes": [
+      "12188"
+    ],
+    "population": 2053
+  },
+  {
+    "city": "Waterloo",
+    "county": "Seneca",
+    "zip_codes": [
+      "13165"
+    ],
+    "population": 4600
+  },
+  {
+    "city": "Watertown",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13601"
+    ],
+    "population": 24574
+  },
+  {
+    "city": "Waterville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13480"
+    ],
+    "population": 1682
+  },
+  {
+    "city": "Watervliet",
+    "county": "Albany",
+    "zip_codes": [
+      "12189"
+    ],
+    "population": 10285
+  },
+  {
+    "city": "Watkins Glen",
+    "county": "Schuyler",
+    "zip_codes": [
+      "14891"
+    ],
+    "population": 1712
+  },
+  {
+    "city": "Waverly",
+    "county": "Tioga",
+    "zip_codes": [
+      "14892"
+    ],
+    "population": 4337
+  },
+  {
+    "city": "Wayland",
+    "county": "Steuben",
+    "zip_codes": [
+      "14572"
+    ],
+    "population": 1817
+  },
+  {
+    "city": "Webster",
+    "county": "Monroe",
+    "zip_codes": [
+      "14580"
+    ],
+    "population": 5734
+  },
+  {
+    "city": "Websters Crossing",
+    "county": "Livingston",
+    "zip_codes": [
+      "14560"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Weedsport",
+    "county": "Cayuga",
+    "zip_codes": [
+      "13166"
+    ],
+    "population": 1858
+  },
+  {
+    "city": "Wells",
+    "county": "Hamilton",
+    "zip_codes": [
+      "12190"
+    ],
+    "population": 597
+  },
+  {
+    "city": "Wells Bridge",
+    "county": "Otsego",
+    "zip_codes": [
+      "13825",
+      "13859"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Wellsburg",
+    "county": "Chemung",
+    "zip_codes": [
+      "14894"
+    ],
+    "population": 471
+  },
+  {
+    "city": "Wellsville",
+    "county": "Allegany",
+    "zip_codes": [
+      "14895"
+    ],
+    "population": 4846
+  },
+  {
+    "city": "Wesley Hills",
+    "county": "Rockland",
+    "zip_codes": [
+      "10901",
+      "10952",
+      "10977"
+    ],
+    "population": 6150
+  },
+  {
+    "city": "West Babylon",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11702",
+      "11704",
+      "11757"
+    ],
+    "population": 43239
+  },
+  {
+    "city": "West Bay Shore",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706"
+    ],
+    "population": 4199
+  },
+  {
+    "city": "West Carthage",
+    "county": "Jefferson",
+    "zip_codes": [
+      "13619"
+    ],
+    "population": 1918
+  },
+  {
+    "city": "West Chazy",
+    "county": "Clinton",
+    "zip_codes": [
+      "12992"
+    ],
+    "population": 572
+  },
+  {
+    "city": "West Danby",
+    "county": "Tompkins",
+    "zip_codes": [
+      "14883"
+    ],
+    "population": 246
+  },
+  {
+    "city": "West Elmira",
+    "county": "Chemung",
+    "zip_codes": [
+      "14903",
+      "14905"
+    ],
+    "population": 4691
+  },
+  {
+    "city": "West End",
+    "county": "Otsego",
+    "zip_codes": [
+      "13820"
+    ],
+    "population": 1744
+  },
+  {
+    "city": "West Glens Falls",
+    "county": "Warren",
+    "zip_codes": [
+      "12804"
+    ],
+    "population": 9967
+  },
+  {
+    "city": "West Hampton Dunes",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11978"
+    ],
+    "population": 101
+  },
+  {
+    "city": "West Haverstraw",
+    "county": "Rockland",
+    "zip_codes": [
+      "10923",
+      "10993"
+    ],
+    "population": 10663
+  },
+  {
+    "city": "West Hempstead",
+    "county": "Nassau",
+    "zip_codes": [
+      "11550",
+      "11552"
+    ],
+    "population": 20762
+  },
+  {
+    "city": "West Hills",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11743",
+      "11746",
+      "11747"
+    ],
+    "population": 5138
+  },
+  {
+    "city": "West Hurley",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401",
+      "12433",
+      "12491",
+      "12498"
+    ],
+    "population": 1733
+  },
+  {
+    "city": "West Islip",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11706",
+      "11795"
+    ],
+    "population": 26559
+  },
+  {
+    "city": "West Kill",
+    "county": "Greene",
+    "zip_codes": [
+      "12492"
+    ],
+    "population": 73
+  },
+  {
+    "city": "West Nyack",
+    "county": "Rockland",
+    "zip_codes": [
+      "10994"
+    ],
+    "population": 3437
+  },
+  {
+    "city": "West Point",
+    "county": "Orange",
+    "zip_codes": [
+      "10928",
+      "10996"
+    ],
+    "population": 6549
+  },
+  {
+    "city": "West Sand Lake",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12018",
+      "12196"
+    ],
+    "population": 3453
+  },
+  {
+    "city": "West Sayville",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11769",
+      "11796"
+    ],
+    "population": 4944
+  },
+  {
+    "city": "West Seneca",
+    "county": "Erie",
+    "zip_codes": [
+      "14210",
+      "14218",
+      "14220",
+      "14224"
+    ],
+    "population": 45329
+  },
+  {
+    "city": "West Valley",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14171"
+    ],
+    "population": 526
+  },
+  {
+    "city": "West Winfield",
+    "county": "Herkimer",
+    "zip_codes": [
+      "13491"
+    ],
+    "population": 806
+  },
+  {
+    "city": "Westbury",
+    "county": "Nassau",
+    "zip_codes": [
+      "11590"
+    ],
+    "population": 15789
+  },
+  {
+    "city": "Westernville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13486"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Westfield",
+    "county": "Chautauqua",
+    "zip_codes": [
+      "14787"
+    ],
+    "population": 2937
+  },
+  {
+    "city": "Westford",
+    "county": "Otsego",
+    "zip_codes": [
+      "12155",
+      "12197",
+      "13488"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Westhampton",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11959",
+      "11977",
+      "11978"
+    ],
+    "population": 3702
+  },
+  {
+    "city": "Westhampton Beach",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11978"
+    ],
+    "population": 2476
+  },
+  {
+    "city": "Westmere",
+    "county": "Albany",
+    "zip_codes": [
+      "12084",
+      "12159",
+      "12203"
+    ],
+    "population": 7616
+  },
+  {
+    "city": "Westmoreland",
+    "county": "Oneida",
+    "zip_codes": [
+      "13490"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Weston Mills",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14760",
+      "14770",
+      "14788"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Westport",
+    "county": "Essex",
+    "zip_codes": [
+      "12993"
+    ],
+    "population": 250
+  },
+  {
+    "city": "Westvale",
+    "county": "Onondaga",
+    "zip_codes": [
+      "13219"
+    ],
+    "population": 5293
+  },
+  {
+    "city": "Wheatley Heights",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11746",
+      "11798"
+    ],
+    "population": 5266
+  },
+  {
+    "city": "White Lake",
+    "county": "Oneida",
+    "zip_codes": [
+      "13338",
+      "13494"
+    ],
+    "population": 66
+  },
+  {
+    "city": "White Lake",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12786"
+    ],
+    "population": 96
+  },
+  {
+    "city": "White Plains",
+    "county": "Westchester",
+    "zip_codes": [
+      "10601",
+      "10603",
+      "10604",
+      "10605",
+      "10606"
+    ],
+    "population": 59818
+  },
+  {
+    "city": "Whitehall",
+    "county": "Washington",
+    "zip_codes": [
+      "12887"
+    ],
+    "population": 2693
+  },
+  {
+    "city": "Whitesboro",
+    "county": "Oneida",
+    "zip_codes": [
+      "13492"
+    ],
+    "population": 3643
+  },
+  {
+    "city": "Whitney Point",
+    "county": "Broome",
+    "zip_codes": [
+      "13862"
+    ],
+    "population": 1070
+  },
+  {
+    "city": "Williamson",
+    "county": "Wayne",
+    "zip_codes": [
+      "14589"
+    ],
+    "population": 2667
+  },
+  {
+    "city": "Williamsville",
+    "county": "Erie",
+    "zip_codes": [
+      "14221"
+    ],
+    "population": 5430
+  },
+  {
+    "city": "Williston Park",
+    "county": "Nassau",
+    "zip_codes": [
+      "11501",
+      "11596"
+    ],
+    "population": 7508
+  },
+  {
+    "city": "Willsboro",
+    "county": "Essex",
+    "zip_codes": [
+      "12996"
+    ],
+    "population": 648
+  },
+  {
+    "city": "Willsboro Point",
+    "county": "Essex",
+    "zip_codes": [
+      "12996"
+    ],
+    "population": 640
+  },
+  {
+    "city": "Wilmington",
+    "county": "Essex",
+    "zip_codes": [
+      "12997"
+    ],
+    "population": 979
+  },
+  {
+    "city": "Wilson",
+    "county": "Niagara",
+    "zip_codes": [
+      "14172"
+    ],
+    "population": 1385
+  },
+  {
+    "city": "Windham",
+    "county": "Greene",
+    "zip_codes": [
+      "12496"
+    ],
+    "population": 212
+  },
+  {
+    "city": "Windsor",
+    "county": "Broome",
+    "zip_codes": [
+      "13865"
+    ],
+    "population": 1121
+  },
+  {
+    "city": "Wingdale",
+    "county": "Dutchess",
+    "zip_codes": [
+      "12564",
+      "12594"
+    ],
+    "population": 1309
+  },
+  {
+    "city": "Winthrop",
+    "county": "St. Lawrence",
+    "zip_codes": [
+      "13613",
+      "13697"
+    ],
+    "population": 332
+  },
+  {
+    "city": "Witherbee",
+    "county": "Essex",
+    "zip_codes": [
+      "12998"
+    ],
+    "population": 190
+  },
+  {
+    "city": "Wolcott",
+    "county": "Wayne",
+    "zip_codes": [
+      "14590"
+    ],
+    "population": 1446
+  },
+  {
+    "city": "Woodbourne",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12788"
+    ],
+    "population": 644
+  },
+  {
+    "city": "Woodbury",
+    "county": "Nassau",
+    "zip_codes": [
+      "11797"
+    ],
+    "population": 9270
+  },
+  {
+    "city": "Woodbury",
+    "county": "Orange",
+    "zip_codes": [
+      "10917",
+      "10926",
+      "10930",
+      "10950"
+    ],
+    "population": 11437
+  },
+  {
+    "city": "Woodmere",
+    "county": "Nassau",
+    "zip_codes": [
+      "11516",
+      "11557",
+      "11559",
+      "11581",
+      "11598"
+    ],
+    "population": 18198
+  },
+  {
+    "city": "Woodridge",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12789"
+    ],
+    "population": 954
+  },
+  {
+    "city": "Woodsburgh",
+    "county": "Nassau",
+    "zip_codes": [
+      "11598"
+    ],
+    "population": 900
+  },
+  {
+    "city": "Woodstock",
+    "county": "Ulster",
+    "zip_codes": [
+      "12409",
+      "12477",
+      "12498"
+    ],
+    "population": 2562
+  },
+  {
+    "city": "Woodsville",
+    "county": "Livingston",
+    "zip_codes": [
+      "14437"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Worcester",
+    "county": "Otsego",
+    "zip_codes": [
+      "12197"
+    ],
+    "population": 1017
+  },
+  {
+    "city": "Wurtsboro",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12790"
+    ],
+    "population": 1181
+  },
+  {
+    "city": "Wurtsboro Hills",
+    "county": "Sullivan",
+    "zip_codes": [
+      "12790"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Wyandanch",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11704",
+      "11729",
+      "11798"
+    ],
+    "population": 12990
+  },
+  {
+    "city": "Wynantskill",
+    "county": "Rensselaer",
+    "zip_codes": [
+      "12180",
+      "12198"
+    ],
+    "population": 3675
+  },
+  {
+    "city": "Wyoming",
+    "county": "Wyoming",
+    "zip_codes": [
+      "14591"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Yaphank",
+    "county": "Suffolk",
+    "zip_codes": [
+      "11763",
+      "11967",
+      "11980"
+    ],
+    "population": 6140
+  },
+  {
+    "city": "Yonkers",
+    "county": "Westchester",
+    "zip_codes": [
+      "10583",
+      "10701",
+      "10703",
+      "10704",
+      "10705",
+      "10707",
+      "10708",
+      "10710"
+    ],
+    "population": 209529
+  },
+  {
+    "city": "York",
+    "county": "Livingston",
+    "zip_codes": [
+      "14533",
+      "14592"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Yorkshire",
+    "county": "Cattaraugus",
+    "zip_codes": [
+      "14009",
+      "14030",
+      "14042",
+      "14173"
+    ],
+    "population": 1042
+  },
+  {
+    "city": "Yorktown Heights",
+    "county": "Westchester",
+    "zip_codes": [
+      "10598"
+    ],
+    "population": 2038
+  },
+  {
+    "city": "Yorkville",
+    "county": "Oneida",
+    "zip_codes": [
+      "13495",
+      "13502"
+    ],
+    "population": 2638
+  },
+  {
+    "city": "Youngstown",
+    "county": "Niagara",
+    "zip_codes": [
+      "14174"
+    ],
+    "population": 1773
+  },
+  {
+    "city": "Zena",
+    "county": "Ulster",
+    "zip_codes": [
+      "12401",
+      "12498"
+    ],
+    "population": 972
+  }
+]

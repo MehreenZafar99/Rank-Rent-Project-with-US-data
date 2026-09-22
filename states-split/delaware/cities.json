@@ -1,0 +1,684 @@
+[
+  {
+    "city": "Arden",
+    "county": "New Castle",
+    "zip_codes": [
+      "19810"
+    ],
+    "population": 600
+  },
+  {
+    "city": "Ardencroft",
+    "county": "New Castle",
+    "zip_codes": [
+      "19810"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Ardentown",
+    "county": "New Castle",
+    "zip_codes": [
+      "19703",
+      "19810"
+    ],
+    "population": 269
+  },
+  {
+    "city": "Bear",
+    "county": "New Castle",
+    "zip_codes": [
+      "19701",
+      "19702",
+      "19720"
+    ],
+    "population": 22604
+  },
+  {
+    "city": "Bellefonte",
+    "county": "New Castle",
+    "zip_codes": [
+      "19809"
+    ],
+    "population": 1507
+  },
+  {
+    "city": "Bethany Beach",
+    "county": "Sussex",
+    "zip_codes": [
+      "19930"
+    ],
+    "population": 923
+  },
+  {
+    "city": "Bethel",
+    "county": "Sussex",
+    "zip_codes": [
+      "19931"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Blades",
+    "county": "Sussex",
+    "zip_codes": [
+      "19973"
+    ],
+    "population": 1055
+  },
+  {
+    "city": "Bowers",
+    "county": "Kent",
+    "zip_codes": [
+      "19946"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Bridgeville",
+    "county": "Sussex",
+    "zip_codes": [
+      "19933",
+      "19973"
+    ],
+    "population": 2661
+  },
+  {
+    "city": "Brookside",
+    "county": "New Castle",
+    "zip_codes": [
+      "19713"
+    ],
+    "population": 15262
+  },
+  {
+    "city": "Camden",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19904",
+      "19934"
+    ],
+    "population": 4011
+  },
+  {
+    "city": "Cheswold",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19904",
+      "19936"
+    ],
+    "population": 1833
+  },
+  {
+    "city": "Claymont",
+    "county": "New Castle",
+    "zip_codes": [
+      "19703"
+    ],
+    "population": 9543
+  },
+  {
+    "city": "Clayton",
+    "county": "Kent",
+    "zip_codes": [
+      "19938",
+      "19977"
+    ],
+    "population": 4086
+  },
+  {
+    "city": "Dagsboro",
+    "county": "Sussex",
+    "zip_codes": [
+      "19939"
+    ],
+    "population": 1350
+  },
+  {
+    "city": "Delaware City",
+    "county": "New Castle",
+    "zip_codes": [
+      "19706"
+    ],
+    "population": 1976
+  },
+  {
+    "city": "Delmar",
+    "county": "Sussex",
+    "zip_codes": [
+      "19940"
+    ],
+    "population": 2386
+  },
+  {
+    "city": "Dewey Beach",
+    "county": "Sussex",
+    "zip_codes": [
+      "19971"
+    ],
+    "population": 328
+  },
+  {
+    "city": "Dover",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19902",
+      "19904"
+    ],
+    "population": 39491
+  },
+  {
+    "city": "Dover Base Housing",
+    "county": "Kent",
+    "zip_codes": [
+      "19901"
+    ],
+    "population": 3026
+  },
+  {
+    "city": "Edgemoor",
+    "county": "New Castle",
+    "zip_codes": [
+      "19802",
+      "19809"
+    ],
+    "population": 6671
+  },
+  {
+    "city": "Ellendale",
+    "county": "Sussex",
+    "zip_codes": [
+      "19941"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Elsmere",
+    "county": "New Castle",
+    "zip_codes": [
+      "19804",
+      "19805"
+    ],
+    "population": 6189
+  },
+  {
+    "city": "Farmington",
+    "county": "Kent",
+    "zip_codes": [
+      "19950",
+      "19952"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Felton",
+    "county": "Kent",
+    "zip_codes": [
+      "19943"
+    ],
+    "population": 1129
+  },
+  {
+    "city": "Fenwick Island",
+    "county": "Sussex",
+    "zip_codes": [
+      "19944"
+    ],
+    "population": 383
+  },
+  {
+    "city": "Frankford",
+    "county": "Sussex",
+    "zip_codes": [
+      "19945"
+    ],
+    "population": 883
+  },
+  {
+    "city": "Frederica",
+    "county": "Kent",
+    "zip_codes": [
+      "19946"
+    ],
+    "population": 972
+  },
+  {
+    "city": "Georgetown",
+    "county": "Sussex",
+    "zip_codes": [
+      "19947"
+    ],
+    "population": 7456
+  },
+  {
+    "city": "Glasgow",
+    "county": "New Castle",
+    "zip_codes": [
+      "19701",
+      "19702"
+    ],
+    "population": 16095
+  },
+  {
+    "city": "Greenville",
+    "county": "New Castle",
+    "zip_codes": [
+      "19807"
+    ],
+    "population": 3100
+  },
+  {
+    "city": "Greenwood",
+    "county": "Sussex",
+    "zip_codes": [
+      "19950"
+    ],
+    "population": 1800
+  },
+  {
+    "city": "Harrington",
+    "county": "Kent",
+    "zip_codes": [
+      "19952"
+    ],
+    "population": 3805
+  },
+  {
+    "city": "Hartly",
+    "county": "Kent",
+    "zip_codes": [
+      "19953"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Henlopen Acres",
+    "county": "Sussex",
+    "zip_codes": [
+      "19971"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Highland Acres",
+    "county": "Kent",
+    "zip_codes": [
+      "19901"
+    ],
+    "population": 3661
+  },
+  {
+    "city": "Hockessin",
+    "county": "New Castle",
+    "zip_codes": [
+      "19707",
+      "19736",
+      "19807"
+    ],
+    "population": 13608
+  },
+  {
+    "city": "Houston",
+    "county": "Kent",
+    "zip_codes": [
+      "19954"
+    ],
+    "population": 456
+  },
+  {
+    "city": "Kent Acres",
+    "county": "Kent",
+    "zip_codes": [
+      "19901"
+    ],
+    "population": 2540
+  },
+  {
+    "city": "Kenton",
+    "county": "Kent",
+    "zip_codes": [
+      "19938",
+      "19955"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Laurel",
+    "county": "Sussex",
+    "zip_codes": [
+      "19956"
+    ],
+    "population": 4043
+  },
+  {
+    "city": "Leipsic",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19977"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Lewes",
+    "county": "Sussex",
+    "zip_codes": [
+      "19958",
+      "19968"
+    ],
+    "population": 3415
+  },
+  {
+    "city": "Lincoln",
+    "county": "Sussex",
+    "zip_codes": [
+      "19960"
+    ],
+    "population": 1639
+  },
+  {
+    "city": "Little Creek",
+    "county": "Kent",
+    "zip_codes": [
+      "19901"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Long Neck",
+    "county": "Sussex",
+    "zip_codes": [
+      "19966"
+    ],
+    "population": 2372
+  },
+  {
+    "city": "Magnolia",
+    "county": "Kent",
+    "zip_codes": [
+      "19962"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Middletown",
+    "county": "New Castle",
+    "zip_codes": [
+      "19709",
+      "19734"
+    ],
+    "population": 24071
+  },
+  {
+    "city": "Milford",
+    "county": "Sussex",
+    "zip_codes": [
+      "19960",
+      "19963"
+    ],
+    "population": 12193
+  },
+  {
+    "city": "Millsboro",
+    "county": "Sussex",
+    "zip_codes": [
+      "19966"
+    ],
+    "population": 7152
+  },
+  {
+    "city": "Millville",
+    "county": "Sussex",
+    "zip_codes": [
+      "19945",
+      "19967",
+      "19970"
+    ],
+    "population": 2059
+  },
+  {
+    "city": "Milton",
+    "county": "Sussex",
+    "zip_codes": [
+      "19968"
+    ],
+    "population": 3469
+  },
+  {
+    "city": "New Castle",
+    "county": "New Castle",
+    "zip_codes": [
+      "19720"
+    ],
+    "population": 5519
+  },
+  {
+    "city": "Newark",
+    "county": "New Castle",
+    "zip_codes": [
+      "19711",
+      "19713",
+      "19716",
+      "19717"
+    ],
+    "population": 30309
+  },
+  {
+    "city": "Newport",
+    "county": "New Castle",
+    "zip_codes": [
+      "19804"
+    ],
+    "population": 1209
+  },
+  {
+    "city": "North Star",
+    "county": "New Castle",
+    "zip_codes": [
+      "19707",
+      "19711"
+    ],
+    "population": 8178
+  },
+  {
+    "city": "Ocean View",
+    "county": "Sussex",
+    "zip_codes": [
+      "19945",
+      "19970"
+    ],
+    "population": 2760
+  },
+  {
+    "city": "Odessa",
+    "county": "New Castle",
+    "zip_codes": [
+      "19709",
+      "19730"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Pike Creek",
+    "county": "New Castle",
+    "zip_codes": [
+      "19707",
+      "19711",
+      "19808"
+    ],
+    "population": 7185
+  },
+  {
+    "city": "Pike Creek Valley",
+    "county": "New Castle",
+    "zip_codes": [
+      "19711",
+      "19808"
+    ],
+    "population": 11992
+  },
+  {
+    "city": "Port Penn",
+    "county": "New Castle",
+    "zip_codes": [
+      "19731"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Rehoboth Beach",
+    "county": "Sussex",
+    "zip_codes": [
+      "19958",
+      "19971"
+    ],
+    "population": 1388
+  },
+  {
+    "city": "Rising Sun-Lebanon",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19934",
+      "19962"
+    ],
+    "population": 4195
+  },
+  {
+    "city": "Riverview",
+    "county": "Kent",
+    "zip_codes": [
+      "19943",
+      "19946"
+    ],
+    "population": 2412
+  },
+  {
+    "city": "Rodney Village",
+    "county": "Kent",
+    "zip_codes": [
+      "19904"
+    ],
+    "population": 1318
+  },
+  {
+    "city": "Seaford",
+    "county": "Sussex",
+    "zip_codes": [
+      "19933",
+      "19973"
+    ],
+    "population": 8255
+  },
+  {
+    "city": "Selbyville",
+    "county": "Sussex",
+    "zip_codes": [
+      "19975"
+    ],
+    "population": 3005
+  },
+  {
+    "city": "Slaughter Beach",
+    "county": "Sussex",
+    "zip_codes": [
+      "19963"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Smyrna",
+    "county": "Kent",
+    "zip_codes": [
+      "19977"
+    ],
+    "population": 13031
+  },
+  {
+    "city": "South Bethany",
+    "county": "Sussex",
+    "zip_codes": [
+      "19930"
+    ],
+    "population": 503
+  },
+  {
+    "city": "St. Georges",
+    "county": "New Castle",
+    "zip_codes": [
+      "19701",
+      "19709",
+      "19720",
+      "19733"
+    ],
+    "population": 1564
+  },
+  {
+    "city": "Townsend",
+    "county": "New Castle",
+    "zip_codes": [
+      "19734"
+    ],
+    "population": 2792
+  },
+  {
+    "city": "Viola",
+    "county": "Kent",
+    "zip_codes": [
+      "19979"
+    ],
+    "population": 102
+  },
+  {
+    "city": "Wilmington",
+    "county": "New Castle",
+    "zip_codes": [
+      "19801",
+      "19802",
+      "19805",
+      "19806",
+      "19809"
+    ],
+    "population": 71124
+  },
+  {
+    "city": "Wilmington Manor",
+    "county": "New Castle",
+    "zip_codes": [
+      "19720"
+    ],
+    "population": 8030
+  },
+  {
+    "city": "Woodside",
+    "county": "Kent",
+    "zip_codes": [
+      "19904",
+      "19943",
+      "19980"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Woodside East",
+    "county": "Kent",
+    "zip_codes": [
+      "19901",
+      "19943",
+      "19962"
+    ],
+    "population": 1680
+  },
+  {
+    "city": "Wyoming",
+    "county": "Kent",
+    "zip_codes": [
+      "19904",
+      "19934"
+    ],
+    "population": 1789
+  }
+]

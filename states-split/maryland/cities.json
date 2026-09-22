@@ -1,0 +1,4703 @@
+[
+  {
+    "city": "Aberdeen",
+    "county": "Harford",
+    "zip_codes": [
+      "21001",
+      "21078"
+    ],
+    "population": 16831
+  },
+  {
+    "city": "Aberdeen Proving Ground",
+    "county": "Harford",
+    "zip_codes": [
+      "21005"
+    ],
+    "population": 2343
+  },
+  {
+    "city": "Abingdon",
+    "county": "Harford",
+    "zip_codes": [
+      "21009"
+    ],
+    "population": 5727
+  },
+  {
+    "city": "Accident",
+    "county": "Garrett",
+    "zip_codes": [
+      "21520"
+    ],
+    "population": 436
+  },
+  {
+    "city": "Accokeek",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20601",
+      "20607",
+      "20613",
+      "20735"
+    ],
+    "population": 13226
+  },
+  {
+    "city": "Adamstown",
+    "county": "Frederick",
+    "zip_codes": [
+      "21710"
+    ],
+    "population": 2381
+  },
+  {
+    "city": "Adelphi",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20782",
+      "20783",
+      "20903"
+    ],
+    "population": 17210
+  },
+  {
+    "city": "Algonquin",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21613"
+    ],
+    "population": 1027
+  },
+  {
+    "city": "Allen",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21810",
+      "21822"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Andrews AFB",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20735",
+      "20746",
+      "20762"
+    ],
+    "population": 3075
+  },
+  {
+    "city": "Annapolis",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21401",
+      "21403"
+    ],
+    "population": 40744
+  },
+  {
+    "city": "Annapolis Neck",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21037",
+      "21401",
+      "21403"
+    ],
+    "population": 12484
+  },
+  {
+    "city": "Antietam",
+    "county": "Washington",
+    "zip_codes": [
+      "21782"
+    ],
+    "population": 51
+  },
+  {
+    "city": "Aquasco",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20608",
+      "20613"
+    ],
+    "population": 672
+  },
+  {
+    "city": "Arbutus",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21227",
+      "21229"
+    ],
+    "population": 20869
+  },
+  {
+    "city": "Arden on the Severn",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21032"
+    ],
+    "population": 1691
+  },
+  {
+    "city": "Arnold",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21012",
+      "21146",
+      "21409"
+    ],
+    "population": 23866
+  },
+  {
+    "city": "Ashton-Sandy Spring",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20777",
+      "20833",
+      "20860",
+      "20861",
+      "20862",
+      "20905"
+    ],
+    "population": 5418
+  },
+  {
+    "city": "Aspen Hill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20851",
+      "20853",
+      "20906"
+    ],
+    "population": 53752
+  },
+  {
+    "city": "Baden",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20613",
+      "20772"
+    ],
+    "population": 1968
+  },
+  {
+    "city": "Bagtown",
+    "county": "Washington",
+    "zip_codes": [
+      "21740"
+    ],
+    "population": 226
+  },
+  {
+    "city": "Bakersville",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Ballenger Creek",
+    "county": "Frederick",
+    "zip_codes": [
+      "21703",
+      "21704"
+    ],
+    "population": 25866
+  },
+  {
+    "city": "Baltimore",
+    "county": "Baltimore City",
+    "zip_codes": [
+      "21201",
+      "21202",
+      "21205",
+      "21206",
+      "21207",
+      "21209",
+      "21210",
+      "21211",
+      "21212",
+      "21213",
+      "21214",
+      "21215",
+      "21216",
+      "21217",
+      "21218",
+      "21222",
+      "21223",
+      "21224",
+      "21225",
+      "21226",
+      "21229",
+      "21230",
+      "21231",
+      "21233",
+      "21234",
+      "21237",
+      "21239",
+      "21251",
+      "21287"
+    ],
+    "population": 577193
+  },
+  {
+    "city": "Baltimore Highlands",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21227"
+    ],
+    "population": 8564
+  },
+  {
+    "city": "Barclay",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21607"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Barnesville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20838"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Barrelville",
+    "county": "Allegany",
+    "zip_codes": [
+      "21545"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Barton",
+    "county": "Allegany",
+    "zip_codes": [
+      "21521"
+    ],
+    "population": 761
+  },
+  {
+    "city": "Bartonsville",
+    "county": "Frederick",
+    "zip_codes": [
+      "21704",
+      "21754"
+    ],
+    "population": 2760
+  },
+  {
+    "city": "Beaver Creek",
+    "county": "Washington",
+    "zip_codes": [
+      "21713",
+      "21740"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Bel Air",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 1894
+  },
+  {
+    "city": "Bel Air",
+    "county": "Harford",
+    "zip_codes": [
+      "21014"
+    ],
+    "population": 10616
+  },
+  {
+    "city": "Bel Air North",
+    "county": "Harford",
+    "zip_codes": [
+      "21014",
+      "21015",
+      "21050"
+    ],
+    "population": 31599
+  },
+  {
+    "city": "Bel Air South",
+    "county": "Harford",
+    "zip_codes": [
+      "21009",
+      "21014",
+      "21015"
+    ],
+    "population": 57702
+  },
+  {
+    "city": "Beltsville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20705",
+      "20740",
+      "20783",
+      "20904"
+    ],
+    "population": 19086
+  },
+  {
+    "city": "Benedict",
+    "county": "Charles",
+    "zip_codes": [
+      "20612"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Bensville",
+    "county": "Charles",
+    "zip_codes": [
+      "20603",
+      "20675",
+      "20695"
+    ],
+    "population": 14792
+  },
+  {
+    "city": "Berlin",
+    "county": "Worcester",
+    "zip_codes": [
+      "21811"
+    ],
+    "population": 5161
+  },
+  {
+    "city": "Berwyn Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20740",
+      "20770"
+    ],
+    "population": 3306
+  },
+  {
+    "city": "Bethesda",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20814",
+      "20815",
+      "20816",
+      "20817",
+      "20889",
+      "20892",
+      "20894"
+    ],
+    "population": 67403
+  },
+  {
+    "city": "Betterton",
+    "county": "Kent",
+    "zip_codes": [
+      "21610"
+    ],
+    "population": 358
+  },
+  {
+    "city": "Bier",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502",
+      "21557"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Big Pool",
+    "county": "Washington",
+    "zip_codes": [
+      "21711"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Big Spring",
+    "county": "Washington",
+    "zip_codes": [
+      "21722"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Bishopville",
+    "county": "Worcester",
+    "zip_codes": [
+      "21813"
+    ],
+    "population": 665
+  },
+  {
+    "city": "Bivalve",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21814",
+      "21865"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Bladensburg",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20710"
+    ],
+    "population": 9552
+  },
+  {
+    "city": "Bloomington",
+    "county": "Garrett",
+    "zip_codes": [
+      "21523"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Boonsboro",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 3799
+  },
+  {
+    "city": "Bowie",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20715",
+      "20716",
+      "20720",
+      "20721",
+      "20774"
+    ],
+    "population": 57771
+  },
+  {
+    "city": "Bowleys Quarters",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21220"
+    ],
+    "population": 6795
+  },
+  {
+    "city": "Bowling Green",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "Bowmans Addition",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 1149
+  },
+  {
+    "city": "Braddock Heights",
+    "county": "Frederick",
+    "zip_codes": [
+      "21702",
+      "21703",
+      "21714",
+      "21755"
+    ],
+    "population": 2606
+  },
+  {
+    "city": "Brandywine",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20601",
+      "20613"
+    ],
+    "population": 10989
+  },
+  {
+    "city": "Breathedsville",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 346
+  },
+  {
+    "city": "Brentwood",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20712",
+      "20722"
+    ],
+    "population": 3753
+  },
+  {
+    "city": "Brock Hall",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772",
+      "20774"
+    ],
+    "population": 13400
+  },
+  {
+    "city": "Brookeville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20833"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Brooklyn Park",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21225",
+      "21226"
+    ],
+    "population": 15799
+  },
+  {
+    "city": "Brookmont",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20812",
+      "20816"
+    ],
+    "population": 3825
+  },
+  {
+    "city": "Brookview",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21659"
+    ],
+    "population": 34
+  },
+  {
+    "city": "Broomes Island",
+    "county": "Calvert",
+    "zip_codes": [
+      "20615"
+    ],
+    "population": 422
+  },
+  {
+    "city": "Brown Station",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772",
+      "20774"
+    ],
+    "population": 3918
+  },
+  {
+    "city": "Brownsville",
+    "county": "Washington",
+    "zip_codes": [
+      "21715",
+      "21758"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Brunswick",
+    "county": "Frederick",
+    "zip_codes": [
+      "21716",
+      "21758"
+    ],
+    "population": 7994
+  },
+  {
+    "city": "Bryans Road",
+    "county": "Charles",
+    "zip_codes": [
+      "20616",
+      "20640",
+      "20646"
+    ],
+    "population": 9174
+  },
+  {
+    "city": "Bryantown",
+    "county": "Charles",
+    "zip_codes": [
+      "20601",
+      "20617"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Buckeystown",
+    "county": "Frederick",
+    "zip_codes": [
+      "21710",
+      "21717"
+    ],
+    "population": 1317
+  },
+  {
+    "city": "Burkittsville",
+    "county": "Frederick",
+    "zip_codes": [
+      "21718",
+      "21755"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Burnt Mills",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20901",
+      "20903"
+    ],
+    "population": 4111
+  },
+  {
+    "city": "Burtonsville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20707",
+      "20866",
+      "20868",
+      "20905"
+    ],
+    "population": 10063
+  },
+  {
+    "city": "Butlertown",
+    "county": "Kent",
+    "zip_codes": [
+      "21678"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Cabin John",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20812",
+      "20817",
+      "20818"
+    ],
+    "population": 2096
+  },
+  {
+    "city": "California",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20619",
+      "20634",
+      "20653"
+    ],
+    "population": 13223
+  },
+  {
+    "city": "Callaway",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20620",
+      "20634",
+      "20650"
+    ],
+    "population": 1087
+  },
+  {
+    "city": "Calvert Beach",
+    "county": "Calvert",
+    "zip_codes": [
+      "20685"
+    ],
+    "population": 911
+  },
+  {
+    "city": "Calverton",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20705",
+      "20707",
+      "20904"
+    ],
+    "population": 17721
+  },
+  {
+    "city": "Cambridge",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21613"
+    ],
+    "population": 13094
+  },
+  {
+    "city": "Camp Springs",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744",
+      "20746",
+      "20748"
+    ],
+    "population": 22174
+  },
+  {
+    "city": "Cape St. Claire",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21012",
+      "21409"
+    ],
+    "population": 9016
+  },
+  {
+    "city": "Capitol Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 4014
+  },
+  {
+    "city": "Carlos",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 57
+  },
+  {
+    "city": "Carney",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21234",
+      "21236"
+    ],
+    "population": 28624
+  },
+  {
+    "city": "Catonsville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21043",
+      "21227",
+      "21228",
+      "21229",
+      "21250"
+    ],
+    "population": 42717
+  },
+  {
+    "city": "Cavetown",
+    "county": "Washington",
+    "zip_codes": [
+      "21783"
+    ],
+    "population": 909
+  },
+  {
+    "city": "Cearfoss",
+    "county": "Washington",
+    "zip_codes": [
+      "21740"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Cecilton",
+    "county": "Cecil",
+    "zip_codes": [
+      "21912",
+      "21913"
+    ],
+    "population": 863
+  },
+  {
+    "city": "Cedar Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 1748
+  },
+  {
+    "city": "Cedarville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20613"
+    ],
+    "population": 791
+  },
+  {
+    "city": "Centreville",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21617"
+    ],
+    "population": 4725
+  },
+  {
+    "city": "Chance",
+    "county": "Somerset",
+    "zip_codes": [
+      "21821"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Charlestown",
+    "county": "Cecil",
+    "zip_codes": [
+      "21901",
+      "21914"
+    ],
+    "population": 2037
+  },
+  {
+    "city": "Charlotte Hall",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20622",
+      "20659"
+    ],
+    "population": 1448
+  },
+  {
+    "city": "Charlton",
+    "county": "Washington",
+    "zip_codes": [
+      "21722"
+    ],
+    "population": 187
+  },
+  {
+    "city": "Chesapeake Beach",
+    "county": "Calvert",
+    "zip_codes": [
+      "20732"
+    ],
+    "population": 6428
+  },
+  {
+    "city": "Chesapeake City",
+    "county": "Cecil",
+    "zip_codes": [
+      "21915"
+    ],
+    "population": 778
+  },
+  {
+    "city": "Chesapeake Landing",
+    "county": "Kent",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 465
+  },
+  {
+    "city": "Chesapeake Ranch Estates",
+    "county": "Calvert",
+    "zip_codes": [
+      "20657"
+    ],
+    "population": 9307
+  },
+  {
+    "city": "Chester",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21619",
+      "21666"
+    ],
+    "population": 4539
+  },
+  {
+    "city": "Chestertown",
+    "county": "Kent",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 5548
+  },
+  {
+    "city": "Cheverly",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20784",
+      "20785"
+    ],
+    "population": 6107
+  },
+  {
+    "city": "Chevy Chase",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20814",
+      "20815"
+    ],
+    "population": 9484
+  },
+  {
+    "city": "Chevy Chase Section Five",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 767
+  },
+  {
+    "city": "Chevy Chase Section Three",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 985
+  },
+  {
+    "city": "Chevy Chase View",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20895"
+    ],
+    "population": 1092
+  },
+  {
+    "city": "Chevy Chase Village",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 1860
+  },
+  {
+    "city": "Chewsville",
+    "county": "Washington",
+    "zip_codes": [
+      "21783"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Chillum",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20712",
+      "20782",
+      "20783",
+      "20912"
+    ],
+    "population": 35163
+  },
+  {
+    "city": "Choptank",
+    "county": "Caroline",
+    "zip_codes": [
+      "21655"
+    ],
+    "population": 114
+  },
+  {
+    "city": "Church Creek",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21622"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Church Hill",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21623"
+    ],
+    "population": 1052
+  },
+  {
+    "city": "Clarksburg",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20841",
+      "20871",
+      "20876"
+    ],
+    "population": 29246
+  },
+  {
+    "city": "Clarysville",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 13
+  },
+  {
+    "city": "Clear Spring",
+    "county": "Washington",
+    "zip_codes": [
+      "21722"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Clinton",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20735"
+    ],
+    "population": 38756
+  },
+  {
+    "city": "Cloverly",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20861",
+      "20904",
+      "20905",
+      "20906"
+    ],
+    "population": 16726
+  },
+  {
+    "city": "Cobb Island",
+    "county": "Charles",
+    "zip_codes": [
+      "20625",
+      "20661",
+      "20664"
+    ],
+    "population": 1162
+  },
+  {
+    "city": "Cockeysville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21030",
+      "21031",
+      "21093",
+      "21131"
+    ],
+    "population": 23265
+  },
+  {
+    "city": "Colesville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20904"
+    ],
+    "population": 14075
+  },
+  {
+    "city": "College Park",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20737",
+      "20740",
+      "20742"
+    ],
+    "population": 34397
+  },
+  {
+    "city": "Colmar Manor",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20722",
+      "20781"
+    ],
+    "population": 1579
+  },
+  {
+    "city": "Columbia",
+    "county": "Howard",
+    "zip_codes": [
+      "21029",
+      "21044",
+      "21045",
+      "21046",
+      "21075"
+    ],
+    "population": 105871
+  },
+  {
+    "city": "Coral Hills",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 9372
+  },
+  {
+    "city": "Cordova",
+    "county": "Talbot",
+    "zip_codes": [
+      "21625"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Corriganville",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502",
+      "21524"
+    ],
+    "population": 754
+  },
+  {
+    "city": "Cottage City",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20722",
+      "20781"
+    ],
+    "population": 1162
+  },
+  {
+    "city": "Crellin",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Cresaptown",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 5238
+  },
+  {
+    "city": "Crisfield",
+    "county": "Somerset",
+    "zip_codes": [
+      "21817"
+    ],
+    "population": 2468
+  },
+  {
+    "city": "Crofton",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21054",
+      "21114"
+    ],
+    "population": 29878
+  },
+  {
+    "city": "Croom",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20613",
+      "20772"
+    ],
+    "population": 2519
+  },
+  {
+    "city": "Crownsville",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21032",
+      "21401"
+    ],
+    "population": 1701
+  },
+  {
+    "city": "Crumpton",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21628"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Cumberland",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 18938
+  },
+  {
+    "city": "Damascus",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20872",
+      "20882"
+    ],
+    "population": 16864
+  },
+  {
+    "city": "Dames Quarter",
+    "county": "Somerset",
+    "zip_codes": [
+      "21821"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Danville",
+    "county": "Allegany",
+    "zip_codes": [
+      "21557"
+    ],
+    "population": 282
+  },
+  {
+    "city": "Dargan",
+    "county": "Washington",
+    "zip_codes": [
+      "21782"
+    ],
+    "population": 135
+  },
+  {
+    "city": "Darlington",
+    "county": "Harford",
+    "zip_codes": [
+      "21034"
+    ],
+    "population": 349
+  },
+  {
+    "city": "Darnestown",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20854",
+      "20874",
+      "20878"
+    ],
+    "population": 6835
+  },
+  {
+    "city": "Dawson",
+    "county": "Allegany",
+    "zip_codes": [
+      "21557"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Deal Island",
+    "county": "Somerset",
+    "zip_codes": [
+      "21821"
+    ],
+    "population": 311
+  },
+  {
+    "city": "Deale",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20733",
+      "20751",
+      "20779"
+    ],
+    "population": 5182
+  },
+  {
+    "city": "Deer Park",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Delmar",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21875"
+    ],
+    "population": 4058
+  },
+  {
+    "city": "Denton",
+    "county": "Caroline",
+    "zip_codes": [
+      "21629"
+    ],
+    "population": 4879
+  },
+  {
+    "city": "Derwood",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20855"
+    ],
+    "population": 1830
+  },
+  {
+    "city": "Detmold",
+    "county": "Allegany",
+    "zip_codes": [
+      "21539"
+    ],
+    "population": 115
+  },
+  {
+    "city": "District Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20747"
+    ],
+    "population": 5888
+  },
+  {
+    "city": "Downsville",
+    "county": "Washington",
+    "zip_codes": [
+      "21795"
+    ],
+    "population": 822
+  },
+  {
+    "city": "Drum Point",
+    "county": "Calvert",
+    "zip_codes": [
+      "20657"
+    ],
+    "population": 3219
+  },
+  {
+    "city": "Dundalk",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21219",
+      "21222",
+      "21224"
+    ],
+    "population": 65441
+  },
+  {
+    "city": "Dunkirk",
+    "county": "Calvert",
+    "zip_codes": [
+      "20754"
+    ],
+    "population": 2319
+  },
+  {
+    "city": "Eagle Harbor",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20608"
+    ],
+    "population": 76
+  },
+  {
+    "city": "Eakles Mill",
+    "county": "Washington",
+    "zip_codes": [
+      "21756"
+    ],
+    "population": 0
+  },
+  {
+    "city": "East New Market",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21631"
+    ],
+    "population": 324
+  },
+  {
+    "city": "East Riverdale",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20737",
+      "20781"
+    ],
+    "population": 19043
+  },
+  {
+    "city": "Easton",
+    "county": "Talbot",
+    "zip_codes": [
+      "21601"
+    ],
+    "population": 17202
+  },
+  {
+    "city": "Eckhart Mines",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Eden",
+    "county": "Somerset",
+    "zip_codes": [
+      "21822"
+    ],
+    "population": 790
+  },
+  {
+    "city": "Edesville",
+    "county": "Kent",
+    "zip_codes": [
+      "21661"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Edgemere",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21052",
+      "21219",
+      "21222"
+    ],
+    "population": 8778
+  },
+  {
+    "city": "Edgemont",
+    "county": "Washington",
+    "zip_codes": [
+      "21783"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Edgewater",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21037"
+    ],
+    "population": 8297
+  },
+  {
+    "city": "Edgewood",
+    "county": "Harford",
+    "zip_codes": [
+      "21009",
+      "21010",
+      "21040",
+      "21085"
+    ],
+    "population": 25170
+  },
+  {
+    "city": "Edmonston",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20710",
+      "20737",
+      "20781"
+    ],
+    "population": 1332
+  },
+  {
+    "city": "Eldersburg",
+    "county": "Carroll",
+    "zip_codes": [
+      "21104",
+      "21784",
+      "21797"
+    ],
+    "population": 30626
+  },
+  {
+    "city": "Eldorado",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21659"
+    ],
+    "population": 39
+  },
+  {
+    "city": "Elkridge",
+    "county": "Howard",
+    "zip_codes": [
+      "21075",
+      "21076"
+    ],
+    "population": 26183
+  },
+  {
+    "city": "Elkton",
+    "county": "Cecil",
+    "zip_codes": [
+      "21921"
+    ],
+    "population": 15867
+  },
+  {
+    "city": "Ellerslie",
+    "county": "Allegany",
+    "zip_codes": [
+      "21529"
+    ],
+    "population": 516
+  },
+  {
+    "city": "Ellicott City",
+    "county": "Howard",
+    "zip_codes": [
+      "21042",
+      "21043",
+      "21104",
+      "21163"
+    ],
+    "population": 73737
+  },
+  {
+    "city": "Elliott",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21869"
+    ],
+    "population": 18
+  },
+  {
+    "city": "Emmitsburg",
+    "county": "Frederick",
+    "zip_codes": [
+      "21727"
+    ],
+    "population": 2855
+  },
+  {
+    "city": "Ernstville",
+    "county": "Washington",
+    "zip_codes": [
+      "21711"
+    ],
+    "population": 25
+  },
+  {
+    "city": "Essex",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21221"
+    ],
+    "population": 40670
+  },
+  {
+    "city": "Fairland",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20866",
+      "20904",
+      "20905"
+    ],
+    "population": 26183
+  },
+  {
+    "city": "Fairlee",
+    "county": "Kent",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Fairmount",
+    "county": "Somerset",
+    "zip_codes": [
+      "21867",
+      "21871"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Fairmount Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 1429
+  },
+  {
+    "city": "Fairplay",
+    "county": "Washington",
+    "zip_codes": [
+      "21713",
+      "21733"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Fairview",
+    "county": "Washington",
+    "zip_codes": [
+      "21722",
+      "21740"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fairwood",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20715",
+      "20720"
+    ],
+    "population": 8108
+  },
+  {
+    "city": "Fallston",
+    "county": "Harford",
+    "zip_codes": [
+      "21013",
+      "21047",
+      "21050"
+    ],
+    "population": 9954
+  },
+  {
+    "city": "Federalsburg",
+    "county": "Caroline",
+    "zip_codes": [
+      "21632"
+    ],
+    "population": 2818
+  },
+  {
+    "city": "Ferndale",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21061"
+    ],
+    "population": 17076
+  },
+  {
+    "city": "Finzel",
+    "county": "Garrett",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 871
+  },
+  {
+    "city": "Fishing Creek",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21622",
+      "21634"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Flintstone",
+    "county": "Allegany",
+    "zip_codes": [
+      "21530"
+    ],
+    "population": 131
+  },
+  {
+    "city": "Flower Hill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20877",
+      "20879"
+    ],
+    "population": 13743
+  },
+  {
+    "city": "Forest Glen",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20902",
+      "20910"
+    ],
+    "population": 6650
+  },
+  {
+    "city": "Forest Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20745"
+    ],
+    "population": 2619
+  },
+  {
+    "city": "Forestville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743",
+      "20747"
+    ],
+    "population": 10839
+  },
+  {
+    "city": "Fort Meade",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20724",
+      "20755",
+      "21113"
+    ],
+    "population": 10477
+  },
+  {
+    "city": "Fort Ritchie",
+    "county": "Washington",
+    "zip_codes": [
+      "21719"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Fort Washington",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744"
+    ],
+    "population": 25843
+  },
+  {
+    "city": "Fountainhead-Orchard Hills",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 6364
+  },
+  {
+    "city": "Four Corners",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20901"
+    ],
+    "population": 7785
+  },
+  {
+    "city": "Franklin",
+    "county": "Allegany",
+    "zip_codes": [
+      "21562"
+    ],
+    "population": 356
+  },
+  {
+    "city": "Frederick",
+    "county": "Frederick",
+    "zip_codes": [
+      "21701",
+      "21702",
+      "21703",
+      "21704",
+      "21705"
+    ],
+    "population": 80617
+  },
+  {
+    "city": "Frenchtown-Rumbly",
+    "county": "Somerset",
+    "zip_codes": [
+      "21871"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Friendly",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744"
+    ],
+    "population": 11673
+  },
+  {
+    "city": "Friendship",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20736",
+      "20758",
+      "20779"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Friendship Heights Village",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 3991
+  },
+  {
+    "city": "Friendsville",
+    "county": "Garrett",
+    "zip_codes": [
+      "21531"
+    ],
+    "population": 379
+  },
+  {
+    "city": "Frostburg",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 7025
+  },
+  {
+    "city": "Fruitland",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21804",
+      "21822",
+      "21826"
+    ],
+    "population": 5698
+  },
+  {
+    "city": "Fulton",
+    "county": "Howard",
+    "zip_codes": [
+      "20723",
+      "20759",
+      "21029"
+    ],
+    "population": 5946
+  },
+  {
+    "city": "Funkstown",
+    "county": "Washington",
+    "zip_codes": [
+      "21734",
+      "21740"
+    ],
+    "population": 826
+  },
+  {
+    "city": "Gaithersburg",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20877",
+      "20878",
+      "20879",
+      "20899"
+    ],
+    "population": 69225
+  },
+  {
+    "city": "Galena",
+    "county": "Kent",
+    "zip_codes": [
+      "21635"
+    ],
+    "population": 766
+  },
+  {
+    "city": "Galestown",
+    "county": "Dorchester",
+    "zip_codes": [
+      "19973",
+      "21659"
+    ],
+    "population": 77
+  },
+  {
+    "city": "Galesville",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20765",
+      "20778"
+    ],
+    "population": 1206
+  },
+  {
+    "city": "Gambrills",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21054",
+      "21108",
+      "21144"
+    ],
+    "population": 2862
+  },
+  {
+    "city": "Gapland",
+    "county": "Washington",
+    "zip_codes": [
+      "21779"
+    ],
+    "population": 9
+  },
+  {
+    "city": "Garrett Park",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20896"
+    ],
+    "population": 872
+  },
+  {
+    "city": "Garretts Mill",
+    "county": "Washington",
+    "zip_codes": [
+      "21758"
+    ],
+    "population": 201
+  },
+  {
+    "city": "Garrison",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21117",
+      "21208"
+    ],
+    "population": 10449
+  },
+  {
+    "city": "Georgetown",
+    "county": "Kent",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Germantown",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20841",
+      "20874",
+      "20876",
+      "20879"
+    ],
+    "population": 90521
+  },
+  {
+    "city": "Gilmore",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532",
+      "21539"
+    ],
+    "population": 392
+  },
+  {
+    "city": "Girdletree",
+    "county": "Worcester",
+    "zip_codes": [
+      "21829"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Glassmanor",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20745"
+    ],
+    "population": 17687
+  },
+  {
+    "city": "Glen Burnie",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21060",
+      "21061",
+      "21108",
+      "21122",
+      "21226"
+    ],
+    "population": 72772
+  },
+  {
+    "city": "Glen Echo",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20812",
+      "20816"
+    ],
+    "population": 314
+  },
+  {
+    "city": "Glenarden",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20721",
+      "20774",
+      "20785"
+    ],
+    "population": 6320
+  },
+  {
+    "city": "Glenmont",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20902",
+      "20906"
+    ],
+    "population": 16529
+  },
+  {
+    "city": "Glenn Dale",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20720",
+      "20769"
+    ],
+    "population": 14896
+  },
+  {
+    "city": "Golden Beach",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20659"
+    ],
+    "population": 3953
+  },
+  {
+    "city": "Goldsboro",
+    "county": "Caroline",
+    "zip_codes": [
+      "21636"
+    ],
+    "population": 259
+  },
+  {
+    "city": "Gorman",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 262
+  },
+  {
+    "city": "Graceham",
+    "county": "Frederick",
+    "zip_codes": [
+      "21788"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Grahamtown",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 385
+  },
+  {
+    "city": "Grantsville",
+    "county": "Garrett",
+    "zip_codes": [
+      "21536"
+    ],
+    "population": 970
+  },
+  {
+    "city": "Grasonville",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21638",
+      "21658"
+    ],
+    "population": 3431
+  },
+  {
+    "city": "Green Valley",
+    "county": "Frederick",
+    "zip_codes": [
+      "20871",
+      "21754",
+      "21770",
+      "21771"
+    ],
+    "population": 13187
+  },
+  {
+    "city": "Greenbelt",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20770"
+    ],
+    "population": 24572
+  },
+  {
+    "city": "Greensboro",
+    "county": "Caroline",
+    "zip_codes": [
+      "21639"
+    ],
+    "population": 2563
+  },
+  {
+    "city": "Greensburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21783"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Hagerstown",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21742"
+    ],
+    "population": 43490
+  },
+  {
+    "city": "Halfway",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21795"
+    ],
+    "population": 10974
+  },
+  {
+    "city": "Hampstead",
+    "county": "Carroll",
+    "zip_codes": [
+      "21074"
+    ],
+    "population": 6311
+  },
+  {
+    "city": "Hampton",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21093",
+      "21234",
+      "21286"
+    ],
+    "population": 5138
+  },
+  {
+    "city": "Hancock",
+    "county": "Washington",
+    "zip_codes": [
+      "21750"
+    ],
+    "population": 1715
+  },
+  {
+    "city": "Havre de Grace",
+    "county": "Harford",
+    "zip_codes": [
+      "21078"
+    ],
+    "population": 14857
+  },
+  {
+    "city": "Hebron",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21830"
+    ],
+    "population": 1297
+  },
+  {
+    "city": "Henderson",
+    "county": "Caroline",
+    "zip_codes": [
+      "21640",
+      "21649"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Herald Harbor",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21032"
+    ],
+    "population": 2507
+  },
+  {
+    "city": "Highfield-Cascade",
+    "county": "Washington",
+    "zip_codes": [
+      "21719"
+    ],
+    "population": 1079
+  },
+  {
+    "city": "Highland",
+    "county": "Howard",
+    "zip_codes": [
+      "20759",
+      "20777"
+    ],
+    "population": 785
+  },
+  {
+    "city": "Highland Beach",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21403"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Hillandale",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20783",
+      "20903"
+    ],
+    "population": 4901
+  },
+  {
+    "city": "Hillcrest Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20745",
+      "20748"
+    ],
+    "population": 15670
+  },
+  {
+    "city": "Hillsboro",
+    "county": "Caroline",
+    "zip_codes": [
+      "21641"
+    ],
+    "population": 130
+  },
+  {
+    "city": "Honeygo",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21128",
+      "21162"
+    ],
+    "population": 12022
+  },
+  {
+    "city": "Hughesville",
+    "county": "Charles",
+    "zip_codes": [
+      "20601",
+      "20637"
+    ],
+    "population": 2280
+  },
+  {
+    "city": "Huntingtown",
+    "county": "Calvert",
+    "zip_codes": [
+      "20639"
+    ],
+    "population": 2634
+  },
+  {
+    "city": "Hurlock",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21643"
+    ],
+    "population": 2205
+  },
+  {
+    "city": "Hutton",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Hyattsville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20781",
+      "20782",
+      "20783"
+    ],
+    "population": 20861
+  },
+  {
+    "city": "Ilchester",
+    "county": "Howard",
+    "zip_codes": [
+      "21043",
+      "21075"
+    ],
+    "population": 27552
+  },
+  {
+    "city": "Indian Head",
+    "county": "Charles",
+    "zip_codes": [
+      "20640"
+    ],
+    "population": 3982
+  },
+  {
+    "city": "Indian Springs",
+    "county": "Washington",
+    "zip_codes": [
+      "21711"
+    ],
+    "population": 8
+  },
+  {
+    "city": "Jarrettsville",
+    "county": "Harford",
+    "zip_codes": [
+      "21050",
+      "21084"
+    ],
+    "population": 2629
+  },
+  {
+    "city": "Jefferson",
+    "county": "Frederick",
+    "zip_codes": [
+      "21755"
+    ],
+    "population": 2891
+  },
+  {
+    "city": "Jennings",
+    "county": "Garrett",
+    "zip_codes": [
+      "21536"
+    ],
+    "population": 17
+  },
+  {
+    "city": "Jessup",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20701",
+      "20794",
+      "21075"
+    ],
+    "population": 9147
+  },
+  {
+    "city": "Jesterville",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21814",
+      "21840"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Joppatowne",
+    "county": "Harford",
+    "zip_codes": [
+      "21085"
+    ],
+    "population": 13397
+  },
+  {
+    "city": "Jugtown",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Keedysville",
+    "county": "Washington",
+    "zip_codes": [
+      "21756"
+    ],
+    "population": 1243
+  },
+  {
+    "city": "Kemp Mill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20901",
+      "20902"
+    ],
+    "population": 14437
+  },
+  {
+    "city": "Kemps Mill",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21795"
+    ],
+    "population": 62
+  },
+  {
+    "city": "Kennedyville",
+    "county": "Kent",
+    "zip_codes": [
+      "21645"
+    ],
+    "population": 203
+  },
+  {
+    "city": "Kensington",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20895"
+    ],
+    "population": 2248
+  },
+  {
+    "city": "Kent Narrows",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21619",
+      "21638"
+    ],
+    "population": 444
+  },
+  {
+    "city": "Kettering",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20774"
+    ],
+    "population": 13866
+  },
+  {
+    "city": "Kingstown",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 1836
+  },
+  {
+    "city": "Kingsville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21087",
+      "21156"
+    ],
+    "population": 4790
+  },
+  {
+    "city": "Kitzmiller",
+    "county": "Garrett",
+    "zip_codes": [
+      "21538"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Klondike",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Konterra",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20705",
+      "20707"
+    ],
+    "population": 3212
+  },
+  {
+    "city": "La Plata",
+    "county": "Charles",
+    "zip_codes": [
+      "20646"
+    ],
+    "population": 10470
+  },
+  {
+    "city": "La Vale",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 4388
+  },
+  {
+    "city": "Lake Arbor",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20721",
+      "20774"
+    ],
+    "population": 14932
+  },
+  {
+    "city": "Lake Shore",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21122"
+    ],
+    "population": 18263
+  },
+  {
+    "city": "Landover",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20784",
+      "20785"
+    ],
+    "population": 24558
+  },
+  {
+    "city": "Landover Hills",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20784"
+    ],
+    "population": 1996
+  },
+  {
+    "city": "Langley Park",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20783",
+      "20903",
+      "20912"
+    ],
+    "population": 22057
+  },
+  {
+    "city": "Lanham",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706"
+    ],
+    "population": 11956
+  },
+  {
+    "city": "Lansdowne",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21227"
+    ],
+    "population": 8879
+  },
+  {
+    "city": "Largo",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743",
+      "20774"
+    ],
+    "population": 11753
+  },
+  {
+    "city": "Laurel",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20707",
+      "20708"
+    ],
+    "population": 29594
+  },
+  {
+    "city": "Layhill",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20906"
+    ],
+    "population": 5392
+  },
+  {
+    "city": "Laytonsville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20882"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Leisure World",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20906"
+    ],
+    "population": 8693
+  },
+  {
+    "city": "Leitersburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 351
+  },
+  {
+    "city": "Leonardtown",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20650"
+    ],
+    "population": 4712
+  },
+  {
+    "city": "Lewistown",
+    "county": "Frederick",
+    "zip_codes": [
+      "21788"
+    ],
+    "population": 329
+  },
+  {
+    "city": "Lexington Park",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20653"
+    ],
+    "population": 13419
+  },
+  {
+    "city": "Libertytown",
+    "county": "Frederick",
+    "zip_codes": [
+      "21701",
+      "21762",
+      "21791"
+    ],
+    "population": 1368
+  },
+  {
+    "city": "Linganore",
+    "county": "Frederick",
+    "zip_codes": [
+      "21701",
+      "21754",
+      "21774"
+    ],
+    "population": 13044
+  },
+  {
+    "city": "Linthicum",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21061",
+      "21090"
+    ],
+    "population": 10545
+  },
+  {
+    "city": "Lisbon",
+    "county": "Howard",
+    "zip_codes": [
+      "21797"
+    ],
+    "population": 140
+  },
+  {
+    "city": "Little Orleans",
+    "county": "Allegany",
+    "zip_codes": [
+      "21766"
+    ],
+    "population": 68
+  },
+  {
+    "city": "Loch Lynn Heights",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 511
+  },
+  {
+    "city": "Lochearn",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21207",
+      "21208",
+      "21215"
+    ],
+    "population": 27591
+  },
+  {
+    "city": "Lonaconing",
+    "county": "Allegany",
+    "zip_codes": [
+      "21539"
+    ],
+    "population": 1093
+  },
+  {
+    "city": "Long Beach",
+    "county": "Calvert",
+    "zip_codes": [
+      "20685"
+    ],
+    "population": 1981
+  },
+  {
+    "city": "Luke",
+    "county": "Allegany",
+    "zip_codes": [
+      "21540"
+    ],
+    "population": 93
+  },
+  {
+    "city": "Lusby",
+    "county": "Calvert",
+    "zip_codes": [
+      "20657"
+    ],
+    "population": 2161
+  },
+  {
+    "city": "Lutherville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21093"
+    ],
+    "population": 6670
+  },
+  {
+    "city": "Madison",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21648",
+      "21677"
+    ],
+    "population": 145
+  },
+  {
+    "city": "Manchester",
+    "county": "Carroll",
+    "zip_codes": [
+      "21102"
+    ],
+    "population": 5446
+  },
+  {
+    "city": "Mapleville",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 440
+  },
+  {
+    "city": "Mardela Springs",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21837"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Marlboro Meadows",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772",
+      "20774"
+    ],
+    "population": 4003
+  },
+  {
+    "city": "Marlboro Village",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772"
+    ],
+    "population": 9200
+  },
+  {
+    "city": "Marlow Heights",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20748"
+    ],
+    "population": 6144
+  },
+  {
+    "city": "Marlton",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772"
+    ],
+    "population": 10223
+  },
+  {
+    "city": "Martin's Additions",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 1019
+  },
+  {
+    "city": "Marydel",
+    "county": "Caroline",
+    "zip_codes": [
+      "21649"
+    ],
+    "population": 136
+  },
+  {
+    "city": "Maryland City",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20724"
+    ],
+    "population": 18669
+  },
+  {
+    "city": "Maryland Park",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Maugansville",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21767"
+    ],
+    "population": 3057
+  },
+  {
+    "city": "Mayo",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21037"
+    ],
+    "population": 8322
+  },
+  {
+    "city": "Mays Chapel",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21093"
+    ],
+    "population": 15616
+  },
+  {
+    "city": "McCoole",
+    "county": "Allegany",
+    "zip_codes": [
+      "21557",
+      "21562"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Mechanicsville",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20659"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "Melwood",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772"
+    ],
+    "population": 3734
+  },
+  {
+    "city": "Mercersville",
+    "county": "Washington",
+    "zip_codes": [
+      "21782"
+    ],
+    "population": 233
+  },
+  {
+    "city": "Middle River",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21162",
+      "21220",
+      "21221"
+    ],
+    "population": 31616
+  },
+  {
+    "city": "Middleburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Middletown",
+    "county": "Frederick",
+    "zip_codes": [
+      "21769"
+    ],
+    "population": 5108
+  },
+  {
+    "city": "Midland",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532",
+      "21542"
+    ],
+    "population": 673
+  },
+  {
+    "city": "Midlothian",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532",
+      "21543"
+    ],
+    "population": 336
+  },
+  {
+    "city": "Milford Mill",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21133",
+      "21208",
+      "21244"
+    ],
+    "population": 31939
+  },
+  {
+    "city": "Millington",
+    "county": "Kent",
+    "zip_codes": [
+      "21651"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Mitchellville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20720",
+      "20721"
+    ],
+    "population": 11325
+  },
+  {
+    "city": "Monrovia",
+    "county": "Frederick",
+    "zip_codes": [
+      "21770"
+    ],
+    "population": 2924
+  },
+  {
+    "city": "Montgomery Village",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20877",
+      "20879",
+      "20886"
+    ],
+    "population": 34161
+  },
+  {
+    "city": "Morningside",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20746"
+    ],
+    "population": 1031
+  },
+  {
+    "city": "Moscow",
+    "county": "Allegany",
+    "zip_codes": [
+      "21521"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Mount Aetna",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21742"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Mount Airy",
+    "county": "Carroll",
+    "zip_codes": [
+      "21771"
+    ],
+    "population": 9746
+  },
+  {
+    "city": "Mount Briar",
+    "county": "Washington",
+    "zip_codes": [
+      "21756"
+    ],
+    "population": 115
+  },
+  {
+    "city": "Mount Lena",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Mount Rainier",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20712"
+    ],
+    "population": 8235
+  },
+  {
+    "city": "Mount Savage",
+    "county": "Allegany",
+    "zip_codes": [
+      "21545"
+    ],
+    "population": 462
+  },
+  {
+    "city": "Mount Vernon",
+    "county": "Somerset",
+    "zip_codes": [
+      "21853"
+    ],
+    "population": 885
+  },
+  {
+    "city": "Mountain Lake Park",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 2033
+  },
+  {
+    "city": "Myersville",
+    "county": "Frederick",
+    "zip_codes": [
+      "21773"
+    ],
+    "population": 2464
+  },
+  {
+    "city": "Nanticoke",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21840"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Nanticoke Acres",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21840"
+    ],
+    "population": 128
+  },
+  {
+    "city": "National",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 48
+  },
+  {
+    "city": "National Harbor",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744",
+      "20745"
+    ],
+    "population": 4418
+  },
+  {
+    "city": "Naval Academy",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21401",
+      "21402"
+    ],
+    "population": 1592
+  },
+  {
+    "city": "New Carrollton",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20784"
+    ],
+    "population": 13544
+  },
+  {
+    "city": "New Market",
+    "county": "Frederick",
+    "zip_codes": [
+      "21770",
+      "21774"
+    ],
+    "population": 1588
+  },
+  {
+    "city": "New Windsor",
+    "county": "Carroll",
+    "zip_codes": [
+      "21776"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Newark",
+    "county": "Worcester",
+    "zip_codes": [
+      "21811",
+      "21841"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Nikep",
+    "county": "Allegany",
+    "zip_codes": [
+      "21539"
+    ],
+    "population": 0
+  },
+  {
+    "city": "North Beach",
+    "county": "Calvert",
+    "zip_codes": [
+      "20714"
+    ],
+    "population": 2769
+  },
+  {
+    "city": "North Bethesda",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20814",
+      "20817",
+      "20851",
+      "20852",
+      "20895",
+      "20896"
+    ],
+    "population": 49498
+  },
+  {
+    "city": "North Brentwood",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20722"
+    ],
+    "population": 680
+  },
+  {
+    "city": "North Chevy Chase",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815"
+    ],
+    "population": 685
+  },
+  {
+    "city": "North East",
+    "county": "Cecil",
+    "zip_codes": [
+      "21901",
+      "21921"
+    ],
+    "population": 4095
+  },
+  {
+    "city": "North Kensington",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20895",
+      "20902"
+    ],
+    "population": 8980
+  },
+  {
+    "city": "North Laurel",
+    "county": "Howard",
+    "zip_codes": [
+      "20723"
+    ],
+    "population": 25201
+  },
+  {
+    "city": "North Potomac",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20850",
+      "20878"
+    ],
+    "population": 23994
+  },
+  {
+    "city": "Oakland",
+    "county": "Garrett",
+    "zip_codes": [
+      "21550"
+    ],
+    "population": 2043
+  },
+  {
+    "city": "Ocean",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 10
+  },
+  {
+    "city": "Ocean City",
+    "county": "Worcester",
+    "zip_codes": [
+      "21842"
+    ],
+    "population": 6887
+  },
+  {
+    "city": "Ocean Pines",
+    "county": "Worcester",
+    "zip_codes": [
+      "21811"
+    ],
+    "population": 12028
+  },
+  {
+    "city": "Odenton",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21054",
+      "21113",
+      "21144"
+    ],
+    "population": 45585
+  },
+  {
+    "city": "Oldtown",
+    "county": "Allegany",
+    "zip_codes": [
+      "21555"
+    ],
+    "population": 75
+  },
+  {
+    "city": "Olney",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20832",
+      "20833",
+      "20853",
+      "20860",
+      "20906"
+    ],
+    "population": 36000
+  },
+  {
+    "city": "Overlea",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21206",
+      "21234",
+      "21236"
+    ],
+    "population": 12430
+  },
+  {
+    "city": "Owings",
+    "county": "Calvert",
+    "zip_codes": [
+      "20736"
+    ],
+    "population": 2475
+  },
+  {
+    "city": "Owings Mills",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21117",
+      "21208"
+    ],
+    "population": 35626
+  },
+  {
+    "city": "Oxford",
+    "county": "Talbot",
+    "zip_codes": [
+      "21654"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Oxon Hill",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744",
+      "20745",
+      "20748"
+    ],
+    "population": 18491
+  },
+  {
+    "city": "Paramount-Long Meadow",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 2660
+  },
+  {
+    "city": "Parkville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21234",
+      "21286"
+    ],
+    "population": 30423
+  },
+  {
+    "city": "Parole",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21037",
+      "21401"
+    ],
+    "population": 17910
+  },
+  {
+    "city": "Parsonsburg",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21849"
+    ],
+    "population": 170
+  },
+  {
+    "city": "Pasadena",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21060",
+      "21122",
+      "21226"
+    ],
+    "population": 32717
+  },
+  {
+    "city": "Pecktonville",
+    "county": "Washington",
+    "zip_codes": [
+      "21711"
+    ],
+    "population": 132
+  },
+  {
+    "city": "Peppermill Village",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 5268
+  },
+  {
+    "city": "Perry Hall",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21087",
+      "21128",
+      "21234",
+      "21236",
+      "21237"
+    ],
+    "population": 28908
+  },
+  {
+    "city": "Perryman",
+    "county": "Harford",
+    "zip_codes": [
+      "21001",
+      "21130"
+    ],
+    "population": 2366
+  },
+  {
+    "city": "Perryville",
+    "county": "Cecil",
+    "zip_codes": [
+      "21903",
+      "21904"
+    ],
+    "population": 4425
+  },
+  {
+    "city": "Pikesville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21093",
+      "21153",
+      "21208",
+      "21209",
+      "21215"
+    ],
+    "population": 34253
+  },
+  {
+    "city": "Pinesburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21795"
+    ],
+    "population": 529
+  },
+  {
+    "city": "Piney Point",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20674",
+      "20690"
+    ],
+    "population": 1171
+  },
+  {
+    "city": "Pittsville",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21850"
+    ],
+    "population": 2034
+  },
+  {
+    "city": "Pleasant Grove",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 254
+  },
+  {
+    "city": "Pleasant Hills",
+    "county": "Harford",
+    "zip_codes": [
+      "21047",
+      "21082",
+      "21085",
+      "21087"
+    ],
+    "population": 3955
+  },
+  {
+    "city": "Pocomoke City",
+    "county": "Worcester",
+    "zip_codes": [
+      "21851"
+    ],
+    "population": 4360
+  },
+  {
+    "city": "Point of Rocks",
+    "county": "Frederick",
+    "zip_codes": [
+      "21777",
+      "21790"
+    ],
+    "population": 2333
+  },
+  {
+    "city": "Pomfret",
+    "county": "Charles",
+    "zip_codes": [
+      "20675"
+    ],
+    "population": 670
+  },
+  {
+    "city": "Pondsville",
+    "county": "Washington",
+    "zip_codes": [
+      "21742",
+      "21783"
+    ],
+    "population": 169
+  },
+  {
+    "city": "Poolesville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20837"
+    ],
+    "population": 5704
+  },
+  {
+    "city": "Port Deposit",
+    "county": "Cecil",
+    "zip_codes": [
+      "21904"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Port Tobacco Village",
+    "county": "Charles",
+    "zip_codes": [
+      "20677"
+    ],
+    "population": 5
+  },
+  {
+    "city": "Potomac",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20817",
+      "20854"
+    ],
+    "population": 46230
+  },
+  {
+    "city": "Potomac Heights",
+    "county": "Charles",
+    "zip_codes": [
+      "20640"
+    ],
+    "population": 1102
+  },
+  {
+    "city": "Potomac Park",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502"
+    ],
+    "population": 974
+  },
+  {
+    "city": "Powellville",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21850"
+    ],
+    "population": 213
+  },
+  {
+    "city": "Preston",
+    "county": "Caroline",
+    "zip_codes": [
+      "21655"
+    ],
+    "population": 794
+  },
+  {
+    "city": "Prince Frederick",
+    "county": "Calvert",
+    "zip_codes": [
+      "20639",
+      "20678"
+    ],
+    "population": 2404
+  },
+  {
+    "city": "Princess Anne",
+    "county": "Somerset",
+    "zip_codes": [
+      "21853"
+    ],
+    "population": 3461
+  },
+  {
+    "city": "Pylesville",
+    "county": "Harford",
+    "zip_codes": [
+      "21132",
+      "21154",
+      "21160"
+    ],
+    "population": 806
+  },
+  {
+    "city": "Quantico",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21830",
+      "21856"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Queen Anne",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20716",
+      "20774"
+    ],
+    "population": 1374
+  },
+  {
+    "city": "Queen Anne",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21657"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Queensland",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772"
+    ],
+    "population": 2066
+  },
+  {
+    "city": "Queenstown",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21658"
+    ],
+    "population": 990
+  },
+  {
+    "city": "Randallstown",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21117",
+      "21133",
+      "21163",
+      "21208",
+      "21244"
+    ],
+    "population": 35975
+  },
+  {
+    "city": "Rawlings",
+    "county": "Allegany",
+    "zip_codes": [
+      "21557"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Redland",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20855",
+      "20877"
+    ],
+    "population": 18976
+  },
+  {
+    "city": "Reid",
+    "county": "Washington",
+    "zip_codes": [
+      "21742"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Reisterstown",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21117",
+      "21136"
+    ],
+    "population": 27764
+  },
+  {
+    "city": "Ridgely",
+    "county": "Caroline",
+    "zip_codes": [
+      "21660"
+    ],
+    "population": 1685
+  },
+  {
+    "city": "Ringgold",
+    "county": "Washington",
+    "zip_codes": [
+      "21742",
+      "21783"
+    ],
+    "population": 81
+  },
+  {
+    "city": "Rising Sun",
+    "county": "Cecil",
+    "zip_codes": [
+      "21911"
+    ],
+    "population": 2756
+  },
+  {
+    "city": "Riva",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21035",
+      "21037",
+      "21140"
+    ],
+    "population": 4798
+  },
+  {
+    "city": "Riverdale Park",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20737",
+      "20740"
+    ],
+    "population": 7249
+  },
+  {
+    "city": "Riverside",
+    "county": "Harford",
+    "zip_codes": [
+      "21001",
+      "21015",
+      "21017"
+    ],
+    "population": 6149
+  },
+  {
+    "city": "Riviera Beach",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21060",
+      "21122",
+      "21226"
+    ],
+    "population": 12608
+  },
+  {
+    "city": "Robinwood",
+    "county": "Washington",
+    "zip_codes": [
+      "21740",
+      "21742"
+    ],
+    "population": 7822
+  },
+  {
+    "city": "Rock Hall",
+    "county": "Kent",
+    "zip_codes": [
+      "21661"
+    ],
+    "population": 1286
+  },
+  {
+    "city": "Rock Point",
+    "county": "Charles",
+    "zip_codes": [
+      "20664"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Rockville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20850",
+      "20851",
+      "20852",
+      "20854"
+    ],
+    "population": 67218
+  },
+  {
+    "city": "Rohrersville",
+    "county": "Washington",
+    "zip_codes": [
+      "21756",
+      "21779"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Romancoke",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21666"
+    ],
+    "population": 1705
+  },
+  {
+    "city": "Rosaryville",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20613",
+      "20623",
+      "20772"
+    ],
+    "population": 12206
+  },
+  {
+    "city": "Rosedale",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21206",
+      "21221",
+      "21237"
+    ],
+    "population": 20845
+  },
+  {
+    "city": "Rosemont",
+    "county": "Frederick",
+    "zip_codes": [
+      "21716",
+      "21758"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Rossville",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21220",
+      "21236",
+      "21237"
+    ],
+    "population": 15088
+  },
+  {
+    "city": "Sabillasville",
+    "county": "Frederick",
+    "zip_codes": [
+      "21719",
+      "21780"
+    ],
+    "population": 350
+  },
+  {
+    "city": "Salisbury",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21801",
+      "21804",
+      "21875"
+    ],
+    "population": 33080
+  },
+  {
+    "city": "San Mar",
+    "county": "Washington",
+    "zip_codes": [
+      "21713"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Sandy Hook",
+    "county": "Washington",
+    "zip_codes": [
+      "21758"
+    ],
+    "population": 196
+  },
+  {
+    "city": "Savage",
+    "county": "Howard",
+    "zip_codes": [
+      "20763",
+      "20794"
+    ],
+    "population": 8284
+  },
+  {
+    "city": "Scaggsville",
+    "county": "Howard",
+    "zip_codes": [
+      "20723"
+    ],
+    "population": 10441
+  },
+  {
+    "city": "Seabrook",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20770",
+      "20784"
+    ],
+    "population": 18495
+  },
+  {
+    "city": "Seat Pleasant",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743"
+    ],
+    "population": 4515
+  },
+  {
+    "city": "Secretary",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21664"
+    ],
+    "population": 598
+  },
+  {
+    "city": "Severn",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20794",
+      "21061",
+      "21076",
+      "21077",
+      "21144"
+    ],
+    "population": 58041
+  },
+  {
+    "city": "Severna Park",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "21108",
+      "21122",
+      "21146"
+    ],
+    "population": 39499
+  },
+  {
+    "city": "Shady Side",
+    "county": "Anne Arundel",
+    "zip_codes": [
+      "20733",
+      "20764",
+      "20778"
+    ],
+    "population": 4460
+  },
+  {
+    "city": "Shaft",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 298
+  },
+  {
+    "city": "Sharpsburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21782"
+    ],
+    "population": 596
+  },
+  {
+    "city": "Sharptown",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21861"
+    ],
+    "population": 764
+  },
+  {
+    "city": "Silver Hill",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20746"
+    ],
+    "population": 5068
+  },
+  {
+    "city": "Silver Spring",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815",
+      "20901",
+      "20903",
+      "20910",
+      "20912"
+    ],
+    "population": 82129
+  },
+  {
+    "city": "Smith Island",
+    "county": "Somerset",
+    "zip_codes": [
+      "21824",
+      "21866"
+    ],
+    "population": 340
+  },
+  {
+    "city": "Smithsburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21783"
+    ],
+    "population": 3069
+  },
+  {
+    "city": "Snow Hill",
+    "county": "Worcester",
+    "zip_codes": [
+      "21863"
+    ],
+    "population": 2545
+  },
+  {
+    "city": "Solomons",
+    "county": "Calvert",
+    "zip_codes": [
+      "20629",
+      "20688"
+    ],
+    "population": 2180
+  },
+  {
+    "city": "Somerset",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20815",
+      "20816"
+    ],
+    "population": 1020
+  },
+  {
+    "city": "South Kensington",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20814",
+      "20895",
+      "20910"
+    ],
+    "population": 8057
+  },
+  {
+    "city": "South Laurel",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20705",
+      "20707",
+      "20708"
+    ],
+    "population": 27736
+  },
+  {
+    "city": "Spencerville",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20868",
+      "20905"
+    ],
+    "population": 1433
+  },
+  {
+    "city": "Spring Gap",
+    "county": "Allegany",
+    "zip_codes": [
+      "21502",
+      "21560"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Spring Ridge",
+    "county": "Frederick",
+    "zip_codes": [
+      "21701"
+    ],
+    "population": 5720
+  },
+  {
+    "city": "Springdale",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20706",
+      "20721",
+      "20774"
+    ],
+    "population": 4476
+  },
+  {
+    "city": "St. George Island",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20674"
+    ],
+    "population": 38
+  },
+  {
+    "city": "St. James",
+    "county": "Washington",
+    "zip_codes": [
+      "21733",
+      "21740",
+      "21781"
+    ],
+    "population": 4581
+  },
+  {
+    "city": "St. Leonard",
+    "county": "Calvert",
+    "zip_codes": [
+      "20676",
+      "20685"
+    ],
+    "population": 562
+  },
+  {
+    "city": "St. Michaels",
+    "county": "Talbot",
+    "zip_codes": [
+      "21663"
+    ],
+    "population": 1381
+  },
+  {
+    "city": "Stevensville",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21666"
+    ],
+    "population": 8693
+  },
+  {
+    "city": "Still Pond",
+    "county": "Kent",
+    "zip_codes": [
+      "21667"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Stockton",
+    "county": "Worcester",
+    "zip_codes": [
+      "21864"
+    ],
+    "population": 85
+  },
+  {
+    "city": "Sudlersville",
+    "county": "Queen Anne's",
+    "zip_codes": [
+      "21668"
+    ],
+    "population": 361
+  },
+  {
+    "city": "Suitland",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20746",
+      "20747"
+    ],
+    "population": 24667
+  },
+  {
+    "city": "Summerfield",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743",
+      "20785"
+    ],
+    "population": 15635
+  },
+  {
+    "city": "Swanton",
+    "county": "Garrett",
+    "zip_codes": [
+      "21561"
+    ],
+    "population": 0
+  },
+  {
+    "city": "Sykesville",
+    "county": "Carroll",
+    "zip_codes": [
+      "21784"
+    ],
+    "population": 4346
+  },
+  {
+    "city": "Takoma Park",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20910",
+      "20912"
+    ],
+    "population": 17522
+  },
+  {
+    "city": "Tall Timbers",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20690",
+      "20692"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Taneytown",
+    "county": "Carroll",
+    "zip_codes": [
+      "21787"
+    ],
+    "population": 7295
+  },
+  {
+    "city": "Taylors Island",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21669"
+    ],
+    "population": 49
+  },
+  {
+    "city": "Temple Hills",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20744",
+      "20748"
+    ],
+    "population": 8740
+  },
+  {
+    "city": "Templeville",
+    "county": "Caroline",
+    "zip_codes": [
+      "21649"
+    ],
+    "population": 151
+  },
+  {
+    "city": "Ten Mile Creek",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20841",
+      "20871"
+    ],
+    "population": 1180
+  },
+  {
+    "city": "Thurmont",
+    "county": "Frederick",
+    "zip_codes": [
+      "21788"
+    ],
+    "population": 6439
+  },
+  {
+    "city": "Tilghman Island",
+    "county": "Talbot",
+    "zip_codes": [
+      "21665",
+      "21671"
+    ],
+    "population": 874
+  },
+  {
+    "city": "Tilghmanton",
+    "county": "Washington",
+    "zip_codes": [
+      "21713",
+      "21733"
+    ],
+    "population": 267
+  },
+  {
+    "city": "Timonium",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21093"
+    ],
+    "population": 10880
+  },
+  {
+    "city": "Tolchester",
+    "county": "Kent",
+    "zip_codes": [
+      "21620"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Towson",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21204",
+      "21209",
+      "21210",
+      "21212",
+      "21239",
+      "21252",
+      "21285",
+      "21286"
+    ],
+    "population": 57683
+  },
+  {
+    "city": "Trappe",
+    "county": "Talbot",
+    "zip_codes": [
+      "21673"
+    ],
+    "population": 1112
+  },
+  {
+    "city": "Travilah",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20850",
+      "20854",
+      "20878"
+    ],
+    "population": 11128
+  },
+  {
+    "city": "Trego-Rohrersville Station",
+    "county": "Washington",
+    "zip_codes": [
+      "21756"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Tyaskin",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21856",
+      "21865"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Union Bridge",
+    "county": "Carroll",
+    "zip_codes": [
+      "21791"
+    ],
+    "population": 941
+  },
+  {
+    "city": "University Park",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20782"
+    ],
+    "population": 2636
+  },
+  {
+    "city": "Upper Marlboro",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20772"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Urbana",
+    "county": "Frederick",
+    "zip_codes": [
+      "21704",
+      "21754"
+    ],
+    "population": 13897
+  },
+  {
+    "city": "Vale Summit",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 79
+  },
+  {
+    "city": "Vienna",
+    "county": "Dorchester",
+    "zip_codes": [
+      "21869"
+    ],
+    "population": 330
+  },
+  {
+    "city": "Waldorf",
+    "county": "Charles",
+    "zip_codes": [
+      "20601",
+      "20602",
+      "20603",
+      "20646",
+      "20675",
+      "20695"
+    ],
+    "population": 82541
+  },
+  {
+    "city": "Walker Mill",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743",
+      "20747"
+    ],
+    "population": 9626
+  },
+  {
+    "city": "Walkersville",
+    "county": "Frederick",
+    "zip_codes": [
+      "21793"
+    ],
+    "population": 6352
+  },
+  {
+    "city": "Washington Grove",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20877",
+      "20880"
+    ],
+    "population": 590
+  },
+  {
+    "city": "Waterview",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21840"
+    ],
+    "population": 0
+  },
+  {
+    "city": "West Denton",
+    "county": "Caroline",
+    "zip_codes": [
+      "21629"
+    ],
+    "population": 32
+  },
+  {
+    "city": "West Laurel",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20707"
+    ],
+    "population": 4231
+  },
+  {
+    "city": "West Ocean City",
+    "county": "Worcester",
+    "zip_codes": [
+      "21811",
+      "21842"
+    ],
+    "population": 5124
+  },
+  {
+    "city": "West Pocomoke",
+    "county": "Somerset",
+    "zip_codes": [
+      "21851",
+      "21871"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Westernport",
+    "county": "Allegany",
+    "zip_codes": [
+      "21562"
+    ],
+    "population": 1864
+  },
+  {
+    "city": "Westminster",
+    "county": "Carroll",
+    "zip_codes": [
+      "21157",
+      "21158"
+    ],
+    "population": 20257
+  },
+  {
+    "city": "Westphalia",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20743",
+      "20772",
+      "20774"
+    ],
+    "population": 12020
+  },
+  {
+    "city": "Whaleyville",
+    "county": "Worcester",
+    "zip_codes": [
+      "21872"
+    ],
+    "population": 179
+  },
+  {
+    "city": "Wheaton",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20853",
+      "20895",
+      "20902",
+      "20906"
+    ],
+    "population": 52172
+  },
+  {
+    "city": "White Marsh",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21128",
+      "21162",
+      "21236",
+      "21237"
+    ],
+    "population": 10480
+  },
+  {
+    "city": "White Oak",
+    "county": "Montgomery",
+    "zip_codes": [
+      "20901",
+      "20903",
+      "20904"
+    ],
+    "population": 16458
+  },
+  {
+    "city": "Whitehaven",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21856"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Wildewood",
+    "county": "St. Mary's",
+    "zip_codes": [
+      "20619"
+    ],
+    "population": 7765
+  },
+  {
+    "city": "Willards",
+    "county": "Wicomico",
+    "zip_codes": [
+      "21874"
+    ],
+    "population": 1273
+  },
+  {
+    "city": "Williamsport",
+    "county": "Washington",
+    "zip_codes": [
+      "21795"
+    ],
+    "population": 2133
+  },
+  {
+    "city": "Williston",
+    "county": "Caroline",
+    "zip_codes": [
+      "21629"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Wilson-Conococheague",
+    "county": "Washington",
+    "zip_codes": [
+      "21722",
+      "21740",
+      "21795"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Woodland",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 56
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Baltimore",
+    "zip_codes": [
+      "21207",
+      "21228",
+      "21229",
+      "21244"
+    ],
+    "population": 40476
+  },
+  {
+    "city": "Woodlawn",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20737",
+      "20784"
+    ],
+    "population": 7221
+  },
+  {
+    "city": "Woodmore",
+    "county": "Prince George's",
+    "zip_codes": [
+      "20721"
+    ],
+    "population": 4710
+  },
+  {
+    "city": "Woodsboro",
+    "county": "Frederick",
+    "zip_codes": [
+      "21798"
+    ],
+    "population": 1394
+  },
+  {
+    "city": "Worton",
+    "county": "Kent",
+    "zip_codes": [
+      "21678"
+    ],
+    "population": 137
+  },
+  {
+    "city": "Yarrowsburg",
+    "county": "Washington",
+    "zip_codes": [
+      "21758"
+    ],
+    "population": 64
+  },
+  {
+    "city": "Zihlman",
+    "county": "Allegany",
+    "zip_codes": [
+      "21532"
+    ],
+    "population": 305
+  }
+]

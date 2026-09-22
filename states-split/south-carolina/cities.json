@@ -1,0 +1,4074 @@
+[
+  {
+    "city": "Abbeville",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29620"
+    ],
+    "population": 4863
+  },
+  {
+    "city": "Abney Crossroads",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29067"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Adams Run",
+    "county": "Charleston",
+    "zip_codes": [
+      "29426",
+      "29449"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Aiken",
+    "county": "Aiken",
+    "zip_codes": [
+      "29801",
+      "29803"
+    ],
+    "population": 32334
+  },
+  {
+    "city": "Alcolu",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29001"
+    ],
+    "population": 426
+  },
+  {
+    "city": "Allendale",
+    "county": "Allendale",
+    "zip_codes": [
+      "29810"
+    ],
+    "population": 2595
+  },
+  {
+    "city": "Anderson",
+    "county": "Anderson",
+    "zip_codes": [
+      "29621",
+      "29624",
+      "29625"
+    ],
+    "population": 29563
+  },
+  {
+    "city": "Andrews",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29510"
+    ],
+    "population": 2558
+  },
+  {
+    "city": "Antreville",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29620",
+      "29655"
+    ],
+    "population": 253
+  },
+  {
+    "city": "Arcadia",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29301",
+      "29320"
+    ],
+    "population": 2724
+  },
+  {
+    "city": "Arcadia Lakes",
+    "county": "Richland",
+    "zip_codes": [
+      "29206",
+      "29223"
+    ],
+    "population": 843
+  },
+  {
+    "city": "Arial",
+    "county": "Pickens",
+    "zip_codes": [
+      "29640",
+      "29671"
+    ],
+    "population": 2024
+  },
+  {
+    "city": "Arkwright",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29306",
+      "29376"
+    ],
+    "population": 2910
+  },
+  {
+    "city": "Arthurtown",
+    "county": "Richland",
+    "zip_codes": [
+      "29201"
+    ],
+    "population": 3063
+  },
+  {
+    "city": "Ashwood",
+    "county": "Lee",
+    "zip_codes": [
+      "29010",
+      "29153"
+    ],
+    "population": 35
+  },
+  {
+    "city": "Atlantic Beach",
+    "county": "Horry",
+    "zip_codes": [
+      "29582"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Awendaw",
+    "county": "Charleston",
+    "zip_codes": [
+      "29429"
+    ],
+    "population": 1574
+  },
+  {
+    "city": "Aynor",
+    "county": "Horry",
+    "zip_codes": [
+      "29511",
+      "29544"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "Bamberg",
+    "county": "Bamberg",
+    "zip_codes": [
+      "29003"
+    ],
+    "population": 3036
+  },
+  {
+    "city": "Barnwell",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29812"
+    ],
+    "population": 4616
+  },
+  {
+    "city": "Batesburg-Leesville",
+    "county": "Lexington",
+    "zip_codes": [
+      "29006",
+      "29070"
+    ],
+    "population": 4935
+  },
+  {
+    "city": "Baxter Village",
+    "county": "York",
+    "zip_codes": [
+      "29708"
+    ],
+    "population": 4355
+  },
+  {
+    "city": "Beaufort",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29902",
+      "29904",
+      "29906",
+      "29907",
+      "29941"
+    ],
+    "population": 13660
+  },
+  {
+    "city": "Beech Island",
+    "county": "Aiken",
+    "zip_codes": [
+      "29842"
+    ],
+    "population": 1139
+  },
+  {
+    "city": "Belton",
+    "county": "Anderson",
+    "zip_codes": [
+      "29627"
+    ],
+    "population": 4405
+  },
+  {
+    "city": "Belvedere",
+    "county": "Aiken",
+    "zip_codes": [
+      "29841"
+    ],
+    "population": 5458
+  },
+  {
+    "city": "Ben Avon",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29302"
+    ],
+    "population": 2334
+  },
+  {
+    "city": "Bennettsville",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29512"
+    ],
+    "population": 6798
+  },
+  {
+    "city": "Berea",
+    "county": "Greenville",
+    "zip_codes": [
+      "29611",
+      "29617"
+    ],
+    "population": 16642
+  },
+  {
+    "city": "Bethune",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29009"
+    ],
+    "population": 421
+  },
+  {
+    "city": "Bishopville",
+    "county": "Lee",
+    "zip_codes": [
+      "29010"
+    ],
+    "population": 2958
+  },
+  {
+    "city": "Blacksburg",
+    "county": "Cherokee",
+    "zip_codes": [
+      "29702"
+    ],
+    "population": 2158
+  },
+  {
+    "city": "Blackville",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29817"
+    ],
+    "population": 1778
+  },
+  {
+    "city": "Blenheim",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29516"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Bluffton",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29909",
+      "29910"
+    ],
+    "population": 31323
+  },
+  {
+    "city": "Blythewood",
+    "county": "Richland",
+    "zip_codes": [
+      "29016",
+      "29130"
+    ],
+    "population": 5309
+  },
+  {
+    "city": "Boiling Springs",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29316"
+    ],
+    "population": 12609
+  },
+  {
+    "city": "Bonneau",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29431"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Bonneau Beach",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29431"
+    ],
+    "population": 1543
+  },
+  {
+    "city": "Bowman",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29018"
+    ],
+    "population": 789
+  },
+  {
+    "city": "Boykin",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29128"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Bradley",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29819"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Branchville",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29432"
+    ],
+    "population": 1169
+  },
+  {
+    "city": "Briarcliffe Acres",
+    "county": "Horry",
+    "zip_codes": [
+      "29572"
+    ],
+    "population": 499
+  },
+  {
+    "city": "Brookdale",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29115",
+      "29118"
+    ],
+    "population": 4061
+  },
+  {
+    "city": "Browntown",
+    "county": "Lee",
+    "zip_codes": [
+      "29010"
+    ],
+    "population": 80
+  },
+  {
+    "city": "Brunson",
+    "county": "Hampton",
+    "zip_codes": [
+      "29911"
+    ],
+    "population": 457
+  },
+  {
+    "city": "Bucksport",
+    "county": "Horry",
+    "zip_codes": [
+      "29527"
+    ],
+    "population": 583
+  },
+  {
+    "city": "Buffalo",
+    "county": "Union",
+    "zip_codes": [
+      "29321"
+    ],
+    "population": 1232
+  },
+  {
+    "city": "Buford",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Burnettown",
+    "county": "Aiken",
+    "zip_codes": [
+      "29816",
+      "29829",
+      "29841",
+      "29851"
+    ],
+    "population": 3090
+  },
+  {
+    "city": "Burton",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29902",
+      "29906"
+    ],
+    "population": 7132
+  },
+  {
+    "city": "Caesars Head",
+    "county": "Greenville",
+    "zip_codes": [
+      "29635"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Calhoun Falls",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29628"
+    ],
+    "population": 1897
+  },
+  {
+    "city": "Camden",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29020"
+    ],
+    "population": 8025
+  },
+  {
+    "city": "Cameron",
+    "county": "Calhoun",
+    "zip_codes": [
+      "29030"
+    ],
+    "population": 451
+  },
+  {
+    "city": "Camp Croft",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29302"
+    ],
+    "population": 1604
+  },
+  {
+    "city": "Campobello",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29322",
+      "29356"
+    ],
+    "population": 888
+  },
+  {
+    "city": "Cane Savannah",
+    "county": "Sumter",
+    "zip_codes": [
+      "29154",
+      "29168"
+    ],
+    "population": 1497
+  },
+  {
+    "city": "Capitol View",
+    "county": "Richland",
+    "zip_codes": [
+      "29209"
+    ],
+    "population": 4161
+  },
+  {
+    "city": "Carlisle",
+    "county": "Union",
+    "zip_codes": [
+      "29031"
+    ],
+    "population": 438
+  },
+  {
+    "city": "Carolina Forest",
+    "county": "Horry",
+    "zip_codes": [
+      "29579"
+    ],
+    "population": 26373
+  },
+  {
+    "city": "Cash",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29520"
+    ],
+    "population": 645
+  },
+  {
+    "city": "Catawba",
+    "county": "York",
+    "zip_codes": [
+      "29704",
+      "29730"
+    ],
+    "population": 1225
+  },
+  {
+    "city": "Cateechee",
+    "county": "Pickens",
+    "zip_codes": [
+      "29630"
+    ],
+    "population": 988
+  },
+  {
+    "city": "Cayce",
+    "county": "Lexington",
+    "zip_codes": [
+      "29033",
+      "29170",
+      "29172",
+      "29201",
+      "29209"
+    ],
+    "population": 13718
+  },
+  {
+    "city": "Centenary",
+    "county": "Marion",
+    "zip_codes": [
+      "29519",
+      "29571"
+    ],
+    "population": 453
+  },
+  {
+    "city": "Centerville",
+    "county": "Anderson",
+    "zip_codes": [
+      "29625"
+    ],
+    "population": 6860
+  },
+  {
+    "city": "Central",
+    "county": "Pickens",
+    "zip_codes": [
+      "29630"
+    ],
+    "population": 5299
+  },
+  {
+    "city": "Central Pacolet",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29372"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Chapin",
+    "county": "Lexington",
+    "zip_codes": [
+      "29036"
+    ],
+    "population": 1410
+  },
+  {
+    "city": "Charleston",
+    "county": "Charleston",
+    "zip_codes": [
+      "29401",
+      "29403",
+      "29405",
+      "29407",
+      "29409",
+      "29412",
+      "29414",
+      "29424",
+      "29425",
+      "29455",
+      "29492"
+    ],
+    "population": 152014
+  },
+  {
+    "city": "Cheraw",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29520"
+    ],
+    "population": 5024
+  },
+  {
+    "city": "Cherokee Falls",
+    "county": "Cherokee",
+    "zip_codes": [
+      "29702"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Cherryvale",
+    "county": "Sumter",
+    "zip_codes": [
+      "29154"
+    ],
+    "population": 3136
+  },
+  {
+    "city": "Chesnee",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29323"
+    ],
+    "population": 804
+  },
+  {
+    "city": "Chester",
+    "county": "Chester",
+    "zip_codes": [
+      "29706"
+    ],
+    "population": 5241
+  },
+  {
+    "city": "Chesterfield",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29709"
+    ],
+    "population": 1497
+  },
+  {
+    "city": "Chickasaw Point",
+    "county": "Oconee",
+    "zip_codes": [
+      "29643",
+      "29693"
+    ],
+    "population": 730
+  },
+  {
+    "city": "City View",
+    "county": "Greenville",
+    "zip_codes": [
+      "29601",
+      "29611"
+    ],
+    "population": 1172
+  },
+  {
+    "city": "Clarks Hill",
+    "county": "McCormick",
+    "zip_codes": [
+      "29821"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Clearwater",
+    "county": "Aiken",
+    "zip_codes": [
+      "29841",
+      "29842"
+    ],
+    "population": 3124
+  },
+  {
+    "city": "Clemson",
+    "county": "Pickens",
+    "zip_codes": [
+      "29630",
+      "29631",
+      "29670"
+    ],
+    "population": 17759
+  },
+  {
+    "city": "Clemson University",
+    "county": "Pickens",
+    "zip_codes": [
+      "29631",
+      "29634"
+    ],
+    "population": 6434
+  },
+  {
+    "city": "Clifton",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29307",
+      "29324"
+    ],
+    "population": 861
+  },
+  {
+    "city": "Clinton",
+    "county": "Laurens",
+    "zip_codes": [
+      "29325"
+    ],
+    "population": 7624
+  },
+  {
+    "city": "Clio",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29525"
+    ],
+    "population": 591
+  },
+  {
+    "city": "Clover",
+    "county": "York",
+    "zip_codes": [
+      "29710"
+    ],
+    "population": 7013
+  },
+  {
+    "city": "Cokesbury",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29653"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Columbia",
+    "county": "Richland",
+    "zip_codes": [
+      "29044",
+      "29045",
+      "29201",
+      "29203",
+      "29204",
+      "29205",
+      "29206",
+      "29207",
+      "29208",
+      "29209",
+      "29210",
+      "29212",
+      "29225"
+    ],
+    "population": 138019
+  },
+  {
+    "city": "Conestee",
+    "county": "Greenville",
+    "zip_codes": [
+      "29605"
+    ],
+    "population": 1175
+  },
+  {
+    "city": "Converse",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29307",
+      "29329"
+    ],
+    "population": 424
+  },
+  {
+    "city": "Conway",
+    "county": "Horry",
+    "zip_codes": [
+      "29526",
+      "29527"
+    ],
+    "population": 26082
+  },
+  {
+    "city": "Coosawhatchie",
+    "county": "Jasper",
+    "zip_codes": [
+      "29912",
+      "29936"
+    ],
+    "population": 37
+  },
+  {
+    "city": "Cope",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29038"
+    ],
+    "population": 27
+  },
+  {
+    "city": "Cordova",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29039"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Coronaca",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29649"
+    ],
+    "population": 46
+  },
+  {
+    "city": "Cottageville",
+    "county": "Colleton",
+    "zip_codes": [
+      "29435"
+    ],
+    "population": 1154
+  },
+  {
+    "city": "Coward",
+    "county": "Florence",
+    "zip_codes": [
+      "29530",
+      "29591"
+    ],
+    "population": 668
+  },
+  {
+    "city": "Cowpens",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29330"
+    ],
+    "population": 2031
+  },
+  {
+    "city": "Cross Anchor",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29331",
+      "29335"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Cross Hill",
+    "county": "Laurens",
+    "zip_codes": [
+      "29332"
+    ],
+    "population": 502
+  },
+  {
+    "city": "Dacusville",
+    "county": "Pickens",
+    "zip_codes": [
+      "29640"
+    ],
+    "population": 216
+  },
+  {
+    "city": "Dale",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29940"
+    ],
+    "population": 622
+  },
+  {
+    "city": "Dalzell",
+    "county": "Sumter",
+    "zip_codes": [
+      "29040",
+      "29153"
+    ],
+    "population": 2949
+  },
+  {
+    "city": "Danwood",
+    "county": "Florence",
+    "zip_codes": [
+      "29505",
+      "29541"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Darlington",
+    "county": "Darlington",
+    "zip_codes": [
+      "29532"
+    ],
+    "population": 6128
+  },
+  {
+    "city": "Daufuskie Island",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29915"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Daviston",
+    "county": "Marion",
+    "zip_codes": [
+      "29546"
+    ],
+    "population": 263
+  },
+  {
+    "city": "DeBordieu Colony",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29440"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Denmark",
+    "county": "Bamberg",
+    "zip_codes": [
+      "29042"
+    ],
+    "population": 3141
+  },
+  {
+    "city": "Dentsville",
+    "county": "Richland",
+    "zip_codes": [
+      "29203",
+      "29206",
+      "29223"
+    ],
+    "population": 15396
+  },
+  {
+    "city": "Dillon",
+    "county": "Dillon",
+    "zip_codes": [
+      "29536"
+    ],
+    "population": 6406
+  },
+  {
+    "city": "Donalds",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29638"
+    ],
+    "population": 352
+  },
+  {
+    "city": "Dovesville",
+    "county": "Darlington",
+    "zip_codes": [
+      "29540"
+    ],
+    "population": 1014
+  },
+  {
+    "city": "Drayton",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29307",
+      "29333"
+    ],
+    "population": 1043
+  },
+  {
+    "city": "Due West",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29639"
+    ],
+    "population": 1185
+  },
+  {
+    "city": "Dunbar",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29440"
+    ],
+    "population": 750
+  },
+  {
+    "city": "Duncan",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29334",
+      "29365",
+      "29377",
+      "29651"
+    ],
+    "population": 4175
+  },
+  {
+    "city": "Dunean",
+    "county": "Greenville",
+    "zip_codes": [
+      "29601",
+      "29605",
+      "29611"
+    ],
+    "population": 3716
+  },
+  {
+    "city": "Easley",
+    "county": "Pickens",
+    "zip_codes": [
+      "29640",
+      "29642"
+    ],
+    "population": 23942
+  },
+  {
+    "city": "East Camden",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29020"
+    ],
+    "population": 4210
+  },
+  {
+    "city": "East Gaffney",
+    "county": "Cherokee",
+    "zip_codes": [
+      "29340",
+      "29341"
+    ],
+    "population": 3169
+  },
+  {
+    "city": "East Sumter",
+    "county": "Sumter",
+    "zip_codes": [
+      "29153"
+    ],
+    "population": 852
+  },
+  {
+    "city": "Eastover",
+    "county": "Richland",
+    "zip_codes": [
+      "29044"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Edgefield",
+    "county": "Edgefield",
+    "zip_codes": [
+      "29824"
+    ],
+    "population": 3977
+  },
+  {
+    "city": "Edisto",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29115"
+    ],
+    "population": 2261
+  },
+  {
+    "city": "Edisto Beach",
+    "county": "Colleton",
+    "zip_codes": [
+      "29438"
+    ],
+    "population": 987
+  },
+  {
+    "city": "Edmund",
+    "county": "Lexington",
+    "zip_codes": [
+      "29073"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Ehrhardt",
+    "county": "Bamberg",
+    "zip_codes": [
+      "29081"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Elgin",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29045"
+    ],
+    "population": 2176
+  },
+  {
+    "city": "Elgin",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 2258
+  },
+  {
+    "city": "Elko",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29826",
+      "29853"
+    ],
+    "population": 198
+  },
+  {
+    "city": "Elliott",
+    "county": "Lee",
+    "zip_codes": [
+      "29010",
+      "29046",
+      "29080"
+    ],
+    "population": 347
+  },
+  {
+    "city": "Elloree",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29047"
+    ],
+    "population": 1005
+  },
+  {
+    "city": "Enoree",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29335"
+    ],
+    "population": 472
+  },
+  {
+    "city": "Estill",
+    "county": "Hampton",
+    "zip_codes": [
+      "29918"
+    ],
+    "population": 2287
+  },
+  {
+    "city": "Eureka Mill",
+    "county": "Chester",
+    "zip_codes": [
+      "29706"
+    ],
+    "population": 1732
+  },
+  {
+    "city": "Eutawville",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29048"
+    ],
+    "population": 530
+  },
+  {
+    "city": "Fair Play",
+    "county": "Oconee",
+    "zip_codes": [
+      "29643"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Fairfax",
+    "county": "Allendale",
+    "zip_codes": [
+      "29827"
+    ],
+    "population": 2037
+  },
+  {
+    "city": "Fairforest",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29301"
+    ],
+    "population": 1711
+  },
+  {
+    "city": "Fairview Crossroads",
+    "county": "Lexington",
+    "zip_codes": [
+      "29070"
+    ],
+    "population": 523
+  },
+  {
+    "city": "Fingerville",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29338",
+      "29349"
+    ],
+    "population": 238
+  },
+  {
+    "city": "Finklea",
+    "county": "Horry",
+    "zip_codes": [
+      "29569"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Five Forks",
+    "county": "Greenville",
+    "zip_codes": [
+      "29651",
+      "29681"
+    ],
+    "population": 19093
+  },
+  {
+    "city": "Florence",
+    "county": "Florence",
+    "zip_codes": [
+      "29501",
+      "29505",
+      "29506",
+      "29541"
+    ],
+    "population": 40205
+  },
+  {
+    "city": "Floydale",
+    "county": "Dillon",
+    "zip_codes": [
+      "29536",
+      "29565"
+    ],
+    "population": 236
+  },
+  {
+    "city": "Folly Beach",
+    "county": "Charleston",
+    "zip_codes": [
+      "29412",
+      "29439"
+    ],
+    "population": 958
+  },
+  {
+    "city": "Forest Acres",
+    "county": "Richland",
+    "zip_codes": [
+      "29204",
+      "29206",
+      "29223"
+    ],
+    "population": 10491
+  },
+  {
+    "city": "Forestbrook",
+    "county": "Horry",
+    "zip_codes": [
+      "29579",
+      "29588"
+    ],
+    "population": 7450
+  },
+  {
+    "city": "Foreston",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29102"
+    ],
+    "population": 66
+  },
+  {
+    "city": "Fort Lawn",
+    "county": "Chester",
+    "zip_codes": [
+      "29714"
+    ],
+    "population": 1144
+  },
+  {
+    "city": "Fort Mill",
+    "county": "York",
+    "zip_codes": [
+      "29708",
+      "29715"
+    ],
+    "population": 28281
+  },
+  {
+    "city": "Fountain Inn",
+    "county": "Greenville",
+    "zip_codes": [
+      "29644",
+      "29681"
+    ],
+    "population": 11307
+  },
+  {
+    "city": "Fripp Island",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29920"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Furman",
+    "county": "Hampton",
+    "zip_codes": [
+      "29918",
+      "29921"
+    ],
+    "population": 747
+  },
+  {
+    "city": "Gadsden",
+    "county": "Richland",
+    "zip_codes": [
+      "29052",
+      "29061"
+    ],
+    "population": 1131
+  },
+  {
+    "city": "Gaffney",
+    "county": "Cherokee",
+    "zip_codes": [
+      "29340",
+      "29341"
+    ],
+    "population": 12612
+  },
+  {
+    "city": "Gantt",
+    "county": "Greenville",
+    "zip_codes": [
+      "29605",
+      "29673"
+    ],
+    "population": 15057
+  },
+  {
+    "city": "Garden City",
+    "county": "Horry",
+    "zip_codes": [
+      "29575",
+      "29576"
+    ],
+    "population": 10820
+  },
+  {
+    "city": "Gaston",
+    "county": "Lexington",
+    "zip_codes": [
+      "29053"
+    ],
+    "population": 2026
+  },
+  {
+    "city": "Gayle Mill",
+    "county": "Chester",
+    "zip_codes": [
+      "29706"
+    ],
+    "population": 1119
+  },
+  {
+    "city": "Georgetown",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29440"
+    ],
+    "population": 8511
+  },
+  {
+    "city": "Gifford",
+    "county": "Hampton",
+    "zip_codes": [
+      "29923"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Gilbert",
+    "county": "Lexington",
+    "zip_codes": [
+      "29054"
+    ],
+    "population": 563
+  },
+  {
+    "city": "Gillisonville",
+    "county": "Jasper",
+    "zip_codes": [
+      "29936"
+    ],
+    "population": 317
+  },
+  {
+    "city": "Glendale",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29302",
+      "29346"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Glenn Springs",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29302",
+      "29374"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Gloverville",
+    "county": "Aiken",
+    "zip_codes": [
+      "29828",
+      "29851"
+    ],
+    "population": 2418
+  },
+  {
+    "city": "Golden Grove",
+    "county": "Greenville",
+    "zip_codes": [
+      "29673"
+    ],
+    "population": 3084
+  },
+  {
+    "city": "Goose Creek",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29445",
+      "29461",
+      "29486"
+    ],
+    "population": 46964
+  },
+  {
+    "city": "Govan",
+    "county": "Bamberg",
+    "zip_codes": [
+      "29843"
+    ],
+    "population": 61
+  },
+  {
+    "city": "Gramling",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29322",
+      "29349"
+    ],
+    "population": 89
+  },
+  {
+    "city": "Graniteville",
+    "county": "Aiken",
+    "zip_codes": [
+      "29829",
+      "29851"
+    ],
+    "population": 2176
+  },
+  {
+    "city": "Gray Court",
+    "county": "Laurens",
+    "zip_codes": [
+      "29645"
+    ],
+    "population": 731
+  },
+  {
+    "city": "Great Falls",
+    "county": "Chester",
+    "zip_codes": [
+      "29055"
+    ],
+    "population": 1741
+  },
+  {
+    "city": "Greeleyville",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "29056"
+    ],
+    "population": 364
+  },
+  {
+    "city": "Green Sea",
+    "county": "Horry",
+    "zip_codes": [
+      "29545"
+    ],
+    "population": 58
+  },
+  {
+    "city": "Greenville",
+    "county": "Greenville",
+    "zip_codes": [
+      "29601",
+      "29605",
+      "29607",
+      "29609",
+      "29611",
+      "29614",
+      "29615"
+    ],
+    "population": 71755
+  },
+  {
+    "city": "Greenwood",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29646",
+      "29649"
+    ],
+    "population": 22527
+  },
+  {
+    "city": "Greer",
+    "county": "Greenville",
+    "zip_codes": [
+      "29334",
+      "29365",
+      "29650",
+      "29651",
+      "29687"
+    ],
+    "population": 39191
+  },
+  {
+    "city": "Grover",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29477"
+    ],
+    "population": 390
+  },
+  {
+    "city": "Hamer",
+    "county": "Dillon",
+    "zip_codes": [
+      "29536",
+      "29547"
+    ],
+    "population": 735
+  },
+  {
+    "city": "Hampton",
+    "county": "Hampton",
+    "zip_codes": [
+      "29924",
+      "29944"
+    ],
+    "population": 2691
+  },
+  {
+    "city": "Hanahan",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29406",
+      "29410"
+    ],
+    "population": 21119
+  },
+  {
+    "city": "Harbor Island",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29920"
+    ],
+    "population": 310
+  },
+  {
+    "city": "Hardeeville",
+    "county": "Jasper",
+    "zip_codes": [
+      "29909",
+      "29927",
+      "29936"
+    ],
+    "population": 9293
+  },
+  {
+    "city": "Harleyville",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29448"
+    ],
+    "population": 653
+  },
+  {
+    "city": "Hartsville",
+    "county": "Darlington",
+    "zip_codes": [
+      "29550"
+    ],
+    "population": 7422
+  },
+  {
+    "city": "Heath Springs",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29058"
+    ],
+    "population": 825
+  },
+  {
+    "city": "Helena",
+    "county": "Newberry",
+    "zip_codes": [
+      "29108"
+    ],
+    "population": 571
+  },
+  {
+    "city": "Hemingway",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "29554"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Hickory Grove",
+    "county": "York",
+    "zip_codes": [
+      "29717"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Hilda",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29812",
+      "29817"
+    ],
+    "population": 506
+  },
+  {
+    "city": "Hilltop",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29303"
+    ],
+    "population": 3058
+  },
+  {
+    "city": "Hilton Head Island",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29926",
+      "29928"
+    ],
+    "population": 37805
+  },
+  {
+    "city": "Hodges",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29653"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Holly Hill",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29059"
+    ],
+    "population": 1415
+  },
+  {
+    "city": "Hollywood",
+    "county": "Charleston",
+    "zip_codes": [
+      "29449",
+      "29470"
+    ],
+    "population": 5330
+  },
+  {
+    "city": "Homeland Park",
+    "county": "Anderson",
+    "zip_codes": [
+      "29624",
+      "29626"
+    ],
+    "population": 6944
+  },
+  {
+    "city": "Homewood",
+    "county": "Horry",
+    "zip_codes": [
+      "29526"
+    ],
+    "population": 1390
+  },
+  {
+    "city": "Honea Path",
+    "county": "Anderson",
+    "zip_codes": [
+      "29654"
+    ],
+    "population": 3734
+  },
+  {
+    "city": "Hopkins",
+    "county": "Richland",
+    "zip_codes": [
+      "29061"
+    ],
+    "population": 1962
+  },
+  {
+    "city": "India Hook",
+    "county": "York",
+    "zip_codes": [
+      "29732"
+    ],
+    "population": 3794
+  },
+  {
+    "city": "Inman",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29349"
+    ],
+    "population": 3085
+  },
+  {
+    "city": "Inman Mills",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29349"
+    ],
+    "population": 896
+  },
+  {
+    "city": "Irmo",
+    "county": "Richland",
+    "zip_codes": [
+      "29063",
+      "29212"
+    ],
+    "population": 11799
+  },
+  {
+    "city": "Irwin",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 1801
+  },
+  {
+    "city": "Islandton",
+    "county": "Colleton",
+    "zip_codes": [
+      "29929"
+    ],
+    "population": 54
+  },
+  {
+    "city": "Isle of Palms",
+    "county": "Charleston",
+    "zip_codes": [
+      "29451"
+    ],
+    "population": 4350
+  },
+  {
+    "city": "Iva",
+    "county": "Anderson",
+    "zip_codes": [
+      "29655"
+    ],
+    "population": 937
+  },
+  {
+    "city": "Jackson",
+    "county": "Aiken",
+    "zip_codes": [
+      "29831"
+    ],
+    "population": 1782
+  },
+  {
+    "city": "Jacksonboro",
+    "county": "Colleton",
+    "zip_codes": [
+      "29452",
+      "29474"
+    ],
+    "population": 220
+  },
+  {
+    "city": "James Island",
+    "county": "Charleston",
+    "zip_codes": [
+      "29412"
+    ],
+    "population": 11738
+  },
+  {
+    "city": "Jamestown",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29453"
+    ],
+    "population": 70
+  },
+  {
+    "city": "Jefferson",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29718"
+    ],
+    "population": 753
+  },
+  {
+    "city": "Jenkinsville",
+    "county": "Fairfield",
+    "zip_codes": [
+      "29065"
+    ],
+    "population": 47
+  },
+  {
+    "city": "Joanna",
+    "county": "Laurens",
+    "zip_codes": [
+      "29351",
+      "29355"
+    ],
+    "population": 1375
+  },
+  {
+    "city": "Johnsonville",
+    "county": "Florence",
+    "zip_codes": [
+      "29555"
+    ],
+    "population": 1037
+  },
+  {
+    "city": "Johnston",
+    "county": "Edgefield",
+    "zip_codes": [
+      "29832"
+    ],
+    "population": 2518
+  },
+  {
+    "city": "Jonesville",
+    "county": "Union",
+    "zip_codes": [
+      "29353"
+    ],
+    "population": 1016
+  },
+  {
+    "city": "Judson",
+    "county": "Greenville",
+    "zip_codes": [
+      "29601",
+      "29611"
+    ],
+    "population": 2201
+  },
+  {
+    "city": "Keowee Key",
+    "county": "Oconee",
+    "zip_codes": [
+      "29676"
+    ],
+    "population": 3307
+  },
+  {
+    "city": "Kershaw",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29067"
+    ],
+    "population": 2220
+  },
+  {
+    "city": "Ketchuptown",
+    "county": "Horry",
+    "zip_codes": [
+      "29581"
+    ],
+    "population": 42
+  },
+  {
+    "city": "Kiawah Island",
+    "county": "Charleston",
+    "zip_codes": [
+      "29455"
+    ],
+    "population": 2196
+  },
+  {
+    "city": "Kingstree",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "29556"
+    ],
+    "population": 3161
+  },
+  {
+    "city": "Kline",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29812"
+    ],
+    "population": 135
+  },
+  {
+    "city": "La France",
+    "county": "Anderson",
+    "zip_codes": [
+      "29625",
+      "29670"
+    ],
+    "population": 915
+  },
+  {
+    "city": "Ladson",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29456",
+      "29485",
+      "29486"
+    ],
+    "population": 16261
+  },
+  {
+    "city": "Lake City",
+    "county": "Florence",
+    "zip_codes": [
+      "29560"
+    ],
+    "population": 6032
+  },
+  {
+    "city": "Lake Murray of Richland",
+    "county": "Richland",
+    "zip_codes": [
+      "29036",
+      "29063",
+      "29177"
+    ],
+    "population": 7057
+  },
+  {
+    "city": "Lake Secession",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29620",
+      "29655"
+    ],
+    "population": 1209
+  },
+  {
+    "city": "Lake View",
+    "county": "Dillon",
+    "zip_codes": [
+      "29563"
+    ],
+    "population": 661
+  },
+  {
+    "city": "Lake Wylie",
+    "county": "York",
+    "zip_codes": [
+      "29710",
+      "29745"
+    ],
+    "population": 15177
+  },
+  {
+    "city": "Lakewood",
+    "county": "Sumter",
+    "zip_codes": [
+      "29150"
+    ],
+    "population": 3154
+  },
+  {
+    "city": "Lamar",
+    "county": "Darlington",
+    "zip_codes": [
+      "29069"
+    ],
+    "population": 1446
+  },
+  {
+    "city": "Lancaster",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 8738
+  },
+  {
+    "city": "Landrum",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29356"
+    ],
+    "population": 2564
+  },
+  {
+    "city": "Lane",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "29564"
+    ],
+    "population": 531
+  },
+  {
+    "city": "Langley",
+    "county": "Aiken",
+    "zip_codes": [
+      "29828",
+      "29834",
+      "29851"
+    ],
+    "population": 1718
+  },
+  {
+    "city": "Latta",
+    "county": "Dillon",
+    "zip_codes": [
+      "29565"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "Laurel Bay",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29906"
+    ],
+    "population": 5627
+  },
+  {
+    "city": "Laurens",
+    "county": "Laurens",
+    "zip_codes": [
+      "29360"
+    ],
+    "population": 9307
+  },
+  {
+    "city": "Lesslie",
+    "county": "York",
+    "zip_codes": [
+      "29704",
+      "29730"
+    ],
+    "population": 3202
+  },
+  {
+    "city": "Lexington",
+    "county": "Lexington",
+    "zip_codes": [
+      "29072",
+      "29073"
+    ],
+    "population": 24132
+  },
+  {
+    "city": "Liberty",
+    "county": "Pickens",
+    "zip_codes": [
+      "29657"
+    ],
+    "population": 3337
+  },
+  {
+    "city": "Lincolnville",
+    "county": "Charleston",
+    "zip_codes": [
+      "29485"
+    ],
+    "population": 835
+  },
+  {
+    "city": "Litchfield Beach",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29585"
+    ],
+    "population": 9544
+  },
+  {
+    "city": "Little Mountain",
+    "county": "Newberry",
+    "zip_codes": [
+      "29075"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Little River",
+    "county": "Horry",
+    "zip_codes": [
+      "29566"
+    ],
+    "population": 10457
+  },
+  {
+    "city": "Little Rock",
+    "county": "Dillon",
+    "zip_codes": [
+      "29536",
+      "29567"
+    ],
+    "population": 560
+  },
+  {
+    "city": "Live Oak",
+    "county": "Horry",
+    "zip_codes": [
+      "29569"
+    ],
+    "population": 21
+  },
+  {
+    "city": "Livingston",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29107"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Lobeco",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29940"
+    ],
+    "population": 178
+  },
+  {
+    "city": "Lockhart",
+    "county": "Union",
+    "zip_codes": [
+      "29364"
+    ],
+    "population": 411
+  },
+  {
+    "city": "Lodge",
+    "county": "Colleton",
+    "zip_codes": [
+      "29082"
+    ],
+    "population": 150
+  },
+  {
+    "city": "Longcreek",
+    "county": "Oconee",
+    "zip_codes": [
+      "29658",
+      "29693"
+    ],
+    "population": 26
+  },
+  {
+    "city": "Loris",
+    "county": "Horry",
+    "zip_codes": [
+      "29569"
+    ],
+    "population": 2570
+  },
+  {
+    "city": "Lowndesville",
+    "county": "Abbeville",
+    "zip_codes": [
+      "29655",
+      "29659"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Lowrys",
+    "county": "Chester",
+    "zip_codes": [
+      "29706"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Lugoff",
+    "county": "Kershaw",
+    "zip_codes": [
+      "29045",
+      "29078"
+    ],
+    "population": 9475
+  },
+  {
+    "city": "Luray",
+    "county": "Hampton",
+    "zip_codes": [
+      "29932"
+    ],
+    "population": 221
+  },
+  {
+    "city": "Lydia",
+    "county": "Darlington",
+    "zip_codes": [
+      "29069",
+      "29079",
+      "29550"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Lyman",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29334",
+      "29365",
+      "29385",
+      "29651"
+    ],
+    "population": 6317
+  },
+  {
+    "city": "Lynchburg",
+    "county": "Lee",
+    "zip_codes": [
+      "29080"
+    ],
+    "population": 373
+  },
+  {
+    "city": "Manning",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29102"
+    ],
+    "population": 3843
+  },
+  {
+    "city": "Manville",
+    "county": "Lee",
+    "zip_codes": [
+      "29010"
+    ],
+    "population": 812
+  },
+  {
+    "city": "Marion",
+    "county": "Marion",
+    "zip_codes": [
+      "29571",
+      "29574"
+    ],
+    "population": 6338
+  },
+  {
+    "city": "Mauldin",
+    "county": "Greenville",
+    "zip_codes": [
+      "29605",
+      "29607",
+      "29662",
+      "29680",
+      "29681"
+    ],
+    "population": 25985
+  },
+  {
+    "city": "Mayesville",
+    "county": "Sumter",
+    "zip_codes": [
+      "29104"
+    ],
+    "population": 801
+  },
+  {
+    "city": "Mayo",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29323",
+      "29330",
+      "29368"
+    ],
+    "population": 1963
+  },
+  {
+    "city": "McBee",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29101"
+    ],
+    "population": 1000
+  },
+  {
+    "city": "McClellanville",
+    "county": "Charleston",
+    "zip_codes": [
+      "29458"
+    ],
+    "population": 734
+  },
+  {
+    "city": "McColl",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29570"
+    ],
+    "population": 2453
+  },
+  {
+    "city": "McConnells",
+    "county": "York",
+    "zip_codes": [
+      "29726"
+    ],
+    "population": 312
+  },
+  {
+    "city": "McCormick",
+    "county": "McCormick",
+    "zip_codes": [
+      "29835",
+      "29899"
+    ],
+    "population": 2681
+  },
+  {
+    "city": "Meggett",
+    "county": "Charleston",
+    "zip_codes": [
+      "29449"
+    ],
+    "population": 1274
+  },
+  {
+    "city": "Modoc",
+    "county": "McCormick",
+    "zip_codes": [
+      "29838"
+    ],
+    "population": 576
+  },
+  {
+    "city": "Monarch Mill",
+    "county": "Union",
+    "zip_codes": [
+      "29379"
+    ],
+    "population": 1828
+  },
+  {
+    "city": "Moncks Corner",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29461"
+    ],
+    "population": 14362
+  },
+  {
+    "city": "Monetta",
+    "county": "Saluda",
+    "zip_codes": [
+      "29105"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Mount Carmel",
+    "county": "McCormick",
+    "zip_codes": [
+      "29840",
+      "29848"
+    ],
+    "population": 338
+  },
+  {
+    "city": "Mount Croghan",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29727"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Mount Pleasant",
+    "county": "Charleston",
+    "zip_codes": [
+      "29429",
+      "29464",
+      "29466"
+    ],
+    "population": 92662
+  },
+  {
+    "city": "Mountville",
+    "county": "Laurens",
+    "zip_codes": [
+      "29370"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Mulberry",
+    "county": "Sumter",
+    "zip_codes": [
+      "29150",
+      "29153"
+    ],
+    "population": 230
+  },
+  {
+    "city": "Mullins",
+    "county": "Marion",
+    "zip_codes": [
+      "29574"
+    ],
+    "population": 3965
+  },
+  {
+    "city": "Murphys Estates",
+    "county": "Edgefield",
+    "zip_codes": [
+      "29860"
+    ],
+    "population": 1187
+  },
+  {
+    "city": "Murrells Inlet",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29576"
+    ],
+    "population": 10087
+  },
+  {
+    "city": "Myrtle Beach",
+    "county": "Horry",
+    "zip_codes": [
+      "29572",
+      "29577",
+      "29579"
+    ],
+    "population": 37214
+  },
+  {
+    "city": "Neeses",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29107"
+    ],
+    "population": 431
+  },
+  {
+    "city": "New Ellenton",
+    "county": "Aiken",
+    "zip_codes": [
+      "29803",
+      "29809"
+    ],
+    "population": 2604
+  },
+  {
+    "city": "Newberry",
+    "county": "Newberry",
+    "zip_codes": [
+      "29108"
+    ],
+    "population": 10733
+  },
+  {
+    "city": "Newport",
+    "county": "York",
+    "zip_codes": [
+      "29732",
+      "29745"
+    ],
+    "population": 4142
+  },
+  {
+    "city": "Newry",
+    "county": "Oconee",
+    "zip_codes": [
+      "29665"
+    ],
+    "population": 393
+  },
+  {
+    "city": "Newtown",
+    "county": "Dillon",
+    "zip_codes": [
+      "29536"
+    ],
+    "population": 969
+  },
+  {
+    "city": "Nichols",
+    "county": "Marion",
+    "zip_codes": [
+      "29581"
+    ],
+    "population": 195
+  },
+  {
+    "city": "Ninety Six",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29666"
+    ],
+    "population": 2635
+  },
+  {
+    "city": "Norris",
+    "county": "Pickens",
+    "zip_codes": [
+      "29630",
+      "29657",
+      "29667"
+    ],
+    "population": 838
+  },
+  {
+    "city": "North",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29112"
+    ],
+    "population": 783
+  },
+  {
+    "city": "North Augusta",
+    "county": "Aiken",
+    "zip_codes": [
+      "29841",
+      "29842",
+      "29860"
+    ],
+    "population": 24928
+  },
+  {
+    "city": "North Charleston",
+    "county": "Charleston",
+    "zip_codes": [
+      "29404",
+      "29405",
+      "29406",
+      "29414",
+      "29418",
+      "29420",
+      "29456",
+      "29485"
+    ],
+    "population": 117460
+  },
+  {
+    "city": "North Hartsville",
+    "county": "Darlington",
+    "zip_codes": [
+      "29550"
+    ],
+    "population": 3217
+  },
+  {
+    "city": "North Myrtle Beach",
+    "county": "Horry",
+    "zip_codes": [
+      "29566",
+      "29568",
+      "29572",
+      "29582"
+    ],
+    "population": 19343
+  },
+  {
+    "city": "North Santee",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29148"
+    ],
+    "population": 528
+  },
+  {
+    "city": "Northlake",
+    "county": "Anderson",
+    "zip_codes": [
+      "29621",
+      "29625"
+    ],
+    "population": 3848
+  },
+  {
+    "city": "Norway",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29113"
+    ],
+    "population": 279
+  },
+  {
+    "city": "Oak Grove",
+    "county": "Lexington",
+    "zip_codes": [
+      "29073",
+      "29169",
+      "29170"
+    ],
+    "population": 12031
+  },
+  {
+    "city": "Oakland",
+    "county": "Sumter",
+    "zip_codes": [
+      "29040",
+      "29154"
+    ],
+    "population": 901
+  },
+  {
+    "city": "Olanta",
+    "county": "Florence",
+    "zip_codes": [
+      "29114"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Olar",
+    "county": "Bamberg",
+    "zip_codes": [
+      "29843"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Olympia",
+    "county": "Richland",
+    "zip_codes": [
+      "29201"
+    ],
+    "population": 1301
+  },
+  {
+    "city": "Orangeburg",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29115",
+      "29117",
+      "29118"
+    ],
+    "population": 13189
+  },
+  {
+    "city": "Oswego",
+    "county": "Sumter",
+    "zip_codes": [
+      "29153"
+    ],
+    "population": 211
+  },
+  {
+    "city": "Pacolet",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29302",
+      "29372",
+      "29373"
+    ],
+    "population": 2164
+  },
+  {
+    "city": "Pageland",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29728"
+    ],
+    "population": 2476
+  },
+  {
+    "city": "Pamplico",
+    "county": "Florence",
+    "zip_codes": [
+      "29583"
+    ],
+    "population": 952
+  },
+  {
+    "city": "Parker",
+    "county": "Greenville",
+    "zip_codes": [
+      "29611",
+      "29617"
+    ],
+    "population": 12564
+  },
+  {
+    "city": "Parksville",
+    "county": "McCormick",
+    "zip_codes": [
+      "29844",
+      "29845"
+    ],
+    "population": 90
+  },
+  {
+    "city": "Patrick",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29584"
+    ],
+    "population": 341
+  },
+  {
+    "city": "Pauline",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29374"
+    ],
+    "population": 255
+  },
+  {
+    "city": "Pawleys Island",
+    "county": "Georgetown",
+    "zip_codes": [
+      "29585"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Paxville",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29102",
+      "29125"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Peak",
+    "county": "Newberry",
+    "zip_codes": [
+      "29075",
+      "29122"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Pelion",
+    "county": "Lexington",
+    "zip_codes": [
+      "29123"
+    ],
+    "population": 1147
+  },
+  {
+    "city": "Pelzer",
+    "county": "Anderson",
+    "zip_codes": [
+      "29669"
+    ],
+    "population": 1570
+  },
+  {
+    "city": "Pendleton",
+    "county": "Anderson",
+    "zip_codes": [
+      "29670"
+    ],
+    "population": 3542
+  },
+  {
+    "city": "Perry",
+    "county": "Aiken",
+    "zip_codes": [
+      "29137",
+      "29164"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Pickens",
+    "county": "Pickens",
+    "zip_codes": [
+      "29671"
+    ],
+    "population": 3386
+  },
+  {
+    "city": "Piedmont",
+    "county": "Anderson",
+    "zip_codes": [
+      "29673"
+    ],
+    "population": 5786
+  },
+  {
+    "city": "Pimlico",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29461"
+    ],
+    "population": 1940
+  },
+  {
+    "city": "Pine Ridge",
+    "county": "Darlington",
+    "zip_codes": [
+      "29550"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Pine Ridge",
+    "county": "Lexington",
+    "zip_codes": [
+      "29053",
+      "29172"
+    ],
+    "population": 2709
+  },
+  {
+    "city": "Pinewood",
+    "county": "Sumter",
+    "zip_codes": [
+      "29125"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Pinopolis",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29461",
+      "29469"
+    ],
+    "population": 950
+  },
+  {
+    "city": "Plum Branch",
+    "county": "McCormick",
+    "zip_codes": [
+      "29835",
+      "29845"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Pomaria",
+    "county": "Newberry",
+    "zip_codes": [
+      "29126"
+    ],
+    "population": 103
+  },
+  {
+    "city": "Port Royal",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29902",
+      "29905",
+      "29906",
+      "29909",
+      "29935"
+    ],
+    "population": 15047
+  },
+  {
+    "city": "Powdersville",
+    "county": "Anderson",
+    "zip_codes": [
+      "29611",
+      "29642",
+      "29673"
+    ],
+    "population": 11321
+  },
+  {
+    "city": "Princeton",
+    "county": "Laurens",
+    "zip_codes": [
+      "29654"
+    ],
+    "population": 88
+  },
+  {
+    "city": "Privateer",
+    "county": "Sumter",
+    "zip_codes": [
+      "29154"
+    ],
+    "population": 2294
+  },
+  {
+    "city": "Promised Land",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29646",
+      "29819"
+    ],
+    "population": 127
+  },
+  {
+    "city": "Prosperity",
+    "county": "Newberry",
+    "zip_codes": [
+      "29127"
+    ],
+    "population": 1198
+  },
+  {
+    "city": "Quinby",
+    "county": "Florence",
+    "zip_codes": [
+      "29506"
+    ],
+    "population": 865
+  },
+  {
+    "city": "Rains",
+    "county": "Marion",
+    "zip_codes": [
+      "29571",
+      "29574",
+      "29589"
+    ],
+    "population": 40
+  },
+  {
+    "city": "Ravenel",
+    "county": "Charleston",
+    "zip_codes": [
+      "29449",
+      "29470"
+    ],
+    "population": 2594
+  },
+  {
+    "city": "Red Bank",
+    "county": "Lexington",
+    "zip_codes": [
+      "29073"
+    ],
+    "population": 10950
+  },
+  {
+    "city": "Red Hill",
+    "county": "Horry",
+    "zip_codes": [
+      "29526",
+      "29579",
+      "29588"
+    ],
+    "population": 16480
+  },
+  {
+    "city": "Reevesville",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29471"
+    ],
+    "population": 295
+  },
+  {
+    "city": "Reidville",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29334",
+      "29369",
+      "29375",
+      "29388"
+    ],
+    "population": 1955
+  },
+  {
+    "city": "Rembert",
+    "county": "Sumter",
+    "zip_codes": [
+      "29128"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Richburg",
+    "county": "Chester",
+    "zip_codes": [
+      "29729"
+    ],
+    "population": 404
+  },
+  {
+    "city": "Ridge Spring",
+    "county": "Saluda",
+    "zip_codes": [
+      "29129"
+    ],
+    "population": 848
+  },
+  {
+    "city": "Ridgeland",
+    "county": "Jasper",
+    "zip_codes": [
+      "29909",
+      "29936"
+    ],
+    "population": 3756
+  },
+  {
+    "city": "Ridgeville",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29472"
+    ],
+    "population": 1591
+  },
+  {
+    "city": "Ridgeway",
+    "county": "Fairfield",
+    "zip_codes": [
+      "29130"
+    ],
+    "population": 240
+  },
+  {
+    "city": "Riverview",
+    "county": "York",
+    "zip_codes": [
+      "29708"
+    ],
+    "population": 2215
+  },
+  {
+    "city": "Rock Hill",
+    "county": "York",
+    "zip_codes": [
+      "29730",
+      "29732",
+      "29733"
+    ],
+    "population": 74769
+  },
+  {
+    "city": "Rockville",
+    "county": "Charleston",
+    "zip_codes": [
+      "29487"
+    ],
+    "population": 125
+  },
+  {
+    "city": "Roebuck",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29306",
+      "29369",
+      "29376"
+    ],
+    "population": 3468
+  },
+  {
+    "city": "Rowesville",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29133"
+    ],
+    "population": 406
+  },
+  {
+    "city": "Ruby",
+    "county": "Chesterfield",
+    "zip_codes": [
+      "29741"
+    ],
+    "population": 244
+  },
+  {
+    "city": "Russellville",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29479"
+    ],
+    "population": 273
+  },
+  {
+    "city": "Salem",
+    "county": "Oconee",
+    "zip_codes": [
+      "29676"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Salley",
+    "county": "Aiken",
+    "zip_codes": [
+      "29137"
+    ],
+    "population": 335
+  },
+  {
+    "city": "Saluda",
+    "county": "Saluda",
+    "zip_codes": [
+      "29138"
+    ],
+    "population": 3095
+  },
+  {
+    "city": "Sandy Springs",
+    "county": "Anderson",
+    "zip_codes": [
+      "29625",
+      "29670"
+    ],
+    "population": 955
+  },
+  {
+    "city": "Sangaree",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29456",
+      "29486"
+    ],
+    "population": 8517
+  },
+  {
+    "city": "Sans Souci",
+    "county": "Greenville",
+    "zip_codes": [
+      "29601",
+      "29609",
+      "29617"
+    ],
+    "population": 8199
+  },
+  {
+    "city": "Santee",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29142"
+    ],
+    "population": 1179
+  },
+  {
+    "city": "Saxon",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29301",
+      "29378"
+    ],
+    "population": 4139
+  },
+  {
+    "city": "Scotia",
+    "county": "Hampton",
+    "zip_codes": [
+      "29918",
+      "29939"
+    ],
+    "population": 126
+  },
+  {
+    "city": "Scranton",
+    "county": "Florence",
+    "zip_codes": [
+      "29591"
+    ],
+    "population": 820
+  },
+  {
+    "city": "Seabrook",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29906",
+      "29940"
+    ],
+    "population": 959
+  },
+  {
+    "city": "Seabrook Island",
+    "county": "Charleston",
+    "zip_codes": [
+      "29455"
+    ],
+    "population": 2107
+  },
+  {
+    "city": "Sellers",
+    "county": "Marion",
+    "zip_codes": [
+      "29592"
+    ],
+    "population": 188
+  },
+  {
+    "city": "Seneca",
+    "county": "Oconee",
+    "zip_codes": [
+      "29672",
+      "29678"
+    ],
+    "population": 8910
+  },
+  {
+    "city": "Seven Oaks",
+    "county": "Lexington",
+    "zip_codes": [
+      "29210",
+      "29212"
+    ],
+    "population": 15990
+  },
+  {
+    "city": "Sharon",
+    "county": "York",
+    "zip_codes": [
+      "29742"
+    ],
+    "population": 515
+  },
+  {
+    "city": "Sheldon",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29940"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Shell Point",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29902",
+      "29906"
+    ],
+    "population": 2005
+  },
+  {
+    "city": "Shiloh",
+    "county": "Sumter",
+    "zip_codes": [
+      "29080",
+      "29162"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Silverstreet",
+    "county": "Newberry",
+    "zip_codes": [
+      "29108",
+      "29145"
+    ],
+    "population": 160
+  },
+  {
+    "city": "Simpsonville",
+    "county": "Greenville",
+    "zip_codes": [
+      "29680",
+      "29681"
+    ],
+    "population": 25125
+  },
+  {
+    "city": "Six Mile",
+    "county": "Pickens",
+    "zip_codes": [
+      "29630",
+      "29682"
+    ],
+    "population": 984
+  },
+  {
+    "city": "Slater-Marietta",
+    "county": "Greenville",
+    "zip_codes": [
+      "29661",
+      "29683"
+    ],
+    "population": 1934
+  },
+  {
+    "city": "Smoaks",
+    "county": "Colleton",
+    "zip_codes": [
+      "29481"
+    ],
+    "population": 148
+  },
+  {
+    "city": "Smyrna",
+    "county": "York",
+    "zip_codes": [
+      "29743"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Snelling",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29812"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Socastee",
+    "county": "Horry",
+    "zip_codes": [
+      "29577",
+      "29588"
+    ],
+    "population": 24629
+  },
+  {
+    "city": "Society Hill",
+    "county": "Darlington",
+    "zip_codes": [
+      "29593"
+    ],
+    "population": 460
+  },
+  {
+    "city": "South Congaree",
+    "county": "Lexington",
+    "zip_codes": [
+      "29170",
+      "29172"
+    ],
+    "population": 1918
+  },
+  {
+    "city": "South Sumter",
+    "county": "Sumter",
+    "zip_codes": [
+      "29150"
+    ],
+    "population": 1808
+  },
+  {
+    "city": "South Union",
+    "county": "Oconee",
+    "zip_codes": [
+      "29643",
+      "29693"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Southern Shops",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29303"
+    ],
+    "population": 3985
+  },
+  {
+    "city": "Spartanburg",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29301",
+      "29302",
+      "29303",
+      "29306",
+      "29307",
+      "29333"
+    ],
+    "population": 38578
+  },
+  {
+    "city": "Springdale",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 2422
+  },
+  {
+    "city": "Springdale",
+    "county": "Lexington",
+    "zip_codes": [
+      "29169",
+      "29170"
+    ],
+    "population": 2727
+  },
+  {
+    "city": "Springfield",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29146"
+    ],
+    "population": 434
+  },
+  {
+    "city": "St. Andrews",
+    "county": "Richland",
+    "zip_codes": [
+      "29210",
+      "29212"
+    ],
+    "population": 20953
+  },
+  {
+    "city": "St. Charles",
+    "county": "Lee",
+    "zip_codes": [
+      "29010",
+      "29104"
+    ],
+    "population": 94
+  },
+  {
+    "city": "St. George",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29477"
+    ],
+    "population": 1935
+  },
+  {
+    "city": "St. Matthews",
+    "county": "Calhoun",
+    "zip_codes": [
+      "29135"
+    ],
+    "population": 1626
+  },
+  {
+    "city": "St. Stephen",
+    "county": "Berkeley",
+    "zip_codes": [
+      "29479"
+    ],
+    "population": 1460
+  },
+  {
+    "city": "Starr",
+    "county": "Anderson",
+    "zip_codes": [
+      "29684"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Startex",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29334",
+      "29377",
+      "29385"
+    ],
+    "population": 417
+  },
+  {
+    "city": "Stateburg",
+    "county": "Sumter",
+    "zip_codes": [
+      "29040",
+      "29154"
+    ],
+    "population": 1859
+  },
+  {
+    "city": "Stuckey",
+    "county": "Williamsburg",
+    "zip_codes": [
+      "29554"
+    ],
+    "population": 234
+  },
+  {
+    "city": "Sullivan's Island",
+    "county": "Charleston",
+    "zip_codes": [
+      "29482"
+    ],
+    "population": 2127
+  },
+  {
+    "city": "Summerton",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29148"
+    ],
+    "population": 709
+  },
+  {
+    "city": "Summerville",
+    "county": "Dorchester",
+    "zip_codes": [
+      "29456",
+      "29483",
+      "29485",
+      "29486"
+    ],
+    "population": 51262
+  },
+  {
+    "city": "Summit",
+    "county": "Lexington",
+    "zip_codes": [
+      "29070"
+    ],
+    "population": 596
+  },
+  {
+    "city": "Sumter",
+    "county": "Sumter",
+    "zip_codes": [
+      "29040",
+      "29150",
+      "29152",
+      "29153",
+      "29154"
+    ],
+    "population": 43065
+  },
+  {
+    "city": "Surfside Beach",
+    "county": "Horry",
+    "zip_codes": [
+      "29575"
+    ],
+    "population": 4217
+  },
+  {
+    "city": "Swansea",
+    "county": "Lexington",
+    "zip_codes": [
+      "29160"
+    ],
+    "population": 700
+  },
+  {
+    "city": "Sycamore",
+    "county": "Allendale",
+    "zip_codes": [
+      "29827"
+    ],
+    "population": 128
+  },
+  {
+    "city": "Tamassee",
+    "county": "Oconee",
+    "zip_codes": [
+      "29676",
+      "29686"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Tatum",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29594"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Taylors",
+    "county": "Greenville",
+    "zip_codes": [
+      "29609",
+      "29615",
+      "29650",
+      "29687"
+    ],
+    "population": 23686
+  },
+  {
+    "city": "Tega Cay",
+    "county": "York",
+    "zip_codes": [
+      "29708"
+    ],
+    "population": 13267
+  },
+  {
+    "city": "The Cliffs Valley",
+    "county": "Greenville",
+    "zip_codes": [
+      "29690"
+    ],
+    "population": 813
+  },
+  {
+    "city": "Tigerville",
+    "county": "Greenville",
+    "zip_codes": [
+      "29687",
+      "29690"
+    ],
+    "population": 1955
+  },
+  {
+    "city": "Timmonsville",
+    "county": "Florence",
+    "zip_codes": [
+      "29161"
+    ],
+    "population": 2153
+  },
+  {
+    "city": "Tradesville",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Travelers Rest",
+    "county": "Greenville",
+    "zip_codes": [
+      "29609",
+      "29613",
+      "29617",
+      "29690"
+    ],
+    "population": 8137
+  },
+  {
+    "city": "Trenton",
+    "county": "Edgefield",
+    "zip_codes": [
+      "29847"
+    ],
+    "population": 320
+  },
+  {
+    "city": "Troy",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29848"
+    ],
+    "population": 164
+  },
+  {
+    "city": "Turbeville",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29162"
+    ],
+    "population": 703
+  },
+  {
+    "city": "Ulmer",
+    "county": "Allendale",
+    "zip_codes": [
+      "29849"
+    ],
+    "population": 118
+  },
+  {
+    "city": "Union",
+    "county": "Union",
+    "zip_codes": [
+      "29379"
+    ],
+    "population": 8047
+  },
+  {
+    "city": "Unity",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 655
+  },
+  {
+    "city": "Utica",
+    "county": "Oconee",
+    "zip_codes": [
+      "29678"
+    ],
+    "population": 1529
+  },
+  {
+    "city": "Valley Falls",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29303",
+      "29316"
+    ],
+    "population": 7249
+  },
+  {
+    "city": "Van Wyck",
+    "county": "Lancaster",
+    "zip_codes": [
+      "29720"
+    ],
+    "population": 970
+  },
+  {
+    "city": "Vance",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29163"
+    ],
+    "population": 206
+  },
+  {
+    "city": "Varnville",
+    "county": "Hampton",
+    "zip_codes": [
+      "29944"
+    ],
+    "population": 2433
+  },
+  {
+    "city": "Wade Hampton",
+    "county": "Greenville",
+    "zip_codes": [
+      "29609",
+      "29615",
+      "29687"
+    ],
+    "population": 20703
+  },
+  {
+    "city": "Wagener",
+    "county": "Aiken",
+    "zip_codes": [
+      "29164"
+    ],
+    "population": 1170
+  },
+  {
+    "city": "Walhalla",
+    "county": "Oconee",
+    "zip_codes": [
+      "29691",
+      "29696"
+    ],
+    "population": 4121
+  },
+  {
+    "city": "Wallace",
+    "county": "Marlboro",
+    "zip_codes": [
+      "29596"
+    ],
+    "population": 669
+  },
+  {
+    "city": "Walterboro",
+    "county": "Colleton",
+    "zip_codes": [
+      "29488"
+    ],
+    "population": 5490
+  },
+  {
+    "city": "Ward",
+    "county": "Saluda",
+    "zip_codes": [
+      "29166"
+    ],
+    "population": 284
+  },
+  {
+    "city": "Ware Place",
+    "county": "Greenville",
+    "zip_codes": [
+      "29669"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Ware Shoals",
+    "county": "Greenwood",
+    "zip_codes": [
+      "29692"
+    ],
+    "population": 2207
+  },
+  {
+    "city": "Warrenville",
+    "county": "Aiken",
+    "zip_codes": [
+      "29851"
+    ],
+    "population": 925
+  },
+  {
+    "city": "Waterloo",
+    "county": "Laurens",
+    "zip_codes": [
+      "29384"
+    ],
+    "population": 192
+  },
+  {
+    "city": "Watts Mills",
+    "county": "Laurens",
+    "zip_codes": [
+      "29360"
+    ],
+    "population": 2250
+  },
+  {
+    "city": "Wedgefield",
+    "county": "Sumter",
+    "zip_codes": [
+      "29168"
+    ],
+    "population": 1480
+  },
+  {
+    "city": "Welcome",
+    "county": "Greenville",
+    "zip_codes": [
+      "29611"
+    ],
+    "population": 7439
+  },
+  {
+    "city": "Wellford",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29301",
+      "29365",
+      "29377",
+      "29385"
+    ],
+    "population": 3432
+  },
+  {
+    "city": "West Columbia",
+    "county": "Lexington",
+    "zip_codes": [
+      "29169",
+      "29170"
+    ],
+    "population": 17723
+  },
+  {
+    "city": "West Pelzer",
+    "county": "Anderson",
+    "zip_codes": [
+      "29669"
+    ],
+    "population": 1276
+  },
+  {
+    "city": "West Union",
+    "county": "Oconee",
+    "zip_codes": [
+      "29691",
+      "29696"
+    ],
+    "population": 396
+  },
+  {
+    "city": "Westminster",
+    "county": "Oconee",
+    "zip_codes": [
+      "29693"
+    ],
+    "population": 2244
+  },
+  {
+    "city": "White Knoll",
+    "county": "Lexington",
+    "zip_codes": [
+      "29073"
+    ],
+    "population": 7865
+  },
+  {
+    "city": "Whitmire",
+    "county": "Newberry",
+    "zip_codes": [
+      "29178"
+    ],
+    "population": 1241
+  },
+  {
+    "city": "Whitney",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29303"
+    ],
+    "population": 3659
+  },
+  {
+    "city": "Wilkinson Heights",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29115"
+    ],
+    "population": 1853
+  },
+  {
+    "city": "Williams",
+    "county": "Colleton",
+    "zip_codes": [
+      "29475",
+      "29493"
+    ],
+    "population": 116
+  },
+  {
+    "city": "Williamston",
+    "county": "Anderson",
+    "zip_codes": [
+      "29697"
+    ],
+    "population": 4116
+  },
+  {
+    "city": "Willington",
+    "county": "McCormick",
+    "zip_codes": [
+      "29835",
+      "29840"
+    ],
+    "population": 84
+  },
+  {
+    "city": "Williston",
+    "county": "Barnwell",
+    "zip_codes": [
+      "29853"
+    ],
+    "population": 2884
+  },
+  {
+    "city": "Windsor",
+    "county": "Aiken",
+    "zip_codes": [
+      "29856"
+    ],
+    "population": 243
+  },
+  {
+    "city": "Winnsboro",
+    "county": "Fairfield",
+    "zip_codes": [
+      "29180"
+    ],
+    "population": 3332
+  },
+  {
+    "city": "Winnsboro Mills",
+    "county": "Fairfield",
+    "zip_codes": [
+      "29180"
+    ],
+    "population": 1426
+  },
+  {
+    "city": "Wisacky",
+    "county": "Lee",
+    "zip_codes": [
+      "29010"
+    ],
+    "population": 175
+  },
+  {
+    "city": "Woodfield",
+    "county": "Richland",
+    "zip_codes": [
+      "29206",
+      "29223"
+    ],
+    "population": 9901
+  },
+  {
+    "city": "Woodford",
+    "county": "Orangeburg",
+    "zip_codes": [
+      "29112"
+    ],
+    "population": 139
+  },
+  {
+    "city": "Woodruff",
+    "county": "Spartanburg",
+    "zip_codes": [
+      "29388"
+    ],
+    "population": 4337
+  },
+  {
+    "city": "Wyboo",
+    "county": "Clarendon",
+    "zip_codes": [
+      "29102",
+      "29148"
+    ],
+    "population": 3582
+  },
+  {
+    "city": "Yemassee",
+    "county": "Beaufort",
+    "zip_codes": [
+      "29945"
+    ],
+    "population": 1007
+  },
+  {
+    "city": "York",
+    "county": "York",
+    "zip_codes": [
+      "29745"
+    ],
+    "population": 8697
+  },
+  {
+    "city": "Zion",
+    "county": "Marion",
+    "zip_codes": [
+      "29574"
+    ],
+    "population": 77
+  }
+]

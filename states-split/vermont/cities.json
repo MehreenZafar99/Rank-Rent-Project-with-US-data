@@ -1,0 +1,1471 @@
+[
+  {
+    "city": "Albany",
+    "county": "Orleans",
+    "zip_codes": [
+      "05820"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Alburgh",
+    "county": "Grand Isle",
+    "zip_codes": [
+      "05440"
+    ],
+    "population": 586
+  },
+  {
+    "city": "Algiers",
+    "county": "Windham",
+    "zip_codes": [
+      "05301"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Arlington",
+    "county": "Bennington",
+    "zip_codes": [
+      "05250",
+      "05252"
+    ],
+    "population": 1871
+  },
+  {
+    "city": "Ascutney",
+    "county": "Windsor",
+    "zip_codes": [
+      "05030",
+      "05089",
+      "05156"
+    ],
+    "population": 413
+  },
+  {
+    "city": "Bakersfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "05441",
+      "05448"
+    ],
+    "population": 377
+  },
+  {
+    "city": "Barnet",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05821"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Barre",
+    "county": "Washington",
+    "zip_codes": [
+      "05641"
+    ],
+    "population": 8461
+  },
+  {
+    "city": "Barton",
+    "county": "Orleans",
+    "zip_codes": [
+      "05822"
+    ],
+    "population": 697
+  },
+  {
+    "city": "Beecher Falls",
+    "county": "Essex",
+    "zip_codes": [
+      "05902"
+    ],
+    "population": 73
+  },
+  {
+    "city": "Bellows Falls",
+    "county": "Windham",
+    "zip_codes": [
+      "05101"
+    ],
+    "population": 2851
+  },
+  {
+    "city": "Bennington",
+    "county": "Bennington",
+    "zip_codes": [
+      "05201"
+    ],
+    "population": 8888
+  },
+  {
+    "city": "Benson",
+    "county": "Rutland",
+    "zip_codes": [
+      "05743"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Bethel",
+    "county": "Windsor",
+    "zip_codes": [
+      "05032"
+    ],
+    "population": 555
+  },
+  {
+    "city": "Bolton",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05676"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Bolton Valley",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05477"
+    ],
+    "population": 177
+  },
+  {
+    "city": "Bradford",
+    "county": "Orange",
+    "zip_codes": [
+      "05033"
+    ],
+    "population": 1326
+  },
+  {
+    "city": "Brandon",
+    "county": "Rutland",
+    "zip_codes": [
+      "05733"
+    ],
+    "population": 1892
+  },
+  {
+    "city": "Brattleboro",
+    "county": "Windham",
+    "zip_codes": [
+      "05301"
+    ],
+    "population": 7793
+  },
+  {
+    "city": "Bristol",
+    "county": "Addison",
+    "zip_codes": [
+      "05443"
+    ],
+    "population": 2005
+  },
+  {
+    "city": "Burlington",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05401",
+      "05405",
+      "05408"
+    ],
+    "population": 44649
+  },
+  {
+    "city": "Cabot",
+    "county": "Washington",
+    "zip_codes": [
+      "05647"
+    ],
+    "population": 219
+  },
+  {
+    "city": "Cambridge",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05444"
+    ],
+    "population": 173
+  },
+  {
+    "city": "Canaan",
+    "county": "Essex",
+    "zip_codes": [
+      "05902",
+      "05903"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Castleton",
+    "county": "Rutland",
+    "zip_codes": [
+      "05735"
+    ],
+    "population": 1058
+  },
+  {
+    "city": "Castleton Four Corners",
+    "county": "Rutland",
+    "zip_codes": [
+      "05732",
+      "05735"
+    ],
+    "population": 807
+  },
+  {
+    "city": "Cavendish",
+    "county": "Windsor",
+    "zip_codes": [
+      "05142"
+    ],
+    "population": 316
+  },
+  {
+    "city": "Chelsea",
+    "county": "Orange",
+    "zip_codes": [
+      "05038"
+    ],
+    "population": 416
+  },
+  {
+    "city": "Chester",
+    "county": "Windsor",
+    "zip_codes": [
+      "05143"
+    ],
+    "population": 1356
+  },
+  {
+    "city": "Chimney Hill",
+    "county": "Windham",
+    "zip_codes": [
+      "05363"
+    ],
+    "population": 87
+  },
+  {
+    "city": "Chittenden",
+    "county": "Rutland",
+    "zip_codes": [
+      "05737"
+    ],
+    "population": 123
+  },
+  {
+    "city": "Concord",
+    "county": "Essex",
+    "zip_codes": [
+      "05824"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Coventry",
+    "county": "Orleans",
+    "zip_codes": [
+      "05825"
+    ],
+    "population": 36
+  },
+  {
+    "city": "Danby",
+    "county": "Rutland",
+    "zip_codes": [
+      "05739"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Danville",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05828"
+    ],
+    "population": 359
+  },
+  {
+    "city": "Derby Center",
+    "county": "Orleans",
+    "zip_codes": [
+      "05829",
+      "05855"
+    ],
+    "population": 684
+  },
+  {
+    "city": "Derby Line",
+    "county": "Orleans",
+    "zip_codes": [
+      "05829",
+      "05830"
+    ],
+    "population": 860
+  },
+  {
+    "city": "Dorset",
+    "county": "Bennington",
+    "zip_codes": [
+      "05251"
+    ],
+    "population": 349
+  },
+  {
+    "city": "East Barre",
+    "county": "Washington",
+    "zip_codes": [
+      "05641",
+      "05649"
+    ],
+    "population": 1084
+  },
+  {
+    "city": "East Burke",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05832"
+    ],
+    "population": 141
+  },
+  {
+    "city": "East Charlotte",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05445"
+    ],
+    "population": 135
+  },
+  {
+    "city": "East Dorset",
+    "county": "Bennington",
+    "zip_codes": [
+      "05253"
+    ],
+    "population": 297
+  },
+  {
+    "city": "East Middlebury",
+    "county": "Addison",
+    "zip_codes": [
+      "05753"
+    ],
+    "population": 390
+  },
+  {
+    "city": "East Montpelier",
+    "county": "Washington",
+    "zip_codes": [
+      "05651"
+    ],
+    "population": 0
+  },
+  {
+    "city": "East Poultney",
+    "county": "Rutland",
+    "zip_codes": [
+      "05764"
+    ],
+    "population": 257
+  },
+  {
+    "city": "Enosburg Falls",
+    "county": "Franklin",
+    "zip_codes": [
+      "05450"
+    ],
+    "population": 1595
+  },
+  {
+    "city": "Essex Junction",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05452"
+    ],
+    "population": 10720
+  },
+  {
+    "city": "Fair Haven",
+    "county": "Rutland",
+    "zip_codes": [
+      "05743"
+    ],
+    "population": 2435
+  },
+  {
+    "city": "Fairfax",
+    "county": "Franklin",
+    "zip_codes": [
+      "05454"
+    ],
+    "population": 886
+  },
+  {
+    "city": "Fairlee",
+    "county": "Orange",
+    "zip_codes": [
+      "05045"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Gilman",
+    "county": "Essex",
+    "zip_codes": [
+      "05904",
+      "05906"
+    ],
+    "population": 146
+  },
+  {
+    "city": "Glover",
+    "county": "Orleans",
+    "zip_codes": [
+      "05839"
+    ],
+    "population": 225
+  },
+  {
+    "city": "Grafton",
+    "county": "Windham",
+    "zip_codes": [
+      "05146"
+    ],
+    "population": 74
+  },
+  {
+    "city": "Graniteville",
+    "county": "Washington",
+    "zip_codes": [
+      "05654"
+    ],
+    "population": 362
+  },
+  {
+    "city": "Greensboro",
+    "county": "Orleans",
+    "zip_codes": [
+      "05841"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Greensboro Bend",
+    "county": "Orleans",
+    "zip_codes": [
+      "05842"
+    ],
+    "population": 308
+  },
+  {
+    "city": "Groton",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05046"
+    ],
+    "population": 514
+  },
+  {
+    "city": "Hanksville",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05462"
+    ],
+    "population": 50
+  },
+  {
+    "city": "Hardwick",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05843"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Harmonyville",
+    "county": "Windham",
+    "zip_codes": [
+      "05353"
+    ],
+    "population": 159
+  },
+  {
+    "city": "Hartford Village",
+    "county": "Windsor",
+    "zip_codes": [
+      "05001"
+    ],
+    "population": 548
+  },
+  {
+    "city": "Hartland",
+    "county": "Windsor",
+    "zip_codes": [
+      "05048"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Highgate Center",
+    "county": "Franklin",
+    "zip_codes": [
+      "05459"
+    ],
+    "population": 410
+  },
+  {
+    "city": "Highgate Springs",
+    "county": "Franklin",
+    "zip_codes": [
+      "05488"
+    ],
+    "population": 2
+  },
+  {
+    "city": "Hinesburg",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05461"
+    ],
+    "population": 581
+  },
+  {
+    "city": "Huntington",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05462",
+      "05477"
+    ],
+    "population": 579
+  },
+  {
+    "city": "Huntington Center",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05462"
+    ],
+    "population": 143
+  },
+  {
+    "city": "Hyde Park",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05655"
+    ],
+    "population": 434
+  },
+  {
+    "city": "Irasburg",
+    "county": "Orleans",
+    "zip_codes": [
+      "05845"
+    ],
+    "population": 167
+  },
+  {
+    "city": "Island Pond",
+    "county": "Essex",
+    "zip_codes": [
+      "05846"
+    ],
+    "population": 698
+  },
+  {
+    "city": "Jacksonville",
+    "county": "Windham",
+    "zip_codes": [
+      "05342"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Jamaica",
+    "county": "Windham",
+    "zip_codes": [
+      "05343"
+    ],
+    "population": 55
+  },
+  {
+    "city": "Jeffersonville",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05464"
+    ],
+    "population": 729
+  },
+  {
+    "city": "Jericho",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05465"
+    ],
+    "population": 1230
+  },
+  {
+    "city": "Johnson",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05656"
+    ],
+    "population": 1668
+  },
+  {
+    "city": "Killington Village",
+    "county": "Rutland",
+    "zip_codes": [
+      "05751"
+    ],
+    "population": 578
+  },
+  {
+    "city": "Lincoln",
+    "county": "Addison",
+    "zip_codes": [
+      "05443"
+    ],
+    "population": 290
+  },
+  {
+    "city": "Londonderry",
+    "county": "Windham",
+    "zip_codes": [
+      "05148"
+    ],
+    "population": 69
+  },
+  {
+    "city": "Lowell",
+    "county": "Orleans",
+    "zip_codes": [
+      "05847"
+    ],
+    "population": 231
+  },
+  {
+    "city": "Ludlow",
+    "county": "Windsor",
+    "zip_codes": [
+      "05149"
+    ],
+    "population": 755
+  },
+  {
+    "city": "Lunenburg",
+    "county": "Essex",
+    "zip_codes": [
+      "05906"
+    ],
+    "population": 430
+  },
+  {
+    "city": "Lyndon",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05851"
+    ],
+    "population": 95
+  },
+  {
+    "city": "Lyndon Center",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05850",
+      "05851"
+    ],
+    "population": 337
+  },
+  {
+    "city": "Lyndonville",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05851"
+    ],
+    "population": 1229
+  },
+  {
+    "city": "Manchester",
+    "county": "Bennington",
+    "zip_codes": [
+      "05254",
+      "05255"
+    ],
+    "population": 642
+  },
+  {
+    "city": "Manchester Center",
+    "county": "Bennington",
+    "zip_codes": [
+      "05255"
+    ],
+    "population": 1935
+  },
+  {
+    "city": "Marshfield",
+    "county": "Washington",
+    "zip_codes": [
+      "05658"
+    ],
+    "population": 431
+  },
+  {
+    "city": "Middlebury",
+    "county": "Addison",
+    "zip_codes": [
+      "05753"
+    ],
+    "population": 7145
+  },
+  {
+    "city": "Middletown Springs",
+    "county": "Rutland",
+    "zip_codes": [
+      "05757"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Milton",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05468"
+    ],
+    "population": 3510
+  },
+  {
+    "city": "Montpelier",
+    "county": "Washington",
+    "zip_codes": [
+      "05602"
+    ],
+    "population": 8038
+  },
+  {
+    "city": "Morrisville",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05661"
+    ],
+    "population": 2527
+  },
+  {
+    "city": "New Haven",
+    "county": "Addison",
+    "zip_codes": [
+      "05472"
+    ],
+    "population": 184
+  },
+  {
+    "city": "Newbury",
+    "county": "Orange",
+    "zip_codes": [
+      "05051"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Newfane",
+    "county": "Windham",
+    "zip_codes": [
+      "05345"
+    ],
+    "population": 154
+  },
+  {
+    "city": "Newport",
+    "county": "Orleans",
+    "zip_codes": [
+      "05855"
+    ],
+    "population": 4413
+  },
+  {
+    "city": "Newport Center",
+    "county": "Orleans",
+    "zip_codes": [
+      "05857"
+    ],
+    "population": 207
+  },
+  {
+    "city": "North Bennington",
+    "county": "Bennington",
+    "zip_codes": [
+      "05257"
+    ],
+    "population": 1342
+  },
+  {
+    "city": "North Clarendon",
+    "county": "Rutland",
+    "zip_codes": [
+      "05701",
+      "05759"
+    ],
+    "population": 273
+  },
+  {
+    "city": "North Hartland",
+    "county": "Windsor",
+    "zip_codes": [
+      "05048",
+      "05052"
+    ],
+    "population": 406
+  },
+  {
+    "city": "North Hyde Park",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05652",
+      "05655",
+      "05656"
+    ],
+    "population": 346
+  },
+  {
+    "city": "North Pownal",
+    "county": "Bennington",
+    "zip_codes": [
+      "05260",
+      "05261"
+    ],
+    "population": 345
+  },
+  {
+    "city": "North Springfield",
+    "county": "Windsor",
+    "zip_codes": [
+      "05150",
+      "05156"
+    ],
+    "population": 432
+  },
+  {
+    "city": "North Troy",
+    "county": "Orleans",
+    "zip_codes": [
+      "05859"
+    ],
+    "population": 550
+  },
+  {
+    "city": "North Westminster",
+    "county": "Windham",
+    "zip_codes": [
+      "05101",
+      "05158"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Northfield",
+    "county": "Washington",
+    "zip_codes": [
+      "05663"
+    ],
+    "population": 4165
+  },
+  {
+    "city": "Norwich",
+    "county": "Windsor",
+    "zip_codes": [
+      "05055"
+    ],
+    "population": 1081
+  },
+  {
+    "city": "Old Bennington",
+    "county": "Bennington",
+    "zip_codes": [
+      "05201"
+    ],
+    "population": 153
+  },
+  {
+    "city": "Orleans",
+    "county": "Orleans",
+    "zip_codes": [
+      "05860"
+    ],
+    "population": 848
+  },
+  {
+    "city": "Pawlet",
+    "county": "Rutland",
+    "zip_codes": [
+      "05761"
+    ],
+    "population": 306
+  },
+  {
+    "city": "Peacham",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05862"
+    ],
+    "population": 277
+  },
+  {
+    "city": "Pittsford",
+    "county": "Rutland",
+    "zip_codes": [
+      "05744",
+      "05763"
+    ],
+    "population": 559
+  },
+  {
+    "city": "Plainfield",
+    "county": "Washington",
+    "zip_codes": [
+      "05667"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Poultney",
+    "county": "Rutland",
+    "zip_codes": [
+      "05764"
+    ],
+    "population": 1105
+  },
+  {
+    "city": "Pownal",
+    "county": "Bennington",
+    "zip_codes": [
+      "05261"
+    ],
+    "population": 587
+  },
+  {
+    "city": "Pownal Center",
+    "county": "Bennington",
+    "zip_codes": [
+      "05261"
+    ],
+    "population": 475
+  },
+  {
+    "city": "Proctor",
+    "county": "Rutland",
+    "zip_codes": [
+      "05744",
+      "05765"
+    ],
+    "population": 1568
+  },
+  {
+    "city": "Proctorsville",
+    "county": "Windsor",
+    "zip_codes": [
+      "05142",
+      "05153"
+    ],
+    "population": 309
+  },
+  {
+    "city": "Putney",
+    "county": "Windham",
+    "zip_codes": [
+      "05346"
+    ],
+    "population": 394
+  },
+  {
+    "city": "Quechee",
+    "county": "Windsor",
+    "zip_codes": [
+      "05059"
+    ],
+    "population": 297
+  },
+  {
+    "city": "Randolph",
+    "county": "Orange",
+    "zip_codes": [
+      "05060"
+    ],
+    "population": 1946
+  },
+  {
+    "city": "Readsboro",
+    "county": "Bennington",
+    "zip_codes": [
+      "05350"
+    ],
+    "population": 299
+  },
+  {
+    "city": "Richford",
+    "county": "Franklin",
+    "zip_codes": [
+      "05476"
+    ],
+    "population": 1600
+  },
+  {
+    "city": "Richmond",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05477"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Rochester",
+    "county": "Windsor",
+    "zip_codes": [
+      "05767"
+    ],
+    "population": 335
+  },
+  {
+    "city": "Rutland",
+    "county": "Rutland",
+    "zip_codes": [
+      "05701"
+    ],
+    "population": 15747
+  },
+  {
+    "city": "Saxtons River",
+    "county": "Windham",
+    "zip_codes": [
+      "05101",
+      "05154"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Sheffield",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05866"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Shelburne",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05482"
+    ],
+    "population": 6292
+  },
+  {
+    "city": "South Barre",
+    "county": "Washington",
+    "zip_codes": [
+      "05641",
+      "05654",
+      "05670"
+    ],
+    "population": 1259
+  },
+  {
+    "city": "South Burlington",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05403"
+    ],
+    "population": 20488
+  },
+  {
+    "city": "South Hero",
+    "county": "Grand Isle",
+    "zip_codes": [
+      "05486"
+    ],
+    "population": 183
+  },
+  {
+    "city": "South Lincoln",
+    "county": "Addison",
+    "zip_codes": [
+      "05443"
+    ],
+    "population": 159
+  },
+  {
+    "city": "South Londonderry",
+    "county": "Windham",
+    "zip_codes": [
+      "05155"
+    ],
+    "population": 184
+  },
+  {
+    "city": "South Royalton",
+    "county": "Windsor",
+    "zip_codes": [
+      "05068"
+    ],
+    "population": 435
+  },
+  {
+    "city": "South Shaftsbury",
+    "county": "Bennington",
+    "zip_codes": [
+      "05201",
+      "05262"
+    ],
+    "population": 442
+  },
+  {
+    "city": "South Woodstock",
+    "county": "Windsor",
+    "zip_codes": [
+      "05071",
+      "05091"
+    ],
+    "population": 19
+  },
+  {
+    "city": "Springfield",
+    "county": "Windsor",
+    "zip_codes": [
+      "05156"
+    ],
+    "population": 3882
+  },
+  {
+    "city": "St. Albans",
+    "county": "Franklin",
+    "zip_codes": [
+      "05478"
+    ],
+    "population": 6910
+  },
+  {
+    "city": "St. George",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05495"
+    ],
+    "population": 466
+  },
+  {
+    "city": "St. Johnsbury",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05819"
+    ],
+    "population": 5945
+  },
+  {
+    "city": "Stamford",
+    "county": "Bennington",
+    "zip_codes": [
+      "05352"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Stowe",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05672"
+    ],
+    "population": 745
+  },
+  {
+    "city": "Stratton Mountain",
+    "county": "Bennington",
+    "zip_codes": [
+      "05155",
+      "05340",
+      "05343"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Sutton",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05867"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Swanton",
+    "county": "Franklin",
+    "zip_codes": [
+      "05488"
+    ],
+    "population": 2732
+  },
+  {
+    "city": "Townshend",
+    "county": "Windham",
+    "zip_codes": [
+      "05353"
+    ],
+    "population": 158
+  },
+  {
+    "city": "Troy",
+    "county": "Orleans",
+    "zip_codes": [
+      "05859",
+      "05868"
+    ],
+    "population": 193
+  },
+  {
+    "city": "Underhill Center",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05489"
+    ],
+    "population": 43
+  },
+  {
+    "city": "Underhill Flats",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05465",
+      "05489"
+    ],
+    "population": 537
+  },
+  {
+    "city": "Vergennes",
+    "county": "Addison",
+    "zip_codes": [
+      "05491"
+    ],
+    "population": 2571
+  },
+  {
+    "city": "Waitsfield",
+    "county": "Washington",
+    "zip_codes": [
+      "05673"
+    ],
+    "population": 166
+  },
+  {
+    "city": "Wallingford",
+    "county": "Rutland",
+    "zip_codes": [
+      "05773"
+    ],
+    "population": 680
+  },
+  {
+    "city": "Wardsboro",
+    "county": "Windham",
+    "zip_codes": [
+      "05355"
+    ],
+    "population": 67
+  },
+  {
+    "city": "Waterbury",
+    "county": "Washington",
+    "zip_codes": [
+      "05676"
+    ],
+    "population": 1728
+  },
+  {
+    "city": "Waterbury Center",
+    "county": "Washington",
+    "zip_codes": [
+      "05677"
+    ],
+    "population": 228
+  },
+  {
+    "city": "Websterville",
+    "county": "Washington",
+    "zip_codes": [
+      "05641",
+      "05678"
+    ],
+    "population": 427
+  },
+  {
+    "city": "Wells",
+    "county": "Rutland",
+    "zip_codes": [
+      "05774"
+    ],
+    "population": 423
+  },
+  {
+    "city": "Wells River",
+    "county": "Orange",
+    "zip_codes": [
+      "05081"
+    ],
+    "population": 339
+  },
+  {
+    "city": "West Brattleboro",
+    "county": "Windham",
+    "zip_codes": [
+      "05301"
+    ],
+    "population": 2614
+  },
+  {
+    "city": "West Burke",
+    "county": "Caledonia",
+    "zip_codes": [
+      "05871"
+    ],
+    "population": 165
+  },
+  {
+    "city": "West Charlotte",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05445"
+    ],
+    "population": 187
+  },
+  {
+    "city": "West Dummerston",
+    "county": "Windham",
+    "zip_codes": [
+      "05301"
+    ],
+    "population": 59
+  },
+  {
+    "city": "West Pawlet",
+    "county": "Rutland",
+    "zip_codes": [
+      "05775"
+    ],
+    "population": 301
+  },
+  {
+    "city": "West Rutland",
+    "county": "Rutland",
+    "zip_codes": [
+      "05777"
+    ],
+    "population": 2144
+  },
+  {
+    "city": "West Woodstock",
+    "county": "Windsor",
+    "zip_codes": [
+      "05091"
+    ],
+    "population": 507
+  },
+  {
+    "city": "Westford",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05494"
+    ],
+    "population": 182
+  },
+  {
+    "city": "Westminster",
+    "county": "Windham",
+    "zip_codes": [
+      "05158"
+    ],
+    "population": 622
+  },
+  {
+    "city": "Weston",
+    "county": "Windsor",
+    "zip_codes": [
+      "05161"
+    ],
+    "population": 58
+  },
+  {
+    "city": "White River Junction",
+    "county": "Windsor",
+    "zip_codes": [
+      "05001",
+      "05009"
+    ],
+    "population": 2878
+  },
+  {
+    "city": "Whitingham",
+    "county": "Windham",
+    "zip_codes": [
+      "05361"
+    ],
+    "population": 147
+  },
+  {
+    "city": "Wilder",
+    "county": "Windsor",
+    "zip_codes": [
+      "05001",
+      "05088"
+    ],
+    "population": 3394
+  },
+  {
+    "city": "Williamstown",
+    "county": "Orange",
+    "zip_codes": [
+      "05679"
+    ],
+    "population": 1622
+  },
+  {
+    "city": "Wilmington",
+    "county": "Windham",
+    "zip_codes": [
+      "05363"
+    ],
+    "population": 370
+  },
+  {
+    "city": "Windsor",
+    "county": "Windsor",
+    "zip_codes": [
+      "05089"
+    ],
+    "population": 1961
+  },
+  {
+    "city": "Winooski",
+    "county": "Chittenden",
+    "zip_codes": [
+      "05404"
+    ],
+    "population": 8198
+  },
+  {
+    "city": "Wolcott",
+    "county": "Lamoille",
+    "zip_codes": [
+      "05680"
+    ],
+    "population": 209
+  },
+  {
+    "city": "Woodstock",
+    "county": "Windsor",
+    "zip_codes": [
+      "05091"
+    ],
+    "population": 983
+  },
+  {
+    "city": "Worcester",
+    "county": "Washington",
+    "zip_codes": [
+      "05682"
+    ],
+    "population": 113
+  }
+]

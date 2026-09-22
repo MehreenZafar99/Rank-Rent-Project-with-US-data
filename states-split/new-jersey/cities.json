@@ -1,0 +1,5890 @@
+[
+  {
+    "city": "Absecon",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08201"
+    ],
+    "population": 9099
+  },
+  {
+    "city": "Absecon Highlands",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08205"
+    ],
+    "population": 1512
+  },
+  {
+    "city": "Allamuchy",
+    "county": "Warren",
+    "zip_codes": [
+      "07820",
+      "07821",
+      "07838",
+      "07840"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Allendale",
+    "county": "Bergen",
+    "zip_codes": [
+      "07401"
+    ],
+    "population": 6820
+  },
+  {
+    "city": "Allenhurst",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07711"
+    ],
+    "population": 387
+  },
+  {
+    "city": "Allentown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08501"
+    ],
+    "population": 1926
+  },
+  {
+    "city": "Allenwood",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07719",
+      "08720",
+      "08724"
+    ],
+    "population": 721
+  },
+  {
+    "city": "Alloway",
+    "county": "Salem",
+    "zip_codes": [
+      "08001",
+      "08079",
+      "08098",
+      "08302"
+    ],
+    "population": 1473
+  },
+  {
+    "city": "Alpha",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 2249
+  },
+  {
+    "city": "Alpine",
+    "county": "Bergen",
+    "zip_codes": [
+      "07620"
+    ],
+    "population": 1503
+  },
+  {
+    "city": "Ampere North",
+    "county": "Essex",
+    "zip_codes": [
+      "07003"
+    ],
+    "population": 4968
+  },
+  {
+    "city": "Anderson",
+    "county": "Warren",
+    "zip_codes": [
+      "07865",
+      "07882"
+    ],
+    "population": 618
+  },
+  {
+    "city": "Andover",
+    "county": "Sussex",
+    "zip_codes": [
+      "07821"
+    ],
+    "population": 716
+  },
+  {
+    "city": "Annandale",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08801",
+      "08809"
+    ],
+    "population": 1751
+  },
+  {
+    "city": "Arrowhead Lake",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 107
+  },
+  {
+    "city": "Asbury",
+    "county": "Warren",
+    "zip_codes": [
+      "08802"
+    ],
+    "population": 245
+  },
+  {
+    "city": "Asbury Park",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07712"
+    ],
+    "population": 15239
+  },
+  {
+    "city": "Ashland",
+    "county": "Camden",
+    "zip_codes": [
+      "08003",
+      "08034"
+    ],
+    "population": 9437
+  },
+  {
+    "city": "Atco",
+    "county": "Camden",
+    "zip_codes": [
+      "08004"
+    ],
+    "population": 8037
+  },
+  {
+    "city": "Atlantic City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08401"
+    ],
+    "population": 38486
+  },
+  {
+    "city": "Atlantic Highlands",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07716"
+    ],
+    "population": 4409
+  },
+  {
+    "city": "Auburn",
+    "county": "Salem",
+    "zip_codes": [
+      "08067",
+      "08085",
+      "08098"
+    ],
+    "population": 1209
+  },
+  {
+    "city": "Audubon",
+    "county": "Camden",
+    "zip_codes": [
+      "08106"
+    ],
+    "population": 8699
+  },
+  {
+    "city": "Audubon Park",
+    "county": "Camden",
+    "zip_codes": [
+      "08059",
+      "08106"
+    ],
+    "population": 979
+  },
+  {
+    "city": "Avalon",
+    "county": "Cape May",
+    "zip_codes": [
+      "08202"
+    ],
+    "population": 1478
+  },
+  {
+    "city": "Avenel",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07001"
+    ],
+    "population": 17143
+  },
+  {
+    "city": "Avon-by-the-Sea",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07717"
+    ],
+    "population": 1801
+  },
+  {
+    "city": "Barclay",
+    "county": "Camden",
+    "zip_codes": [
+      "08034"
+    ],
+    "population": 4456
+  },
+  {
+    "city": "Bargaintown",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08234"
+    ],
+    "population": 5231
+  },
+  {
+    "city": "Barnegat",
+    "county": "Ocean",
+    "zip_codes": [
+      "08005"
+    ],
+    "population": 3367
+  },
+  {
+    "city": "Barnegat Light",
+    "county": "Ocean",
+    "zip_codes": [
+      "08006"
+    ],
+    "population": 473
+  },
+  {
+    "city": "Barrington",
+    "county": "Camden",
+    "zip_codes": [
+      "08007",
+      "08033",
+      "08035"
+    ],
+    "population": 7047
+  },
+  {
+    "city": "Basking Ridge",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "07931"
+    ],
+    "population": 7882
+  },
+  {
+    "city": "Bay Head",
+    "county": "Ocean",
+    "zip_codes": [
+      "08742"
+    ],
+    "population": 1201
+  },
+  {
+    "city": "Bayonne",
+    "county": "Hudson",
+    "zip_codes": [
+      "07002"
+    ],
+    "population": 70468
+  },
+  {
+    "city": "Beach Haven",
+    "county": "Ocean",
+    "zip_codes": [
+      "08008"
+    ],
+    "population": 1096
+  },
+  {
+    "city": "Beach Haven West",
+    "county": "Ocean",
+    "zip_codes": [
+      "08050"
+    ],
+    "population": 5164
+  },
+  {
+    "city": "Beachwood",
+    "county": "Ocean",
+    "zip_codes": [
+      "08722"
+    ],
+    "population": 11002
+  },
+  {
+    "city": "Beattystown",
+    "county": "Warren",
+    "zip_codes": [
+      "07840"
+    ],
+    "population": 4479
+  },
+  {
+    "city": "Beckett",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08085"
+    ],
+    "population": 5072
+  },
+  {
+    "city": "Bedminster",
+    "county": "Somerset",
+    "zip_codes": [
+      "07921",
+      "07931"
+    ],
+    "population": 1463
+  },
+  {
+    "city": "Beesleys Point",
+    "county": "Cape May",
+    "zip_codes": [
+      "08223"
+    ],
+    "population": 1476
+  },
+  {
+    "city": "Belford",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07718",
+      "07737",
+      "07758"
+    ],
+    "population": 2039
+  },
+  {
+    "city": "Belle Mead",
+    "county": "Somerset",
+    "zip_codes": [
+      "08502",
+      "08844"
+    ],
+    "population": 6772
+  },
+  {
+    "city": "Belleplain",
+    "county": "Cape May",
+    "zip_codes": [
+      "08270"
+    ],
+    "population": 675
+  },
+  {
+    "city": "Bellmawr",
+    "county": "Camden",
+    "zip_codes": [
+      "08031"
+    ],
+    "population": 11678
+  },
+  {
+    "city": "Belmar",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07719"
+    ],
+    "population": 5861
+  },
+  {
+    "city": "Belvidere",
+    "county": "Warren",
+    "zip_codes": [
+      "07823"
+    ],
+    "population": 2526
+  },
+  {
+    "city": "Bergenfield",
+    "county": "Bergen",
+    "zip_codes": [
+      "07621"
+    ],
+    "population": 28269
+  },
+  {
+    "city": "Berlin",
+    "county": "Camden",
+    "zip_codes": [
+      "08009"
+    ],
+    "population": 7503
+  },
+  {
+    "city": "Bernardsville",
+    "county": "Somerset",
+    "zip_codes": [
+      "07924",
+      "07931"
+    ],
+    "population": 7871
+  },
+  {
+    "city": "Beverly",
+    "county": "Burlington",
+    "zip_codes": [
+      "08010"
+    ],
+    "population": 2489
+  },
+  {
+    "city": "Blackwells Mills",
+    "county": "Somerset",
+    "zip_codes": [
+      "08844",
+      "08873"
+    ],
+    "population": 10220
+  },
+  {
+    "city": "Blackwood",
+    "county": "Camden",
+    "zip_codes": [
+      "08012"
+    ],
+    "population": 4615
+  },
+  {
+    "city": "Blairstown",
+    "county": "Warren",
+    "zip_codes": [
+      "07825"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Blawenburg",
+    "county": "Somerset",
+    "zip_codes": [
+      "08558"
+    ],
+    "population": 92
+  },
+  {
+    "city": "Bloomingdale",
+    "county": "Passaic",
+    "zip_codes": [
+      "07403",
+      "07420",
+      "07465"
+    ],
+    "population": 7686
+  },
+  {
+    "city": "Bloomsbury",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08804"
+    ],
+    "population": 805
+  },
+  {
+    "city": "Bogota",
+    "county": "Bergen",
+    "zip_codes": [
+      "07603"
+    ],
+    "population": 9110
+  },
+  {
+    "city": "Boonton",
+    "county": "Morris",
+    "zip_codes": [
+      "07005"
+    ],
+    "population": 8803
+  },
+  {
+    "city": "Bordentown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08505"
+    ],
+    "population": 4006
+  },
+  {
+    "city": "Bound Brook",
+    "county": "Somerset",
+    "zip_codes": [
+      "08805"
+    ],
+    "population": 12023
+  },
+  {
+    "city": "Bradley Beach",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07720"
+    ],
+    "population": 4264
+  },
+  {
+    "city": "Bradley Gardens",
+    "county": "Somerset",
+    "zip_codes": [
+      "08807"
+    ],
+    "population": 14315
+  },
+  {
+    "city": "Brainards",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Branchville",
+    "county": "Sussex",
+    "zip_codes": [
+      "07826"
+    ],
+    "population": 724
+  },
+  {
+    "city": "Brass Castle",
+    "county": "Warren",
+    "zip_codes": [
+      "07882"
+    ],
+    "population": 1844
+  },
+  {
+    "city": "Bridgeport",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08014"
+    ],
+    "population": 208
+  },
+  {
+    "city": "Bridgeton",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 26836
+  },
+  {
+    "city": "Bridgeville",
+    "county": "Warren",
+    "zip_codes": [
+      "07823"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Bridgewater Center",
+    "county": "Somerset",
+    "zip_codes": [
+      "08807"
+    ],
+    "population": 6198
+  },
+  {
+    "city": "Brielle",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08730"
+    ],
+    "population": 4960
+  },
+  {
+    "city": "Brigantine",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08203"
+    ],
+    "population": 7702
+  },
+  {
+    "city": "Broadway",
+    "county": "Warren",
+    "zip_codes": [
+      "07882"
+    ],
+    "population": 60
+  },
+  {
+    "city": "Brookdale",
+    "county": "Essex",
+    "zip_codes": [
+      "07003"
+    ],
+    "population": 10044
+  },
+  {
+    "city": "Brookfield",
+    "county": "Warren",
+    "zip_codes": [
+      "07823"
+    ],
+    "population": 666
+  },
+  {
+    "city": "Brooklawn",
+    "county": "Camden",
+    "zip_codes": [
+      "08030"
+    ],
+    "population": 1788
+  },
+  {
+    "city": "Brookside",
+    "county": "Morris",
+    "zip_codes": [
+      "07926",
+      "07945",
+      "07960"
+    ],
+    "population": 1287
+  },
+  {
+    "city": "Browns Mills",
+    "county": "Burlington",
+    "zip_codes": [
+      "08015"
+    ],
+    "population": 9561
+  },
+  {
+    "city": "Brownville",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07747",
+      "08857"
+    ],
+    "population": 2267
+  },
+  {
+    "city": "Budd Lake",
+    "county": "Morris",
+    "zip_codes": [
+      "07828",
+      "07836"
+    ],
+    "population": 10106
+  },
+  {
+    "city": "Buena",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08310",
+      "08326",
+      "08341",
+      "08344",
+      "08360"
+    ],
+    "population": 4500
+  },
+  {
+    "city": "Burleigh",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Burlington",
+    "county": "Burlington",
+    "zip_codes": [
+      "08016"
+    ],
+    "population": 9904
+  },
+  {
+    "city": "Butler",
+    "county": "Morris",
+    "zip_codes": [
+      "07405"
+    ],
+    "population": 8072
+  },
+  {
+    "city": "Buttzville",
+    "county": "Warren",
+    "zip_codes": [
+      "07823",
+      "07863"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Byram Center",
+    "county": "Sussex",
+    "zip_codes": [
+      "07874"
+    ],
+    "population": 2018
+  },
+  {
+    "city": "Caldwell",
+    "county": "Essex",
+    "zip_codes": [
+      "07006"
+    ],
+    "population": 8898
+  },
+  {
+    "city": "Califon",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "07830"
+    ],
+    "population": 1065
+  },
+  {
+    "city": "Camden",
+    "county": "Camden",
+    "zip_codes": [
+      "08102",
+      "08103",
+      "08104",
+      "08105",
+      "08109",
+      "08110"
+    ],
+    "population": 71471
+  },
+  {
+    "city": "Cape May",
+    "county": "Cape May",
+    "zip_codes": [
+      "08204"
+    ],
+    "population": 2789
+  },
+  {
+    "city": "Cape May Court House",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210"
+    ],
+    "population": 5375
+  },
+  {
+    "city": "Cape May Point",
+    "county": "Cape May",
+    "zip_codes": [
+      "08212"
+    ],
+    "population": 155
+  },
+  {
+    "city": "Carlls Corner",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 845
+  },
+  {
+    "city": "Carlstadt",
+    "county": "Bergen",
+    "zip_codes": [
+      "07072"
+    ],
+    "population": 6343
+  },
+  {
+    "city": "Carneys Point",
+    "county": "Salem",
+    "zip_codes": [
+      "08023",
+      "08069",
+      "08070"
+    ],
+    "population": 7945
+  },
+  {
+    "city": "Carteret",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07008"
+    ],
+    "population": 25187
+  },
+  {
+    "city": "Cedar Glen Lakes",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 1509
+  },
+  {
+    "city": "Cedar Glen West",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 1654
+  },
+  {
+    "city": "Cedar Knolls",
+    "county": "Morris",
+    "zip_codes": [
+      "07927",
+      "07950",
+      "07981"
+    ],
+    "population": 4754
+  },
+  {
+    "city": "Cedarville",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08311"
+    ],
+    "population": 636
+  },
+  {
+    "city": "Centre Grove",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08311",
+      "08332"
+    ],
+    "population": 1371
+  },
+  {
+    "city": "Chatham",
+    "county": "Morris",
+    "zip_codes": [
+      "07928"
+    ],
+    "population": 9219
+  },
+  {
+    "city": "Cherry Hill Mall",
+    "county": "Camden",
+    "zip_codes": [
+      "08002",
+      "08034"
+    ],
+    "population": 14827
+  },
+  {
+    "city": "Chesilhurst",
+    "county": "Camden",
+    "zip_codes": [
+      "08089"
+    ],
+    "population": 1340
+  },
+  {
+    "city": "Chester",
+    "county": "Morris",
+    "zip_codes": [
+      "07930"
+    ],
+    "population": 1359
+  },
+  {
+    "city": "Clayton",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08028",
+      "08094",
+      "08312",
+      "08322"
+    ],
+    "population": 8867
+  },
+  {
+    "city": "Clearbrook",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2477
+  },
+  {
+    "city": "Clementon",
+    "county": "Camden",
+    "zip_codes": [
+      "08021"
+    ],
+    "population": 5351
+  },
+  {
+    "city": "Cliffside Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07010"
+    ],
+    "population": 25580
+  },
+  {
+    "city": "Cliffwood Beach",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07735"
+    ],
+    "population": 3044
+  },
+  {
+    "city": "Clifton",
+    "county": "Passaic",
+    "zip_codes": [
+      "07011",
+      "07012",
+      "07013",
+      "07014"
+    ],
+    "population": 89247
+  },
+  {
+    "city": "Clinton",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08809"
+    ],
+    "population": 2784
+  },
+  {
+    "city": "Closter",
+    "county": "Bergen",
+    "zip_codes": [
+      "07624"
+    ],
+    "population": 8544
+  },
+  {
+    "city": "Clyde",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 108
+  },
+  {
+    "city": "Collings Lakes",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08094"
+    ],
+    "population": 1489
+  },
+  {
+    "city": "Collingswood",
+    "county": "Camden",
+    "zip_codes": [
+      "08107",
+      "08108"
+    ],
+    "population": 14163
+  },
+  {
+    "city": "Cologne",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08215",
+      "08330"
+    ],
+    "population": 1023
+  },
+  {
+    "city": "Colonia",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07067"
+    ],
+    "population": 18294
+  },
+  {
+    "city": "Columbia",
+    "county": "Warren",
+    "zip_codes": [
+      "07832"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Concordia",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2724
+  },
+  {
+    "city": "Connecticut Farms",
+    "county": "Union",
+    "zip_codes": [
+      "07083"
+    ],
+    "population": 457
+  },
+  {
+    "city": "Cookstown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08511",
+      "08562"
+    ],
+    "population": 521
+  },
+  {
+    "city": "Corbin City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08270",
+      "08330"
+    ],
+    "population": 668
+  },
+  {
+    "city": "Country Lake Estates",
+    "county": "Burlington",
+    "zip_codes": [
+      "08015"
+    ],
+    "population": 4700
+  },
+  {
+    "city": "Cranbury",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08512"
+    ],
+    "population": 2304
+  },
+  {
+    "city": "Crandon Lakes",
+    "county": "Sussex",
+    "zip_codes": [
+      "07860"
+    ],
+    "population": 1258
+  },
+  {
+    "city": "Cranford",
+    "county": "Union",
+    "zip_codes": [
+      "07016"
+    ],
+    "population": 1783
+  },
+  {
+    "city": "Cream Ridge",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08514"
+    ],
+    "population": 477
+  },
+  {
+    "city": "Cresskill",
+    "county": "Bergen",
+    "zip_codes": [
+      "07626"
+    ],
+    "population": 9101
+  },
+  {
+    "city": "Crestwood Village",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 7951
+  },
+  {
+    "city": "Crosswicks",
+    "county": "Burlington",
+    "zip_codes": [
+      "08515"
+    ],
+    "population": 986
+  },
+  {
+    "city": "Cumberland-Hesstown",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08332"
+    ],
+    "population": 152
+  },
+  {
+    "city": "Dayton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08810"
+    ],
+    "population": 8241
+  },
+  {
+    "city": "Deal",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07723"
+    ],
+    "population": 632
+  },
+  {
+    "city": "Deans",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08852",
+      "08902"
+    ],
+    "population": 1166
+  },
+  {
+    "city": "Deerfield Street",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302",
+      "08318"
+    ],
+    "population": 433
+  },
+  {
+    "city": "Delaware",
+    "county": "Warren",
+    "zip_codes": [
+      "07832",
+      "07833"
+    ],
+    "population": 86
+  },
+  {
+    "city": "Delaware Park",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 305
+  },
+  {
+    "city": "Delmont",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08314"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Demarest",
+    "county": "Bergen",
+    "zip_codes": [
+      "07627"
+    ],
+    "population": 4916
+  },
+  {
+    "city": "Dennisville",
+    "county": "Cape May",
+    "zip_codes": [
+      "08270"
+    ],
+    "population": 667
+  },
+  {
+    "city": "Diamond Beach",
+    "county": "Cape May",
+    "zip_codes": [
+      "08260"
+    ],
+    "population": 288
+  },
+  {
+    "city": "Dividing Creek",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08349"
+    ],
+    "population": 595
+  },
+  {
+    "city": "Dorchester",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08316",
+      "08327"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Dorothy",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08317"
+    ],
+    "population": 1255
+  },
+  {
+    "city": "Dover",
+    "county": "Morris",
+    "zip_codes": [
+      "07801"
+    ],
+    "population": 18420
+  },
+  {
+    "city": "Dover Beaches North",
+    "county": "Ocean",
+    "zip_codes": [
+      "08735"
+    ],
+    "population": 1599
+  },
+  {
+    "city": "Dover Beaches South",
+    "county": "Ocean",
+    "zip_codes": [
+      "08751"
+    ],
+    "population": 1520
+  },
+  {
+    "city": "Dumont",
+    "county": "Bergen",
+    "zip_codes": [
+      "07628"
+    ],
+    "population": 18072
+  },
+  {
+    "city": "Dunellen",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08812"
+    ],
+    "population": 7711
+  },
+  {
+    "city": "Dutch Neck",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 106
+  },
+  {
+    "city": "East Franklin",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 10281
+  },
+  {
+    "city": "East Freehold",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07728"
+    ],
+    "population": 5381
+  },
+  {
+    "city": "East Millstone",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 653
+  },
+  {
+    "city": "East Newark",
+    "county": "Hudson",
+    "zip_codes": [
+      "07029"
+    ],
+    "population": 2529
+  },
+  {
+    "city": "East Orange",
+    "county": "Essex",
+    "zip_codes": [
+      "07017",
+      "07018"
+    ],
+    "population": 69183
+  },
+  {
+    "city": "East Rocky Hill",
+    "county": "Somerset",
+    "zip_codes": [
+      "08540"
+    ],
+    "population": 212
+  },
+  {
+    "city": "East Rutherford",
+    "county": "Bergen",
+    "zip_codes": [
+      "07073"
+    ],
+    "population": 10154
+  },
+  {
+    "city": "East Vineland",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08340",
+      "08360"
+    ],
+    "population": 1475
+  },
+  {
+    "city": "Eatontown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07703",
+      "07724"
+    ],
+    "population": 13537
+  },
+  {
+    "city": "Echelon",
+    "county": "Camden",
+    "zip_codes": [
+      "08043"
+    ],
+    "population": 13577
+  },
+  {
+    "city": "Edgewater",
+    "county": "Bergen",
+    "zip_codes": [
+      "07020"
+    ],
+    "population": 14544
+  },
+  {
+    "city": "Egg Harbor City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08215"
+    ],
+    "population": 4378
+  },
+  {
+    "city": "Elizabeth",
+    "county": "Union",
+    "zip_codes": [
+      "07201",
+      "07202",
+      "07206",
+      "07208"
+    ],
+    "population": 135887
+  },
+  {
+    "city": "Ellisburg",
+    "county": "Camden",
+    "zip_codes": [
+      "08002",
+      "08034"
+    ],
+    "population": 5021
+  },
+  {
+    "city": "Elmer",
+    "county": "Salem",
+    "zip_codes": [
+      "08318"
+    ],
+    "population": 1152
+  },
+  {
+    "city": "Elmwood Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07407"
+    ],
+    "population": 21287
+  },
+  {
+    "city": "Elwood",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08037",
+      "08215",
+      "08217"
+    ],
+    "population": 920
+  },
+  {
+    "city": "Emerson",
+    "county": "Bergen",
+    "zip_codes": [
+      "07630"
+    ],
+    "population": 7263
+  },
+  {
+    "city": "Encore at Monroe",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 713
+  },
+  {
+    "city": "Englewood",
+    "county": "Bergen",
+    "zip_codes": [
+      "07631"
+    ],
+    "population": 29342
+  },
+  {
+    "city": "Englewood Cliffs",
+    "county": "Bergen",
+    "zip_codes": [
+      "07632"
+    ],
+    "population": 5330
+  },
+  {
+    "city": "English Creek",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08234"
+    ],
+    "population": 2275
+  },
+  {
+    "city": "Englishtown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07726"
+    ],
+    "population": 2075
+  },
+  {
+    "city": "Erma",
+    "county": "Cape May",
+    "zip_codes": [
+      "08204"
+    ],
+    "population": 2039
+  },
+  {
+    "city": "Essex Fells",
+    "county": "Essex",
+    "zip_codes": [
+      "07021"
+    ],
+    "population": 2320
+  },
+  {
+    "city": "Estell Manor",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08270",
+      "08317",
+      "08319",
+      "08330"
+    ],
+    "population": 1612
+  },
+  {
+    "city": "Fair Haven",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07704"
+    ],
+    "population": 6182
+  },
+  {
+    "city": "Fair Lawn",
+    "county": "Bergen",
+    "zip_codes": [
+      "07410"
+    ],
+    "population": 35153
+  },
+  {
+    "city": "Fairton",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 918
+  },
+  {
+    "city": "Fairview",
+    "county": "Bergen",
+    "zip_codes": [
+      "07022"
+    ],
+    "population": 14920
+  },
+  {
+    "city": "Fairview",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07701"
+    ],
+    "population": 3950
+  },
+  {
+    "city": "Fanwood",
+    "county": "Union",
+    "zip_codes": [
+      "07023"
+    ],
+    "population": 7714
+  },
+  {
+    "city": "Far Hills",
+    "county": "Somerset",
+    "zip_codes": [
+      "07931"
+    ],
+    "population": 1004
+  },
+  {
+    "city": "Farmingdale",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07727"
+    ],
+    "population": 1399
+  },
+  {
+    "city": "Fieldsboro",
+    "county": "Burlington",
+    "zip_codes": [
+      "08505"
+    ],
+    "population": 701
+  },
+  {
+    "city": "Finderne",
+    "county": "Somerset",
+    "zip_codes": [
+      "08807"
+    ],
+    "population": 5968
+  },
+  {
+    "city": "Finesville",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 333
+  },
+  {
+    "city": "Flagtown",
+    "county": "Somerset",
+    "zip_codes": [
+      "08821",
+      "08844"
+    ],
+    "population": 985
+  },
+  {
+    "city": "Flanders",
+    "county": "Morris",
+    "zip_codes": [
+      "07836",
+      "07840"
+    ],
+    "population": 8949
+  },
+  {
+    "city": "Flemington",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08822"
+    ],
+    "population": 4887
+  },
+  {
+    "city": "Florence",
+    "county": "Burlington",
+    "zip_codes": [
+      "08518"
+    ],
+    "population": 5027
+  },
+  {
+    "city": "Florham Park",
+    "county": "Morris",
+    "zip_codes": [
+      "07932",
+      "07940",
+      "07960",
+      "07961"
+    ],
+    "population": 13134
+  },
+  {
+    "city": "Folsom",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08037",
+      "08094"
+    ],
+    "population": 1732
+  },
+  {
+    "city": "Fords",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08837",
+      "08863"
+    ],
+    "population": 13052
+  },
+  {
+    "city": "Forked River",
+    "county": "Ocean",
+    "zip_codes": [
+      "08731"
+    ],
+    "population": 4988
+  },
+  {
+    "city": "Forsgate",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2094
+  },
+  {
+    "city": "Fort Dix",
+    "county": "Burlington",
+    "zip_codes": [
+      "08640"
+    ],
+    "population": 8034
+  },
+  {
+    "city": "Fort Lee",
+    "county": "Bergen",
+    "zip_codes": [
+      "07024"
+    ],
+    "population": 39818
+  },
+  {
+    "city": "Fortescue",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08321"
+    ],
+    "population": 141
+  },
+  {
+    "city": "Franklin",
+    "county": "Sussex",
+    "zip_codes": [
+      "07416"
+    ],
+    "population": 4938
+  },
+  {
+    "city": "Franklin Center",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 5770
+  },
+  {
+    "city": "Franklin Lakes",
+    "county": "Bergen",
+    "zip_codes": [
+      "07417"
+    ],
+    "population": 11011
+  },
+  {
+    "city": "Franklin Park",
+    "county": "Somerset",
+    "zip_codes": [
+      "08823",
+      "08873"
+    ],
+    "population": 13327
+  },
+  {
+    "city": "Franklinville",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08322"
+    ],
+    "population": 1999
+  },
+  {
+    "city": "Freehold",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07728"
+    ],
+    "population": 12504
+  },
+  {
+    "city": "Frenchtown",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08825"
+    ],
+    "population": 1609
+  },
+  {
+    "city": "Gandys Beach",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08345"
+    ],
+    "population": 38
+  },
+  {
+    "city": "Garfield",
+    "county": "Bergen",
+    "zip_codes": [
+      "07026"
+    ],
+    "population": 32502
+  },
+  {
+    "city": "Garwood",
+    "county": "Union",
+    "zip_codes": [
+      "07027"
+    ],
+    "population": 4688
+  },
+  {
+    "city": "Germania",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08215"
+    ],
+    "population": 974
+  },
+  {
+    "city": "Gibbsboro",
+    "county": "Camden",
+    "zip_codes": [
+      "08026"
+    ],
+    "population": 2337
+  },
+  {
+    "city": "Gibbstown",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08027"
+    ],
+    "population": 3494
+  },
+  {
+    "city": "Gillette",
+    "county": "Morris",
+    "zip_codes": [
+      "07933"
+    ],
+    "population": 2739
+  },
+  {
+    "city": "Glassboro",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08028",
+      "08071",
+      "08094"
+    ],
+    "population": 23375
+  },
+  {
+    "city": "Glen Gardner",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08826"
+    ],
+    "population": 1702
+  },
+  {
+    "city": "Glen Ridge",
+    "county": "Essex",
+    "zip_codes": [
+      "07028"
+    ],
+    "population": 7827
+  },
+  {
+    "city": "Glen Rock",
+    "county": "Bergen",
+    "zip_codes": [
+      "07452"
+    ],
+    "population": 12082
+  },
+  {
+    "city": "Glendora",
+    "county": "Camden",
+    "zip_codes": [
+      "08012",
+      "08029"
+    ],
+    "population": 5367
+  },
+  {
+    "city": "Gloucester City",
+    "county": "Camden",
+    "zip_codes": [
+      "08030"
+    ],
+    "population": 11465
+  },
+  {
+    "city": "Golden Triangle",
+    "county": "Camden",
+    "zip_codes": [
+      "08002"
+    ],
+    "population": 4893
+  },
+  {
+    "city": "Goshen",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210"
+    ],
+    "population": 384
+  },
+  {
+    "city": "Gouldtown",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 1555
+  },
+  {
+    "city": "Great Meadows",
+    "county": "Warren",
+    "zip_codes": [
+      "07838"
+    ],
+    "population": 353
+  },
+  {
+    "city": "Great Notch",
+    "county": "Passaic",
+    "zip_codes": [
+      "07009",
+      "07424"
+    ],
+    "population": 3898
+  },
+  {
+    "city": "Green Knoll",
+    "county": "Somerset",
+    "zip_codes": [
+      "08807"
+    ],
+    "population": 6664
+  },
+  {
+    "city": "Green Village",
+    "county": "Morris",
+    "zip_codes": [
+      "07928",
+      "07935",
+      "07960"
+    ],
+    "population": 1040
+  },
+  {
+    "city": "Greentree",
+    "county": "Camden",
+    "zip_codes": [
+      "08003",
+      "08034"
+    ],
+    "population": 11024
+  },
+  {
+    "city": "Greenwich",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08323"
+    ],
+    "population": 161
+  },
+  {
+    "city": "Greenwich",
+    "county": "Warren",
+    "zip_codes": [
+      "08886"
+    ],
+    "population": 2615
+  },
+  {
+    "city": "Grenloch",
+    "county": "Camden",
+    "zip_codes": [
+      "08012",
+      "08032",
+      "08080"
+    ],
+    "population": 748
+  },
+  {
+    "city": "Griggstown",
+    "county": "Somerset",
+    "zip_codes": [
+      "08540"
+    ],
+    "population": 928
+  },
+  {
+    "city": "Groveville",
+    "county": "Mercer",
+    "zip_codes": [
+      "08620",
+      "08691"
+    ],
+    "population": 3007
+  },
+  {
+    "city": "Guttenberg",
+    "county": "Hudson",
+    "zip_codes": [
+      "07093"
+    ],
+    "population": 11638
+  },
+  {
+    "city": "Hackensack",
+    "county": "Bergen",
+    "zip_codes": [
+      "07601"
+    ],
+    "population": 45768
+  },
+  {
+    "city": "Hackettstown",
+    "county": "Warren",
+    "zip_codes": [
+      "07840"
+    ],
+    "population": 10143
+  },
+  {
+    "city": "Haddon Heights",
+    "county": "Camden",
+    "zip_codes": [
+      "08035"
+    ],
+    "population": 7488
+  },
+  {
+    "city": "Haddonfield",
+    "county": "Camden",
+    "zip_codes": [
+      "08033"
+    ],
+    "population": 12502
+  },
+  {
+    "city": "Hainesburg",
+    "county": "Warren",
+    "zip_codes": [
+      "07832"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Haledon",
+    "county": "Passaic",
+    "zip_codes": [
+      "07508"
+    ],
+    "population": 8936
+  },
+  {
+    "city": "Hamburg",
+    "county": "Sussex",
+    "zip_codes": [
+      "07419"
+    ],
+    "population": 3293
+  },
+  {
+    "city": "Hamilton Square",
+    "county": "Mercer",
+    "zip_codes": [
+      "08690",
+      "08691"
+    ],
+    "population": 11643
+  },
+  {
+    "city": "Hammonton",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08037"
+    ],
+    "population": 14746
+  },
+  {
+    "city": "Hampton",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08827"
+    ],
+    "population": 1127
+  },
+  {
+    "city": "Hancocks Bridge",
+    "county": "Salem",
+    "zip_codes": [
+      "08038",
+      "08079"
+    ],
+    "population": 296
+  },
+  {
+    "city": "Harlingen",
+    "county": "Somerset",
+    "zip_codes": [
+      "08502"
+    ],
+    "population": 697
+  },
+  {
+    "city": "Harmony",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Harrington Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07640"
+    ],
+    "population": 4883
+  },
+  {
+    "city": "Harrison",
+    "county": "Hudson",
+    "zip_codes": [
+      "07029"
+    ],
+    "population": 19599
+  },
+  {
+    "city": "Harrisonville",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08039",
+      "08062",
+      "08085"
+    ],
+    "population": 302
+  },
+  {
+    "city": "Harvey Cedars",
+    "county": "Ocean",
+    "zip_codes": [
+      "08008"
+    ],
+    "population": 478
+  },
+  {
+    "city": "Hasbrouck Heights",
+    "county": "Bergen",
+    "zip_codes": [
+      "07604",
+      "07608"
+    ],
+    "population": 12067
+  },
+  {
+    "city": "Haworth",
+    "county": "Bergen",
+    "zip_codes": [
+      "07641"
+    ],
+    "population": 3321
+  },
+  {
+    "city": "Hawthorne",
+    "county": "Passaic",
+    "zip_codes": [
+      "07506"
+    ],
+    "population": 19472
+  },
+  {
+    "city": "Heathcote",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08540",
+      "08824",
+      "08852"
+    ],
+    "population": 6689
+  },
+  {
+    "city": "Heislerville",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08324"
+    ],
+    "population": 197
+  },
+  {
+    "city": "Helmetta",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08828"
+    ],
+    "population": 2317
+  },
+  {
+    "city": "Hewitt",
+    "county": "Passaic",
+    "zip_codes": [
+      "07421"
+    ],
+    "population": 2797
+  },
+  {
+    "city": "Hi-Nella",
+    "county": "Camden",
+    "zip_codes": [
+      "08083"
+    ],
+    "population": 984
+  },
+  {
+    "city": "Hibernia",
+    "county": "Morris",
+    "zip_codes": [
+      "07842",
+      "07866",
+      "07885"
+    ],
+    "population": 136
+  },
+  {
+    "city": "High Bridge",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08829"
+    ],
+    "population": 3584
+  },
+  {
+    "city": "Highland Lakes",
+    "county": "Sussex",
+    "zip_codes": [
+      "07422",
+      "07462"
+    ],
+    "population": 3941
+  },
+  {
+    "city": "Highland Park",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08904"
+    ],
+    "population": 14981
+  },
+  {
+    "city": "Highlands",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07732"
+    ],
+    "population": 4575
+  },
+  {
+    "city": "Hightstown",
+    "county": "Mercer",
+    "zip_codes": [
+      "08520"
+    ],
+    "population": 5869
+  },
+  {
+    "city": "Hillsborough",
+    "county": "Somerset",
+    "zip_codes": [
+      "08844"
+    ],
+    "population": 22302
+  },
+  {
+    "city": "Hillsdale",
+    "county": "Bergen",
+    "zip_codes": [
+      "07642"
+    ],
+    "population": 10086
+  },
+  {
+    "city": "Ho-Ho-Kus",
+    "county": "Bergen",
+    "zip_codes": [
+      "07423"
+    ],
+    "population": 4230
+  },
+  {
+    "city": "Hoboken",
+    "county": "Hudson",
+    "zip_codes": [
+      "07030"
+    ],
+    "population": 58340
+  },
+  {
+    "city": "Holiday City South",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757"
+    ],
+    "population": 4294
+  },
+  {
+    "city": "Holiday City-Berkeley",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757"
+    ],
+    "population": 12896
+  },
+  {
+    "city": "Holiday Heights",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757"
+    ],
+    "population": 2118
+  },
+  {
+    "city": "Hopatcong",
+    "county": "Sussex",
+    "zip_codes": [
+      "07821",
+      "07843",
+      "07874"
+    ],
+    "population": 14470
+  },
+  {
+    "city": "Hope",
+    "county": "Warren",
+    "zip_codes": [
+      "07825",
+      "07844"
+    ],
+    "population": 214
+  },
+  {
+    "city": "Hopelawn",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08861"
+    ],
+    "population": 2986
+  },
+  {
+    "city": "Hopewell",
+    "county": "Mercer",
+    "zip_codes": [
+      "08525"
+    ],
+    "population": 1828
+  },
+  {
+    "city": "Hutchinson",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 109
+  },
+  {
+    "city": "Interlaken",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07712"
+    ],
+    "population": 821
+  },
+  {
+    "city": "Iselin",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08830"
+    ],
+    "population": 19151
+  },
+  {
+    "city": "Island Heights",
+    "county": "Ocean",
+    "zip_codes": [
+      "08732",
+      "08753"
+    ],
+    "population": 1691
+  },
+  {
+    "city": "Jamesburg",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 5763
+  },
+  {
+    "city": "Jersey City",
+    "county": "Hudson",
+    "zip_codes": [
+      "07302",
+      "07304",
+      "07305",
+      "07306",
+      "07307",
+      "07310",
+      "07311"
+    ],
+    "population": 289691
+  },
+  {
+    "city": "Jobstown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08022",
+      "08041"
+    ],
+    "population": 258
+  },
+  {
+    "city": "Johnsonburg",
+    "county": "Warren",
+    "zip_codes": [
+      "07821",
+      "07825",
+      "07846",
+      "07860"
+    ],
+    "population": 425
+  },
+  {
+    "city": "Juliustown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08022",
+      "08042"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Kean University",
+    "county": "Union",
+    "zip_codes": [
+      "07083",
+      "07205"
+    ],
+    "population": 1359
+  },
+  {
+    "city": "Keansburg",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07734",
+      "07748"
+    ],
+    "population": 9729
+  },
+  {
+    "city": "Kearny",
+    "county": "Hudson",
+    "zip_codes": [
+      "07032"
+    ],
+    "population": 40570
+  },
+  {
+    "city": "Keasbey",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08832"
+    ],
+    "population": 2793
+  },
+  {
+    "city": "Kendall Park",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08540",
+      "08824",
+      "08852"
+    ],
+    "population": 10765
+  },
+  {
+    "city": "Kenilworth",
+    "county": "Union",
+    "zip_codes": [
+      "07033"
+    ],
+    "population": 8339
+  },
+  {
+    "city": "Kenvil",
+    "county": "Morris",
+    "zip_codes": [
+      "07847"
+    ],
+    "population": 1719
+  },
+  {
+    "city": "Keyport",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07735"
+    ],
+    "population": 7159
+  },
+  {
+    "city": "Kingston",
+    "county": "Somerset",
+    "zip_codes": [
+      "08528",
+      "08540"
+    ],
+    "population": 1557
+  },
+  {
+    "city": "Kingston Estates",
+    "county": "Camden",
+    "zip_codes": [
+      "08034"
+    ],
+    "population": 6250
+  },
+  {
+    "city": "Kinnelon",
+    "county": "Morris",
+    "zip_codes": [
+      "07035",
+      "07405"
+    ],
+    "population": 9971
+  },
+  {
+    "city": "Lake Como",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07719"
+    ],
+    "population": 1660
+  },
+  {
+    "city": "Lake Hiawatha",
+    "county": "Morris",
+    "zip_codes": [
+      "07034"
+    ],
+    "population": 10406
+  },
+  {
+    "city": "Lake Hopatcong",
+    "county": "Morris",
+    "zip_codes": [
+      "07849",
+      "07885"
+    ],
+    "population": 10383
+  },
+  {
+    "city": "Lake Mohawk",
+    "county": "Sussex",
+    "zip_codes": [
+      "07821",
+      "07871"
+    ],
+    "population": 9116
+  },
+  {
+    "city": "Lake Telemark",
+    "county": "Morris",
+    "zip_codes": [
+      "07866",
+      "07885"
+    ],
+    "population": 1519
+  },
+  {
+    "city": "Lakehurst",
+    "county": "Ocean",
+    "zip_codes": [
+      "08733",
+      "08759"
+    ],
+    "population": 2666
+  },
+  {
+    "city": "Lakeside-Beebe Run",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 163
+  },
+  {
+    "city": "Lakewood",
+    "county": "Ocean",
+    "zip_codes": [
+      "08701"
+    ],
+    "population": 69884
+  },
+  {
+    "city": "Lambertville",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08530"
+    ],
+    "population": 4141
+  },
+  {
+    "city": "Lamington",
+    "county": "Somerset",
+    "zip_codes": [
+      "07921"
+    ],
+    "population": 218
+  },
+  {
+    "city": "Landing",
+    "county": "Morris",
+    "zip_codes": [
+      "07850"
+    ],
+    "population": 4499
+  },
+  {
+    "city": "Laurel Heights",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 391
+  },
+  {
+    "city": "Laurel Lake",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08332"
+    ],
+    "population": 2514
+  },
+  {
+    "city": "Laurel Springs",
+    "county": "Camden",
+    "zip_codes": [
+      "08021"
+    ],
+    "population": 2025
+  },
+  {
+    "city": "Laurence Harbor",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07721",
+      "07735",
+      "08879"
+    ],
+    "population": 6130
+  },
+  {
+    "city": "Lavallette",
+    "county": "Ocean",
+    "zip_codes": [
+      "08735"
+    ],
+    "population": 1836
+  },
+  {
+    "city": "Lawnside",
+    "county": "Camden",
+    "zip_codes": [
+      "08003",
+      "08045"
+    ],
+    "population": 3124
+  },
+  {
+    "city": "Lawrenceville",
+    "county": "Mercer",
+    "zip_codes": [
+      "08648"
+    ],
+    "population": 3947
+  },
+  {
+    "city": "Layton",
+    "county": "Sussex",
+    "zip_codes": [
+      "07826",
+      "07827",
+      "07851"
+    ],
+    "population": 896
+  },
+  {
+    "city": "Lebanon",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08833"
+    ],
+    "population": 1664
+  },
+  {
+    "city": "Ledgewood",
+    "county": "Morris",
+    "zip_codes": [
+      "07836",
+      "07852"
+    ],
+    "population": 5150
+  },
+  {
+    "city": "Leeds Point",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08205"
+    ],
+    "population": 78
+  },
+  {
+    "city": "Leesburg",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08327"
+    ],
+    "population": 275
+  },
+  {
+    "city": "Leisure Knoll",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 2725
+  },
+  {
+    "city": "Leisure Village",
+    "county": "Ocean",
+    "zip_codes": [
+      "08701"
+    ],
+    "population": 6307
+  },
+  {
+    "city": "Leisure Village East",
+    "county": "Ocean",
+    "zip_codes": [
+      "08701"
+    ],
+    "population": 4309
+  },
+  {
+    "city": "Leisure Village West",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 4070
+  },
+  {
+    "city": "Leisuretowne",
+    "county": "Burlington",
+    "zip_codes": [
+      "08088"
+    ],
+    "population": 3244
+  },
+  {
+    "city": "Leonardo",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07737"
+    ],
+    "population": 2342
+  },
+  {
+    "city": "Leonia",
+    "county": "Bergen",
+    "zip_codes": [
+      "07605",
+      "07631"
+    ],
+    "population": 9300
+  },
+  {
+    "city": "Liberty Corner",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "07931"
+    ],
+    "population": 1789
+  },
+  {
+    "city": "Lincoln Park",
+    "county": "Morris",
+    "zip_codes": [
+      "07035"
+    ],
+    "population": 10901
+  },
+  {
+    "city": "Lincroft",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07738"
+    ],
+    "population": 6901
+  },
+  {
+    "city": "Linden",
+    "county": "Union",
+    "zip_codes": [
+      "07036"
+    ],
+    "population": 43614
+  },
+  {
+    "city": "Lindenwold",
+    "county": "Camden",
+    "zip_codes": [
+      "08021"
+    ],
+    "population": 21534
+  },
+  {
+    "city": "Linwood",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08221"
+    ],
+    "population": 6954
+  },
+  {
+    "city": "Little Ferry",
+    "county": "Bergen",
+    "zip_codes": [
+      "07643"
+    ],
+    "population": 10942
+  },
+  {
+    "city": "Little Silver",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07739"
+    ],
+    "population": 6096
+  },
+  {
+    "city": "Llewellyn Park",
+    "county": "Essex",
+    "zip_codes": [
+      "07052"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Loch Arbour",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07711"
+    ],
+    "population": 199
+  },
+  {
+    "city": "Lodi",
+    "county": "Bergen",
+    "zip_codes": [
+      "07644"
+    ],
+    "population": 25946
+  },
+  {
+    "city": "Long Branch",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07740"
+    ],
+    "population": 32184
+  },
+  {
+    "city": "Long Valley",
+    "county": "Morris",
+    "zip_codes": [
+      "07853"
+    ],
+    "population": 2107
+  },
+  {
+    "city": "Longport",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08403"
+    ],
+    "population": 897
+  },
+  {
+    "city": "Lopatcong Overlook",
+    "county": "Warren",
+    "zip_codes": [
+      "08886"
+    ],
+    "population": 612
+  },
+  {
+    "city": "Lower Berkshire Valley",
+    "county": "Morris",
+    "zip_codes": [
+      "07885"
+    ],
+    "population": 532
+  },
+  {
+    "city": "Lyons",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "07939"
+    ],
+    "population": 5444
+  },
+  {
+    "city": "Macopin",
+    "county": "Passaic",
+    "zip_codes": [
+      "07480"
+    ],
+    "population": 2305
+  },
+  {
+    "city": "Madison",
+    "county": "Morris",
+    "zip_codes": [
+      "07940"
+    ],
+    "population": 16464
+  },
+  {
+    "city": "Madison Park",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08857",
+      "08859",
+      "08879"
+    ],
+    "population": 8798
+  },
+  {
+    "city": "Magnolia",
+    "county": "Camden",
+    "zip_codes": [
+      "08049"
+    ],
+    "population": 4360
+  },
+  {
+    "city": "Malaga",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08322",
+      "08328",
+      "08344"
+    ],
+    "population": 1612
+  },
+  {
+    "city": "Manahawkin",
+    "county": "Ocean",
+    "zip_codes": [
+      "08050"
+    ],
+    "population": 2359
+  },
+  {
+    "city": "Manasquan",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08736"
+    ],
+    "population": 5915
+  },
+  {
+    "city": "Mantoloking",
+    "county": "Ocean",
+    "zip_codes": [
+      "08738"
+    ],
+    "population": 468
+  },
+  {
+    "city": "Manville",
+    "county": "Somerset",
+    "zip_codes": [
+      "08835",
+      "08844"
+    ],
+    "population": 10870
+  },
+  {
+    "city": "Margate City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08402"
+    ],
+    "population": 5260
+  },
+  {
+    "city": "Marksboro",
+    "county": "Warren",
+    "zip_codes": [
+      "07825"
+    ],
+    "population": 156
+  },
+  {
+    "city": "Marlboro",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 101
+  },
+  {
+    "city": "Marlton",
+    "county": "Burlington",
+    "zip_codes": [
+      "08053"
+    ],
+    "population": 10473
+  },
+  {
+    "city": "Marmora",
+    "county": "Cape May",
+    "zip_codes": [
+      "08223"
+    ],
+    "population": 2011
+  },
+  {
+    "city": "Marshallville",
+    "county": "Cape May",
+    "zip_codes": [
+      "08270"
+    ],
+    "population": 194
+  },
+  {
+    "city": "Martinsville",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "08805",
+      "08807",
+      "08836"
+    ],
+    "population": 12016
+  },
+  {
+    "city": "Matawan",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07747"
+    ],
+    "population": 9636
+  },
+  {
+    "city": "Mauricetown",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08329",
+      "08332",
+      "08349"
+    ],
+    "population": 386
+  },
+  {
+    "city": "Mays Landing",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08330"
+    ],
+    "population": 6178
+  },
+  {
+    "city": "Maywood",
+    "county": "Bergen",
+    "zip_codes": [
+      "07607"
+    ],
+    "population": 10042
+  },
+  {
+    "city": "McGuire AFB",
+    "county": "Burlington",
+    "zip_codes": [
+      "08562",
+      "08640",
+      "08641"
+    ],
+    "population": 4491
+  },
+  {
+    "city": "McKee City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08330"
+    ],
+    "population": 10843
+  },
+  {
+    "city": "Medford Lakes",
+    "county": "Burlington",
+    "zip_codes": [
+      "08055"
+    ],
+    "population": 4267
+  },
+  {
+    "city": "Mendham",
+    "county": "Morris",
+    "zip_codes": [
+      "07945"
+    ],
+    "population": 4977
+  },
+  {
+    "city": "Menlo Park Terrace",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08830",
+      "08840"
+    ],
+    "population": 2952
+  },
+  {
+    "city": "Mercerville",
+    "county": "Mercer",
+    "zip_codes": [
+      "08619",
+      "08690"
+    ],
+    "population": 13693
+  },
+  {
+    "city": "Merchantville",
+    "county": "Camden",
+    "zip_codes": [
+      "08109"
+    ],
+    "population": 3815
+  },
+  {
+    "city": "Metuchen",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08840"
+    ],
+    "population": 14982
+  },
+  {
+    "city": "Mickleton",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08056"
+    ],
+    "population": 1734
+  },
+  {
+    "city": "Middlebush",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 2017
+  },
+  {
+    "city": "Middlesex",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08846"
+    ],
+    "population": 14518
+  },
+  {
+    "city": "Midland Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07432"
+    ],
+    "population": 6996
+  },
+  {
+    "city": "Milford",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08848"
+    ],
+    "population": 1306
+  },
+  {
+    "city": "Millington",
+    "county": "Morris",
+    "zip_codes": [
+      "07946"
+    ],
+    "population": 3002
+  },
+  {
+    "city": "Millstone",
+    "county": "Somerset",
+    "zip_codes": [
+      "08844"
+    ],
+    "population": 606
+  },
+  {
+    "city": "Milltown",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08850"
+    ],
+    "population": 6994
+  },
+  {
+    "city": "Millville",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08332"
+    ],
+    "population": 27432
+  },
+  {
+    "city": "Milmay",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08330",
+      "08340",
+      "08360"
+    ],
+    "population": 950
+  },
+  {
+    "city": "Mizpah",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08330"
+    ],
+    "population": 207
+  },
+  {
+    "city": "Money Island",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08345"
+    ],
+    "population": 23
+  },
+  {
+    "city": "Monmouth Beach",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07750"
+    ],
+    "population": 3201
+  },
+  {
+    "city": "Monmouth Junction",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08540",
+      "08852"
+    ],
+    "population": 9457
+  },
+  {
+    "city": "Monroe Manor",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2308
+  },
+  {
+    "city": "Montclair State University",
+    "county": "Passaic",
+    "zip_codes": [
+      "07043",
+      "07424"
+    ],
+    "population": 2177
+  },
+  {
+    "city": "Montvale",
+    "county": "Bergen",
+    "zip_codes": [
+      "07645"
+    ],
+    "population": 8625
+  },
+  {
+    "city": "Moonachie",
+    "county": "Bergen",
+    "zip_codes": [
+      "07074",
+      "07608"
+    ],
+    "population": 3106
+  },
+  {
+    "city": "Moorestown-Lenola",
+    "county": "Burlington",
+    "zip_codes": [
+      "08057"
+    ],
+    "population": 14523
+  },
+  {
+    "city": "Morganville",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07751"
+    ],
+    "population": 5544
+  },
+  {
+    "city": "Morris Plains",
+    "county": "Morris",
+    "zip_codes": [
+      "07950"
+    ],
+    "population": 6214
+  },
+  {
+    "city": "Morristown",
+    "county": "Morris",
+    "zip_codes": [
+      "07960"
+    ],
+    "population": 20256
+  },
+  {
+    "city": "Mount Arlington",
+    "county": "Morris",
+    "zip_codes": [
+      "07850",
+      "07856"
+    ],
+    "population": 5901
+  },
+  {
+    "city": "Mount Ephraim",
+    "county": "Camden",
+    "zip_codes": [
+      "08059"
+    ],
+    "population": 4648
+  },
+  {
+    "city": "Mount Hermon",
+    "county": "Warren",
+    "zip_codes": [
+      "07825"
+    ],
+    "population": 237
+  },
+  {
+    "city": "Mount Hope",
+    "county": "Morris",
+    "zip_codes": [
+      "07801",
+      "07866",
+      "07885"
+    ],
+    "population": 3082
+  },
+  {
+    "city": "Mount Royal",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08020",
+      "08061"
+    ],
+    "population": 1077
+  },
+  {
+    "city": "Mount Tabor",
+    "county": "Morris",
+    "zip_codes": [
+      "07834",
+      "07878",
+      "07950"
+    ],
+    "population": 1127
+  },
+  {
+    "city": "Mountain Lake",
+    "county": "Warren",
+    "zip_codes": [
+      "07823"
+    ],
+    "population": 566
+  },
+  {
+    "city": "Mountain Lakes",
+    "county": "Morris",
+    "zip_codes": [
+      "07046"
+    ],
+    "population": 4535
+  },
+  {
+    "city": "Mountainside",
+    "county": "Union",
+    "zip_codes": [
+      "07092"
+    ],
+    "population": 6967
+  },
+  {
+    "city": "Mullica Hill",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08062"
+    ],
+    "population": 4561
+  },
+  {
+    "city": "Mystic Island",
+    "county": "Ocean",
+    "zip_codes": [
+      "08087"
+    ],
+    "population": 7616
+  },
+  {
+    "city": "National Park",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08063"
+    ],
+    "population": 3043
+  },
+  {
+    "city": "Navesink",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07716",
+      "07760"
+    ],
+    "population": 1904
+  },
+  {
+    "city": "Neptune City",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07753"
+    ],
+    "population": 4607
+  },
+  {
+    "city": "Nesco",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08037"
+    ],
+    "population": 626
+  },
+  {
+    "city": "Neshanic",
+    "county": "Somerset",
+    "zip_codes": [
+      "08844"
+    ],
+    "population": 625
+  },
+  {
+    "city": "Neshanic Station",
+    "county": "Somerset",
+    "zip_codes": [
+      "08853",
+      "08876"
+    ],
+    "population": 5403
+  },
+  {
+    "city": "Netcong",
+    "county": "Morris",
+    "zip_codes": [
+      "07857"
+    ],
+    "population": 3543
+  },
+  {
+    "city": "New Brunswick",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08901"
+    ],
+    "population": 55744
+  },
+  {
+    "city": "New Egypt",
+    "county": "Ocean",
+    "zip_codes": [
+      "08533"
+    ],
+    "population": 1949
+  },
+  {
+    "city": "New Gretna",
+    "county": "Burlington",
+    "zip_codes": [
+      "08087",
+      "08224"
+    ],
+    "population": 249
+  },
+  {
+    "city": "New Milford",
+    "county": "Bergen",
+    "zip_codes": [
+      "07646"
+    ],
+    "population": 16882
+  },
+  {
+    "city": "New Providence",
+    "county": "Union",
+    "zip_codes": [
+      "07901",
+      "07974"
+    ],
+    "population": 13577
+  },
+  {
+    "city": "New Vernon",
+    "county": "Morris",
+    "zip_codes": [
+      "07920",
+      "07935",
+      "07960",
+      "07976"
+    ],
+    "population": 791
+  },
+  {
+    "city": "New Village",
+    "county": "Warren",
+    "zip_codes": [
+      "07882",
+      "08886"
+    ],
+    "population": 366
+  },
+  {
+    "city": "Newark",
+    "county": "Essex",
+    "zip_codes": [
+      "07102",
+      "07103",
+      "07104",
+      "07105",
+      "07106",
+      "07107",
+      "07108",
+      "07112",
+      "07114"
+    ],
+    "population": 307188
+  },
+  {
+    "city": "Newfield",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08344"
+    ],
+    "population": 1811
+  },
+  {
+    "city": "Newfoundland",
+    "county": "Passaic",
+    "zip_codes": [
+      "07435"
+    ],
+    "population": 1281
+  },
+  {
+    "city": "Newport",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08345"
+    ],
+    "population": 551
+  },
+  {
+    "city": "Newton",
+    "county": "Sussex",
+    "zip_codes": [
+      "07860"
+    ],
+    "population": 8336
+  },
+  {
+    "city": "Newtonville",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08094",
+      "08330",
+      "08346"
+    ],
+    "population": 915
+  },
+  {
+    "city": "North Arlington",
+    "county": "Bergen",
+    "zip_codes": [
+      "07031"
+    ],
+    "population": 16368
+  },
+  {
+    "city": "North Beach Haven",
+    "county": "Ocean",
+    "zip_codes": [
+      "08008"
+    ],
+    "population": 2282
+  },
+  {
+    "city": "North Caldwell",
+    "county": "Essex",
+    "zip_codes": [
+      "07006"
+    ],
+    "population": 6622
+  },
+  {
+    "city": "North Cape May",
+    "county": "Cape May",
+    "zip_codes": [
+      "08204"
+    ],
+    "population": 3577
+  },
+  {
+    "city": "North Haledon",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470",
+      "07508"
+    ],
+    "population": 8757
+  },
+  {
+    "city": "North Middletown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07748"
+    ],
+    "population": 3081
+  },
+  {
+    "city": "North Plainfield",
+    "county": "Somerset",
+    "zip_codes": [
+      "07060",
+      "07062",
+      "07063"
+    ],
+    "population": 22667
+  },
+  {
+    "city": "North Wildwood",
+    "county": "Cape May",
+    "zip_codes": [
+      "08260"
+    ],
+    "population": 3620
+  },
+  {
+    "city": "Northfield",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08225"
+    ],
+    "population": 8427
+  },
+  {
+    "city": "Northvale",
+    "county": "Bergen",
+    "zip_codes": [
+      "07647"
+    ],
+    "population": 4782
+  },
+  {
+    "city": "Norwood",
+    "county": "Bergen",
+    "zip_codes": [
+      "07648"
+    ],
+    "population": 5668
+  },
+  {
+    "city": "Oak Ridge",
+    "county": "Morris",
+    "zip_codes": [
+      "07435",
+      "07438"
+    ],
+    "population": 10860
+  },
+  {
+    "city": "Oak Valley",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08090"
+    ],
+    "population": 4374
+  },
+  {
+    "city": "Oakhurst",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07755"
+    ],
+    "population": 3811
+  },
+  {
+    "city": "Oakland",
+    "county": "Bergen",
+    "zip_codes": [
+      "07436"
+    ],
+    "population": 12700
+  },
+  {
+    "city": "Oaklyn",
+    "county": "Camden",
+    "zip_codes": [
+      "08107"
+    ],
+    "population": 3934
+  },
+  {
+    "city": "Ocean Acres",
+    "county": "Ocean",
+    "zip_codes": [
+      "08005",
+      "08050"
+    ],
+    "population": 18689
+  },
+  {
+    "city": "Ocean City",
+    "county": "Cape May",
+    "zip_codes": [
+      "08226"
+    ],
+    "population": 11260
+  },
+  {
+    "city": "Ocean Gate",
+    "county": "Ocean",
+    "zip_codes": [
+      "08740"
+    ],
+    "population": 1768
+  },
+  {
+    "city": "Ocean Grove",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07756"
+    ],
+    "population": 2916
+  },
+  {
+    "city": "Ocean View",
+    "county": "Cape May",
+    "zip_codes": [
+      "08230"
+    ],
+    "population": 877
+  },
+  {
+    "city": "Oceanport",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07703",
+      "07757"
+    ],
+    "population": 6130
+  },
+  {
+    "city": "Oceanville",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08205"
+    ],
+    "population": 721
+  },
+  {
+    "city": "Ogdensburg",
+    "county": "Sussex",
+    "zip_codes": [
+      "07439"
+    ],
+    "population": 2231
+  },
+  {
+    "city": "Old Bridge",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08857"
+    ],
+    "population": 28015
+  },
+  {
+    "city": "Old Tappan",
+    "county": "Bergen",
+    "zip_codes": [
+      "07675"
+    ],
+    "population": 5896
+  },
+  {
+    "city": "Oldwick",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08833",
+      "08858",
+      "08889"
+    ],
+    "population": 446
+  },
+  {
+    "city": "Olivet",
+    "county": "Salem",
+    "zip_codes": [
+      "08318"
+    ],
+    "population": 1647
+  },
+  {
+    "city": "Oradell",
+    "county": "Bergen",
+    "zip_codes": [
+      "07649"
+    ],
+    "population": 8197
+  },
+  {
+    "city": "Othello",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08323"
+    ],
+    "population": 100
+  },
+  {
+    "city": "Oxford",
+    "county": "Warren",
+    "zip_codes": [
+      "07863"
+    ],
+    "population": 1140
+  },
+  {
+    "city": "Packanack Lake",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470"
+    ],
+    "population": 6126
+  },
+  {
+    "city": "Palermo",
+    "county": "Cape May",
+    "zip_codes": [
+      "08223",
+      "08230"
+    ],
+    "population": 2667
+  },
+  {
+    "city": "Palisades Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07650"
+    ],
+    "population": 20192
+  },
+  {
+    "city": "Palmyra",
+    "county": "Burlington",
+    "zip_codes": [
+      "08065"
+    ],
+    "population": 7447
+  },
+  {
+    "city": "Panther Valley",
+    "county": "Warren",
+    "zip_codes": [
+      "07838",
+      "07840"
+    ],
+    "population": 4622
+  },
+  {
+    "city": "Paramus",
+    "county": "Bergen",
+    "zip_codes": [
+      "07652"
+    ],
+    "population": 26500
+  },
+  {
+    "city": "Park Ridge",
+    "county": "Bergen",
+    "zip_codes": [
+      "07656"
+    ],
+    "population": 9218
+  },
+  {
+    "city": "Parsippany",
+    "county": "Morris",
+    "zip_codes": [
+      "07005",
+      "07054"
+    ],
+    "population": 21869
+  },
+  {
+    "city": "Passaic",
+    "county": "Passaic",
+    "zip_codes": [
+      "07055"
+    ],
+    "population": 69651
+  },
+  {
+    "city": "Paterson",
+    "county": "Passaic",
+    "zip_codes": [
+      "07501",
+      "07502",
+      "07503",
+      "07504",
+      "07505",
+      "07513",
+      "07514",
+      "07522",
+      "07524"
+    ],
+    "population": 157660
+  },
+  {
+    "city": "Paulsboro",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08066"
+    ],
+    "population": 6213
+  },
+  {
+    "city": "Peapack and Gladstone",
+    "county": "Somerset",
+    "zip_codes": [
+      "07931",
+      "07934",
+      "07977"
+    ],
+    "population": 2547
+  },
+  {
+    "city": "Pedricktown",
+    "county": "Salem",
+    "zip_codes": [
+      "08067"
+    ],
+    "population": 380
+  },
+  {
+    "city": "Pemberton",
+    "county": "Burlington",
+    "zip_codes": [
+      "08068"
+    ],
+    "population": 1373
+  },
+  {
+    "city": "Pemberton Heights",
+    "county": "Burlington",
+    "zip_codes": [
+      "08068"
+    ],
+    "population": 2643
+  },
+  {
+    "city": "Pennington",
+    "county": "Mercer",
+    "zip_codes": [
+      "08534"
+    ],
+    "population": 2798
+  },
+  {
+    "city": "Penns Grove",
+    "county": "Salem",
+    "zip_codes": [
+      "08069"
+    ],
+    "population": 4860
+  },
+  {
+    "city": "Pennsville",
+    "county": "Salem",
+    "zip_codes": [
+      "08023",
+      "08070"
+    ],
+    "population": 12238
+  },
+  {
+    "city": "Perth Amboy",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08861"
+    ],
+    "population": 55278
+  },
+  {
+    "city": "Phillipsburg",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 15251
+  },
+  {
+    "city": "Pine Beach",
+    "county": "Ocean",
+    "zip_codes": [
+      "08741"
+    ],
+    "population": 2378
+  },
+  {
+    "city": "Pine Brook",
+    "county": "Morris",
+    "zip_codes": [
+      "07045",
+      "07058"
+    ],
+    "population": 6017
+  },
+  {
+    "city": "Pine Hill",
+    "county": "Camden",
+    "zip_codes": [
+      "08009",
+      "08021"
+    ],
+    "population": 10762
+  },
+  {
+    "city": "Pine Lake Park",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757",
+      "08759"
+    ],
+    "population": 9251
+  },
+  {
+    "city": "Pine Ridge at Crestwood",
+    "county": "Ocean",
+    "zip_codes": [
+      "08759"
+    ],
+    "population": 2756
+  },
+  {
+    "city": "Pines Lake",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470"
+    ],
+    "population": 2989
+  },
+  {
+    "city": "Pitman",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08071"
+    ],
+    "population": 8834
+  },
+  {
+    "city": "Plainfield",
+    "county": "Union",
+    "zip_codes": [
+      "07060",
+      "07062",
+      "07063",
+      "08812"
+    ],
+    "population": 54515
+  },
+  {
+    "city": "Plainsboro Center",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08536"
+    ],
+    "population": 2683
+  },
+  {
+    "city": "Pleasant Plains",
+    "county": "Somerset",
+    "zip_codes": [
+      "08823",
+      "08873"
+    ],
+    "population": 536
+  },
+  {
+    "city": "Pleasantdale",
+    "county": "Essex",
+    "zip_codes": [
+      "07052"
+    ],
+    "population": 2293
+  },
+  {
+    "city": "Pleasantville",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08201",
+      "08232"
+    ],
+    "population": 20604
+  },
+  {
+    "city": "Pluckemin",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "07921"
+    ],
+    "population": 490
+  },
+  {
+    "city": "Point Pleasant",
+    "county": "Ocean",
+    "zip_codes": [
+      "08742"
+    ],
+    "population": 19158
+  },
+  {
+    "city": "Point Pleasant Beach",
+    "county": "Ocean",
+    "zip_codes": [
+      "08742"
+    ],
+    "population": 4826
+  },
+  {
+    "city": "Pomona",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08205",
+      "08215"
+    ],
+    "population": 8141
+  },
+  {
+    "city": "Pompton Lakes",
+    "county": "Passaic",
+    "zip_codes": [
+      "07442"
+    ],
+    "population": 11010
+  },
+  {
+    "city": "Pompton Plains",
+    "county": "Morris",
+    "zip_codes": [
+      "07444"
+    ],
+    "population": 10766
+  },
+  {
+    "city": "Port Colden",
+    "county": "Warren",
+    "zip_codes": [
+      "07865",
+      "07882"
+    ],
+    "population": 357
+  },
+  {
+    "city": "Port Elizabeth",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08332",
+      "08348"
+    ],
+    "population": 303
+  },
+  {
+    "city": "Port Monmouth",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07718",
+      "07748",
+      "07758"
+    ],
+    "population": 3285
+  },
+  {
+    "city": "Port Morris",
+    "county": "Morris",
+    "zip_codes": [
+      "07850"
+    ],
+    "population": 1141
+  },
+  {
+    "city": "Port Murray",
+    "county": "Warren",
+    "zip_codes": [
+      "07865"
+    ],
+    "population": 97
+  },
+  {
+    "city": "Port Norris",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08349"
+    ],
+    "population": 1702
+  },
+  {
+    "city": "Port Reading",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07001",
+      "07064",
+      "07077"
+    ],
+    "population": 3775
+  },
+  {
+    "city": "Port Republic",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08241"
+    ],
+    "population": 1047
+  },
+  {
+    "city": "Pottersville",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "07931",
+      "07979"
+    ],
+    "population": 314
+  },
+  {
+    "city": "Preakness",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470"
+    ],
+    "population": 18538
+  },
+  {
+    "city": "Presidential Lakes Estates",
+    "county": "Burlington",
+    "zip_codes": [
+      "08015"
+    ],
+    "population": 1927
+  },
+  {
+    "city": "Princeton",
+    "county": "Mercer",
+    "zip_codes": [
+      "08540",
+      "08542",
+      "08544"
+    ],
+    "population": 30451
+  },
+  {
+    "city": "Princeton Junction",
+    "county": "Mercer",
+    "zip_codes": [
+      "08540",
+      "08550"
+    ],
+    "population": 1842
+  },
+  {
+    "city": "Princeton Meadows",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08512",
+      "08536"
+    ],
+    "population": 15382
+  },
+  {
+    "city": "Prospect Park",
+    "county": "Passaic",
+    "zip_codes": [
+      "07508"
+    ],
+    "population": 6286
+  },
+  {
+    "city": "Quinton",
+    "county": "Salem",
+    "zip_codes": [
+      "08072",
+      "08079"
+    ],
+    "population": 463
+  },
+  {
+    "city": "Rahway",
+    "county": "Union",
+    "zip_codes": [
+      "07065"
+    ],
+    "population": 29748
+  },
+  {
+    "city": "Rainbow Lakes",
+    "county": "Morris",
+    "zip_codes": [
+      "07054",
+      "07834"
+    ],
+    "population": 1376
+  },
+  {
+    "city": "Ramapo College of New Jersey",
+    "county": "Bergen",
+    "zip_codes": [
+      "07430"
+    ],
+    "population": 2163
+  },
+  {
+    "city": "Ramblewood",
+    "county": "Burlington",
+    "zip_codes": [
+      "08054"
+    ],
+    "population": 6542
+  },
+  {
+    "city": "Ramsey",
+    "county": "Bergen",
+    "zip_codes": [
+      "07446"
+    ],
+    "population": 14722
+  },
+  {
+    "city": "Ramtown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07731"
+    ],
+    "population": 6410
+  },
+  {
+    "city": "Raritan",
+    "county": "Somerset",
+    "zip_codes": [
+      "08869"
+    ],
+    "population": 8192
+  },
+  {
+    "city": "Red Bank",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07701"
+    ],
+    "population": 12864
+  },
+  {
+    "city": "Regency at Monroe",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2241
+  },
+  {
+    "city": "Renaissance at Monroe",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 643
+  },
+  {
+    "city": "Richland",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08310",
+      "08350"
+    ],
+    "population": 859
+  },
+  {
+    "city": "Richwood",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08062",
+      "08071",
+      "08074",
+      "08080"
+    ],
+    "population": 3453
+  },
+  {
+    "city": "Ridgefield",
+    "county": "Bergen",
+    "zip_codes": [
+      "07657"
+    ],
+    "population": 11439
+  },
+  {
+    "city": "Ridgefield Park",
+    "county": "Bergen",
+    "zip_codes": [
+      "07660"
+    ],
+    "population": 13167
+  },
+  {
+    "city": "Ridgewood",
+    "county": "Bergen",
+    "zip_codes": [
+      "07450"
+    ],
+    "population": 26076
+  },
+  {
+    "city": "Ringoes",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08551",
+      "08559"
+    ],
+    "population": 868
+  },
+  {
+    "city": "Ringwood",
+    "county": "Passaic",
+    "zip_codes": [
+      "07456"
+    ],
+    "population": 11600
+  },
+  {
+    "city": "Rio Grande",
+    "county": "Cape May",
+    "zip_codes": [
+      "08242"
+    ],
+    "population": 3285
+  },
+  {
+    "city": "River Edge",
+    "county": "Bergen",
+    "zip_codes": [
+      "07661"
+    ],
+    "population": 12024
+  },
+  {
+    "city": "Riverdale",
+    "county": "Morris",
+    "zip_codes": [
+      "07457"
+    ],
+    "population": 4084
+  },
+  {
+    "city": "Riverton",
+    "county": "Burlington",
+    "zip_codes": [
+      "08077"
+    ],
+    "population": 2771
+  },
+  {
+    "city": "Roadstown",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 172
+  },
+  {
+    "city": "Robbinsville Center",
+    "county": "Mercer",
+    "zip_codes": [
+      "08691"
+    ],
+    "population": 3808
+  },
+  {
+    "city": "Robertsville",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07726",
+      "07746",
+      "07751"
+    ],
+    "population": 11859
+  },
+  {
+    "city": "Rockaway",
+    "county": "Morris",
+    "zip_codes": [
+      "07866"
+    ],
+    "population": 6589
+  },
+  {
+    "city": "Rockleigh",
+    "county": "Bergen",
+    "zip_codes": [
+      "07647"
+    ],
+    "population": 519
+  },
+  {
+    "city": "Rocky Hill",
+    "county": "Somerset",
+    "zip_codes": [
+      "08553"
+    ],
+    "population": 814
+  },
+  {
+    "city": "Roebling",
+    "county": "Burlington",
+    "zip_codes": [
+      "08518",
+      "08554"
+    ],
+    "population": 3591
+  },
+  {
+    "city": "Roosevelt",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08555"
+    ],
+    "population": 1059
+  },
+  {
+    "city": "Roseland",
+    "county": "Essex",
+    "zip_codes": [
+      "07068"
+    ],
+    "population": 6211
+  },
+  {
+    "city": "Roselle",
+    "county": "Union",
+    "zip_codes": [
+      "07203"
+    ],
+    "population": 22455
+  },
+  {
+    "city": "Roselle Park",
+    "county": "Union",
+    "zip_codes": [
+      "07204"
+    ],
+    "population": 13965
+  },
+  {
+    "city": "Rosenhayn",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302",
+      "08352"
+    ],
+    "population": 1066
+  },
+  {
+    "city": "Ross Corner",
+    "county": "Sussex",
+    "zip_codes": [
+      "07822",
+      "07848"
+    ],
+    "population": 28
+  },
+  {
+    "city": "Rossmoor",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 3136
+  },
+  {
+    "city": "Rumson",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07760"
+    ],
+    "population": 7265
+  },
+  {
+    "city": "Runnemede",
+    "county": "Camden",
+    "zip_codes": [
+      "08007",
+      "08078"
+    ],
+    "population": 8310
+  },
+  {
+    "city": "Rutgers University-Busch Campus",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08854"
+    ],
+    "population": 5747
+  },
+  {
+    "city": "Rutgers University-Livingston Campus",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08817",
+      "08854"
+    ],
+    "population": 3041
+  },
+  {
+    "city": "Rutherford",
+    "county": "Bergen",
+    "zip_codes": [
+      "07070"
+    ],
+    "population": 18748
+  },
+  {
+    "city": "Saddle River",
+    "county": "Bergen",
+    "zip_codes": [
+      "07458"
+    ],
+    "population": 3358
+  },
+  {
+    "city": "Salem",
+    "county": "Salem",
+    "zip_codes": [
+      "08079"
+    ],
+    "population": 5315
+  },
+  {
+    "city": "Sayreville",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08859",
+      "08872",
+      "08879"
+    ],
+    "population": 45237
+  },
+  {
+    "city": "Sea Bright",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07760"
+    ],
+    "population": 1657
+  },
+  {
+    "city": "Sea Girt",
+    "county": "Monmouth",
+    "zip_codes": [
+      "08750"
+    ],
+    "population": 1978
+  },
+  {
+    "city": "Sea Isle City",
+    "county": "Cape May",
+    "zip_codes": [
+      "08243"
+    ],
+    "population": 2079
+  },
+  {
+    "city": "Seabrook Farms",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 1469
+  },
+  {
+    "city": "Seaside Heights",
+    "county": "Ocean",
+    "zip_codes": [
+      "08751"
+    ],
+    "population": 1992
+  },
+  {
+    "city": "Seaside Park",
+    "county": "Ocean",
+    "zip_codes": [
+      "08752"
+    ],
+    "population": 1804
+  },
+  {
+    "city": "Seaville",
+    "county": "Cape May",
+    "zip_codes": [
+      "08230"
+    ],
+    "population": 2678
+  },
+  {
+    "city": "Secaucus",
+    "county": "Hudson",
+    "zip_codes": [
+      "07094"
+    ],
+    "population": 21437
+  },
+  {
+    "city": "Seeley",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 63
+  },
+  {
+    "city": "Sewaren",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07077"
+    ],
+    "population": 3196
+  },
+  {
+    "city": "Sewell",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08080"
+    ],
+    "population": 3065
+  },
+  {
+    "city": "Shark River Hills",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07753"
+    ],
+    "population": 3035
+  },
+  {
+    "city": "Sheppards Mill",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302",
+      "08323"
+    ],
+    "population": 71
+  },
+  {
+    "city": "Shiloh",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08353"
+    ],
+    "population": 283
+  },
+  {
+    "city": "Ship Bottom",
+    "county": "Ocean",
+    "zip_codes": [
+      "08008"
+    ],
+    "population": 1009
+  },
+  {
+    "city": "Short Hills",
+    "county": "Essex",
+    "zip_codes": [
+      "07078"
+    ],
+    "population": 14398
+  },
+  {
+    "city": "Shrewsbury",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07702"
+    ],
+    "population": 4162
+  },
+  {
+    "city": "Sicklerville",
+    "county": "Camden",
+    "zip_codes": [
+      "08081"
+    ],
+    "population": 44500
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 1447
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Essex",
+    "zip_codes": [
+      "07003",
+      "07109"
+    ],
+    "population": 4034
+  },
+  {
+    "city": "Silver Lake",
+    "county": "Warren",
+    "zip_codes": [
+      "07825"
+    ],
+    "population": 319
+  },
+  {
+    "city": "Silver Ridge",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757"
+    ],
+    "population": 1176
+  },
+  {
+    "city": "Singac",
+    "county": "Passaic",
+    "zip_codes": [
+      "07424"
+    ],
+    "population": 3987
+  },
+  {
+    "city": "Six Mile Run",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 3185
+  },
+  {
+    "city": "Skillman",
+    "county": "Somerset",
+    "zip_codes": [
+      "08558"
+    ],
+    "population": 285
+  },
+  {
+    "city": "Smithville",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08205"
+    ],
+    "population": 9260
+  },
+  {
+    "city": "Somerdale",
+    "county": "Camden",
+    "zip_codes": [
+      "08083"
+    ],
+    "population": 5535
+  },
+  {
+    "city": "Somers Point",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08244"
+    ],
+    "population": 10461
+  },
+  {
+    "city": "Somerset",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 23851
+  },
+  {
+    "city": "Somerville",
+    "county": "Somerset",
+    "zip_codes": [
+      "08876"
+    ],
+    "population": 12958
+  },
+  {
+    "city": "South Amboy",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08879"
+    ],
+    "population": 9714
+  },
+  {
+    "city": "South Bound Brook",
+    "county": "Somerset",
+    "zip_codes": [
+      "08880"
+    ],
+    "population": 4833
+  },
+  {
+    "city": "South Dennis",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210",
+      "08245"
+    ],
+    "population": 1579
+  },
+  {
+    "city": "South Plainfield",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07080"
+    ],
+    "population": 24231
+  },
+  {
+    "city": "South River",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08882"
+    ],
+    "population": 16007
+  },
+  {
+    "city": "South Seaville",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210",
+      "08230",
+      "08246"
+    ],
+    "population": 550
+  },
+  {
+    "city": "South Toms River",
+    "county": "Ocean",
+    "zip_codes": [
+      "08757"
+    ],
+    "population": 3701
+  },
+  {
+    "city": "Spotswood",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08884"
+    ],
+    "population": 8112
+  },
+  {
+    "city": "Spring Lake",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07762"
+    ],
+    "population": 2782
+  },
+  {
+    "city": "Spring Lake Heights",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07762"
+    ],
+    "population": 4866
+  },
+  {
+    "city": "Springdale",
+    "county": "Camden",
+    "zip_codes": [
+      "08003",
+      "08034"
+    ],
+    "population": 15672
+  },
+  {
+    "city": "Springfield",
+    "county": "Union",
+    "zip_codes": [
+      "07081"
+    ],
+    "population": 1338
+  },
+  {
+    "city": "Stanhope",
+    "county": "Sussex",
+    "zip_codes": [
+      "07874"
+    ],
+    "population": 3551
+  },
+  {
+    "city": "Stewartsville",
+    "county": "Warren",
+    "zip_codes": [
+      "08886"
+    ],
+    "population": 661
+  },
+  {
+    "city": "Stirling",
+    "county": "Morris",
+    "zip_codes": [
+      "07933",
+      "07946",
+      "07980"
+    ],
+    "population": 2868
+  },
+  {
+    "city": "Stockton",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08559"
+    ],
+    "population": 421
+  },
+  {
+    "city": "Stockton University",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08240"
+    ],
+    "population": 2801
+  },
+  {
+    "city": "Stone Harbor",
+    "county": "Cape May",
+    "zip_codes": [
+      "08247"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Stonebridge",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 1932
+  },
+  {
+    "city": "Stratford",
+    "county": "Camden",
+    "zip_codes": [
+      "08084"
+    ],
+    "population": 6965
+  },
+  {
+    "city": "Strathmere",
+    "county": "Cape May",
+    "zip_codes": [
+      "08248"
+    ],
+    "population": 134
+  },
+  {
+    "city": "Strathmore",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07747"
+    ],
+    "population": 6593
+  },
+  {
+    "city": "Succasunna",
+    "county": "Morris",
+    "zip_codes": [
+      "07836",
+      "07876"
+    ],
+    "population": 9866
+  },
+  {
+    "city": "Summit",
+    "county": "Union",
+    "zip_codes": [
+      "07901"
+    ],
+    "population": 22512
+  },
+  {
+    "city": "Sunset Lake",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 1341
+  },
+  {
+    "city": "Surf City",
+    "county": "Ocean",
+    "zip_codes": [
+      "08008"
+    ],
+    "population": 1225
+  },
+  {
+    "city": "Sussex",
+    "county": "Sussex",
+    "zip_codes": [
+      "07461"
+    ],
+    "population": 2004
+  },
+  {
+    "city": "Swedesboro",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08085"
+    ],
+    "population": 2720
+  },
+  {
+    "city": "Sweetwater",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08037"
+    ],
+    "population": 805
+  },
+  {
+    "city": "Tavistock",
+    "county": "Camden",
+    "zip_codes": [
+      "08033"
+    ],
+    "population": 12
+  },
+  {
+    "city": "Ten Mile Run",
+    "county": "Somerset",
+    "zip_codes": [
+      "08540",
+      "08823"
+    ],
+    "population": 2288
+  },
+  {
+    "city": "Tenafly",
+    "county": "Bergen",
+    "zip_codes": [
+      "07670"
+    ],
+    "population": 15252
+  },
+  {
+    "city": "Teterboro",
+    "county": "Bergen",
+    "zip_codes": [
+      "07604",
+      "07606",
+      "07608"
+    ],
+    "population": 120
+  },
+  {
+    "city": "The College of New Jersey",
+    "county": "Mercer",
+    "zip_codes": [
+      "08618",
+      "08638"
+    ],
+    "population": 4103
+  },
+  {
+    "city": "The Hills",
+    "county": "Somerset",
+    "zip_codes": [
+      "07920",
+      "07921"
+    ],
+    "population": 10732
+  },
+  {
+    "city": "The Ponds",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 995
+  },
+  {
+    "city": "Thorofare",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08086"
+    ],
+    "population": 2419
+  },
+  {
+    "city": "Three Bridges",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08822",
+      "08887"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Tinton Falls",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07701",
+      "07712",
+      "07722",
+      "07724",
+      "07727",
+      "07753"
+    ],
+    "population": 19252
+  },
+  {
+    "city": "Titusville",
+    "county": "Mercer",
+    "zip_codes": [
+      "08560"
+    ],
+    "population": 594
+  },
+  {
+    "city": "Toms River",
+    "county": "Ocean",
+    "zip_codes": [
+      "08753",
+      "08755"
+    ],
+    "population": 93915
+  },
+  {
+    "city": "Totowa",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470",
+      "07512"
+    ],
+    "population": 10919
+  },
+  {
+    "city": "Towaco",
+    "county": "Morris",
+    "zip_codes": [
+      "07082"
+    ],
+    "population": 5627
+  },
+  {
+    "city": "Trenton",
+    "county": "Mercer",
+    "zip_codes": [
+      "08608",
+      "08609",
+      "08610",
+      "08611",
+      "08618",
+      "08628",
+      "08629",
+      "08638"
+    ],
+    "population": 89966
+  },
+  {
+    "city": "Troy Hills",
+    "county": "Morris",
+    "zip_codes": [
+      "07054"
+    ],
+    "population": 5183
+  },
+  {
+    "city": "Tuckahoe",
+    "county": "Cape May",
+    "zip_codes": [
+      "08270"
+    ],
+    "population": 200
+  },
+  {
+    "city": "Tuckerton",
+    "county": "Ocean",
+    "zip_codes": [
+      "08087"
+    ],
+    "population": 3616
+  },
+  {
+    "city": "Turnersville",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08012",
+      "08080"
+    ],
+    "population": 3071
+  },
+  {
+    "city": "Twin Rivers",
+    "county": "Mercer",
+    "zip_codes": [
+      "08520"
+    ],
+    "population": 8315
+  },
+  {
+    "city": "Union",
+    "county": "Union",
+    "zip_codes": [
+      "07083"
+    ],
+    "population": 3284
+  },
+  {
+    "city": "Union Beach",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07730",
+      "07735"
+    ],
+    "population": 5722
+  },
+  {
+    "city": "Union City",
+    "county": "Hudson",
+    "zip_codes": [
+      "07087"
+    ],
+    "population": 66375
+  },
+  {
+    "city": "Upper Greenwood Lake",
+    "county": "Passaic",
+    "zip_codes": [
+      "07421"
+    ],
+    "population": 3621
+  },
+  {
+    "city": "Upper Montclair",
+    "county": "Essex",
+    "zip_codes": [
+      "07043"
+    ],
+    "population": 12279
+  },
+  {
+    "city": "Upper Pohatcong",
+    "county": "Warren",
+    "zip_codes": [
+      "08865"
+    ],
+    "population": 1851
+  },
+  {
+    "city": "Upper Saddle River",
+    "county": "Bergen",
+    "zip_codes": [
+      "07458"
+    ],
+    "population": 8354
+  },
+  {
+    "city": "Upper Stewartsville",
+    "county": "Warren",
+    "zip_codes": [
+      "08886"
+    ],
+    "population": 256
+  },
+  {
+    "city": "Vauxhall",
+    "county": "Union",
+    "zip_codes": [
+      "07040",
+      "07083",
+      "07088"
+    ],
+    "population": 5875
+  },
+  {
+    "city": "Ventnor City",
+    "county": "Atlantic",
+    "zip_codes": [
+      "08406"
+    ],
+    "population": 9220
+  },
+  {
+    "city": "Vernon Center",
+    "county": "Sussex",
+    "zip_codes": [
+      "07462"
+    ],
+    "population": 1490
+  },
+  {
+    "city": "Vernon Valley",
+    "county": "Sussex",
+    "zip_codes": [
+      "07418",
+      "07461"
+    ],
+    "population": 983
+  },
+  {
+    "city": "Victory Gardens",
+    "county": "Morris",
+    "zip_codes": [
+      "07801"
+    ],
+    "population": 1891
+  },
+  {
+    "city": "Victory Lakes",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08094"
+    ],
+    "population": 1403
+  },
+  {
+    "city": "Vienna",
+    "county": "Warren",
+    "zip_codes": [
+      "07840",
+      "07880"
+    ],
+    "population": 940
+  },
+  {
+    "city": "Villas",
+    "county": "Cape May",
+    "zip_codes": [
+      "08204",
+      "08251"
+    ],
+    "population": 9897
+  },
+  {
+    "city": "Vincentown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08088"
+    ],
+    "population": 490
+  },
+  {
+    "city": "Vineland",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08332",
+      "08344",
+      "08360",
+      "08361"
+    ],
+    "population": 60692
+  },
+  {
+    "city": "Vista Center",
+    "county": "Ocean",
+    "zip_codes": [
+      "08527"
+    ],
+    "population": 2235
+  },
+  {
+    "city": "Voorhees",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 1775
+  },
+  {
+    "city": "Waldwick",
+    "county": "Bergen",
+    "zip_codes": [
+      "07463"
+    ],
+    "population": 10090
+  },
+  {
+    "city": "Wallington",
+    "county": "Bergen",
+    "zip_codes": [
+      "07057"
+    ],
+    "population": 11825
+  },
+  {
+    "city": "Wanamassa",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07712"
+    ],
+    "population": 4344
+  },
+  {
+    "city": "Wanaque",
+    "county": "Passaic",
+    "zip_codes": [
+      "07420",
+      "07465"
+    ],
+    "population": 11162
+  },
+  {
+    "city": "Waretown",
+    "county": "Ocean",
+    "zip_codes": [
+      "08758"
+    ],
+    "population": 1894
+  },
+  {
+    "city": "Washington",
+    "county": "Warren",
+    "zip_codes": [
+      "07882"
+    ],
+    "population": 7287
+  },
+  {
+    "city": "Washington Crossing",
+    "county": "Mercer",
+    "zip_codes": [
+      "08560"
+    ],
+    "population": 487
+  },
+  {
+    "city": "Watchung",
+    "county": "Somerset",
+    "zip_codes": [
+      "07069"
+    ],
+    "population": 6429
+  },
+  {
+    "city": "Watsessing",
+    "county": "Essex",
+    "zip_codes": [
+      "07003"
+    ],
+    "population": 7944
+  },
+  {
+    "city": "Wenonah",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08090"
+    ],
+    "population": 2248
+  },
+  {
+    "city": "West Belmar",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07719"
+    ],
+    "population": 2682
+  },
+  {
+    "city": "West Berlin",
+    "county": "Camden",
+    "zip_codes": [
+      "08091"
+    ],
+    "population": 2533
+  },
+  {
+    "city": "West Cape May",
+    "county": "Cape May",
+    "zip_codes": [
+      "08204"
+    ],
+    "population": 934
+  },
+  {
+    "city": "West Freehold",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07728"
+    ],
+    "population": 14233
+  },
+  {
+    "city": "West Long Branch",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07764"
+    ],
+    "population": 8576
+  },
+  {
+    "city": "West New York",
+    "county": "Hudson",
+    "zip_codes": [
+      "07093"
+    ],
+    "population": 51683
+  },
+  {
+    "city": "West Park",
+    "county": "Cumberland",
+    "zip_codes": [
+      "08302"
+    ],
+    "population": 1521
+  },
+  {
+    "city": "West Wildwood",
+    "county": "Cape May",
+    "zip_codes": [
+      "08260"
+    ],
+    "population": 564
+  },
+  {
+    "city": "Westfield",
+    "county": "Union",
+    "zip_codes": [
+      "07090"
+    ],
+    "population": 30760
+  },
+  {
+    "city": "Westmont",
+    "county": "Camden",
+    "zip_codes": [
+      "08033",
+      "08107",
+      "08108"
+    ],
+    "population": 13870
+  },
+  {
+    "city": "Weston",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873"
+    ],
+    "population": 2111
+  },
+  {
+    "city": "Westville",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08093"
+    ],
+    "population": 4285
+  },
+  {
+    "city": "Westwood",
+    "county": "Bergen",
+    "zip_codes": [
+      "07675"
+    ],
+    "population": 11221
+  },
+  {
+    "city": "Wharton",
+    "county": "Morris",
+    "zip_codes": [
+      "07885"
+    ],
+    "population": 7254
+  },
+  {
+    "city": "Whippany",
+    "county": "Morris",
+    "zip_codes": [
+      "07981"
+    ],
+    "population": 8862
+  },
+  {
+    "city": "White Horse",
+    "county": "Mercer",
+    "zip_codes": [
+      "08610",
+      "08690"
+    ],
+    "population": 10040
+  },
+  {
+    "city": "White House Station",
+    "county": "Hunterdon",
+    "zip_codes": [
+      "08833",
+      "08889"
+    ],
+    "population": 3758
+  },
+  {
+    "city": "White Meadow Lake",
+    "county": "Morris",
+    "zip_codes": [
+      "07834",
+      "07866"
+    ],
+    "population": 8706
+  },
+  {
+    "city": "Whitesboro",
+    "county": "Cape May",
+    "zip_codes": [
+      "08210",
+      "08242"
+    ],
+    "population": 2946
+  },
+  {
+    "city": "Whittingham",
+    "county": "Middlesex",
+    "zip_codes": [
+      "08831"
+    ],
+    "population": 2516
+  },
+  {
+    "city": "Wildwood",
+    "county": "Cape May",
+    "zip_codes": [
+      "08260"
+    ],
+    "population": 5140
+  },
+  {
+    "city": "Wildwood Crest",
+    "county": "Cape May",
+    "zip_codes": [
+      "08260"
+    ],
+    "population": 3094
+  },
+  {
+    "city": "William Paterson University of New Jersey",
+    "county": "Passaic",
+    "zip_codes": [
+      "07470"
+    ],
+    "population": 1240
+  },
+  {
+    "city": "Williamstown",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08094"
+    ],
+    "population": 14855
+  },
+  {
+    "city": "Windsor",
+    "county": "Mercer",
+    "zip_codes": [
+      "08561"
+    ],
+    "population": 381
+  },
+  {
+    "city": "Wood-Ridge",
+    "county": "Bergen",
+    "zip_codes": [
+      "07075"
+    ],
+    "population": 10094
+  },
+  {
+    "city": "Woodbine",
+    "county": "Cape May",
+    "zip_codes": [
+      "08270"
+    ],
+    "population": 2083
+  },
+  {
+    "city": "Woodbridge",
+    "county": "Middlesex",
+    "zip_codes": [
+      "07095"
+    ],
+    "population": 20086
+  },
+  {
+    "city": "Woodbury",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08096",
+      "08097"
+    ],
+    "population": 9992
+  },
+  {
+    "city": "Woodbury Heights",
+    "county": "Gloucester",
+    "zip_codes": [
+      "08096",
+      "08097"
+    ],
+    "population": 3116
+  },
+  {
+    "city": "Woodcliff Lake",
+    "county": "Bergen",
+    "zip_codes": [
+      "07677"
+    ],
+    "population": 6097
+  },
+  {
+    "city": "Woodland Park",
+    "county": "Passaic",
+    "zip_codes": [
+      "07424"
+    ],
+    "population": 13284
+  },
+  {
+    "city": "Woodlynne",
+    "county": "Camden",
+    "zip_codes": [
+      "08104",
+      "08107"
+    ],
+    "population": 2899
+  },
+  {
+    "city": "Woodstown",
+    "county": "Salem",
+    "zip_codes": [
+      "08098"
+    ],
+    "population": 3690
+  },
+  {
+    "city": "Wrightstown",
+    "county": "Burlington",
+    "zip_codes": [
+      "08042",
+      "08562",
+      "08640"
+    ],
+    "population": 522
+  },
+  {
+    "city": "Yardville",
+    "county": "Mercer",
+    "zip_codes": [
+      "08620",
+      "08691"
+    ],
+    "population": 6266
+  },
+  {
+    "city": "Yorketown",
+    "county": "Monmouth",
+    "zip_codes": [
+      "07726"
+    ],
+    "population": 7265
+  },
+  {
+    "city": "Zarephath",
+    "county": "Somerset",
+    "zip_codes": [
+      "08873",
+      "08890"
+    ],
+    "population": 38
+  }
+]

@@ -1,0 +1,2132 @@
+[
+  {
+    "city": "Abington",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02351"
+    ],
+    "population": 17008
+  },
+  {
+    "city": "Acushnet Center",
+    "county": "Bristol",
+    "zip_codes": [
+      "02743"
+    ],
+    "population": 2792
+  },
+  {
+    "city": "Adams",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01220"
+    ],
+    "population": 5584
+  },
+  {
+    "city": "Agawam Town",
+    "county": "Hampden",
+    "zip_codes": [
+      "01001",
+      "01030"
+    ],
+    "population": 28510
+  },
+  {
+    "city": "Amherst Town",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01002",
+      "01003"
+    ],
+    "population": 35472
+  },
+  {
+    "city": "Andover",
+    "county": "Essex",
+    "zip_codes": [
+      "01810",
+      "01845"
+    ],
+    "population": 9261
+  },
+  {
+    "city": "Arlington",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02474",
+      "02476"
+    ],
+    "population": 46015
+  },
+  {
+    "city": "Athol",
+    "county": "Worcester",
+    "zip_codes": [
+      "01331"
+    ],
+    "population": 8711
+  },
+  {
+    "city": "Attleboro",
+    "county": "Bristol",
+    "zip_codes": [
+      "02703"
+    ],
+    "population": 46499
+  },
+  {
+    "city": "Ayer",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01432"
+    ],
+    "population": 3012
+  },
+  {
+    "city": "Baldwinville",
+    "county": "Worcester",
+    "zip_codes": [
+      "01436",
+      "01468"
+    ],
+    "population": 2454
+  },
+  {
+    "city": "Barnstable Town",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02601",
+      "02630",
+      "02632",
+      "02635",
+      "02637",
+      "02647",
+      "02648",
+      "02655",
+      "02668",
+      "02672",
+      "02675"
+    ],
+    "population": 49232
+  },
+  {
+    "city": "Barre",
+    "county": "Worcester",
+    "zip_codes": [
+      "01005"
+    ],
+    "population": 550
+  },
+  {
+    "city": "Belchertown",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01007"
+    ],
+    "population": 2299
+  },
+  {
+    "city": "Bellingham",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02019"
+    ],
+    "population": 4939
+  },
+  {
+    "city": "Belmont",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02478"
+    ],
+    "population": 27009
+  },
+  {
+    "city": "Beverly",
+    "county": "Essex",
+    "zip_codes": [
+      "01915",
+      "01965"
+    ],
+    "population": 42408
+  },
+  {
+    "city": "Blandford",
+    "county": "Hampden",
+    "zip_codes": [
+      "01008"
+    ],
+    "population": 437
+  },
+  {
+    "city": "Bliss Corner",
+    "county": "Bristol",
+    "zip_codes": [
+      "02747",
+      "02748"
+    ],
+    "population": 5666
+  },
+  {
+    "city": "Boston",
+    "county": "Suffolk",
+    "zip_codes": [
+      "02108",
+      "02109",
+      "02110",
+      "02111",
+      "02113",
+      "02114",
+      "02115",
+      "02116",
+      "02118",
+      "02119",
+      "02120",
+      "02121",
+      "02122",
+      "02124",
+      "02125",
+      "02126",
+      "02127",
+      "02128",
+      "02129",
+      "02130",
+      "02131",
+      "02132",
+      "02133",
+      "02134",
+      "02135",
+      "02136",
+      "02163",
+      "02199",
+      "02203",
+      "02205",
+      "02210",
+      "02215",
+      "02467"
+    ],
+    "population": 663972
+  },
+  {
+    "city": "Bourne",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02532"
+    ],
+    "population": 1765
+  },
+  {
+    "city": "Boxford",
+    "county": "Essex",
+    "zip_codes": [
+      "01921"
+    ],
+    "population": 2325
+  },
+  {
+    "city": "Braintree Town",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02184"
+    ],
+    "population": 38762
+  },
+  {
+    "city": "Brewster",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02631"
+    ],
+    "population": 1711
+  },
+  {
+    "city": "Bridgewater Town",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02324",
+      "02325"
+    ],
+    "population": 28669
+  },
+  {
+    "city": "Brockton",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02301",
+      "02302"
+    ],
+    "population": 105080
+  },
+  {
+    "city": "Brookfield",
+    "county": "Worcester",
+    "zip_codes": [
+      "01506"
+    ],
+    "population": 940
+  },
+  {
+    "city": "Brookline",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02445",
+      "02446",
+      "02467"
+    ],
+    "population": 62822
+  },
+  {
+    "city": "Burlington",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01803",
+      "02420"
+    ],
+    "population": 26223
+  },
+  {
+    "city": "Buzzards Bay",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02532"
+    ],
+    "population": 2941
+  },
+  {
+    "city": "Cambridge",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02138",
+      "02139",
+      "02140",
+      "02141",
+      "02142"
+    ],
+    "population": 117794
+  },
+  {
+    "city": "Cedar Crest",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02050"
+    ],
+    "population": 2289
+  },
+  {
+    "city": "Chatham",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02633"
+    ],
+    "population": 1614
+  },
+  {
+    "city": "Chelsea",
+    "county": "Suffolk",
+    "zip_codes": [
+      "02150"
+    ],
+    "population": 39460
+  },
+  {
+    "city": "Cheshire",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01225"
+    ],
+    "population": 584
+  },
+  {
+    "city": "Chester",
+    "county": "Hampden",
+    "zip_codes": [
+      "01011"
+    ],
+    "population": 692
+  },
+  {
+    "city": "Chicopee",
+    "county": "Hampden",
+    "zip_codes": [
+      "01013",
+      "01020",
+      "01022"
+    ],
+    "population": 55213
+  },
+  {
+    "city": "Clinton",
+    "county": "Worcester",
+    "zip_codes": [
+      "01510"
+    ],
+    "population": 6908
+  },
+  {
+    "city": "Cochituate",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01778"
+    ],
+    "population": 6688
+  },
+  {
+    "city": "Cordaville",
+    "county": "Worcester",
+    "zip_codes": [
+      "01772"
+    ],
+    "population": 3076
+  },
+  {
+    "city": "Danvers",
+    "county": "Essex",
+    "zip_codes": [
+      "01923",
+      "01937"
+    ],
+    "population": 27924
+  },
+  {
+    "city": "Dedham",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02026"
+    ],
+    "population": 25109
+  },
+  {
+    "city": "Deerfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "01342"
+    ],
+    "population": 441
+  },
+  {
+    "city": "Dennis",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02638",
+      "02660"
+    ],
+    "population": 1903
+  },
+  {
+    "city": "Dennis Port",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02639",
+      "02660"
+    ],
+    "population": 3439
+  },
+  {
+    "city": "Devens",
+    "county": "Worcester",
+    "zip_codes": [
+      "01432",
+      "01434",
+      "01464"
+    ],
+    "population": 1871
+  },
+  {
+    "city": "Dover",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02030"
+    ],
+    "population": 2386
+  },
+  {
+    "city": "Duxbury",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02332"
+    ],
+    "population": 1620
+  },
+  {
+    "city": "East Brookfield",
+    "county": "Worcester",
+    "zip_codes": [
+      "01515"
+    ],
+    "population": 1349
+  },
+  {
+    "city": "East Dennis",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02638",
+      "02641",
+      "02660"
+    ],
+    "population": 3685
+  },
+  {
+    "city": "East Douglas",
+    "county": "Worcester",
+    "zip_codes": [
+      "01516"
+    ],
+    "population": 2842
+  },
+  {
+    "city": "East Falmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02536"
+    ],
+    "population": 6415
+  },
+  {
+    "city": "East Harwich",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02645"
+    ],
+    "population": 5670
+  },
+  {
+    "city": "East Pepperell",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01463"
+    ],
+    "population": 1984
+  },
+  {
+    "city": "East Sandwich",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02537",
+      "02563"
+    ],
+    "population": 3597
+  },
+  {
+    "city": "Edgartown",
+    "county": "Dukes",
+    "zip_codes": [
+      "02539"
+    ],
+    "population": 752
+  },
+  {
+    "city": "Essex",
+    "county": "Essex",
+    "zip_codes": [
+      "01929"
+    ],
+    "population": 1775
+  },
+  {
+    "city": "Everett",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02149"
+    ],
+    "population": 49236
+  },
+  {
+    "city": "Fall River",
+    "county": "Bristol",
+    "zip_codes": [
+      "02717",
+      "02720",
+      "02721",
+      "02723",
+      "02724",
+      "02747",
+      "02790"
+    ],
+    "population": 93764
+  },
+  {
+    "city": "Falmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02540"
+    ],
+    "population": 3996
+  },
+  {
+    "city": "Fiskdale",
+    "county": "Worcester",
+    "zip_codes": [
+      "01518",
+      "01566"
+    ],
+    "population": 2564
+  },
+  {
+    "city": "Fitchburg",
+    "county": "Worcester",
+    "zip_codes": [
+      "01420"
+    ],
+    "population": 41633
+  },
+  {
+    "city": "Forestdale",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02563",
+      "02644"
+    ],
+    "population": 3716
+  },
+  {
+    "city": "Foxborough",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02035"
+    ],
+    "population": 6356
+  },
+  {
+    "city": "Framingham",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01701",
+      "01702"
+    ],
+    "population": 72013
+  },
+  {
+    "city": "Franklin Town",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02038"
+    ],
+    "population": 33067
+  },
+  {
+    "city": "Gardner",
+    "county": "Worcester",
+    "zip_codes": [
+      "01440"
+    ],
+    "population": 21075
+  },
+  {
+    "city": "Gloucester",
+    "county": "Essex",
+    "zip_codes": [
+      "01930"
+    ],
+    "population": 29862
+  },
+  {
+    "city": "Granby",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01033"
+    ],
+    "population": 1127
+  },
+  {
+    "city": "Great Barrington",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01230"
+    ],
+    "population": 1953
+  },
+  {
+    "city": "Green Harbor",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02050",
+      "02332"
+    ],
+    "population": 1254
+  },
+  {
+    "city": "Greenfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "01301"
+    ],
+    "population": 17662
+  },
+  {
+    "city": "Groton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01450"
+    ],
+    "population": 1571
+  },
+  {
+    "city": "Hanscom AFB",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01731"
+    ],
+    "population": 1745
+  },
+  {
+    "city": "Hanson",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02341"
+    ],
+    "population": 2002
+  },
+  {
+    "city": "Harwich Center",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02645",
+      "02646"
+    ],
+    "population": 1620
+  },
+  {
+    "city": "Harwich Port",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02645",
+      "02646"
+    ],
+    "population": 2011
+  },
+  {
+    "city": "Hatfield",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01038"
+    ],
+    "population": 1361
+  },
+  {
+    "city": "Haverhill",
+    "county": "Essex",
+    "zip_codes": [
+      "01830",
+      "01832",
+      "01835"
+    ],
+    "population": 67387
+  },
+  {
+    "city": "Hingham",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02043"
+    ],
+    "population": 5343
+  },
+  {
+    "city": "Holbrook",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02343",
+      "02368"
+    ],
+    "population": 11320
+  },
+  {
+    "city": "Holland",
+    "county": "Hampden",
+    "zip_codes": [
+      "01521"
+    ],
+    "population": 1313
+  },
+  {
+    "city": "Holyoke",
+    "county": "Hampden",
+    "zip_codes": [
+      "01040"
+    ],
+    "population": 37949
+  },
+  {
+    "city": "Hopedale",
+    "county": "Worcester",
+    "zip_codes": [
+      "01747"
+    ],
+    "population": 4126
+  },
+  {
+    "city": "Hopkinton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01748"
+    ],
+    "population": 3142
+  },
+  {
+    "city": "Housatonic",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01230",
+      "01236"
+    ],
+    "population": 1054
+  },
+  {
+    "city": "Hudson",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01749"
+    ],
+    "population": 15610
+  },
+  {
+    "city": "Hull",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02045"
+    ],
+    "population": 10098
+  },
+  {
+    "city": "Huntington",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01050"
+    ],
+    "population": 853
+  },
+  {
+    "city": "Ipswich",
+    "county": "Essex",
+    "zip_codes": [
+      "01938"
+    ],
+    "population": 4806
+  },
+  {
+    "city": "Kingston",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02364"
+    ],
+    "population": 6373
+  },
+  {
+    "city": "Lawrence",
+    "county": "Essex",
+    "zip_codes": [
+      "01840",
+      "01841",
+      "01843"
+    ],
+    "population": 88297
+  },
+  {
+    "city": "Lee",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01238"
+    ],
+    "population": 1522
+  },
+  {
+    "city": "Lenox",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01240"
+    ],
+    "population": 1809
+  },
+  {
+    "city": "Lenox Dale",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01238",
+      "01240",
+      "01242"
+    ],
+    "population": 165
+  },
+  {
+    "city": "Leominster",
+    "county": "Worcester",
+    "zip_codes": [
+      "01420",
+      "01453"
+    ],
+    "population": 43697
+  },
+  {
+    "city": "Lexington",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01731",
+      "02420",
+      "02421"
+    ],
+    "population": 34085
+  },
+  {
+    "city": "Littleton Common",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01460"
+    ],
+    "population": 2838
+  },
+  {
+    "city": "Longmeadow",
+    "county": "Hampden",
+    "zip_codes": [
+      "01106"
+    ],
+    "population": 15724
+  },
+  {
+    "city": "Lowell",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01850",
+      "01851",
+      "01852",
+      "01854"
+    ],
+    "population": 114799
+  },
+  {
+    "city": "Lunenburg",
+    "county": "Worcester",
+    "zip_codes": [
+      "01462"
+    ],
+    "population": 2163
+  },
+  {
+    "city": "Lynn",
+    "county": "Essex",
+    "zip_codes": [
+      "01901",
+      "01902",
+      "01904",
+      "01905",
+      "01906"
+    ],
+    "population": 100905
+  },
+  {
+    "city": "Lynnfield",
+    "county": "Essex",
+    "zip_codes": [
+      "01940"
+    ],
+    "population": 12964
+  },
+  {
+    "city": "Madaket",
+    "county": "Nantucket",
+    "zip_codes": [
+      "02554"
+    ],
+    "population": 378
+  },
+  {
+    "city": "Malden",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02148"
+    ],
+    "population": 65509
+  },
+  {
+    "city": "Mansfield Center",
+    "county": "Bristol",
+    "zip_codes": [
+      "02048"
+    ],
+    "population": 7232
+  },
+  {
+    "city": "Marblehead",
+    "county": "Essex",
+    "zip_codes": [
+      "01945"
+    ],
+    "population": 20334
+  },
+  {
+    "city": "Marion Center",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02738"
+    ],
+    "population": 1159
+  },
+  {
+    "city": "Marlborough",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01752"
+    ],
+    "population": 41398
+  },
+  {
+    "city": "Marshfield",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02050"
+    ],
+    "population": 4698
+  },
+  {
+    "city": "Marshfield Hills",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02050"
+    ],
+    "population": 2121
+  },
+  {
+    "city": "Mashpee Neck",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 1071
+  },
+  {
+    "city": "Mattapoisett Center",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02739"
+    ],
+    "population": 2573
+  },
+  {
+    "city": "Maynard",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01754"
+    ],
+    "population": 10663
+  },
+  {
+    "city": "Medfield",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02052"
+    ],
+    "population": 6355
+  },
+  {
+    "city": "Medford",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02155"
+    ],
+    "population": 59062
+  },
+  {
+    "city": "Melrose",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02176"
+    ],
+    "population": 29488
+  },
+  {
+    "city": "Middleborough Center",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02346"
+    ],
+    "population": 8064
+  },
+  {
+    "city": "Milford",
+    "county": "Worcester",
+    "zip_codes": [
+      "01757"
+    ],
+    "population": 27919
+  },
+  {
+    "city": "Millers Falls",
+    "county": "Franklin",
+    "zip_codes": [
+      "01344",
+      "01349"
+    ],
+    "population": 1081
+  },
+  {
+    "city": "Millis-Clicquot",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02054"
+    ],
+    "population": 4479
+  },
+  {
+    "city": "Milton",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02186"
+    ],
+    "population": 28481
+  },
+  {
+    "city": "Monomoscoy Island",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 112
+  },
+  {
+    "city": "Monson Center",
+    "county": "Hampden",
+    "zip_codes": [
+      "01057"
+    ],
+    "population": 1794
+  },
+  {
+    "city": "Monument Beach",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02532",
+      "02553",
+      "02559"
+    ],
+    "population": 3067
+  },
+  {
+    "city": "Nahant",
+    "county": "Essex",
+    "zip_codes": [
+      "01908"
+    ],
+    "population": 3328
+  },
+  {
+    "city": "Nantucket",
+    "county": "Nantucket",
+    "zip_codes": [
+      "02554"
+    ],
+    "population": 10837
+  },
+  {
+    "city": "Needham",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02492",
+      "02494"
+    ],
+    "population": 32059
+  },
+  {
+    "city": "New Bedford",
+    "county": "Bristol",
+    "zip_codes": [
+      "02740",
+      "02744",
+      "02745",
+      "02746",
+      "02747"
+    ],
+    "population": 100731
+  },
+  {
+    "city": "New Seabury",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 824
+  },
+  {
+    "city": "Newburyport",
+    "county": "Essex",
+    "zip_codes": [
+      "01950"
+    ],
+    "population": 18444
+  },
+  {
+    "city": "Newton",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02458",
+      "02459",
+      "02460",
+      "02461",
+      "02462",
+      "02464",
+      "02465",
+      "02466",
+      "02467",
+      "02468"
+    ],
+    "population": 88504
+  },
+  {
+    "city": "North Adams",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01247"
+    ],
+    "population": 12660
+  },
+  {
+    "city": "North Attleborough Town",
+    "county": "Bristol",
+    "zip_codes": [
+      "02760",
+      "02763"
+    ],
+    "population": 30842
+  },
+  {
+    "city": "North Brookfield",
+    "county": "Worcester",
+    "zip_codes": [
+      "01535"
+    ],
+    "population": 2477
+  },
+  {
+    "city": "North Eastham",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02642"
+    ],
+    "population": 1958
+  },
+  {
+    "city": "North Falmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02556"
+    ],
+    "population": 2558
+  },
+  {
+    "city": "North Lakeville",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02347"
+    ],
+    "population": 3602
+  },
+  {
+    "city": "North Pembroke",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02359"
+    ],
+    "population": 3924
+  },
+  {
+    "city": "North Plymouth",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02360"
+    ],
+    "population": 4458
+  },
+  {
+    "city": "North Scituate",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02066"
+    ],
+    "population": 6163
+  },
+  {
+    "city": "North Seekonk",
+    "county": "Bristol",
+    "zip_codes": [
+      "02771"
+    ],
+    "population": 2903
+  },
+  {
+    "city": "North Westport",
+    "county": "Bristol",
+    "zip_codes": [
+      "02790"
+    ],
+    "population": 4995
+  },
+  {
+    "city": "Northampton",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01053",
+      "01060",
+      "01062",
+      "01063"
+    ],
+    "population": 28640
+  },
+  {
+    "city": "Northborough",
+    "county": "Worcester",
+    "zip_codes": [
+      "01532"
+    ],
+    "population": 6720
+  },
+  {
+    "city": "Northfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "01360"
+    ],
+    "population": 908
+  },
+  {
+    "city": "Northwest Harwich",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02645",
+      "02646",
+      "02671"
+    ],
+    "population": 4205
+  },
+  {
+    "city": "Norton Center",
+    "county": "Bristol",
+    "zip_codes": [
+      "02766"
+    ],
+    "population": 2526
+  },
+  {
+    "city": "Norwood",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02062"
+    ],
+    "population": 31380
+  },
+  {
+    "city": "Oak Bluffs",
+    "county": "Dukes",
+    "zip_codes": [
+      "02557",
+      "02568"
+    ],
+    "population": 1357
+  },
+  {
+    "city": "Ocean Bluff-Brant Rock",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02050"
+    ],
+    "population": 4695
+  },
+  {
+    "city": "Ocean Grove",
+    "county": "Bristol",
+    "zip_codes": [
+      "02777"
+    ],
+    "population": 3099
+  },
+  {
+    "city": "Onset",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02538",
+      "02558",
+      "02571"
+    ],
+    "population": 1561
+  },
+  {
+    "city": "Orange",
+    "county": "Franklin",
+    "zip_codes": [
+      "01364"
+    ],
+    "population": 3793
+  },
+  {
+    "city": "Orleans",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02653"
+    ],
+    "population": 1618
+  },
+  {
+    "city": "Oxford",
+    "county": "Worcester",
+    "zip_codes": [
+      "01540"
+    ],
+    "population": 5572
+  },
+  {
+    "city": "Palmer Town",
+    "county": "Hampden",
+    "zip_codes": [
+      "01009",
+      "01069",
+      "01079",
+      "01080",
+      "01095"
+    ],
+    "population": 12372
+  },
+  {
+    "city": "Peabody",
+    "county": "Essex",
+    "zip_codes": [
+      "01940",
+      "01960"
+    ],
+    "population": 54180
+  },
+  {
+    "city": "Pepperell",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01463"
+    ],
+    "population": 1887
+  },
+  {
+    "city": "Petersham",
+    "county": "Worcester",
+    "zip_codes": [
+      "01366"
+    ],
+    "population": 252
+  },
+  {
+    "city": "Pinehurst",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01821"
+    ],
+    "population": 6737
+  },
+  {
+    "city": "Pittsfield",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01201"
+    ],
+    "population": 43559
+  },
+  {
+    "city": "Plymouth",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02360"
+    ],
+    "population": 7852
+  },
+  {
+    "city": "Pocasset",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02534",
+      "02559"
+    ],
+    "population": 2375
+  },
+  {
+    "city": "Popponesset",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 501
+  },
+  {
+    "city": "Popponesset Island",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 72
+  },
+  {
+    "city": "Provincetown",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02657"
+    ],
+    "population": 3466
+  },
+  {
+    "city": "Quincy",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02169",
+      "02170",
+      "02171"
+    ],
+    "population": 101361
+  },
+  {
+    "city": "Randolph Town",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02186",
+      "02368"
+    ],
+    "population": 34683
+  },
+  {
+    "city": "Raynham Center",
+    "county": "Bristol",
+    "zip_codes": [
+      "02767"
+    ],
+    "population": 4871
+  },
+  {
+    "city": "Reading",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01867"
+    ],
+    "population": 25448
+  },
+  {
+    "city": "Revere",
+    "county": "Suffolk",
+    "zip_codes": [
+      "02151"
+    ],
+    "population": 59933
+  },
+  {
+    "city": "Rockport",
+    "county": "Essex",
+    "zip_codes": [
+      "01966"
+    ],
+    "population": 4795
+  },
+  {
+    "city": "Rowley",
+    "county": "Essex",
+    "zip_codes": [
+      "01969"
+    ],
+    "population": 1576
+  },
+  {
+    "city": "Russell",
+    "county": "Hampden",
+    "zip_codes": [
+      "01071"
+    ],
+    "population": 568
+  },
+  {
+    "city": "Rutland",
+    "county": "Worcester",
+    "zip_codes": [
+      "01543"
+    ],
+    "population": 1796
+  },
+  {
+    "city": "Sagamore",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02532",
+      "02561",
+      "02562"
+    ],
+    "population": 3958
+  },
+  {
+    "city": "Salem",
+    "county": "Essex",
+    "zip_codes": [
+      "01970"
+    ],
+    "population": 44241
+  },
+  {
+    "city": "Salisbury",
+    "county": "Essex",
+    "zip_codes": [
+      "01952"
+    ],
+    "population": 5735
+  },
+  {
+    "city": "Sandwich",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02563"
+    ],
+    "population": 2976
+  },
+  {
+    "city": "Saugus",
+    "county": "Essex",
+    "zip_codes": [
+      "01906"
+    ],
+    "population": 28599
+  },
+  {
+    "city": "Scituate",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02066"
+    ],
+    "population": 5602
+  },
+  {
+    "city": "Seabrook",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 545
+  },
+  {
+    "city": "Seconsett Island",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02649"
+    ],
+    "population": 138
+  },
+  {
+    "city": "Sharon",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02067"
+    ],
+    "population": 6022
+  },
+  {
+    "city": "Shelburne Falls",
+    "county": "Franklin",
+    "zip_codes": [
+      "01370"
+    ],
+    "population": 1755
+  },
+  {
+    "city": "Shirley",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01464"
+    ],
+    "population": 1256
+  },
+  {
+    "city": "Siasconset",
+    "county": "Nantucket",
+    "zip_codes": [
+      "02564"
+    ],
+    "population": 191
+  },
+  {
+    "city": "Smith Mills",
+    "county": "Bristol",
+    "zip_codes": [
+      "02747"
+    ],
+    "population": 4467
+  },
+  {
+    "city": "Somerset",
+    "county": "Bristol",
+    "zip_codes": [
+      "02725",
+      "02726"
+    ],
+    "population": 18246
+  },
+  {
+    "city": "Somerville",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02143",
+      "02144",
+      "02145",
+      "02155"
+    ],
+    "population": 80549
+  },
+  {
+    "city": "South Ashburnham",
+    "county": "Worcester",
+    "zip_codes": [
+      "01430"
+    ],
+    "population": 1174
+  },
+  {
+    "city": "South Deerfield",
+    "county": "Franklin",
+    "zip_codes": [
+      "01373"
+    ],
+    "population": 1822
+  },
+  {
+    "city": "South Dennis",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02660"
+    ],
+    "population": 3190
+  },
+  {
+    "city": "South Duxbury",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02332"
+    ],
+    "population": 3272
+  },
+  {
+    "city": "South Lancaster",
+    "county": "Worcester",
+    "zip_codes": [
+      "01523",
+      "01561"
+    ],
+    "population": 1991
+  },
+  {
+    "city": "South Yarmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02664",
+      "02673"
+    ],
+    "population": 11642
+  },
+  {
+    "city": "Southbridge Town",
+    "county": "Worcester",
+    "zip_codes": [
+      "01550"
+    ],
+    "population": 17806
+  },
+  {
+    "city": "Spencer",
+    "county": "Worcester",
+    "zip_codes": [
+      "01562"
+    ],
+    "population": 5520
+  },
+  {
+    "city": "Springfield",
+    "county": "Hampden",
+    "zip_codes": [
+      "01103",
+      "01104",
+      "01105",
+      "01106",
+      "01107",
+      "01108",
+      "01109",
+      "01118",
+      "01119",
+      "01128",
+      "01129",
+      "01144",
+      "01151"
+    ],
+    "population": 154751
+  },
+  {
+    "city": "Stoneham",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02180"
+    ],
+    "population": 22986
+  },
+  {
+    "city": "Sturbridge",
+    "county": "Worcester",
+    "zip_codes": [
+      "01566"
+    ],
+    "population": 2277
+  },
+  {
+    "city": "Swampscott",
+    "county": "Essex",
+    "zip_codes": [
+      "01907"
+    ],
+    "population": 15209
+  },
+  {
+    "city": "Taunton",
+    "county": "Bristol",
+    "zip_codes": [
+      "02718",
+      "02767",
+      "02780"
+    ],
+    "population": 59719
+  },
+  {
+    "city": "Teaticket",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02536",
+      "02540"
+    ],
+    "population": 1728
+  },
+  {
+    "city": "The Pinehills",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02360"
+    ],
+    "population": 4988
+  },
+  {
+    "city": "Topsfield",
+    "county": "Essex",
+    "zip_codes": [
+      "01983"
+    ],
+    "population": 2573
+  },
+  {
+    "city": "Townsend",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01469"
+    ],
+    "population": 1082
+  },
+  {
+    "city": "Turners Falls",
+    "county": "Franklin",
+    "zip_codes": [
+      "01376"
+    ],
+    "population": 3949
+  },
+  {
+    "city": "Upton",
+    "county": "Worcester",
+    "zip_codes": [
+      "01568"
+    ],
+    "population": 2985
+  },
+  {
+    "city": "Vineyard Haven",
+    "county": "Dukes",
+    "zip_codes": [
+      "02568"
+    ],
+    "population": 2672
+  },
+  {
+    "city": "Wakefield",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01880"
+    ],
+    "population": 27284
+  },
+  {
+    "city": "Walpole",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02081"
+    ],
+    "population": 5989
+  },
+  {
+    "city": "Waltham",
+    "county": "Middlesex",
+    "zip_codes": [
+      "02451",
+      "02452",
+      "02453"
+    ],
+    "population": 64723
+  },
+  {
+    "city": "Ware",
+    "county": "Hampshire",
+    "zip_codes": [
+      "01082"
+    ],
+    "population": 5723
+  },
+  {
+    "city": "Wareham Center",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02571"
+    ],
+    "population": 2737
+  },
+  {
+    "city": "Warren",
+    "county": "Worcester",
+    "zip_codes": [
+      "01083"
+    ],
+    "population": 705
+  },
+  {
+    "city": "Webster",
+    "county": "Worcester",
+    "zip_codes": [
+      "01570"
+    ],
+    "population": 12300
+  },
+  {
+    "city": "Wellesley",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02457",
+      "02481",
+      "02482"
+    ],
+    "population": 29906
+  },
+  {
+    "city": "West Brookfield",
+    "county": "Worcester",
+    "zip_codes": [
+      "01585"
+    ],
+    "population": 1518
+  },
+  {
+    "city": "West Chatham",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02633"
+    ],
+    "population": 1337
+  },
+  {
+    "city": "West Concord",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01742"
+    ],
+    "population": 5997
+  },
+  {
+    "city": "West Dennis",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02639",
+      "02660",
+      "02670"
+    ],
+    "population": 2586
+  },
+  {
+    "city": "West Falmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02540",
+      "02556"
+    ],
+    "population": 1655
+  },
+  {
+    "city": "West Springfield Town",
+    "county": "Hampden",
+    "zip_codes": [
+      "01089"
+    ],
+    "population": 28635
+  },
+  {
+    "city": "West Wareham",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02571",
+      "02576"
+    ],
+    "population": 2776
+  },
+  {
+    "city": "West Warren",
+    "county": "Worcester",
+    "zip_codes": [
+      "01092"
+    ],
+    "population": 619
+  },
+  {
+    "city": "West Yarmouth",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02673"
+    ],
+    "population": 6323
+  },
+  {
+    "city": "Westborough",
+    "county": "Worcester",
+    "zip_codes": [
+      "01581"
+    ],
+    "population": 4234
+  },
+  {
+    "city": "Westfield",
+    "county": "Hampden",
+    "zip_codes": [
+      "01085"
+    ],
+    "population": 40673
+  },
+  {
+    "city": "Weweantic",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02571"
+    ],
+    "population": 1384
+  },
+  {
+    "city": "Weymouth Town",
+    "county": "Norfolk",
+    "zip_codes": [
+      "02188",
+      "02189",
+      "02190",
+      "02191"
+    ],
+    "population": 57786
+  },
+  {
+    "city": "White Island Shores",
+    "county": "Plymouth",
+    "zip_codes": [
+      "02538"
+    ],
+    "population": 1880
+  },
+  {
+    "city": "Whitinsville",
+    "county": "Worcester",
+    "zip_codes": [
+      "01534",
+      "01588"
+    ],
+    "population": 7250
+  },
+  {
+    "city": "Wilbraham",
+    "county": "Hampden",
+    "zip_codes": [
+      "01095"
+    ],
+    "population": 4247
+  },
+  {
+    "city": "Williamstown",
+    "county": "Berkshire",
+    "zip_codes": [
+      "01267"
+    ],
+    "population": 4352
+  },
+  {
+    "city": "Wilmington",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01887"
+    ],
+    "population": 23195
+  },
+  {
+    "city": "Winchendon",
+    "county": "Worcester",
+    "zip_codes": [
+      "01475"
+    ],
+    "population": 4407
+  },
+  {
+    "city": "Winchester",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01890"
+    ],
+    "population": 22862
+  },
+  {
+    "city": "Winthrop Town",
+    "county": "Suffolk",
+    "zip_codes": [
+      "02128",
+      "02152"
+    ],
+    "population": 18807
+  },
+  {
+    "city": "Woburn",
+    "county": "Middlesex",
+    "zip_codes": [
+      "01801"
+    ],
+    "population": 41205
+  },
+  {
+    "city": "Woods Hole",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02540",
+      "02543"
+    ],
+    "population": 999
+  },
+  {
+    "city": "Worcester",
+    "county": "Worcester",
+    "zip_codes": [
+      "01602",
+      "01603",
+      "01604",
+      "01605",
+      "01606",
+      "01607",
+      "01608",
+      "01609",
+      "01610"
+    ],
+    "population": 205501
+  },
+  {
+    "city": "Yarmouth Port",
+    "county": "Barnstable",
+    "zip_codes": [
+      "02675"
+    ],
+    "population": 5825
+  }
+]
